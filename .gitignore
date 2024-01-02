@@ -1,0 +1,8 @@
+# exclude cache files
+*.pyc
+
+#exclude previous_titles.txt
+previous_titles.txt
+
+# exception to the rule
+!userTextFiles/.gitkeep 
