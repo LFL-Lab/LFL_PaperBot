@@ -1,10 +1,8 @@
 name: PaperBot LFL
 
-on: [push]
-
-#on:
-  #schedule:
-    #- cron: '0 14 * * *'  # Runs at 7 AM PST (UTC-7)
+on:
+  schedule:
+    - cron: '0 14 * * *'  # Runs at 7 AM PST (UTC-7)
 
 jobs:
   distribute:
