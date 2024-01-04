@@ -2,7 +2,7 @@ name: PaperBot LFL
 
 on:
   schedule:
-    - cron: '0 14 * * *'  # Runs at 7 AM PST (UTC-7)
+    - cron: '0 15 * * *'  # Runs at 7 AM PST (UTC-7)
   workflow_dispatch:
 
 jobs:
