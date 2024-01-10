@@ -1,0 +1,6 @@
+Design of Fully Integrated 45 nm CMOS System-on-Chip Receiver for Readout of Transmon Qubit. (arXiv:2401.04228v1 [physics.app-ph])
+Fault-tolerant quantum computation using large spin cat-codes. (arXiv:2401.04271v1 [quant-ph])
+Frequency-dependent squeezing for gravitational-wave detection through quantum teleportation. (arXiv:2401.04295v1 [quant-ph])
+Decoding algorithms for surface codes. (arXiv:2307.14989v4 [quant-ph] UPDATED)
+$d$-Mon: A Transmon with Strong Anharmonicity Based on Planar $c$-Axis Tunneling Junction between $d$-Wave and $s$-Wave Superconductors
+Superconducting Qubit Based on Twisted Cuprate Van der Waals Heterostructures
