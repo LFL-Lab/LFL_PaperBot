@@ -18,13 +18,14 @@ The Editor reviews the list of articles provided by the Journalist and generates
 a list of those articles, less any repeated content, formatted as Slack message contents.
 """
 
+import sys
+from concurrent.futures import ThreadPoolExecutor
+from functools import reduce
+from re import search, sub
+
 #imports
 from feedparser import parse
-from re import search, sub
-from functools import reduce
-import sys
-import os
-from concurrent.futures import ThreadPoolExecutor
+
 
 class Journalist:
     '''Searches the RSS feeds and passes relevant articles'''
@@ -99,14 +100,14 @@ class Journalist:
             return True
         else:
             return False
-
-
+    
+        
 class Editor:
     '''retrieves the drafts from Journalist and formats them into
        JSON message payloads'''
-
+       
     DIVIDER = {"type": "divider"}
-
+       
     def __init__(self,feeds='feeds.txt',keywords='keywords.txt',authors='authors.txt',channel='channel.txt',nLow=1):
         journalist = Journalist(feeds,keywords,authors,nLow)
         self.timestamp = ""
@@ -114,11 +115,6 @@ class Editor:
             self.channel = journalist._get_strings(f.read())[0]
         self.username = 'PaperBoy'
         self.icon = ":robot_face:"
-
-        # Before opening previous_titles.txt
-        if not os.path.exists('previous_titles.txt'):
-            open('previous_titles.txt', 'w').close()
-
         with open('previous_titles.txt') as f:
             self.titles = journalist._get_strings(f.read())
         self.new_titles = []
@@ -127,7 +123,7 @@ class Editor:
             with open('previous_titles.txt','a') as f:
                 f.write('\n'.join(str(title) for title in self.new_titles))
                 f.write('\n')
-
+        
     def get_payload(self,draft):
         E = draft['entry']
         self.new_titles.append(E['title'])

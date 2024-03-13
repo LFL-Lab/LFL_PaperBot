@@ -2,7 +2,7 @@ name: PaperBot LFL
 
 on:
   schedule:
-    - cron: '0 15 * * *'  # Runs at 7 AM PST (UTC-7)
+    - cron: '0 15 * * *' # Runs at 7 AM PST (UTC-7)
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v3
         with:
-          python-version: '3.8'  # Specify your Python version
+          python-version: '3.8' # Specify your Python version
 
       - name: Install Dependencies
         run: |
@@ -27,3 +27,14 @@ jobs:
         env:
           SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
 
+      - name: Commit and push if there are changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add previous_titles.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update previous_titles.txt - $(date)"
+            git push
+          fi

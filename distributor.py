@@ -32,11 +32,14 @@ kwargs.update({'nLow':nKeywordMatches})
 
 
 
-import slack
-import ssl as ssl_lib
-import certifi
-from printing_press import Editor
 import os
+import ssl as ssl_lib
+
+import certifi
+import slack
+
+from printing_press import Editor
+
 
 def send_message(article):
     return client.chat_postMessage(**article)
@@ -45,8 +48,6 @@ def send_message(article):
 if __name__ == "__main__":
     ssl_context = ssl_lib.create_default_context(cafile=certifi.where())
     editor = Editor(**kwargs)
-#    with open('token.txt') as f:
-#        slack_token = f.read()
     slack_token = os.environ['SLACK_TOKEN']
     client = slack.WebClient(token=slack_token,ssl=ssl_context)
     results = [send_message(art) for art in editor.articles]

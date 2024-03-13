@@ -1,5 +1,6 @@
 # exclude cache files
 *.pyc
+issue.md
 
 # exception to the rule
 !userTextFiles/.gitkeep
