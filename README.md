@@ -2,7 +2,7 @@
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/LFL-Lab/LFL_PaperBot/CI)](https://github.com/LFL-Lab/LFL_PaperBot/actions)
 [![License](https://img.shields.io/github/license/LFL-Lab/LFL_PaperBot)](https://github.com/LFL-Lab/LFL_PaperBot/blob/main/LICENSE)
-![WWJD](.wwjd.png)
+![WWJD](wwjd.png)
 
 ## Overview
 
