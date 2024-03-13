@@ -13,7 +13,7 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_PAT}} # Use this
+          token: ${{secrets.GH_PAT}} # Use this
 
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -44,5 +44,5 @@ jobs:
           GIT_AUTHOR_EMAIL: action@github.com
           GIT_COMMITTER_EMAIL: action@github.com
           # Ensure the git commands use the PAT
-          GIT_HTTPS_USERNAME: shanbro268 # update this
-          GIT_HTTPS_PASSWORD: ${{ secrets.GH_PAT}} # update this
+          GIT_HTTPS_USERNAME: LFL-Lab # update this
+          GIT_HTTPS_PASSWORD: ${{secrets.GH_PAT}} # update this
