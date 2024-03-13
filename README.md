@@ -1,8 +1,7 @@
-# LFL PaperBot
+# LFL PaperBot :robot:
 
 [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/LFL-Lab/LFL_PaperBot/CI)](https://github.com/LFL-Lab/LFL_PaperBot/actions)
 [![License](https://img.shields.io/github/license/LFL-Lab/LFL_PaperBot)](https://github.com/LFL-Lab/LFL_PaperBot/blob/main/LICENSE)
-![WWJD](wwjd.png)
 
 ## Overview
 
@@ -46,6 +45,14 @@ LFL_PaperBot is an automated tool for monitoring academic publications. It searc
 - The workflow is set up in `.github/workflows/schedule.yml`.
 - The action is scheduled to run at a specified time every day.
 - On execution, the script `distributor.py` processes the RSS feeds and sends the relevant articles to the specified Slack channel.
+
+**Updates needed for the GitHub Actions workflow:**
+
+- Update the schedule in `schedule.yml` to the desired time.
+- Update the `SLACK_TOKEN` secret in the repository settings if the bot user token changes.
+- Update the `GH_PAT` to your `PAT_NAME` that has at least the `repo` scope enabled.
+  - _If you don't have a PAT_: Go to your GitHub settings, then to Developer settings > Personal access tokens > Generate new token. Make sure the token has the `repo` scope.
+- Update the `GIT_HTTPS_USERNAME` to your username
 
 ## Contributing
 
