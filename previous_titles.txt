@@ -1,0 +1,9 @@
+Stochastic Quantum Dynamics Stabilization: A Lyapunov-Based Control Approach with Homodyne-Mediated Filtering
+Designing high-fidelity two-qubit gates between fluxonium qubits
+Harnessing two-photon dissipation for enhanced quantum measurement and control
+Syncopated Dynamical Decoupling for Suppressing Crosstalk in Quantum Circuits
+Is the effective potential, effective for dynamics?
+Anomalous magnetic flux via junction twist-angle in a triplet-superconducting transmon qubit
+Coexistence of nonequilibrium density and equilibrium energy distribution of quasiparticles in a superconducting qubit
+Protecting entanglement between logical qubits via quantum error correction
+Model-Based Optimization of Superconducting Qubit Readout
