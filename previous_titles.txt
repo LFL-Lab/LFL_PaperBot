@@ -7,3 +7,8 @@ Anomalous magnetic flux via junction twist-angle in a triplet-superconducting tr
 Coexistence of nonequilibrium density and equilibrium energy distribution of quasiparticles in a superconducting qubit
 Protecting entanglement between logical qubits via quantum error correction
 Model-Based Optimization of Superconducting Qubit Readout
+Ultra-long relaxation of a Kramers qubit formed in a bilayer graphene quantum dot
+Gauge invariant quantization for circuits including Josephson junctions
+Encoding a magic state with beyond break-even fidelity
+Tailoring quantum error correction to spin qubits
+A 4-8 GHz Kinetic Inductance Travelling-Wave Parametric Amplifier Using Four-Wave Mixing with Near Quantum-Limit Noise Performance
