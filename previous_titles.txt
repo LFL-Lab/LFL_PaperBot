@@ -12,3 +12,11 @@ Gauge invariant quantization for circuits including Josephson junctions
 Encoding a magic state with beyond break-even fidelity
 Tailoring quantum error correction to spin qubits
 A 4-8 GHz Kinetic Inductance Travelling-Wave Parametric Amplifier Using Four-Wave Mixing with Near Quantum-Limit Noise Performance
+Solving lattice gauge theories using the quantum Krylov algorithm and qubitization
+Quantum Fourier Transform using Dynamic Circuits
+Efficient Tensor Networks for Control-Enhanced Quantum Metrology
+Parametric tuning of dynamical phase transitions in ultracold reactions
+A lower bound on the space overhead of fault-tolerant quantum computation
+Robust gates with spin-locked superconducting qubits
+Unifying uncertainties for rotor-like quantum systems
+Multi-qubit Dynamical Decoupling for Enhanced Crosstalk Suppression
