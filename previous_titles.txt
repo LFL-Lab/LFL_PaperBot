@@ -20,3 +20,10 @@ A lower bound on the space overhead of fault-tolerant quantum computation
 Robust gates with spin-locked superconducting qubits
 Unifying uncertainties for rotor-like quantum systems
 Multi-qubit Dynamical Decoupling for Enhanced Crosstalk Suppression
+Quantum Advantage of One-Way Squeezing in Enhancing Weak-Force Sensing
+Fast biological imaging with quantum-enhanced Raman microscopy
+Effectiveness of the syndrome extraction circuit with flag qubits on IBM quantum hardware
+Low-density parity-check representation of fault-tolerant quantum circuits
+Complete equational theories for classical and quantum Gaussian relations
+Quantum chip design optimization and automation in superconducting coupler architecture
+Assessment of error variation in high-fidelity two-qubit gates in silicon
