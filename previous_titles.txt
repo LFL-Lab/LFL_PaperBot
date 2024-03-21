@@ -41,3 +41,11 @@ Effective versus Floquet theory for the Kerr parametric oscillator
 Observation of discrete charge states of a coherent two-level system in a superconducting qubit
 Strong mechanical squeezing in a microcavity with double quantum wells
 Gate-Compatible Circuit Quantum Electrodynamics in a Three-Dimensional Cavity Architecture
+Single-Shot Readout and Weak Measurement of a Tin-Vacancy Qubit in Diamond
+Tensor Quantum Programming
+Experimental fault-tolerant code switching
+Demonstrating a long-coherence dual-rail erasure qubit using tunable transmons
+Quantum stabilizer formalism for any composite system
+Superconducting processor design optimization for quantum error correction performance
+Quantum dynamical maps for single-qubit gates under non-Markovian phase noise
+A multiplexed control architecture for superconducting qubits with row-column addressing
