@@ -49,3 +49,9 @@ Quantum stabilizer formalism for any composite system
 Superconducting processor design optimization for quantum error correction performance
 Quantum dynamical maps for single-qubit gates under non-Markovian phase noise
 A multiplexed control architecture for superconducting qubits with row-column addressing
+dc atomtronic quantum interference device: quantum superposition of persistent-current states and a parity-protected qubit
+Projective squeezing for translation symmetric bosonic codes
+Direct Probe of Topology and Geometry of Quantum States on IBM Q
+Quantum Machine Learning With a Limited Number Of Qubits
+Perturbative Analysis of Quasi-periodic Patterning of Transmon Quantum Computers: Enhancement of Many-Body Localization
+qec_code_sim: An open-source Python framework for estimating the effectiveness of quantum-error correcting codes on superconducting qubits
