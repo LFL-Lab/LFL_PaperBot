@@ -55,3 +55,8 @@ Direct Probe of Topology and Geometry of Quantum States on IBM Q
 Quantum Machine Learning With a Limited Number Of Qubits
 Perturbative Analysis of Quasi-periodic Patterning of Transmon Quantum Computers: Enhancement of Many-Body Localization
 qec_code_sim: An open-source Python framework for estimating the effectiveness of quantum-error correcting codes on superconducting qubits
+Noisy atomic magnetometry with Kalman filtering and measurement-based feedback
+Optimal control in large open quantum systems: the case of transmon readout and reset
+Theory of quasiparticle-induced errors in driven-dissipative Schr\"odinger cat qubits
+Emulating two qubits with a four-level transmon qudit for variational quantum algorithms
+Autoparametric resonance extending the bit-flip time of a cat qubit up to 0.3 s
