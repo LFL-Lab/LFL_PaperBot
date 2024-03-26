@@ -60,3 +60,19 @@ Optimal control in large open quantum systems: the case of transmon readout and 
 Theory of quasiparticle-induced errors in driven-dissipative Schr\"odinger cat qubits
 Emulating two qubits with a four-level transmon qudit for variational quantum algorithms
 Autoparametric resonance extending the bit-flip time of a cat qubit up to 0.3 s
+Phase estimation via coherent and photon-catalyzed squeezed vacuum states
+Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computation
+Coupler-Assisted Leakage Reduction for Scalable Quantum Error Correction with Superconducting Qubits
+Certifiable lower bounds of Wigner negativity volume and non-Gaussian entanglement with conditional displacement gates
+Integer Fluxonium Qubit
+Holographic Gaussian Boson Sampling with Matrix Product States on 3D cQED Processors
+The thermodynamics of the quantum Mpemba effect
+A gate tunable transmon qubit in planar Ge
+Generation of genuine all-way entanglement in defect-nuclear spin systems through dynamical decoupling sequences
+Production of genuine multimode entanglement in circular waveguides with long-range interactions
+Codesign of quantum error-correcting codes and modular chiplets in the presence of defects
+Practical trainable temporal post-processor for multi-state quantum measurement
+Frequency-dependent squeezing for gravitational-wave detection through quantum teleportation
+Strategies and trade-offs for controllability and memory time of ultra-high-quality microwave cavities in circuit QED
+Entanglement in Cosmology
+Depth-Optimal Addressing of 2D Qubit Array with 1D Controls Based on Exact Binary Matrix Factorization
