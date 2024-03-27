@@ -76,3 +76,5 @@ Frequency-dependent squeezing for gravitational-wave detection through quantum t
 Strategies and trade-offs for controllability and memory time of ultra-high-quality microwave cavities in circuit QED
 Entanglement in Cosmology
 Depth-Optimal Addressing of 2D Qubit Array with 1D Controls Based on Exact Binary Matrix Factorization
+Compilation of a simple chemistry application to quantum error correction primitives
+Strong Thermomechanical Noise Squeezing Stabilized by Feedback
