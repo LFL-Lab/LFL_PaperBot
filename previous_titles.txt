@@ -82,3 +82,9 @@ Squeezing below the ground state of motion of a continuously monitored levitatin
 Probing the quantum nature of gravity using a Bose-Einstein condensate; "Erste Abhandlung"
 Optimization tools for distance-preserving flag fault-tolerant error correction
 Tangling schedules eases hardware connectivity requirements for quantum error correction
+Average R\'enyi Entanglement Entropy in Gaussian Boson Sampling
+Properties and Applications of the Kirkwood-Dirac Distribution
+Minimal entanglement for injecting diagonal gates
+Quantum asymptotic amplitude for quantum oscillatory systems from the Koopman operator viewpoint
+Charge-parity switching effects and optimisation of transmon-qubit design parameters
+On-demand driven dissipation for cavity reset and cooling
