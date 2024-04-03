@@ -88,3 +88,6 @@ Minimal entanglement for injecting diagonal gates
 Quantum asymptotic amplitude for quantum oscillatory systems from the Koopman operator viewpoint
 Charge-parity switching effects and optimisation of transmon-qubit design parameters
 On-demand driven dissipation for cavity reset and cooling
+Diagonal Coset Approach to Topological Quantum Computation with Fibonacci Anyons
+Coherent Control of an Optical Quantum Dot Using Phonons and Photons
+Ab-initio tree-tensor-network digital twin for quantum computer benchmarking in 2D
