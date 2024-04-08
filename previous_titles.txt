@@ -104,3 +104,7 @@ Dynamics of magnetization at infinite temperature in a Heisenberg spin chain
 Efficient two-qutrit gates in superconducting circuits using parametric coupling
 Simultaneous Discovery of Quantum Error Correction Codes and Encoders with a Noise-Aware Reinforcement Learning Agent
 Entanglement and Squeezing of the Optical Field Modes in High Harmonic Generation
+Quantum Digital Simulation of Cavity Quantum Electrodynamics: Insights from Superconducting and Trapped Ion Quantum Testbeds
+iSWAP-type geometric gates induced by paths on Schmidt sphere
+Robust Quantum Gates against Correlated Noise in Integrated Quantum Chips
+Logical Gates and Read-Out of Superconducting Gottesman-Kitaev-Preskill Qubits
