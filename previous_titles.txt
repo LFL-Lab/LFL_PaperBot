@@ -108,3 +108,10 @@ Quantum Digital Simulation of Cavity Quantum Electrodynamics: Insights from Supe
 iSWAP-type geometric gates induced by paths on Schmidt sphere
 Robust Quantum Gates against Correlated Noise in Integrated Quantum Chips
 Logical Gates and Read-Out of Superconducting Gottesman-Kitaev-Preskill Qubits
+Demonstration of quantum network protocols over a 14-km urban fiber link
+Portable diamond maser with reduced magnetic field through orientation
+NMon: enhanced transmon qubit based on parallel arrays of Josephson junctions
+Hybrid quantum systems with artificial atoms in solid state
+Continuous-variable quantum key distribution with noisy squeezed states
+Machine learning for efficient generation of universal hybrid quantum computing resources
+Shaping photons: quantum computation with bosonic cQED
