@@ -115,3 +115,8 @@ Hybrid quantum systems with artificial atoms in solid state
 Continuous-variable quantum key distribution with noisy squeezed states
 Machine learning for efficient generation of universal hybrid quantum computing resources
 Shaping photons: quantum computation with bosonic cQED
+Quantum Generative Adversarial Networks in a Silicon Photonic Chip with Maximum Expressibility
+How coherence measurements of a qubit steer its quantum environment
+High-Fidelity CZ Gates in Double Quantum Dot -- Circuit QED Systems Beyond the Rotating-Wave Approximation
+A High Performance Compiler for Very Large Scale Surface Code Computations
+Incorporation of random alloy GaBi$_{x}$As$_{1-x}$ barriers in InAs quantum dot molecules: alloy strain and orbital effects towards enhanced tunneling
