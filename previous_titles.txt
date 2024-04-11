@@ -120,3 +120,5 @@ How coherence measurements of a qubit steer its quantum environment
 High-Fidelity CZ Gates in Double Quantum Dot -- Circuit QED Systems Beyond the Rotating-Wave Approximation
 A High Performance Compiler for Very Large Scale Surface Code Computations
 Incorporation of random alloy GaBi$_{x}$As$_{1-x}$ barriers in InAs quantum dot molecules: alloy strain and orbital effects towards enhanced tunneling
+Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling
+Recovering quantum coherence of a cavity qubit through environment monitoring and active feedback
