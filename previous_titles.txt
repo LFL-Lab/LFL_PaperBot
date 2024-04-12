@@ -122,3 +122,5 @@ A High Performance Compiler for Very Large Scale Surface Code Computations
 Incorporation of random alloy GaBi$_{x}$As$_{1-x}$ barriers in InAs quantum dot molecules: alloy strain and orbital effects towards enhanced tunneling
 Scalable noise characterisation of syndrome extraction circuits with averaged circuit eigenvalue sampling
 Recovering quantum coherence of a cavity qubit through environment monitoring and active feedback
+Counting statistics of ultra-broadband microwave photons
+Autonomous Quantum Error Correction of Gottesman-Kitaev-Preskill States
