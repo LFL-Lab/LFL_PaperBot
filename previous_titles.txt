@@ -124,3 +124,7 @@ Scalable noise characterisation of syndrome extraction circuits with averaged ci
 Recovering quantum coherence of a cavity qubit through environment monitoring and active feedback
 Counting statistics of ultra-broadband microwave photons
 Autonomous Quantum Error Correction of Gottesman-Kitaev-Preskill States
+Realization of two-qubit gates and multi-body entanglement states in an asymmetric superconducting circuits
+Benchmarking logical three-qubit quantum Fourier transform encoded in the Steane code on a trapped-ion quantum computer
+Macroscopic Bell state between a millimeter-sized spin system and a superconducting qubit
+Single-shot decoding of good quantum LDPC codes
