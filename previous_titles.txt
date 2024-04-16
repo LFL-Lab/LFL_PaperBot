@@ -128,3 +128,12 @@ Realization of two-qubit gates and multi-body entanglement states in an asymmetr
 Benchmarking logical three-qubit quantum Fourier transform encoded in the Steane code on a trapped-ion quantum computer
 Macroscopic Bell state between a millimeter-sized spin system and a superconducting qubit
 Single-shot decoding of good quantum LDPC codes
+Grover's algorithm in a four-qubit silicon processor above the fault-tolerant threshold
+Performance analysis of a filtering variational quantum algorithm
+Skyrmion-mechanical hybrid quantum systems: Manipulation of skyrmion qubits via phonons
+Coherent control of levitated nanoparticles via dipole-dipole interaction
+A randomized benchmarking suite for mid-circuit measurements
+Achieving metrological limits using ancilla-free quantum error-correcting codes
+Stochastic Model of Qudit Measurement for Superconducting Quantum Information Processing
+Identifiability and Characterization of Transmon Qutrits Through Bayesian Experimental Design
+Ab-Initio Calculations of Nonlinear Susceptibility and Multi-Phonon Mixing Processes in a 2DEG-Piezoelectric Heterostructure
