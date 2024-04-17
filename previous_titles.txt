@@ -137,3 +137,9 @@ Achieving metrological limits using ancilla-free quantum error-correcting codes
 Stochastic Model of Qudit Measurement for Superconducting Quantum Information Processing
 Identifiability and Characterization of Transmon Qutrits Through Bayesian Experimental Design
 Ab-Initio Calculations of Nonlinear Susceptibility and Multi-Phonon Mixing Processes in a 2DEG-Piezoelectric Heterostructure
+Landau-Zener without a Qubit: Unveiling Multiphoton Interference, Synthetic Floquet Dimensions, and Dissipative Quantum Chaos
+Few-mode squeezing in type-I parametric downconversion by complete group velocity matching
+A spin-refrigerated cavity quantum electrodynamic sensor
+Quantum Simulation of Open Quantum Dynamics via Non-Markovian Quantum State Diffusion
+Minimal-noise estimation of noncommuting rotations of a spin
+Ultra-relativistic quark-nucleus scattering on quantum computers
