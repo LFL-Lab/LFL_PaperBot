@@ -48,6 +48,7 @@ LFL_PaperBot is an automated tool for monitoring academic publications. It searc
 
 **Updates needed for the GitHub Actions workflow:**
 
+- Ensure that "Read and write permissions" are enabled in Settings -> Actions -> General -> Workflow permissions
 - Update the schedule in `schedule.yml` to the desired time.
 - Update the `SLACK_TOKEN` secret in the repository settings if the bot user token changes.
 - Create a repository secrets variable (`GH_PAT`) with value that is your `PAT_NAME` that has at least the `repo` scope enabled.
