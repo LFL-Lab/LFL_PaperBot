@@ -35,3 +35,10 @@ nanobridge
 weak-measurements
 weak measurements
 ABS
+superconducting qubits
+coherent states
+quantum gates
+cross-talk
+decoherence time
+dispersive readout
+flux noise
