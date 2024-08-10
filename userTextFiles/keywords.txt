@@ -37,7 +37,7 @@ weak measurements
 ABS
 superconducting qubits
 coherent states
-quantum gates
+quantum gate
 cross-talk
 decoherence time
 dispersive readout
