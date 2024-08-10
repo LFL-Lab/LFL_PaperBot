@@ -35,7 +35,7 @@ nanobridge
 weak-measurements
 weak measurements
 ABS
-superconducting qubits
+superconducting qubit
 coherent states
 quantum gate
 cross-talk
