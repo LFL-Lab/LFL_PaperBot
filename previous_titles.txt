@@ -27,6 +27,9 @@ Low-density parity-check representation of fault-tolerant quantum circuits
 Complete equational theories for classical and quantum Gaussian relations
 Quantum chip design optimization and automation in superconducting coupler architecture
 Assessment of error variation in high-fidelity two-qubit gates in silicon
+Squeezing Oscillations in a Multimode Bosonic Josephson Junction
+High-Sensitivity ac-Charge Detection with a MHz-Frequency Fluxonium Qubit
+Demonstrating Scalable Randomized Benchmarking of Universal Gate Sets
 Quantum memory at nonzero temperature in a thermodynamically trivial system
 Universal high-fidelity quantum gates for spin-qubits in diamond
 Granular Aluminum Parametric Amplifier for Low-Noise Measurements in Tesla Fields
@@ -39,8 +42,10 @@ Control of an environmental spin defect beyond the coherence limit of a central 
 Single-Atom Amplification Assisted by Multiple Sideband Interference in 1D Waveguide QED Systems
 Effective versus Floquet theory for the Kerr parametric oscillator
 Observation of discrete charge states of a coherent two-level system in a superconducting qubit
+The effect of niobium thin film structure on losses in superconducting circuits
 Strong mechanical squeezing in a microcavity with double quantum wells
 Gate-Compatible Circuit Quantum Electrodynamics in a Three-Dimensional Cavity Architecture
+Demonstrating a Long-Coherence Dual-Rail Erasure Qubit Using Tunable Transmons
 Single-Shot Readout and Weak Measurement of a Tin-Vacancy Qubit in Diamond
 Tensor Quantum Programming
 Experimental fault-tolerant code switching
@@ -78,6 +83,7 @@ Entanglement in Cosmology
 Depth-Optimal Addressing of 2D Qubit Array with 1D Controls Based on Exact Binary Matrix Factorization
 Compilation of a simple chemistry application to quantum error correction primitives
 Strong Thermomechanical Noise Squeezing Stabilized by Feedback
+Conditional-<span class="sc">not</span> Displacement: Fast Multioscillator Control with a Single Qubit
 Squeezing below the ground state of motion of a continuously monitored levitating nanoparticle
 Probing the quantum nature of gravity using a Bose-Einstein condensate; "Erste Abhandlung"
 Optimization tools for distance-preserving flag fault-tolerant error correction
@@ -143,3 +149,421 @@ A spin-refrigerated cavity quantum electrodynamic sensor
 Quantum Simulation of Open Quantum Dynamics via Non-Markovian Quantum State Diffusion
 Minimal-noise estimation of noncommuting rotations of a spin
 Ultra-relativistic quark-nucleus scattering on quantum computers
+Fault-tolerant quantum computing with the parity code and noise-biased qubits
+Entanglement Entropy of a Scalar Field in a Squeezed State
+Optimized measurement-free and fault-tolerant quantum error correction for neutral atoms
+Parametrically-controlled microwave-photonic interface for the fluxonium
+Tailoring Fault-Tolerance to Quantum Algorithms
+Dynamically enhancing qubit-photon interactions with anti-squeezing
+Leakage Benchmarking for Universal Gate Sets
+Error analysis of bit-flip qubits under random telegraph noise for low and high temperature measurement application
+Characterizing Coherent Errors using Matrix-Element Amplification
+Qubit-assisted quantum metrology
+Erasure-tolerance protocol for the surface codes on Rydberg atomic quantum computers
+Nonclassicality in Two-Mode Stabilized Squeezed Coherent State: Quantum-to-Classical transition
+High-rate quantum LDPC codes for long-range-connected neutral atom registers
+Quantum Imaging Beyond the Standard-Quantum Limit and Phase Distillation
+Anharmonic Effects on the Squeezing of Axion Perturbations
+Lattice Surgery for Dummies
+Mechanical quadrature squeezing beyond the 3dB limit via quantum learning control
+Nanomechanical ancilla qubits generator for error correction algorithms in quantum computation
+High-coherence superconducting qubits made using industry-standard, advanced semiconductor manufacturing
+Distributed Architecture for FPGA-based Superconducting Qubit Control
+DGR: Tackling Drifted and Correlated Noise in Quantum Error Correction via Decoding Graph Re-weighting
+Limitations in Fluorescence-Detected Entangled Two-Photon-Absorption Experiments: Exploring the Low- to High-Gain Squeezing Regimes
+High-Coherence Kerr-cat qubit in 2D architecture
+High-fidelity and Fault-tolerant Teleportation of a Logical Qubit using Transversal Gates and Lattice Surgery on a Trapped-ion Quantum Computer
+Autoparametric Resonance Extending the Bit-Flip Time of a Cat Qubit up to 0.3 s
+Good Gottesman-Kitaev-Preskill codes from the NTRU cryptosystem
+From Qubits to Opinions: Operator and Error Syndrome Measurement in Quantum-Inspired Social Simulations on Transversal Gates
+A quantum annealing approach to minimum distance problem
+High-fidelity $\sqrt{i\text{SWAP}}$ gates using a fixed coupler driven by two microwave pulses
+Single-Photon-Subtracted-Squeezed-Vacuum-State Based Postselected Weak Measurement and its Applications
+A SAT Scalpel for Lattice Surgery: Representation and Synthesis of Subroutines for Surface-Code Fault-Tolerant Quantum Computing
+Tunable coupling of a quantum phononic resonator to a transmon qubit with flip-chip architecture
+How to surpass no-go limits in Gaussian quantum error correction and entangled Gaussian state distillation?
+An entanglement-enhanced atomic gravimeter
+Quantum Benchmarking via Random Dynamical Quantum Maps
+Decoherence induced by a sparse bath of two-level fluctuators: peculiar features of $1/f$ noise in high-quality qubits
+A Strategy for Preparing Quantum Squeezed States Using Reinforcement Learning
+Boosting generation rate of squeezed single-photon states by generalized photon subtraction
+A simple method for compiling quantum stabilizer circuits
+Many-body quantum register for a spin qubit
+Enhanced twist-and-turn dynamics of spin squeezing in internal bosonic Josephson junctions
+Operational Markovianization in Randomized Benchmarking
+A quantum neural network framework for scalable quantum circuit approximation of unitary matrices
+Averting multi-qubit burst errors in surface code magic state factories
+Quantum thermodynamics of the Caldeira-Leggett model with non-equilibrium Gaussian reservoirs
+QUACK: Quantum Aligned Centroid Kernel
+Expanding the Horizon: Enabling Hybrid Quantum Transfer Learning for Long-Tailed Chest X-Ray Classification
+Direct detection of down-converted photons spontaneously produced at a single Josephson junction
+Qubit dephasing by spectrally diffusing quantum two-level systems
+Control Requirements and Benchmarks for Quantum Error Correction
+How much entanglement is needed for quantum error correction?
+On-demand shaped photon emission based on a parametrically modulated qubit
+Driven Multiphoton Qubit-Resonator Interactions
+Design and execution of quantum circuits using tens of superconducting qubits and thousands of gates for dense Ising optimization problems
+Single-photon induced instabilities in a cavity electromechanical device
+Quasi-Probabilistic Readout Correction of Mid-Circuit Measurements for Adaptive Feedback via Measurement Randomized Compiling
+Quantum Circuit Learning on NISQ Hardware
+Strategies for implementing quantum error correction in molecular rotation
+Probing single electrons across 300 mm spin qubit wafers
+Decoding algorithms for surface codes
+Polylogarithmic-depth controlled-NOT gates without ancilla qubits
+Flux-Tunable Regimes and Supersymmetry in Twisted Cuprate Heterostructures
+Spatially parallel decoding for multi-qubit lattice surgery
+Erasure-tolerance scheme for the surface codes on Rydberg atomic quantum computers
+Early Fault-Tolerant Quantum Algorithms in Practice: Application to Ground-State Energy Estimation
+Mitigating errors in logical qubits
+Protecting quantum gates from arbitrary single- and two-qubit errors
+Data augmentation experiments with style-based quantum generative adversarial networks on trapped-ion and superconducting-qubit technologies
+Large mechanical squeezing through synthetic magnetism in optomechanics
+Epitaxial {\alpha}-Ta (110) film on a-plane sapphire substrate for superconducting qubits on wafer scale
+Quantum enhanced balanced heterodyne readout for differential interferometry
+Strong broadband intensity noise squeezing from near-infrared to terahertz frequencies in semiconductor lasers with nonlinear dissipation
+Fabrication of Al/AlOx/Al junctions with high uniformity and stability on sapphire substrates
+High-quality superconducting {\alpha}-Ta film sputtered on heated silicon substrate
+Chemistry Beyond Exact Solutions on a Quantum-Centric Supercomputer
+Hybrid Quantum Graph Neural Network for Molecular Property Prediction
+Multimode amplitude squeezing through cascaded nonlinear optical processes
+Probing Quantum Telecloning on Superconducting Quantum Processors
+Qplacer: Frequency-Aware Component Placement for Superconducting Quantum Computers
+Quantum Sensing of Antiferromagnetic Magnon Two-Mode Squeezed Vacuum
+Characterization of errors in a CNOT between surface code patches
+Achieving millisecond coherence fluxonium through overlap Josephson junctions
+Sudden change of interferometric power for X shape states
+Self-correcting GKP qubit and gates in a driven-dissipative circuit
+Quantum Computing - A new scientific revolution in the making
+Robustness of the projected squeezed state protocol
+Arctic: A Field Programmable Quantum Array Scheduling Technique
+Quantum Optics with Recoiled Free Electrons
+FlexiSCD: Flexible Surface Code Deformer for Dynamic Defects
+Photon loss effects on light-mediated non-Gaussian entangled Bose-Einstein condensates projecting with different photon measurement outcomes
+Fault-Tolerant Quantum LDPC Encoders
+ZX Graphical Calculus for Continuous-Variable Quantum Processes
+Memory-corrected quantum repeaters with adaptive syndrome identification
+Quantum Computation Using Large Spin Qudits
+Suppression of quasiparticle poisoning in transmon qubits by gap engineering
+Scalable multi-qubit intrinsic gates in quantum dot arrays
+Entanglement Assisted Probe of the Non-Markovian to Markovian Transition in Open Quantum System Dynamics
+Measurement of Small Photon Numbers in Circuit QED Resonators
+An Abstract Model and Efficient Routing for Logical Entangling Gates on Zoned Neutral Atom Architectures
+Sharing Quantum Steering via Standard Projective Measurements
+The Bell Based Super Coherent States. Uncertainty Relations, Golden Ratio and Fermion-Boson Entanglement
+A new twist on the Majorana surface code: Bosonic and fermionic defects for fault-tolerant quantum computation
+Magic of quantum hypergraph states
+Improving Zero-noise Extrapolation for Quantum-gate Error Mitigation using a Noise-aware Folding Method
+Entanglement assisted probe of the non-Markovian to Markovian transition in open quantum system dynamics
+Enabling Leakage Reduction via Fast and High-Fidelity Qutrit Readout
+Demonstrating a universal logical gate set on a superconducting quantum processor
+Equivalence of flexible stripline and coaxial cables for superconducting qubit control and readout pulses
+Quantum simulation of dissipation for Maxwell equations in dispersive media
+Generalized Conditional Displacement
+Blueprint for all-to-all connected superconducting spin qubits
+Fault Tolerance Embedded in a Quantum-Gap-Estimation Algorithm with Trial-State Optimization
+Decoherence in Exchange-Coupled Quantum Spin Qubit Systems: Impact of Multiqubit Interactions and Geometric Connectivity
+Exponential improvements in the simulation of lattice gauge theories using near-optimal techniques
+Resource-Efficient Hybrid Quantum-Classical Simulation Algorithm
+Quantum Circuit Discovery for Fault-Tolerant Logical State Preparation with Reinforcement Learning
+Coexistence of Nonequilibrium Density and Equilibrium Energy Distribution of Quasiparticles in a Superconducting Qubit
+Symmetrically Threaded SQUIDs As Next Generation Kerr-cat Qubits
+Ion-Based Quantum Computing Hardware: Performance and End-User Perspective
+Model-Based Qubit Noise Spectroscopy
+Exact Results for a Boundary-Driven Double Spin Chain and Resource-Efficient Remote Entanglement Stabilization
+Quantum coherent and measurement feedback control based on atoms coupled with a semi-infinite waveguide
+Thresholds for the distributed surface code in the presence of memory decoherence
+Heralded single-photon source based on superpositions of squeezed states
+Optimized mechanical quadrature squeezing beyond the 3 dB limit via gradient-descent algorithm
+Theory of fractional quantum Hall liquids coupled to quantum light and emergent graviton-polaritons
+Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators
+Non-adiabatic holonomic quantum operations in continuous variable systems
+Nonreciprocal Superradiant Phase Transitions and Multicriticality in a Cavity QED System
+Qudit generalization of the qubit echo and its application to a qutrit-based Toffoli gate
+Qubit-efficient Variational Quantum Algorithms for Image Segmentation
+Controlling dephasing of coupled qubits via shared-bath coherence
+Two-level system hyperpolarization using a quantum Szilard engine
+Cross-cap defects and fault-tolerant logical gates in the surface code and the honeycomb Floquet code
+Maximizing the Yield of Bucket Brigade Quantum Random Access Memory using Redundancy Repair
+Majorana modes in trapped-ion system and their Floquet engineering
+Simple, High Saturation Power, Quantum-limited, RF SQUID Array-based Josephson Parametric Amplifiers
+Cosmological complexity of the modified dispersion relation
+Parametrically controlled chiral interface for superconducting quantum devices
+Dynamically corrected gates in silicon singlet-triplet spin qubits
+Parameterization and optimizability of pulse-level VQEs
+Error Crafting in Probabilistic Quantum Gate Synthesis
+Fast adiabatic preparation of multi-squeezed states by jumping along the path
+Cyclic Quantum Teleportation of Two-Qubit Entangled States by using Six-Qubit Cluster State and Six-Qubit Entangled State
+Multi-qubit Lattice Surgery Scheduling
+Quantum-Classical Autoencoder Architectures for End-to-End Radio Communication
+Evaluating radiation impact on transmon qubits in above and underground facilities
+Optimizing one-axis twists for variational Bayesian quantum metrology
+Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits
+Chiral quantum heating and cooling with an optically controlled ion
+Quantum Optimal Control of Squeezing in Cavity Optomechanics
+Fault-tolerant simulation of Lattice Gauge Theories with gauge covariant codes
+Characterising semi-Clifford gates using algebraic sets
+Analysis of spin-squeezing generation in cavity-coupled atomic ensembles with continuous measurements
+Concatenating Binomial Codes with the Planar Code
+Beating the Standard Quantum Limit Electronic Field Sensing by Simultaneously Using Quantum Entanglement and Squeezing
+Parity-dependent state transfer for direct entanglement generation
+Investigating pump harmonics generation in a SNAIL-based Traveling Wave Parametric Amplifier
+Decoherence-free many-body Hamiltonians in nonlinear waveguide quantum electrodynamics
+Atomistic compositional details and their importance for spin qubits in isotope-purified silicon-germanium quantum wells
+Bases for optimising stabiliser decompositions of quantum states
+Unified linear response theory of quantum electronic circuits
+Single-electron qubits based on quantum ring states on solid neon surface
+Controllable Andreev Bound States in Bilayer Graphene Josephson Junctions from Short to Long Junction Limits
+Experimental demonstration of a fault-tolerant qubit encoded on a hyperfine-coupled qudit
+Interferometry of quantum correlation functions to access quasiprobability distribution of work
+A Near Quantum Limited Sub-GHz TiN Kinetic Inductance Traveling Wave Parametric Amplifier Operating in a Frequency Translating Mode
+Incompressible Navier-Stokes solve on noisy quantum hardware via a hybrid quantum-classical scheme
+Tuneable entangled photon pair generation in a liquid crystal
+Efficient Initialization of Fluxonium Qubits based on Auxiliary Energy Levels
+Quantum speed limit of open quantum system models using the Wigner function
+Resource Optimized Quantum Squaring Circuit
+Demonstration of Erasure Conversion in a Molecular Tweezer Array
+Demonstration of two-dimensional connectivity for a scalable error-corrected ion-trap quantum processor architecture
+Noise-adapted qudit codes for amplitude-damping noise
+Entangling four logical qubits beyond break-even in a nonlocal code
+In-operando microwave scattering-parameter calibrated measurement of a Josephson travelling wave parametric amplifier
+A Quantum Neural Network-Based Approach to Power Quality Disturbances Detection and Recognition
+Quantum Sensing from Gravity as Universal Dephasing Channel for Qubits
+Hot Schr\"odinger Cat States
+Random Pulse Sequences for Qubit Noise Spectroscopy
+Flying-cat parity checks for quantum error correction
+Leakage Mobility in Superconducting Qubits as a Leakage Reduction Unit
+Circuit-level fault tolerance of cat codes
+Interfacing Gottesman-Kitaev-Preskill Qubits to Quantum Memories
+High-precision and low-depth eigenstate property estimation: theory and resource estimation
+Factory-based Fault-tolerant Preparation of Quantum Polar Codes Encoding One logical Qubit
+Success probabilities in time-reversal based hybrid quantum state transfer
+Deterministic Preparation of Optical Squeezed Cat and Gottesman-Kitaev-Preskill States
+Efficient Fault-Tolerant Single Qubit Gate Approximation And Universal Quantum Computation Without Using The Solovay-Kitaev Theorem
+Slow and Stored Light via Electromagnetically Induced Transparency Using A $\Lambda$-type Superconducting Artificial Atom
+Heat currents in qubit systems
+Proposal of ensemble qubits with two-atom decay
+Entanglement transitions in quantum-enhanced experiments
+Field-Based Formalism for Calculating Multi-Qubit Exchange Coupling Rates for Transmon Qubits
+Fault-tolerant resource estimation using graph-state compilation on a modular superconducting architecture
+Quantum simulation of one-dimensional fermionic systems with Ising Hamiltonians
+Analog information decoding of bosonic quantum LDPC codes
+Selective Single and Double-Mode Quantum Limited Amplifier
+Performance Analysis of Superconductor-constriction-Superconductor Transmon Qubits
+Conceptual Problems in Quantum Squeezing
+A mechanical qubit
+Balanced Coupling in Electromagnetic Circuits
+Suppressing Counter-Rotating Errors for Fast Single-Qubit Gates with Fluxonium
+Two-tone spectroscopy of high-frequency quantum circuits with a Josephson emitter
+Ergodic and mixing quantum channels: From two-qubit to many-body quantum systems
+Fault-tolerant quantum computation using large spin cat-codes
+Entanglement, Squeezing and non-Locality in Filtered Two-Mode Squeezed Mixed States
+Probing the quantum nature of gravity using a Bose-Einstein condensate
+Contextuality in anomalous heat flow
+Integration of through-sapphire substrate machining with superconducting quantum processors
+Reinforcement learning pulses for transmon qubit entangling gates
+The Superconducting Quasiparticle-Amplifying Transmon: A Qubit-Based Sensor for meV Scale Phonons and Single THz Photons
+Fast and Accurate GHZ Encoding Using All-to-all Interactions
+Minimal evolution times for fast, pulse-based state preparation in silicon spin qubits
+Lecture Notes on Quantum Algorithms in Open Quantum Systems
+Quantum metrology with a squeezed Kerr oscillator
+Multi-time quantum process tomography on a superconducting qubit
+The Near-optimal Performance of Quantum Error Correction Codes
+Many-excitation removal of a transmon qubit using a single-junction quantum-circuit refrigerator and a two-tone microwave drive
+Directional emission of a readout resonator for qubit measurement
+Fermion-parity qubit in a proximitized double quantum dot
+Quantum Compiling with Reinforcement Learning on a Superconducting Processor
+A hybrid atom tweezer array of nuclear spin and optical clock qubits
+Transversal CNOT gate with multi-cycle error correction
+Realizing string-net condensation: Fibonacci anyon braiding for universal gates and sampling chromatic polynomials
+Three-outcome multipartite Bell inequalities: applications to dimension witnessing and spin-nematic squeezing in many-body systems
+Exploring Gamification in Quantum Computing: The Qubit Factory
+Measurement of Many-Body Quantum Correlations in Superconducting Circuits
+Path-entangled radiation from kinetic inductance amplifier
+Gate Teleportation in Noisy Quantum Networks with the SquidASM Simulator
+Photon number distribution of squeezed light from a silicon nitride microresonator measured without photon number resolving detectors
+Efficient Chromatic-Number-Based Multi-Qubit Decoherence and Crosstalk Suppression
+Quantum limits of superconducting-photonic links and their extension to mm-waves
+Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes
+A GKP qubit protected by dissipation in a high-impedance superconducting circuit driven by a microwave frequency comb
+Synthetic magnetism enhanced mechanical squeezing in Brillouin optomechanical system
+Chip-Scale Point-Source Sagnac Interferometer by Phase-Space Squeezing
+Quantum squeezing in a nonlinear mechanical oscillator
+A mid-circuit erasure check on a dual-rail cavity qubit using the joint-photon number-splitting regime of circuit QED
+Magnon-mediated quantum gates for superconducting qubits
+Upper bounds on probabilities in channel measurements on qubit channels and their applications
+Spin Squeezing Enhanced Quantum Magnetometry with Nitrogen-Vacancy Center Qutrits
+Fault-tolerant hyperbolic Floquet quantum error correcting codes
+Optimal Control for Continuous Dynamical Decoupling
+$\mathcal{PT}$-symmetric mapping of three states and its implementation on a cloud quantum processor
+Quantum computer specification for nuclear structure calculations
+Demonstration of a Squeezed Light Source on Thin-Film Lithium Niobate with Modal Phase Matching
+Analyzing performance of $f$-deformed displaced Fock state in continuous-variable quantum teleportation
+Quantum resolution limit of long-baseline imaging using distributed entanglement
+High-Efficiency Low-Noise Optomechanical Crystal Photon-Phonon Transducers
+Lieb-Robinson correlation function for the quantum transverse field Ising model
+Fault-tolerant embedding of quantum circuits on hardware architectures via swap gates
+MindSpore Quantum: A User-Friendly, High-Performance, and AI-Compatible Quantum Computing Framework
+Nonclassical Light in a Three-Waveguide Coupler with Second-Order Nonlinearity
+Efficiently improving the performance of noisy quantum computers
+A Comparative Analysis of Hybrid-Quantum Classical Neural Networks
+A quantum annealing approach to the minimum distance problem of quantum codes
+Managing Classical Processing Requirements for Quantum Error Correction
+Exact and approximate fluxonium array modes
+Selective cooling and squeezing in a lossy optomechanical closed loop embodying an exceptional surface
+Analytic solution to the nonlinear generation of squeezed states in a thermal bath
+Resource overheads and attainable rates for trapped-ion lattice surgery
+ML-Powered FPGA-based Real-Time Quantum State Discrimination Enabling Mid-circuit Measurements
+Quantum voting machine encoded with microwave photons
+Strong Converse Exponent for Entanglement-Assisted Communication
+A Traveling-Wave Parametric Amplifier and Converter
+Mixing of counterpropagating signals in a traveling-wave Josephson device
+A Traveling Wave Parametric Amplifier Isolator
+Entanglement Assisted Squeezed States of Light in All Fiber Form-Factor
+Complete quantum toolbox for an acoustic resonator
+Inverse Mpemba Effect Demonstrated on a Single Trapped Ion Qubit
+Hybrid Quantum-Classical Clustering for Preparing a Prior Distribution of Eigenspectrum
+Non-Gaussian generalized two-mode squeezing: applications to two-ensemble spin squeezing and beyond
+Realizing a Compact, High-Fidelity, Telecom-Wavelength Source of Multipartite Entangled Photons
+Classical and Quantum Frequency Combs for Satellite-based Clock Synchronization
+Influence of a squeezed prewell on tunneling properties and bound states in heterostructures
+Robustness of Higher Dimensional Nonlocality against dual noise and sequential measurements
+Efficient realization of quantum algorithms with qudits
+State preparation by shallow circuits using feed forward
+Revisiting the impact of dissipation on time-reversed one-axis-twist quantum-sensing protocols
+Concatenating quantum error-correcting codes with decoherence-free subspaces and vice versa
+Control of multi-modal scattering in a microwave frequency comb
+Quantum Parity Detectors: a qubit based particle detection scheme with meV thresholds for rare-event searches
+Two-mode squeezing and SU(1,1) interferometry with trapped ions
+Parametric Light-Matter Interaction in the Single-Photon Strong Coupling Limit
+Unifying Floquet theory of longitudinal and dispersive readout
+Noise-adapted recovery circuits for quantum error correction
+Non-classical correlations between a quantum probe and complex quantum systems in presence of noise
+Limitations to Dynamical Error Suppression and Gate-Error Virtualization from Temporally Correlated Nonclassical Noise
+Qudit Dynamical Decoupling on a Superconducting Quantum Processor
+Entanglement marker for lifetime of time crystal in transmon-modulated open Dicke model
+Continuous variable quantum teleportation using photon subtracted and photon added two mode squeezed coherent state
+Stabilizing an individual charge fluctuator in a Si/SiGe quantum dot
+Stochastic modeling of superconducting qudits in the dispersive regime
+Two-dimensional topological effect in a transmon qubit array with tunable couplings
+State Estimation and Control for Stochastic Quantum Dynamics with Homodyne Measurement: Stabilizing Qubits under Uncertainty
+The strong-coupling quantum thermodynamics of quantum Brownian motion based on the exact solution of its reduced density matrix
+Passive photonic CZ gate with two-level emitters in chiral multi-mode waveguide QED
+Precision frequency tuning of tunable transmon qubits using alternating-bias assisted annealing
+Low-cost noise reduction for Clifford circuits
+Vacuum Beam Guide for Large-Scale Quantum Networks
+The Quantum Imitation Game: Reverse Engineering of Quantum Machine Learning Models
+Detection of broadband squeezed light with a low-noise die-level balanced receiver
+Continuous variable dense coding under realistic non-ideal scenarios
+Many-hypercube codes: High-rate quantum error-correcting codes for high-performance fault-tolerant quantum computing
+Entanglement of photonic modes from a continuously driven two-level system
+Spin/Phonon Dynamics in Single Molecular Magnets: I. quantum embedding
+Magnon squeezing via reservoir-engineered optomagnomechanics
+Modeling and Suppressing Unwanted Parasitic Interactions in Superconducting Circuits
+Exactly-solved model of light-scattering errors in quantum simulations with metastable trapped-ion qubits
+SSIP: automated surgery with quantum LDPC codes
+Direct Measurement of Microwave Loss in Nb Films for Superconducting Qubits
+Ultra-dispersive resonator readout of a quantum-dot qubit using longitudinal coupling
+Quantum metrology of low frequency electromagnetic modes with frequency upconverters
+Using quantum computers to identify prime numbers via entanglement dynamics
+Enhancement of nonclassical properties of two-mode squeezed vacuum state with postselected von Neumann measurement
+A cryogenic on-chip microwave pulse generator for large-scale superconducting quantum computing
+Far from Perfect: Quantum Error Correction with (Hyperinvariant) Evenbly Codes
+Decay-protected superconducting qubit with fast control enabled by integrated on-chip filters
+Candidate for a Passively Protected Quantum Memory in Two Dimensions
+Atomic and entanglement dynamics in the mixed squeezed coherent state version of the Jaynes-Cummings interaction
+Robust teleportation of a surface code and cascade of topological quantum phase transitions
+Systematic input scheme for many-boson Hamiltonians via quantum walk
+Emerging Quadrature Lattices of Kerr Combs
+Fault Tolerant Quantum Error Mitigation
+Optimized Quantum Simulation Algorithms for Scalar Quantum Field Theories
+Kinetic Inductance Parametric Converter
+Subspace-Based Local Compilation of Variational Quantum Circuits for Large-Scale Quantum Many-Body Simulation
+Diagonalization of large many-body Hamiltonians on a quantum processor
+Robust and fast microwave-driven quantum logic for trapped-ion qubits
+Agnostic Phase Estimation
+Virtual Z gates and symmetric gate compilation
+A Nanomechanical Atomic Force Qubit
+Verifying the analogy between transversely coupled spin-1/2 systems and inductively-coupled fluxoniums
+Qubit-efficient quantum combinatorial optimization solver
+24 days-stable CNOT-gate on fluxonium qubits with over 99.9% fidelity
+A Practical Quantum Algorithm for the Schur Transform
+T-count optimization of approximate quantum Fourier transform
+Modeling and Harmonic Balance Analysis of Parametric Amplifiers for Qubit Read-out
+Error-Tolerant Amplification and Simulation of the Ultrastrong-Coupling Quantum Rabi Model
+Alternating Bias Assisted Annealing of Amorphous Oxide Tunnel Junctions
+Breadth-first graph traversal union-find decoder
+An Exponential Mixing Condition for Quantum Channels
+Pure kinetic inductance coupling for cQED with flux qubits
+Systematic study of High $E_J/E_C$ transmon qudits up to $d = 12$
+Contextual Subspace Variational Quantum Eigensolver Calculation of the Dissociation Curve of Molecular Nitrogen on a Superconducting Quantum Computer
+SQuADDS: A validated design database and simulation workflow for superconducting qubit design
+Multi-qubit gates and Schr\"odinger cat states in an optical clock
+Twist-and-turn dynamics of spin squeezing in bosonic Josephson junctions: Enhanced shortcuts-to-adiabaticity approach
+Entangling power, gate typicality and Measurement-induced Phase Transitions
+Ancilla-assisted erasure of quantum information beyond Landauer's limit
+Cross-resonance control of an oscillator with a fluxonium ancilla
+Fast and Parallelizable Logical Computation with Homological Product Codes
+Mitigating Losses of Superconducting Qubits Strongly Coupled to Defect Modes
+Methods to achieve near-millisecond energy relaxation and dephasing times for a superconducting transmon qubit
+Effect of group-velocity dispersion on the generation of multimode pulsed squeezed light in a synchronously pumped optical parametric oscillator
+Robust multi-mode superconducting qubit designed with evolutionary algorithms
+Near-quantum limited axion dark matter search with the ORGAN experiment around 26 $\mu$eV
+Protecting Expressive Circuits with a Quantum Error Detection Code
+Quantum memories for squeezed and coherent superpositions in a driven-dissipative nonlinear oscillator
+Scalable spin squeezing with local interactions
+Scalable spin squeezing from finite-temperature easy-plane magnetism
+Routing and wavelength assignment in quantum key distribution networks: power control heuristics for quantum-classical multiplexing
+Microwave-Optical Entanglement from Pulse-pumped Electro-optomechanics
+Modular quantum processor with an all-to-all reconfigurable router
+Impact of Parallel Gating on Gate Fidelities in Linear, Square, and Star Arrays of Noisy Flip-Flop Qubits
+Purification and correction of quantum channels by commutation-derived quantum filters
+Search for QCD axion dark matter with transmon qubits and quantum circuit
+Estimate distillable entanglement and quantum capacity by squeezing useless entanglement
+Cryogenic microwave link for quantum local area networks
+Practical Trainable Temporal Postprocessor for Multistate Quantum Measurement
+Qudit-Generalization of the Qubit Echo and Its Application to a Qutrit-Based Toffoli Gate
+Improved Belief Propagation Decoding algorithms for surface codes
+All-photonic GKP-qubit repeater using analog-information-assisted multiplexed entanglement ranking
+Optical interferometer using two-mode squeezed light for enhanced chip-integrated quantum metrology
+Certifiable Lower Bounds of Wigner Negativity Volume and Non-Gaussian Entanglement with Conditional Displacement Gates
+Robust Hamiltonian Engineering for Interacting Qudit Systems
+Charge and Flux Noise from Nonequilibrium Quasiparticle Energy Distributions in Superconducting Wires
+Universal Euler-Cartan Circuits for Quantum Field Theories
+Multi-Purpose Architecture for Fast Reset and Protective Readout of Superconducting Qubits
+Quantum Thermodynamics of Open Quantum Systems: Nature of Thermal Fluctuations
+Experimentally probing Landauer's principle in the quantum many-body regime
+Engineering a multi-level bath for transmon with three-wave mixing and parametric drives
+Redundant string symmetry-based error correction: Demonstrations on quantum devices
+Dynamical quantum maps for single-qubit gates under universal non-Markovian noise
+Scalable Parity Architecture With a Shuttling-Based Spin Qubit Processor
+Persistent Topological Negativity in a High-Temperature Mixed-State
+Optimally robust shortcuts to population inversion in cat-state qubits
+Transmission of quantum information through quantum fields in curved spacetimes
+To reset, or not to reset -- that is the question
+Error budget of parametric resonance entangling gate with a tunable coupler
+Optimizing quantum error correction protocols with erasure qubits
+Surface Code with Imperfect Erasure Checks
+Long-lived metastable-qubit memory
+A Logarithmic Depth Quantum Carry-Lookahead Modulo $(2^n-1)$ Adder
+Fabrication and characterization of low-loss Al/Si/Al parallel plate capacitors for superconducting quantum information applications
+Error correction of transversal controlled-NOT gates for scalable surface code computation
+Flux-pulse-assisted Readout of a Fluxonium Qubit
+Wigner-negative states in the steady-state emission of a two-level system driven by squeezed light
+Something from Nothing: A Theoretical Framework for Enhancing or Enabling Cooling of a Mechanical Resonator via the anti-Stokes or Stokes Interaction and Zero-Photon Detection
+Weak force sensing based on optical parametric amplification in a cavity optomechanical system coupled in series with two oscillators
+Magnon-squeezing-enhanced weak magnetic field sensing in cavity-magnon system
+Measurement Induced Magic Resources
+Squeezing-enhanced quantum sensing with quadratic optomechanics
+Modeling phonon-mediated quasiparticle poisoning in superconducting qubit arrays
+Improved Belief Propagation Decoding Algorithms for Surface Codes
+Modular Architectures and Entanglement Schemes for Error-Corrected Distributed Quantum Computation
+Measurement-Based Long-Range Entangling Gates in Constant Depth
+Enhanced Superconducting Qubit Performance Through Ammonium Fluoride Etch
+Microwave driven singlet-triplet qubits enabled by site-dependent g-tensors
+Squeezing equivalence of quantum harmonic oscillators under different frequency modulations
+Individually-addressed quantum gate interactions using dynamical decoupling
+Tripartite quantum entanglement with squeezed optomechanics
+Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications
+Quantum Transfer Learning for MNIST Classification Using a Hybrid Quantum-Classical Approach
+Periodically poled thin-film lithium niobate ring Mach Zehnder coupling interferometer as an efficient quantum source of light
+Quasiparticle Dynamics in a Superconducting Qubit Irradiated by a Localized Infrared Source
