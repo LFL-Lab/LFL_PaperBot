@@ -60,23 +60,30 @@ class Journalist:
         self.nArticles = len(notes)
         return notes
         
-    def _clean_notes(self,i,entry):
+    def _clean_notes(self, i, entry):
         """ returns a dict from entry containing article content and link """
         summary = reduce(lambda x,y: sub(y,' ',x),
-                         [entry.summary,'Author[^>]+>','<[^>]+>','\n'])
+                        [entry.summary,'Author[^>]+>','<[^>]+>','\n'])
+
+        # Include abstract if available
+        abstract = getattr(entry, 'abstract', '')
+        full_text = summary + ' ' + abstract  # Combine summary and abstract
+        
         try:
-            data = {'text': entry.title +'\n'+ sub('\.','',entry.author) +'\n'+ summary, 
+            data = {'text': entry.title +'\n'+ sub('\.','',entry.author) +'\n'+ full_text, 
                     'link': entry.link,
                     'title': entry.title, 
                     'authors': sub('<[^>]+>','',entry.author),
-                    'summary': summary
+                    'summary': summary,
+                    'abstract': abstract
                     }
         except AttributeError:
-            data = {'text': entry.title +'\n'+ summary, 
+            data = {'text': entry.title +'\n'+ full_text, 
                     'link': entry.link,
                     'title': entry.title, 
                     'authors': 'No Author found in RSS',
-                    'summary': summary
+                    'summary': summary,
+                    'abstract': abstract
                     }
         except:
             e = sys.exc_info()[0]
@@ -84,14 +91,16 @@ class Journalist:
             self.errors.append('Error: {}'.format(e) +'\n'+ entry.link)
         finally:
             return data
-        
-    def _review_note(self,note,words):
+
+    def _review_note(self, note, words):
         """checks the note for any keywords"""
         self.titles.append(note['title'])
+
+        # Search in both summary and abstract
         match_list = [self._search_note(note['text'], word) for word in words]
         match_words = [x for x, y in zip(words, match_list) if y == 1]
-        dictionary = {'quality':sum(match_list),'matching': match_words,
-                      'entry': note}
+        dictionary = {'quality': sum(match_list), 'matching': match_words,
+                    'entry': note}
         return dictionary
     
     def _search_note(self,note,word):
