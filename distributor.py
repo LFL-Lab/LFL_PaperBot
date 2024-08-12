@@ -42,7 +42,6 @@ from printing_press import Editor
 
 
 def send_message(article):
-    print(f"Sending article: {article['title']}")
     return client.chat_postMessage(**article)
 
 
