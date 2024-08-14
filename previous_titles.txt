@@ -585,3 +585,8 @@ Characterizing the magnetic noise power spectrum of dark spins in diamond
 Gate Operations for Superconducting Qubits and Non-Markovianity
 Exchange control in a MOS double quantum dot made using a 300 mm wafer process
 Period-doubling in the phase dynamics of a shunted HgTe quantum well Josephson junction
+Quantum-limited generalized measurement for tunnel-coupled condensates
+Tunneling of fluxons via a Josephson resonant level
+Josephson tunnel junction arrays and Andreev weak links: linked by a single energy-phase relation
+Vibrational Squeezing via Spin Inversion Pulses
+Long-range Phase Coherence and Tunable Second Order ${\phi}_0$-Josephson Effect in a Dirac Semimetal $1T-PtTe_2$
