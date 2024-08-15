@@ -2,7 +2,15 @@ https://arxiv.org/rss/quant-ph
 http://www.nature.com/nphys/current_issue/rss
 http://feeds.aps.org/rss/recent/prl.xml
 http://feeds.aps.org/rss/recent/prx.xml
+http://feeds.aps.org/rss/recent/prxquantum.xml
 http://feeds.aps.org/rss/recent/prb.xml
+http://feeds.aps.org/rss/recent/pra.xml
+http://feeds.aps.org/rss/recent/rmp.xml
 http://feeds.aps.org/rss/recent/prapplied.xml
 http://feeds.nature.com/nature/rss/aop
 http://export.arxiv.org/rss/cond-mat
+https://www.nature.com/npjqi.rss
+https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science
+https://quantum-journal.org/feed/
+https://pubs.aip.org/rss/site_1000141/1000074.xml
+https://pubs.aip.org/rss/site_1000017/1000011.xml

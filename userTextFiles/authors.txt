@@ -1,119 +1,153 @@
-Irfan Siddiqi
-Michel Devoret
-Robert J. Schoelkopf
-Robert Schoelkopf
-R. Schoelkopf
-R.J. Schoelkopf
-John Clarke
-J. Clarke
-John Martinis
-J. Martinis
-David Schuster
-D. Schuster
-William D. Oliver
-William Oliver, W. Oliver, W.D. Oliver
-Andrew A. Houck
-Andrew Houck, A. Houck, A.A. Houck
-Kater W. Murch
-Kater Murch
-K. Murch
-K.W. Murch
-Rajamani Vijay
-Rajamani Vijayaraghavan
-R. Vijay
-R. Vijayaraghavan
-Nicolas Roch
-N. Roch
-Benjamin Huard
-B. Huard
-Jose Aumentado
-J. Aumentado
-Joe Aumentado
-John D. Teufel
-John Teufel
-J. Teufel
-J.D. Teufel
-Andreas Wallraff
+A. Baker
+A. Blais
+A. Clerk
+A. Dove
+A. Eddins
+A. Korotkov
+A. Narla
+A. Venkataraman
+A. Venkatramani
 A. Wallraff
+A.A. Clerk
+A.N. Korotkov
+A.W. Eddins
 Aashish A. Clerk
 Aashish Clerk
-A. Clerk
-A.A. Clerk
-Alexandre Blais
-A. Blais
-Andrew Baker
-A. Baker
-K. Birgitta Whaley
-K.B. Whaley
-Alexander N. Korotkov
+Aditya Venkataraman
+Aditya Venkatramani
 Alexander Korotkov
-A. Korotkov
-A.N. Korotkov
-Justin Dressel
-J. Dressel
-Christopher Macklin
-C. Macklin
-Steven Weber
-S. Weber
-Mollie Schwartz
-M. Schwartz
-Mollie E. Schwartz
-M.E. Schwartz
-Mollie Kimchi-Schwartz
-M.K. Schwartz
-Vinay V. Ramasesh
-Vinay Ramasesh
-V. Ramasesh
-V.V. Ramasesh
-Leigh Martin
-L. Martin
-Shay Gourgy
-S. Gourgy
-Shay Hacohen-Gourgy
-S.H. Gourgy
+Alexander N. Korotkov
+Alexandre Blais
 Allison Dove
-A. Dove
-David M. Toyli
-David Toyli
+Andreas Wallraff
+Andrew A. Houck
+Andrew Baker
+Andrew Eddins
+Andrew Houck
+Angela Kou
+A. Houck
+A.A. Houck
+Andrew W. Eddins
+Annirudh Narla
+B. Huard
+Benjamin Huard
+Britton Plourde
+B. Plourde
+B. L. T. Plourde
+Chen Wang
+C. Macklin
+Christopher Macklin
+D. Sank
+D. Schuster
+D. Slichter
 D. Toyli
 D.M. Toyli
-Eli M. Levenson-Falk
-Eli Levenson-Falk
+Daniel Sank
+Daniel Slichter
+Daniel Lidar
+D. A. Lidar
+Daniel A Lidar
+D A Lidar
+David M. Toyli
+David Schuster
+David Toyli
+E. Flurin
 E. Levenson-Falk
 E.M. Levenson-Falk
-Daniel Slichter
-D. Slichter
-Annirudh Narla
-A. Narla
-Zlatko Minev
-Z. Minev
-Aditya Venkataraman
-A. Venkataraman
-Aditya Venkatramani
-A. Venkatramani
-Nicholas Frattini
-N. Frattini
+Eli Levenson-Falk
+Eli M. Levenson-Falk
 Emmanuel Flurin
-E. Flurin
-Andrew W. Eddins
-Andrew Eddins
-A. Eddins
-A.W. Eddins
-William P. Livingston
-William Livingston
-W. Livingston
-W.P. Livingston
-John Mark Kreikebaum
+Irfan Siddiqi
+I. Siddiqi
+Ivan Pechenezhskiy
+J. Aumentado
+J. Clarke
+J. Colless
+J. Dressel
+J. Martinis
+J. Teufel
+J.D. Teufel
 J.M. Kreikebaum
 James Colless
-J. Colless
-Machiel Blok
-M. Blok
-Sydney Schreppler
-S. Schreppler
-Kevin O'Brien
+Jens Koch
+J. Koch
+Joe Aumentado
+John Clarke
+John D. Teufel
+John Mark Kreikebaum
+John Martinis
+John Teufel
+Jose Aumentado
+Justin Dressel
+K. Birgitta Whaley
+K. Murch
 K. O'Brien
-Landry Bretheau
+K.B. Whaley
+K.W. Murch
+Kater Murch
+Kater W. Murch
+Kevin O'Brien
 L. Bretheau
-Daniel Sank
-D. Sank
+L. Martin
+Landry Bretheau
+Leigh Martin
+M. Blok
+M. Schwartz
+M.E. Schwartz
+M.K. Schwartz
+Machiel Blok
+Michel Devoret
+M. Mirhosseini
+Mohammad Mirhosseini
+Mollie E. Schwartz
+Mollie Kimchi-Schwartz
+Mollie Schwartz
+N. Frattini
+N. Roch
+Nicholas Frattini
+Nicolas Roch
+Oskar Painter
+O. Painter
+R. Schoelkopf
+R. Vijay
+R. Vijayaraghavan
+R.J. Schoelkopf
+Rajamani Vijay
+Rajamani Vijayaraghavan
+Robert J. Schoelkopf
+Robert Schoelkopf
+R. McDermott
+Robert McDermott
+S. Gourgy
+S. Schreppler
+S. Weber
+S.H. Gourgy
+Shay Gourgy
+Shay Hacohen-Gourgy
+Shyam Shankar
+S. Shankar
+Simone Gasparinetti
+Steven Weber
+Steve Girvin
+Steven Girvin
+S. M. Girvin
+Sydney Schreppler
+V. Ramasesh
+V.V. Ramasesh
+Vinay Ramasesh
+Vinay V. Ramasesh
+V. Manucharyan
+Vlad Manucharyan
+Vladimir Manucharyan
+W. Livingston
+W.P. Livingston
+William D. Oliver
+William Livingston
+William Oliver
+W. Oliver
+W.D. Oliver
+William P. Livingston
+Wolfgang Pfaff
+Z. Minev
+Zlatko Minev
+
