@@ -590,3 +590,7 @@ Tunneling of fluxons via a Josephson resonant level
 Josephson tunnel junction arrays and Andreev weak links: linked by a single energy-phase relation
 Vibrational Squeezing via Spin Inversion Pulses
 Long-range Phase Coherence and Tunable Second Order ${\phi}_0$-Josephson Effect in a Dirac Semimetal $1T-PtTe_2$
+The x+y Floquet code: A simple example for topological quantum computation in the path integral approach
+Squeezed states of light after high-harmonic generation in excited atomic systems
+Randomized Benchmarking Protocol for Dynamic Circuits
+Demonstration of 3 V Programmable Josephson Junction Arrays Using Non-Integer-Multiple Logic
