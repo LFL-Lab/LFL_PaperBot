@@ -67,7 +67,8 @@ class Journalist:
 
         # Include abstract if available
         abstract = getattr(entry, 'abstract', '')
-        full_text = summary + ' ' + abstract  # Combine summary and abstract
+        # full_text = summary + ' ' + abstract  # Combine summary and abstract
+        full_text = summary # Only search in summary for now
         
         try:
             data = {'text': entry.title +'\n'+ sub('\.','',entry.author) +'\n'+ full_text, 
@@ -99,8 +100,7 @@ class Journalist:
         # Search in both summary and abstract
         match_list = [self._search_note(note['text'], word) for word in words]
         match_words = [x for x, y in zip(words, match_list) if y == 1]
-        dictionary = {'quality': sum(match_list), 'matching': match_words,
-                    'entry': note}
+        dictionary = {'quality': sum(match_list), 'matching': match_words,'entry': note}
         return dictionary
     
     def _search_note(self,note,word):
