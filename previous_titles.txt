@@ -614,3 +614,15 @@ On-Demand Driven Dissipation for Cavity Reset and Cooling
 Extended quantum process tomography of logical operations on an encoded bosonic qubit
 Semiconductor spin qubits
 Entanglement spectrum of matchgate circuits with universal and non-universal resources
+A controlled-squeeze gate in superconducting quantum circuits
+Experiments with the 4D Surface Code on a QCCD Quantum Computer
+Producing entangled photon pairs and quantum squeezed states in plasmas
+Strong tunable spin-spin coupling with cavity-magnon criticality
+Superconducting Qubits Above 20 GHz Operating over 200 mK
+Virtual Channel Purification
+Kerr nonlinearity and parametric amplification with an Al-InAs superconductor-semiconductor Josephson junction
+Low Overhead Qutrit Magic State Distillation
+Microwave signatures of topological superconductivity in planar Josephson junctions
+Multiplet Supercurrents in a Josephson Circuit
+Microwave Andreev bound state spectroscopy in a semiconductor-based Planar Josephson junction
+Josephson effect in a Fibonacci quasicrystal
