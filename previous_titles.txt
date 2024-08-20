@@ -626,3 +626,12 @@ Microwave signatures of topological superconductivity in planar Josephson juncti
 Multiplet Supercurrents in a Josephson Circuit
 Microwave Andreev bound state spectroscopy in a semiconductor-based Planar Josephson junction
 Josephson effect in a Fibonacci quasicrystal
+Fault-tolerant optical interconnects for neutral-atom arrays
+The quantum uncertainty relations of quantum channels
+Squeezed Light via Exciton-Phonon Cavity QED
+Atomic non-classicality: A study of the anti-Jaynes-Cummings interaction
+Enhancing quantum phase synchronization through squeezed-reservoir engineering
+Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and neuro-inspired computing
+Quantum circuits with multiterminal Josephson-Andreev junctions
+Mapping the topological proximity-induced gap of multiterminal Josephson junctions
+Magnetically modulated superconductor-graphene-superconductor (SGS) Josephson junctions and their tunability
