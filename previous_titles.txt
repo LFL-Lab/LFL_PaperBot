@@ -635,3 +635,12 @@ Angstrom-scale ion-beam engineering of ultrathin buried oxides for quantum and n
 Quantum circuits with multiterminal Josephson-Andreev junctions
 Mapping the topological proximity-induced gap of multiterminal Josephson junctions
 Magnetically modulated superconductor-graphene-superconductor (SGS) Josephson junctions and their tunability
+Number-operator-based inverse engineering technique in a two level system
+Error threshold in active steering protocols for few-qubit systems
+Bounding the systematic error in quantum error mitigation due to model violation
+Beyond the parametric approximation: pump depletion, entanglement and squeezing in macroscopic down-conversion
+Amplified Squeezed States: Analyzing Loss and Phase Noise
+Passive decoy-state quantum secure direct communication with heralded single-photon source
+Phase dependence of Kerr-based parametric amplification
+Development of a Nb-based semiconductor-superconductor hybrid platform
+Microwave Signatures of Topological Superconductivity in Planar Josephson Junctions
