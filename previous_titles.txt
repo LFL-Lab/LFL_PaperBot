@@ -644,3 +644,8 @@ Passive decoy-state quantum secure direct communication with heralded single-pho
 Phase dependence of Kerr-based parametric amplification
 Development of a Nb-based semiconductor-superconductor hybrid platform
 Microwave Signatures of Topological Superconductivity in Planar Josephson Junctions
+Calculating the energy profile of an enzymatic reaction on a quantum computer
+Stabilizer codes for Heisenberg-limited many-body Hamiltonian estimation
+Quantum Property Preservation
+M2CS: A Microwave Measurement and Control System for Large-scale Superconducting Quantum Processors
+High-performance multiqubit system with double-transmon couplers: Toward scalable superconducting quantum computers
