@@ -653,3 +653,6 @@ Automated Synthesis of Fault-Tolerant State Preparation Circuits for Quantum Err
 A Practical Introduction to Benchmarking and Characterization of Quantum Computers
 Dynamic phases induced by two-level system defects on driven qubits
 Error estimation of different schemes to measure spin-squeezing inequalities
+Single-shot quantum error correction in intertwined toric codes
+Optimized mechanical quadrature squeezing beyond the 3-dB limit via a gradient-descent algorithm
+Simultaneous nonreciprocal photon blockade via directional parametric amplification
