@@ -656,3 +656,8 @@ Error estimation of different schemes to measure spin-squeezing inequalities
 Single-shot quantum error correction in intertwined toric codes
 Optimized mechanical quadrature squeezing beyond the 3-dB limit via a gradient-descent algorithm
 Simultaneous nonreciprocal photon blockade via directional parametric amplification
+A General Framework for Gradient-Based Optimization of Superconducting Quantum Circuits using Qubit Discovery as a Case Study
+High-distance codes with transversal Clifford and $T$-gates
+Single-qubit rotations on a binomial code without ancillary qubits
+Tutorial: projector approach to master equations for open quantum systems
+Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup Problem
