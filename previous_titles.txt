@@ -661,3 +661,13 @@ High-distance codes with transversal Clifford and $T$-gates
 Single-qubit rotations on a binomial code without ancillary qubits
 Tutorial: projector approach to master equations for open quantum systems
 Demonstration of Algorithmic Quantum Speedup for an Abelian Hidden Subgroup Problem
+Benchmarking the algorithmic reach of a high-Q cavity qudit
+Robust optimal control for a systematic error in the control amplitude of transmon qubits
+Quantum error correction below the surface code threshold
+Quantum state transfer between superconducting cavities via exchange-free interactions
+Dynamic compensation for pump-induced frequency shift in Kerr-cat qubit initialization
+Bosonic Quantum Error Correction with Neutral Atoms in Optical Dipole Traps
+Suppressing Correlated Noise in Quantum Computers via Context-Aware Compiling
+Flux-tunable Josephson effect in a four-terminal junction
+Possible Fano effect and suppression of Andreev reflection in La$_3$Ni$_2$O$_7$
+A 4–8 GHz kinetic inductance traveling-wave parametric amplifier using four-wave mixing with near quantum-limited noise performance

@@ -41,9 +41,50 @@ import slack
 from printing_press import Editor
 
 
-def send_message(article):
-    return client.chat_postMessage(**article)
+def truncate_text(text, max_length=2990):
+    """
+    Truncate the text to the specified maximum length, adding an ellipsis if truncated.
+    
+    Args:
+    text (str): The text to be truncated.
+    max_length (int): The maximum allowed length of the text.
+    
+    Returns:
+    str: The truncated text with ellipsis if necessary.
+    """
+    return text if len(text) <= max_length else text[:max_length] + "..."
 
+def process_blocks(blocks):
+    """
+    Process each block in the Slack message to ensure text length is within allowed limits.
+    
+    Args:
+    blocks (list): A list of blocks in the Slack message.
+    
+    Returns:
+    list: A list of processed blocks with text truncated if necessary.
+    """
+    for block in blocks:
+        if 'text' in block and isinstance(block['text'], dict) and 'text' in block['text']:
+            block['text']['text'] = truncate_text(block['text']['text'])
+    return blocks
+
+def send_message(article):
+    """
+    Send a message to Slack, ensuring no block's text exceeds the maximum length.
+    
+    Args:
+    article (dict): The article data to send.
+    
+    Returns:
+    slack.web.client.WebClient.chat_postMessage: The response from the Slack API.
+    """
+    # Process blocks to ensure text length is within limits
+    if 'blocks' in article:
+        article['blocks'] = process_blocks(article['blocks'])
+
+    response = client.chat_postMessage(**article)
+    return response
 
 if __name__ == "__main__":
     ssl_context = ssl_lib.create_default_context(cafile=certifi.where())
