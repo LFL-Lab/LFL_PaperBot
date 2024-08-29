@@ -676,3 +676,8 @@ Squeezing light to get non-classical work in quantum engines
 Engineering a Josephson junction chain for the simulation of the clock model
 Quantum sensing in Kerr parametric oscillators
 Squeezed state protection of fine structure in "Poor Man's Majorana" via quantum spin coupling
+Initial Correlations and Time-Retarded Noise in Dynamical Decoupling Schemes for Superconducting Qubits
+Artificially intelligent Maxwell's demon for optimal control of open quantum systems
+Comprehensive explanation of ZZ coupling in superconducting qubits
+Beating the Ramsey limit on sensing with deterministic qubit control
+Theoretical study of superconducting diode effect in planar $T_{d}-MoTe_{2}$ Josephson junctions
