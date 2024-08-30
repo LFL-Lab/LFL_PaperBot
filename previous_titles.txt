@@ -681,3 +681,10 @@ Artificially intelligent Maxwell's demon for optimal control of open quantum sys
 Comprehensive explanation of ZZ coupling in superconducting qubits
 Beating the Ramsey limit on sensing with deterministic qubit control
 Theoretical study of superconducting diode effect in planar $T_{d}-MoTe_{2}$ Josephson junctions
+Squeezed Thermal Reservoir Engineering via Linear Interactions
+Circuit QED Emission Spectra in the Ultrastrong Coupling Regime: How They Differ from Cavity QED
+Long-Range $ZZ$ Interaction via Resonator-Induced Phase in Superconducting Qubits
+Signatures of a Spin-Active Interface and Locally Enhanced Zeeman field in a Superconductor-Chiral Material Heterostructure
+A small footprint travelling-wave parametric amplifier with a high Signal-to-Noise Ratio improvement in a wide band
+Squeezed dual-comb spectroscopy
+Randomized semi-quantum matrix processing
