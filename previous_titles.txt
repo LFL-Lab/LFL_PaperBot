@@ -688,3 +688,11 @@ Signatures of a Spin-Active Interface and Locally Enhanced Zeeman field in a Sup
 A small footprint travelling-wave parametric amplifier with a high Signal-to-Noise Ratio improvement in a wide band
 Squeezed dual-comb spectroscopy
 Randomized semi-quantum matrix processing
+Resource state generation in a hybrid matter-photon quantum information processor
+Modeling flux tunability in Josephson Traveling Wave Parametric Amplifiers with an open-source frequency-domain simulator
+Nonlinear dynamical Casimir effect and Unruh entanglement in waveguide QED with parametrically modulated coupling
+Josephson Traveling Wave Parametric Amplifiers with Plasma oscillation phase-matching
+Tight inequalities for nonclassicality of measurement statistics
+Overcoming the Coherence Time Barrier in Quantum Machine Learning on Temporal Data
+Reducing the error rate of a superconducting logical qubit using analog readout information
+Non-Hermitian multiterminal phase-biased Josephson junctions
