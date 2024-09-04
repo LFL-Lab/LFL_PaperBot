@@ -696,3 +696,13 @@ Tight inequalities for nonclassicality of measurement statistics
 Overcoming the Coherence Time Barrier in Quantum Machine Learning on Temporal Data
 Reducing the error rate of a superconducting logical qubit using analog readout information
 Non-Hermitian multiterminal phase-biased Josephson junctions
+Learning to Synthesize Fault-Tolerant Quantum Circuits by Diagonalization
+Type-Based Verification of Connectivity Constraints in Lattice Surgery
+On encoded quantum gate generation by iterative Lyapunov-based methods
+Characterizing Noise of Driven Controlled Field Using the Central Spin Model
+An almost-linear time decoding algorithm for quantum LDPC codes under circuit-level noise
+Kerr magnon assisted asymptotic stationary photon-phonon squeezing
+An NV- center in magnesium oxide as a spin qubit for hybrid quantum technologies
+Beyond the Carnot Limit in the Internal Cycles of a Quantum Heat Engine under Finite Heat Reservoirs
+Entanglement generation via single-qubit rotations in a torn Hilbert space
+A Superfluid Helium Micromechanical Quantum Device as an Artificial Atom
