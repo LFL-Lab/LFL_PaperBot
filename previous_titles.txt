@@ -706,3 +706,13 @@ An NV- center in magnesium oxide as a spin qubit for hybrid quantum technologies
 Beyond the Carnot Limit in the Internal Cycles of a Quantum Heat Engine under Finite Heat Reservoirs
 Entanglement generation via single-qubit rotations in a torn Hilbert space
 A Superfluid Helium Micromechanical Quantum Device as an Artificial Atom
+Effective Distance of Higher Dimensional HGPs and Weight-Reduced Quantum LDPC Codes
+The exact lower bound of CNOT-complexity for fault-tolerant quantum Fourier transform
+Thermometry Based on a Superconducting Qubit
+Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity
+Heisenberg-limit spin squeezing with spin Bogoliubov Hamiltonian
+Semiquantum private comparison based on Bell states without quantum measurements from the classical user
+Disorder-tunable entanglement at infinite temperature
+Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing
+Fast $ZZ$-free entangling gates for superconducting qubits assisted by a driven resonator
+Ballistic Andreev interferometers
