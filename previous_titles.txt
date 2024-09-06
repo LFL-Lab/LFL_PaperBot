@@ -716,3 +716,10 @@ Disorder-tunable entanglement at infinite temperature
 Nonlinearity of the Fidelity in Open Qudit Systems: Gate and Noise Dependence in High-dimensional Quantum Computing
 Fast $ZZ$-free entangling gates for superconducting qubits assisted by a driven resonator
 Ballistic Andreev interferometers
+Progress in Trapped-Ion Quantum Simulation
+High Energy Physics from Low Energy Physics
+Generating arbitrary superpositions of nonclassical quantum harmonic oscillator states
+Phonon-mediated quantum gates in trapped ions coupled to an ultracold atomic gas
+Hardware-Assisted Parameterized Circuit Execution
+Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
+Role of anisotropic confining potential and elliptical driving in dynamics of a Ge hole qubit
