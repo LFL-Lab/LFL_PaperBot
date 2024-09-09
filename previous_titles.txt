@@ -723,3 +723,7 @@ Phonon-mediated quantum gates in trapped ions coupled to an ultracold atomic gas
 Hardware-Assisted Parameterized Circuit Execution
 Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
 Role of anisotropic confining potential and elliptical driving in dynamics of a Ge hole qubit
+Squeezing Enhancement in Lossy Multi-Path Atom Interferometers
+Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes
+Lightcone shading for classically accelerated quantum error mitigation
+CMOS compatibility of semiconductor spin qubits
