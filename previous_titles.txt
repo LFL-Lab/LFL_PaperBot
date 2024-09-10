@@ -727,3 +727,17 @@ Squeezing Enhancement in Lossy Multi-Path Atom Interferometers
 Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes
 Lightcone shading for classically accelerated quantum error mitigation
 CMOS compatibility of semiconductor spin qubits
+Asymmetric Bidirectional Quantum Teleportation: Arbitrary bi-modal Information State
+Quantum-enhanced dark matter detection with in-cavity control: mitigating the Rayleigh curse
+Quantum error correction of motional dephasing using optical dressing
+Fast multiplexed superconducting qubit readout with intrinsic Purcell filtering
+Platonic dynamical decoupling sequences for qudits
+Towards Distributed Quantum Error Correction for Distributed Quantum Computing
+Noise Suppression via Coherent Quantum Feedback: a Schr{\"o}dinger Picture Approach
+Universal Quantum Gate Set for Gottesman-Kitaev-Preskill Logical Qubits
+Preparing Schr\"odinger cat states in a microwave cavity using a neural network
+Hardware-Efficient Fault Tolerant Quantum Computing with Bosonic Grid States in Superconducting Circuits
+Implementing a synthetic magnetic vector potential in a 2D superconducting qubit array
+Equilibrium Parametric Amplification in Raman-Cavity Hybrids
+Planar Hall supercurrent and {\delta}{\phi}-shift in the topological Josephson junction
+Scalable on-chip multiplexing of silicon single and double quantum dots
