@@ -741,3 +741,13 @@ Implementing a synthetic magnetic vector potential in a 2D superconducting qubit
 Equilibrium Parametric Amplification in Raman-Cavity Hybrids
 Planar Hall supercurrent and {\delta}{\phi}-shift in the topological Josephson junction
 Scalable on-chip multiplexing of silicon single and double quantum dots
+Resource-efficient context-aware dynamical decoupling embedding for arbitrary large-scale quantum algorithms
+Transmon qubit modeling and characterization for Dark Matter search
+Accelerating Dissipative State Preparation with Adaptive Open Quantum Dynamics
+Efficiently catching entangled microwave photons from a quantum transducer with shaped optical pumps
+Nonreciprocal tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering via directional quantum squeezing
+Experimental investigation of coherent ergotropy in a single spin system
+Coherent Control of a Long-Lived Nuclear Memory Spin in a Germanium-Vacancy Multi-Qubit Node
+Tailoring the light-matter interaction for high-fidelity holonomic gate operations in multiple systems
+Deterministic generation of a 20-qubit two-dimensional photonic cluster state
+Tantalum thin films sputtered on silicon and on different seed layers: material characterization and coplanar waveguide resonator performance
