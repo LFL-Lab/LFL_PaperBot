@@ -751,3 +751,12 @@ Coherent Control of a Long-Lived Nuclear Memory Spin in a Germanium-Vacancy Mult
 Tailoring the light-matter interaction for high-fidelity holonomic gate operations in multiple systems
 Deterministic generation of a 20-qubit two-dimensional photonic cluster state
 Tantalum thin films sputtered on silicon and on different seed layers: material characterization and coplanar waveguide resonator performance
+Concomitant Entanglement and Control Criticality Driven by Collective Measurements
+Optical Gottesman-Kitaev-Preskill Qubit Generation via Approximate Squeezed Schr\"odinger Cat State Breeding
+Thermalization Dynamics of Entanglement and non-Locality of Filtered Two-Mode Squeezed States
+Development of TiN/AlN-based superconducting qubit components
+High-contrast ZZ interaction using superconducting qubits with opposite-sign anharmonicity
+Suppression of static ZZ interaction in an all-transmon quantum processor
+Observation of topological transitions associated with a Weyl exceptional ring
+Quasiparticle trapping in quench dynamics of superconductor/quantum dot/ superconductor Josephson junctions
+Enhancement of topological regime in elongated Josephson junctions
