@@ -760,3 +760,10 @@ Suppression of static ZZ interaction in an all-transmon quantum processor
 Observation of topological transitions associated with a Weyl exceptional ring
 Quasiparticle trapping in quench dynamics of superconductor/quantum dot/ superconductor Josephson junctions
 Enhancement of topological regime in elongated Josephson junctions
+Long distance spin shuttling enabled by few-parameter velocity optimization
+In-situ tunable interaction with an invertible sign between a fluxonium and a post cavity
+Contrasting Statistical Phase Estimation with the Variational Quantum Eigensolver in the era of Early Fault Tolerant Quantum Computation
+Photon pair generation via down-conversion in III-V semiconductor microrings: modal dispersion and quasi-phase matching
+Experimental error suppression in Cross-Resonance gates via multi-derivative pulse shaping
+Useful autonomous quantum machines
+Enhancing Quantum Machine Learning: The Power of Non-Linear Optical Reproducing Kernels
