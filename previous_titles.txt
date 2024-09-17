@@ -771,3 +771,16 @@ CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimentional N
 Remote Entangling Gates for Spin Qubits in Quantum Dots using an Offset-Charge-Sensitive Transmon Coupler
 Control of solid-state nuclear spin qubits using an electron spin-1/2
 Boson sampling with self-generation of squeezing via interaction of photons and atoms
+Frequency-dependent squeezing via Einstein-Podolsky-Rosen entanglement based on silicon nitride microring resonators
+Heat current and fluctuations between a dissipative qubit and a monitor under continuous measurement and feedback
+Mode hitching in traveling-wave optical parametric amplification
+Disentangling the Impact of Quasiparticles and Two-Level Systems on the Statistics of Superconducting Qubit Lifetime
+Ion-mediated interaction and controlled phase gate operation between two atomic qubits
+Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs
+Intracavity squeezing for Kerr QND Measurement scheme
+Harnessing Nth Root Gates for Energy Storage
+An explicit tensor notation for quantum computing
+Resource-efficient photonic quantum computation with high-dimensional cluster states
+Toolbox for nonreciprocal dispersive models in circuit QED
+Nonequilibrium cotunneling in quantum dot Josephson junctions
+Pursuing high-fidelity control of spin qubits in natural Si/SiGe quantum dot
