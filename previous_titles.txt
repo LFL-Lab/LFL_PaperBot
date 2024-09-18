@@ -784,3 +784,13 @@ Resource-efficient photonic quantum computation with high-dimensional cluster st
 Toolbox for nonreciprocal dispersive models in circuit QED
 Nonequilibrium cotunneling in quantum dot Josephson junctions
 Pursuing high-fidelity control of spin qubits in natural Si/SiGe quantum dot
+Observation of Interface Piezoelectricity in Superconducting Devices on Silicon
+Overcoming the Standard Quantum Limit with Electro-Optomechanical Hybrid System for Enhanced Force Sensing
+Quantum-limited optical lever measurement of a torsion oscillator
+Adaptive Phase Estimation with Squeezed Vacuum Approaching the Quantum Limit
+Covert Quantum Communication Over Optical Channels
+Safeguarding Oscillators and Qudits with Distributed Two-Mode Squeezing
+Improving threshold for fault-tolerant color code quantum computing by flagged weight optimization
+Error correction of transversal CNOT gates for scalable surface code computation
+Improving Threshold for Fault-Tolerant Color-Code Quantum Computing by Flagged Weight Optimization
+Cavity-Enhanced Optical Manipulation of Antiferromagnetic Magnon-Pairs
