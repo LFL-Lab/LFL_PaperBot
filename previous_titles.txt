@@ -795,3 +795,11 @@ Error correction of transversal CNOT gates for scalable surface code computation
 Improving Threshold for Fault-Tolerant Color-Code Quantum Computing by Flagged Weight Optimization
 Cavity-Enhanced Optical Manipulation of Antiferromagnetic Magnon-Pairs
 Advanced CMOS manufacturing of superconducting qubits on 300 mm wafers
+Topological argument for robustness of coherent states in quantum optics
+Qubit-State Purity Oscillations from Anisotropic Transverse Noise
+Experimental sample-efficient quantum state tomography via parallel measurements
+Optimal sensing of photon addition and subtraction on nonclassical light
+Entanglement-enhanced quantum sensing via optimal global control
+Industrial 300$\,$mm wafer processed spin qubits in natural silicon/silicon-germanium
+CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimensional Neuroimaging Data
+Squeezing the quantum noise of a gravitational-wave detector below the standard quantum limit
