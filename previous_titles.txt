@@ -803,3 +803,13 @@ Entanglement-enhanced quantum sensing via optimal global control
 Industrial 300$\,$mm wafer processed spin qubits in natural silicon/silicon-germanium
 CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimensional Neuroimaging Data
 Squeezing the quantum noise of a gravitational-wave detector below the standard quantum limit
+Entanglemons: Cross-platform protected qubits from entanglement
+Hardware-efficient quantum error correction using concatenated bosonic qubits
+Generation of strong mechanical squeezing through the joint effect of two-tone driving and parametric pumping
+Quantum heat engine based on quantum interferometry: the SU(1,1) Otto cycle
+Entanglement, Spin Squeezing and Quantum Sensing in a Spin-5/2 Heisenberg Molecular Iron(III) Triangle
+Efficient fault-tolerant code switching via one-way transversal CNOT gates
+Improved Electron-Nuclear Quantum Gates for Spin Sensing and Control
+A fault-tolerant pairwise measurement-based code on eight qubits
+Squeezing the quantum noise of a gravitational-wavedetector below the standard quantum limit
+Nonreciprocal Equilibrium 4$\pi$-Periodic Josephson Effect from Poor Man's Majorana Zero Modes
