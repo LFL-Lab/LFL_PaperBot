@@ -813,3 +813,12 @@ Improved Electron-Nuclear Quantum Gates for Spin Sensing and Control
 A fault-tolerant pairwise measurement-based code on eight qubits
 Squeezing the quantum noise of a gravitational-wavedetector below the standard quantum limit
 Nonreciprocal Equilibrium 4$\pi$-Periodic Josephson Effect from Poor Man's Majorana Zero Modes
+Flag Proxy Networks: Tackling the Architectural, Scheduling, and Decoding Obstacles of Quantum LDPC codes
+Defending crosstalk-mediated quantum attacks using dynamical decoupling
+Quantum Error Correction of Qudits Beyond Break-even
+Synthesis of Energy-Conserving Quantum Circuits with XY interaction
+Quantum computer-enabled receivers for optical communication
+Extended-Josephson-junction qubit system
+Boosting the generation rate of squeezed single-photon states by generalized photon subtraction
+Fluctuation instabilities via internal resonance in a multimode membrane as a mechanism for frequency combs
+Fast Virtual Gate Extraction For Silicon Quantum Dot Devices
