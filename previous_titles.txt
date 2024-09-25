@@ -822,3 +822,7 @@ Extended-Josephson-junction qubit system
 Boosting the generation rate of squeezed single-photon states by generalized photon subtraction
 Fluctuation instabilities via internal resonance in a multimode membrane as a mechanism for frequency combs
 Fast Virtual Gate Extraction For Silicon Quantum Dot Devices
+Effect of Etching Methods on Dielectric Losses in Transmons
+A real-time, scalable, fast and highly resource efficient decoder for a quantum computer
+Concurrent spin squeezing and light squeezing in an atomic ensemble
+Efficient and precise quantum simulation of ultra-relativistic quark-nucleus scattering
