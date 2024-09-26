@@ -826,3 +826,9 @@ Effect of Etching Methods on Dielectric Losses in Transmons
 A real-time, scalable, fast and highly resource efficient decoder for a quantum computer
 Concurrent spin squeezing and light squeezing in an atomic ensemble
 Efficient and precise quantum simulation of ultra-relativistic quark-nucleus scattering
+Quantum error correction-inspired multiparameter quantum metrology
+A Hybrid Quantum Neural Network for Split Learning
+Fast unconditional reset and leakage reduction in fixed-frequency transmon qubits
+Scalable quantum eraser for superconducting integrated circuits
+Squeezing Quantum States in Three-Dimensional Twisted Crystals
+Non-collapsing electric readout of arbitrary Andreev qubits
