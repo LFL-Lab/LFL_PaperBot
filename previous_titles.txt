@@ -832,3 +832,6 @@ Fast unconditional reset and leakage reduction in fixed-frequency transmon qubit
 Scalable quantum eraser for superconducting integrated circuits
 Squeezing Quantum States in Three-Dimensional Twisted Crystals
 Non-collapsing electric readout of arbitrary Andreev qubits
+Preserving phase coherence and linearity in cat qubits with exponential bit-flip suppression
+Observation of Transient Trion Induced by Ultrafast Charge Transfer in Graphene/MoS2 Heterostructure
+Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions
