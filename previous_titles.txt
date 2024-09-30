@@ -836,3 +836,4 @@ Preserving phase coherence and linearity in cat qubits with exponential bit-flip
 Observation of Transient Trion Induced by Ultrafast Charge Transfer in Graphene/MoS2 Heterostructure
 Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions
 Direct Microwave Spectroscopy of Andreev Bound States in Planar $\mathrm{Ge}$ Josephson Junctions
+Self-consistent Keldysh-Usadel formalism unravels crossed Andreev reflection
