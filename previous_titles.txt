@@ -837,3 +837,13 @@ Observation of Transient Trion Induced by Ultrafast Charge Transfer in Graphene/
 Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions
 Direct Microwave Spectroscopy of Andreev Bound States in Planar $\mathrm{Ge}$ Josephson Junctions
 Self-consistent Keldysh-Usadel formalism unravels crossed Andreev reflection
+Effects of Systematic Error on Quantum-Enhanced Atom Interferometry
+Protected Fluxonium Control with Sub-harmonic Parametric Driving
+High-performance conditional-driving gate for Kerr parametric oscillator qubits
+Deployed quantum link characterization via Bayesian ancilla-assisted process tomography
+The quantum trajectory sensing problem and its solution
+Systematic construction of multi-controlled Pauli gate decompositions with optimal $T$-count
+S-QGPU: Shared Quantum Gate Processing Unit for Distributed Quantum Computing
+Optimized continuous dynamical decoupling via differential geometry and machine learning
+Enhanced scattering from an almost-periodic optical temporal slab
+Pairing type symmetry in cuprate superconductors
