@@ -847,3 +847,9 @@ S-QGPU: Shared Quantum Gate Processing Unit for Distributed Quantum Computing
 Optimized continuous dynamical decoupling via differential geometry and machine learning
 Enhanced scattering from an almost-periodic optical temporal slab
 Pairing type symmetry in cuprate superconductors
+IBM Quantum Computers: Evolution, Performance, and Future Directions
+Flux-pump induced degradation of $T_1$ for dissipative cat qubits
+Thermalization of a flexible microwave stripline measured by a superconducting qubit
+MaxSAT decoders for arbitrary CSS codes
+Circuit QED Spectra in the Ultrastrong Coupling Regime: How They Differ from Cavity QED
+Buried Dirac points in Quantum Spin Hall Insulators: Implications for edge transport and Majorana Kramer Pairs
