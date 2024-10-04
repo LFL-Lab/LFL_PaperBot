@@ -853,3 +853,8 @@ Thermalization of a flexible microwave stripline measured by a superconducting q
 MaxSAT decoders for arbitrary CSS codes
 Circuit QED Spectra in the Ultrastrong Coupling Regime: How They Differ from Cavity QED
 Buried Dirac points in Quantum Spin Hall Insulators: Implications for edge transport and Majorana Kramer Pairs
+Matchgate hierarchy: A Clifford-like hierarchy for deterministic gate teleportation in matchgate circuits
+Simple Construction of Qudit Floquet Codes on a Family of Lattices
+Low-overhead fault-tolerant quantum computation by gauging logical operators
+Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights
+Photon-mediated long-range coupling of two Andreev pair qubits
