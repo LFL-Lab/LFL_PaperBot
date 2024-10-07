@@ -858,3 +858,13 @@ Simple Construction of Qudit Floquet Codes on a Family of Lattices
 Low-overhead fault-tolerant quantum computation by gauging logical operators
 Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights
 Photon-mediated long-range coupling of two Andreev pair qubits
+Machine Learning Aided Scattering Mitigation in a Quantum System
+GTQCP: Greedy Topology-Aware Quantum Circuit Partitioning
+Decoherence of surface phonons in a quantum acoustic system
+LEGO: QEC Decoding System Architecture for Dynamic Circuits
+Foundational Issues in Dynamical Casimir Effect and Analogue Features in Cosmological Particle Creation
+Combined Dissipative and Hamiltonian Confinement of Cat Qubits
+Characterization of entanglement on superconducting quantum computers of up to 414 qubits
+Thermodynamics of the quantum Mpemba effect
+Implementing Josephson Junction spectroscopy in a scanning tunneling microscope
+High-fidelity spin readout via the double latching mechanism
