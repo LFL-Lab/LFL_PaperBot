@@ -868,3 +868,14 @@ Characterization of entanglement on superconducting quantum computers of up to 4
 Thermodynamics of the quantum Mpemba effect
 Implementing Josephson Junction spectroscopy in a scanning tunneling microscope
 High-fidelity spin readout via the double latching mechanism
+Simultaneous Multiparty Quantum Teleportation Supervised by a Controller
+Geometry and Entanglement of Super-Qubit Quantum States
+STIRAP-Inspired Robust Gates for a Superconducting Dual-Rail Qubit
+Single-shot preparation of hypergraph product codes via dimension jump
+Demonstrating real-time and low-latency quantum error correction with superconducting qubits
+Fundamental principles and applications of nonlinear optical phenomena in classical and quantum electrodynamics
+Fast, tunable, high fidelity cZ-gates between superconducting qubits with parametric microwave control of ZZ-coupling
+Resisting high-energy impact events through gap engineering in superconducting qubit arrays
+Josephson junctions, superconducting circuits, and qubit for quantum technologies
+Gatemonium: A Voltage-Tunable Fluxonium
+Entangled photon-pair emission in circuit QED from a Cooper pair splitter
