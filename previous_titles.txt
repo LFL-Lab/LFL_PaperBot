@@ -879,3 +879,14 @@ Resisting high-energy impact events through gap engineering in superconducting q
 Josephson junctions, superconducting circuits, and qubit for quantum technologies
 Gatemonium: A Voltage-Tunable Fluxonium
 Entangled photon-pair emission in circuit QED from a Cooper pair splitter
+Experimental realization of direct entangling gates between dual-type qubits
+On the Computational Power of QAC0 with Barely Superlinear Ancillae
+Tailoring fusion-based photonic quantum computing schemes to quantum emitters
+Entanglement, information and non-equilibrium phase transitions in long-range open quantum Ising chains
+Exchange-Only Spin-Orbit Qubits in Silicon and Germanium
+Crystallinity in Niobium oxides: A pathway to mitigate Two-Level System Defects in Niobium 3D Resonator for quantum applications
+Quantum Vector Signal Analyzer: Wideband Electric Field Sensing via Motional Raman Transitions
+Optical and mechanical squeezing with coherent feedback control beyond the resolved-sideband regime
+Epitaxial aluminum layer on antimonide heterostructures for exploring Josephson junction effects
+Creation of two-dimensional circular motion of charge qubit
+Drag conductance induced by neutral-mode localization in fractional quantum Hall junctions
