@@ -890,3 +890,9 @@ Optical and mechanical squeezing with coherent feedback control beyond the resol
 Epitaxial aluminum layer on antimonide heterostructures for exploring Josephson junction effects
 Creation of two-dimensional circular motion of charge qubit
 Drag conductance induced by neutral-mode localization in fractional quantum Hall junctions
+Toward hybrid quantum simulations with qubits and qumodes on trapped-ion platforms
+Geometric structure and transversal logic of quantum Reed-Muller codes
+Microwave-activated two-qubit gates for fixed-coupling and fixed-frequency transmon qubits
+Flat-band (de)localization emulated with a superconducting qubit array
+Absence of "fractional ac Josephson effect" in superconducting junctions
+Driving a Josephson Traveling Wave Parametric Amplifier into chaos: effects of a non-sinusoidal current-phase relation
