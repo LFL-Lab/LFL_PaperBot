@@ -896,3 +896,4 @@ Microwave-activated two-qubit gates for fixed-coupling and fixed-frequency trans
 Flat-band (de)localization emulated with a superconducting qubit array
 Absence of "fractional ac Josephson effect" in superconducting junctions
 Driving a Josephson Traveling Wave Parametric Amplifier into chaos: effects of a non-sinusoidal current-phase relation
+Casimir effect in Josephson junctions
