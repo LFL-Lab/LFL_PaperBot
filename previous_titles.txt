@@ -897,3 +897,15 @@ Flat-band (de)localization emulated with a superconducting qubit array
 Absence of "fractional ac Josephson effect" in superconducting junctions
 Driving a Josephson Traveling Wave Parametric Amplifier into chaos: effects of a non-sinusoidal current-phase relation
 Casimir effect in Josephson junctions
+Conditional Motional Squeezing of an Optomechanical Oscillator Approaching the Quantum Regime
+High-Coherence Quantum Acoustics with Planar Superconducting Qubits
+Application of zero-noise extrapolation-based quantum error mitigation to a silicon spin qubit
+Complementing the transmon by integrating a geometric shunt inductor
+Individual solid-state nuclear spin qubits with coherence exceeding seconds
+Nonlocality under Jaynes-Cummings evolution: beyond pseudospin operators
+Tachyonic and parametric instabilities in an extended bosonic Josephson Junction
+Microwave photon detection at parametric criticality
+Long-range-enhanced surface codes
+Simulating Heavy-Hex Transverse Field Ising Model Magnetization Dynamics Using Programmable Quantum Annealers
+Spectroscopic measurements and models of energy deposition in the substrate of quantum circuits by natural ionizing radiation
+Non-equilibrium cotunneling in interacting Josephson junctions
