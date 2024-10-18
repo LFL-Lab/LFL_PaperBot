@@ -925,3 +925,10 @@ Superconducting flux qubit with ferromagnetic Josephson $\pi$-junction operating
 Observation of Discrete Charge States of a Coherent Two-Level System in a Superconducting Qubit
 Using Bifluxon Tunneling to Protect the Fluxonium Qubit
 Interedge backscattering in time-reversal symmetric quantum spin Hall Josephson junctions
+Autonomous Stabilization of Floquet States Using Static Dissipation
+Single-shot and measurement-based quantum error correction via fault complexes
+Measurement-free, scalable and fault-tolerant universal quantum computing
+Co-designing Transmon devices for control with simple pulses
+The Optimization of Flux Trajectories for the Adiabatic Controlled-Z Gate on Split-Tunable Transmons
+Suppressed paramagnetism in amorphous Ta$_2$O$_{5-x}$ oxides and its link to superconducting qubit performance
+Superconducting Diode Effect in Quantum Spin Hall Insulator-based Josephson Junctions
