@@ -936,3 +936,19 @@ Experimental protocol for observing single quantum many-body scars with transmon
 Simulating electronic structure on bosonic quantum computers
 High Precision Fault-Tolerant Quantum Circuit Synthesis by Diagonalization using Reinforcement Learning
 Dissipatively stabilized squeezed-cat qubits and their application in thermometry
+LUCI in the Surface Code with Dropouts
+Enhancing entanglement in nano-mechanical oscillators via hybrid optomechanical systems
+Preparing Spin Squeezed States via Adaptive Genetic Algorithm
+Engineering the Environment of a Superconducting Qubit with an Artificial Giant Atom
+Geometric phase for mixed squeezed-coherent states
+Reservoir-engineered spin squeezing in quantum hybrid solid-state platforms
+Cryogenic Control and Readout Integrated Circuits for Solid-State Quantum Computing
+Strong photon coupling to high-frequency antiferromagnetic magnons via topological surface states
+Transport properties and quantum phase transitions in one-dimensional superconductor-ferromagnetic insulator heterostructures
+A 300 mm foundry silicon spin qubit unit cell exceeding 99% fidelity in all operations
+Semiconductor Circuits for Quantum Computing with Electronic Wave Packets
+Hardness results for decoding the surface code with Pauli noise
+Error-Mitigated Quantum Random Access Memory
+Generating Fock-state superpositions from coherent states by selective measurement
+Limits of Noisy Quantum Metrology with Restricted Quantum Controls
+Probing the Berezinskii-Kosterlitz-Thouless vortex unbinding transition in two-dimensional superconductors using local noise magnetometry
