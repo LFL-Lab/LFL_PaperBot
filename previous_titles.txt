@@ -952,3 +952,10 @@ Error-Mitigated Quantum Random Access Memory
 Generating Fock-state superpositions from coherent states by selective measurement
 Limits of Noisy Quantum Metrology with Restricted Quantum Controls
 Probing the Berezinskii-Kosterlitz-Thouless vortex unbinding transition in two-dimensional superconductors using local noise magnetometry
+Quantum Convolutional Neural Network: A Hybrid Quantum-Classical Approach for Iris Dataset Classification
+Bosonic Mpemba effect with non-classical states of light
+Measuring error rates of mid-circuit measurements
+TE-PAI: Exact Time Evolution by Sampling Random Circuits
+Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates
+Semiclassical origin of suppressed quantum chaos in Rydberg chains
+Limits of noisy quantum metrology with restricted quantum controls
