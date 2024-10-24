@@ -959,3 +959,8 @@ TE-PAI: Exact Time Evolution by Sampling Random Circuits
 Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates
 Semiclassical origin of suppressed quantum chaos in Rydberg chains
 Limits of noisy quantum metrology with restricted quantum controls
+Phase sensitivity for an SU(1,1) interferometer via multiphoton subtraction at the output port
+Concurrent Spin Squeezing and Light Squeezing in an Atomic Ensemble
+Measurement-Induced Transmon Ionization
+Impurity States in D-wave Superconductors
+Towards the Scalable Fabrication of thin-film NbTiN CPW KTWPA
