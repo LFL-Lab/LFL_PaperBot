@@ -974,3 +974,4 @@ Ultrafast single-photon detection using nanophotonic parametric amplifiers
 Quantum circuit synthesis via a random combinatorial search
 A complete continuous-variable quantum computation architecture based on the 2D spatiotemporal cluster state
 A Superconducting Single-Atom Phonon Laser
+Crosstalk-robust quantum control in multimode bosonic systems
