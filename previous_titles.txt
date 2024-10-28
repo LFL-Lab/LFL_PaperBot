@@ -975,3 +975,8 @@ Quantum circuit synthesis via a random combinatorial search
 A complete continuous-variable quantum computation architecture based on the 2D spatiotemporal cluster state
 A Superconducting Single-Atom Phonon Laser
 Crosstalk-robust quantum control in multimode bosonic systems
+Pushing the Boundaries: Interferometric Mass Photometry at the Quantum Limit of Sensitivity
+Quantum Graph-State Synthesis with SAT
+Crosstalk-Robust Quantum Control in Multimode Bosonic Systems
+The Floquet Fluxonium Molecule: Driving Down Dephasing in Coupled Superconducting Qubits
+Superconductive coupling and Josephson diode effect in selectively-grown topological insulator based three-terminal junctions
