@@ -980,3 +980,9 @@ Quantum Graph-State Synthesis with SAT
 Crosstalk-Robust Quantum Control in Multimode Bosonic Systems
 The Floquet Fluxonium Molecule: Driving Down Dephasing in Coupled Superconducting Qubits
 Superconductive coupling and Josephson diode effect in selectively-grown topological insulator based three-terminal junctions
+Characterizing entangled state update in different reference frames with weak measurements
+Characterization of Noise using variants of Unitarity Randomized Benchmarking
+All-optical measurement-device-free feedforward enabling ultra-fast quantum information processing
+Of gyrators and anyons
+Resonator-mediated quantum gate between distant charge qubits
+Parametric longitudinal coupling of a semiconductor charge qubit and a RF resonator
