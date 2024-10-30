@@ -986,3 +986,11 @@ All-optical measurement-device-free feedforward enabling ultra-fast quantum info
 Of gyrators and anyons
 Resonator-mediated quantum gate between distant charge qubits
 Parametric longitudinal coupling of a semiconductor charge qubit and a RF resonator
+Entanglement-enhanced AC magnetometry in the presence of Markovian noises
+Photonic Quantum Receiver Attaining the Helstrom Bound
+Adding or Subtracting a single Photon is the same for Pure Squeezed Vacuum States
+From spin squeezing to fast state discrimination
+Low-overhead quantum error correction codes with a cyclic topology
+Quantum Locking of Intrinsic Spin Squeezed State in Earth-field-range Magnetometry
+Spin phase regulated spin Josephson supercurrent in topological superconductor
+Kinetic Inductance and nonlinearity of MgB2 Films at 4K
