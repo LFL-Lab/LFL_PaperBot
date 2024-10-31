@@ -994,3 +994,12 @@ Low-overhead quantum error correction codes with a cyclic topology
 Quantum Locking of Intrinsic Spin Squeezed State in Earth-field-range Magnetometry
 Spin phase regulated spin Josephson supercurrent in topological superconductor
 Kinetic Inductance and nonlinearity of MgB2 Films at 4K
+Mapping of a many-qubit state onto an oscillator using controlled displacements
+Statistical mechanical mapping and maximum-likelihood thresholds for the surface code under generic single-qubit coherent errors
+Quantum optimal control of superconducting qubits based on machine-learning characterization
+Quantum enhanced real-time sensing of protein binding process
+Using coherent feedback for a periodic clock
+Model Order Reduction for Open Quantum Systems Based on Measurement-adapted Time-coarse Graining
+Deterministic generation of frequency-bin-encoded microwave photons
+A synthetic magnetic vector potential in a 2D superconducting qubit array
+Superconducting junctions with flat bands
