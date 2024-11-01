@@ -1003,3 +1003,9 @@ Model Order Reduction for Open Quantum Systems Based on Measurement-adapted Time
 Deterministic generation of frequency-bin-encoded microwave photons
 A synthetic magnetic vector potential in a 2D superconducting qubit array
 Superconducting junctions with flat bands
+Hybrid cat-transmon architecture for scalable, hardware-efficient quantum error correction
+Atom-light-correlated quantum interferometer with memory-induced phase comb
+Testing the Wineland Criterion with Finite Statistics
+Detrimental non-Markovian errors for surface code memory
+Approaching energy quantum limit detection of microwave photons with Josephson Junctions
+A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction
