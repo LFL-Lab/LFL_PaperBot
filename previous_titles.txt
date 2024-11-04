@@ -1010,3 +1010,9 @@ Detrimental non-Markovian errors for surface code memory
 Approaching energy quantum limit detection of microwave photons with Josephson Junctions
 A Cryogenic Memristive Neural Decoder for Fault-tolerant Quantum Error Correction
 High-Fidelity Two-Qubit Gates between Fluxonium Qubits with a Resonator Coupler
+Quantum-centric computation of molecular excited states with extended sample-based quantum diagonalization
+Pauli Transfer Matrices
+Continuous-variable square-ladder cluster states in a microwave frequency comb
+Reshaping quantum device noise via quantum error correction
+Dynamical simulations of many-body quantum chaos on a quantum computer
+Axion detection via superfluid $^3$He ferromagnetic phase and quantum measurement techniques
