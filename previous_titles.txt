@@ -1016,3 +1016,17 @@ Continuous-variable square-ladder cluster states in a microwave frequency comb
 Reshaping quantum device noise via quantum error correction
 Dynamical simulations of many-body quantum chaos on a quantum computer
 Axion detection via superfluid $^3$He ferromagnetic phase and quantum measurement techniques
+Neural Network-Based Design of Approximate Gottesman-Kitaev-Preskill Code
+Dynamic Josephson Junction Metasurfaces for Multiplexed Control of Superconducting Qubits
+Magic states are rarely the most important resource to optimize
+Resource-optimized fault-tolerant simulation of the Fermi-Hubbard model and high-temperature superconductor models
+Generation of high-fidelity Greenberger-Horne-Zeilinger states in a driven hybrid quantum system
+Modelling Realistic Multi-layer devices for superconducting quantum electronic circuits
+Observation of a Multimode Displaced Squeezed State in High-Harmonic Generation
+Diverging entanglement of critical magnons in easy-axis antiferromagnets
+Scalable architecture for trapped-ion quantum computing using RF traps and dynamic optical potentials
+Scaling Whole-Chip QAOA for Higher-Order Ising Spin Glass Models on Heavy-Hex Graphs
+Smolyak algorithm assisted robust control of quantum systems
+Superconducting quasiparticle-amplifying transmon: A qubit-based sensor for meV-scale phonons and single terahertz photons
+Full tomography of topological Andreev bands in graphene Josephson junctions
+Gatemon qubit on a germanium quantum-well heterostructure
