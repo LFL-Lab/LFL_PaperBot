@@ -1030,3 +1030,10 @@ Smolyak algorithm assisted robust control of quantum systems
 Superconducting quasiparticle-amplifying transmon: A qubit-based sensor for meV-scale phonons and single terahertz photons
 Full tomography of topological Andreev bands in graphene Josephson junctions
 Gatemon qubit on a germanium quantum-well heterostructure
+qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers
+Polynomial-Time Classical Simulation of Noisy Circuits with Naturally Fault-Tolerant Gates
+Fast Unconditional Reset and Leakage Reduction of a Tunable Superconducting Qubit via an Engineered Dissipative Bath
+Architectures for Heterogeneous Quantum Error Correction Codes
+Realization of a fast triple-magic all-optical qutrit in strontium-88
+Using stochastic resonance of two-level systems to increase qubit coherence times
+Fate of the Josephson effect and odd-frequency pairing in superconducting junctions with unconventional magnets
