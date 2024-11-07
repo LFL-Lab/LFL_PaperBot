@@ -1037,3 +1037,9 @@ Architectures for Heterogeneous Quantum Error Correction Codes
 Realization of a fast triple-magic all-optical qutrit in strontium-88
 Using stochastic resonance of two-level systems to increase qubit coherence times
 Fate of the Josephson effect and odd-frequency pairing in superconducting junctions with unconventional magnets
+Programming an Optical Lattice Interferometer
+Increasing the Hardness of Posiform Planting Using Random QUBOs for Programmable Quantum Annealer Benchmarking
+Polylog-time- and constant-space-overhead fault-tolerant quantum computation with quantum low-density parity-check codes
+High-fidelity gates in a transmon using bath engineering for passive leakage reset
+Fault-tolerant Coding for Quantum Communication
+The Andreev-Ising-Josephson Diode
