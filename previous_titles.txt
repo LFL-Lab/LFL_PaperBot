@@ -1043,3 +1043,12 @@ Polylog-time- and constant-space-overhead fault-tolerant quantum computation wit
 High-fidelity gates in a transmon using bath engineering for passive leakage reset
 Fault-tolerant Coding for Quantum Communication
 The Andreev-Ising-Josephson Diode
+Non-Classicality and Non-adiabaticity in a Single Trapped Ion
+Optimizing Multi-level Magic State Factories for Fault-Tolerant Quantum Architectures
+Exploring the quantum capacity of a Gaussian random displacement channel using Gottesman-Kitaev-Preskill codes and maximum likelihood decoding
+Benchmarking Single-Qubit Gates on a Noise-Biased Qubit Beyond the Fault-Tolerant Threshold
+FQsun: A Configurable Wave Function-Based Quantum Emulator for Power-Efficient Quantum Simulations
+Strong Quantum Mpemba Effect with Squeezed Thermal Reservoirs
+Tracking and Decoding Rydberg Leakage Error with MBQC
+Quantum limited imaging of a nanomechanical resonator with a spatial mode sorter
+Magnetic field dependence of a Josephson traveling-wave parametric amplifier and integration into a high-field setup
