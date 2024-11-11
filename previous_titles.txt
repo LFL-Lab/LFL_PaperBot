@@ -1054,3 +1054,8 @@ Quantum limited imaging of a nanomechanical resonator with a spatial mode sorter
 Magnetic field dependence of a Josephson traveling-wave parametric amplifier and integration into a high-field setup
 On-demand population of Andreev levels by their ionization in the presence of Coulomb blockade
 Parametrically controlled microwave-photonic interface for the fluxonium
+Quantum Imaging and Metrology with Undetected squeezed Photons: Noise Canceling and Noise Based Imaging
+Quantum Speed Limit Time in two-qubit system by Dynamical Decoupling Method
+Mesoscopic theory of the Josephson junction
+AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography
+Molecular Electronic Structure Calculation via a Quantum Computer
