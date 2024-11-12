@@ -1059,3 +1059,15 @@ Quantum Speed Limit Time in two-qubit system by Dynamical Decoupling Method
 Mesoscopic theory of the Josephson junction
 AI-assisted experimental measures of entanglement and Bell's nonlocality without state tomography
 Molecular Electronic Structure Calculation via a Quantum Computer
+Error-mitigated initialization of surface codes with non-Pauli stabilizers
+Low bit-flip rate probabilistic error cancellation
+Experimentally probing entropy reduction via iterative quantum information transfer
+Nonreciprocal interaction and entanglement between two superconducting qubits
+Evolution of different orders of coherence of a three-qubit system and their protection via dynamical decoupling on an NMR quantum processor
+Optimizing the pump coupling for a three-wave mixing Josephson parametric amplifier
+Spin Squeezing with Magnetic Dipoles
+Observation of Josephson Harmonics in Tunnel Junctions
+QECC-Synth: A Layout Synthesizer for Quantum Error Correction Codes on Sparse Hardware Architectures
+Benchmarking the ability of a controller to execute quantum error corrected non-Clifford circuits
+Squeezing atomic $p$-orbital condensates for detecting gravitational waves
+Edge supercurrent in Josephson junctions based on topological materials
