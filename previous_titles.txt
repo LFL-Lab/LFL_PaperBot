@@ -1071,3 +1071,5 @@ QECC-Synth: A Layout Synthesizer for Quantum Error Correction Codes on Sparse Ha
 Benchmarking the ability of a controller to execute quantum error corrected non-Clifford circuits
 Squeezing atomic $p$-orbital condensates for detecting gravitational waves
 Edge supercurrent in Josephson junctions based on topological materials
+Stronger Einstein-Podolsky-Rosen steering inequalities to detect the boundary between quantum mechanics and classical models
+Entangled photon-pair emission in waveguide circuit QED from a Cooper pair splitter
