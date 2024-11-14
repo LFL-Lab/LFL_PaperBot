@@ -1073,3 +1073,10 @@ Squeezing atomic $p$-orbital condensates for detecting gravitational waves
 Edge supercurrent in Josephson junctions based on topological materials
 Stronger Einstein-Podolsky-Rosen steering inequalities to detect the boundary between quantum mechanics and classical models
 Entangled photon-pair emission in waveguide circuit QED from a Cooper pair splitter
+A cat qubit stabilization scheme using a voltage biased Josephson junction
+A fiber array architecture for atom quantum computing
+Multiplexed bi-layered realization of fault-tolerant quantum computation over optically networked trapped-ion modules
+An architecture for two-qubit encoding in neutral ytterbium-171 atoms
+Machine learning of quantum channels on NISQ devices
+Generation of a squeezed Schrödinger cat state in an anisotropic ferromagnet-superconductor coupled system
+Spin-liquid-based topological qubits
