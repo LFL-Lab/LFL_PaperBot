@@ -1080,3 +1080,9 @@ An architecture for two-qubit encoding in neutral ytterbium-171 atoms
 Machine learning of quantum channels on NISQ devices
 Generation of a squeezed Schrödinger cat state in an anisotropic ferromagnet-superconductor coupled system
 Spin-liquid-based topological qubits
+Fermion-qubit fault-tolerant quantum computing
+Extending Quantum Perceptrons: Rydberg Devices, Multi-Class Classification, and Error Tolerance
+Correction of circuit faults in a stacked quantum memory using rank-metric codes
+Letting the tiger out of its cage: bosonic coding without concatenation
+A Universal Circuit Set Using the $S_3$ Quantum Double
+Topological Josephson parametric amplifier array: A proposal for directional, broadband, and low-noise amplification
