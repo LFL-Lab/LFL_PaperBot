@@ -1086,3 +1086,4 @@ Correction of circuit faults in a stacked quantum memory using rank-metric codes
 Letting the tiger out of its cage: bosonic coding without concatenation
 A Universal Circuit Set Using the $S_3$ Quantum Double
 Topological Josephson parametric amplifier array: A proposal for directional, broadband, and low-noise amplification
+Equilibration to the non-Abelian squeezed-thermal reservoir with three charges
