@@ -1087,3 +1087,7 @@ Letting the tiger out of its cage: bosonic coding without concatenation
 A Universal Circuit Set Using the $S_3$ Quantum Double
 Topological Josephson parametric amplifier array: A proposal for directional, broadband, and low-noise amplification
 Equilibration to the non-Abelian squeezed-thermal reservoir with three charges
+Optimal State Preparation for Logical Arrays on Zoned Neutral Atom Quantum Computers
+Super-Heisenberg scaling of the quantum Fisher information using spin-motion states
+Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code
+Implementation of scalable suspended superinductors
