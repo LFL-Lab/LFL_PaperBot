@@ -1091,3 +1091,11 @@ Optimal State Preparation for Logical Arrays on Zoned Neutral Atom Quantum Compu
 Super-Heisenberg scaling of the quantum Fisher information using spin-motion states
 Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code
 Implementation of scalable suspended superinductors
+Towards ultrastrong-coupling quantum thermodynamics using a superconducting flux qubit
+A Millimeter-Wave Superconducting Qubit
+Logical computation demonstrated with a neutral atom quantum processor
+Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator
+Optimizing Entanglement in Nanomechanical Resonators through Quantum Squeezing and Parametric Amplification
+Theory of three-terminal Andreev spin qubits
+Visualizing incommensurate inter-valley coherent states in rhombohedral trilayer graphene
+Exploiting epitaxial strained germanium for scaling low noise spin qubits at the micron-scale
