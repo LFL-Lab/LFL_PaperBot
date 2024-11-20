@@ -1099,3 +1099,10 @@ Optimizing Entanglement in Nanomechanical Resonators through Quantum Squeezing a
 Theory of three-terminal Andreev spin qubits
 Visualizing incommensurate inter-valley coherent states in rhombohedral trilayer graphene
 Exploiting epitaxial strained germanium for scaling low noise spin qubits at the micron-scale
+Circuit Quantisation from First Principles
+Low loss lumped-element inductors made from granular aluminum
+Sensing atomic superfluid rotation beyond the standard quantum limit
+Evaluating the Effectiveness of Hybrid Quantum-Classical Convolutional Neural Networks for Image Classification in Multiple Color Spaces
+Generalized phase estimation in noisy quantum gates
+Enhancement of nonclassical properties of the two-mode squeezed vacuum state with a postselected von Neumann measurement
+On the microscopics of proximity effects in one-dimensional superconducting hybrid systems
