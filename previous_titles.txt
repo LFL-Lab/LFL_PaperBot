@@ -1106,3 +1106,16 @@ Evaluating the Effectiveness of Hybrid Quantum-Classical Convolutional Neural Ne
 Generalized phase estimation in noisy quantum gates
 Enhancement of nonclassical properties of the two-mode squeezed vacuum state with a postselected von Neumann measurement
 On the microscopics of proximity effects in one-dimensional superconducting hybrid systems
+Thermodynamic limitations on fault-tolerant quantum computing
+Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction
+Optimized four-qubit quantum error correcting code for amplitude damping channel
+Machine Learning for Arbitrary Single-Qubit Rotations on an Embedded Device
+Measurement-free code-switching for low overhead quantum computation using permutation invariant codes
+A universal framework for the quantum simulation of Yang-Mills theory
+Theory-independent monitoring of the decoherence of a superconducting qubit with generalized contextuality
+Improved fluxonium readout through dynamic flux pulsing
+Multiplexed Processing of Quantum Information Across an Ultra-wide Optical Bandwidth
+Bosonic Pauli+: Efficient Simulation of Concatenated Gottesman-Kitaev-Preskill Codes
+High-Coherence Kerr-Cat Qubit in 2D Architecture
+Enhancing Dispersive Readout of Superconducting Qubits through Dynamic Control of the Dispersive Shift: Experiment and Theory
+Parametric amplification of a quantum pulse
