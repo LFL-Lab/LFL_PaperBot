@@ -1119,3 +1119,6 @@ Bosonic Pauli+: Efficient Simulation of Concatenated Gottesman-Kitaev-Preskill C
 High-Coherence Kerr-Cat Qubit in 2D Architecture
 Enhancing Dispersive Readout of Superconducting Qubits through Dynamic Control of the Dispersive Shift: Experiment and Theory
 Parametric amplification of a quantum pulse
+Quantum illumination advantage in quantum Doppler radar
+A 2x2 quantum dot array in silicon with fully tuneable pairwise interdot coupling
+High-distance codes with transversal Clifford and T-gates
