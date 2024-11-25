@@ -1122,3 +1122,11 @@ Parametric amplification of a quantum pulse
 Quantum illumination advantage in quantum Doppler radar
 A 2x2 quantum dot array in silicon with fully tuneable pairwise interdot coupling
 High-distance codes with transversal Clifford and T-gates
+Achieving computational gains with quantum error correction primitives: Generation of long-range entanglement enhanced by error detection
+Gill and Massar type bound for estimation of $SU(2)$ channel
+Energy participation ratio analysis for very anharmonic superconducting circuits
+Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol
+Advanced LIGO detector performance in the fourth observing run
+Thermodynamics and State Preparation in a Two-State System of Light
+Exciton Dressing by Extreme Nonlinear Magnons in a Layered Semiconductor
+Direct visualization of quasiparticle concentration around superconducting vortices
