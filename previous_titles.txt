@@ -1130,3 +1130,17 @@ Advanced LIGO detector performance in the fourth observing run
 Thermodynamics and State Preparation in a Two-State System of Light
 Exciton Dressing by Extreme Nonlinear Magnons in a Layered Semiconductor
 Direct visualization of quasiparticle concentration around superconducting vortices
+Boosting Photon-Number-Resolved Detection Rates of Transition-Edge Sensors by Machine Learning
+Dephasing-assisted diffusive dynamics in superconducting quantum circuits
+Deterministic multi-phonon entanglement between two mechanical resonators on separate substrates
+Asymmetric Quantum Harmonic Otto Engine Under Hot Squeezed Thermal Reservoir
+Soft information decoding with superconducting qubits
+Quantum droplets and Schr\"{o}dinger's cat states in atomic-molecular Bose-Einstein condensates
+Protomon: A Multimode Qubit in the Fluxonium Molecule
+Extension of Clifford Data Regression Methods for Quantum Error Mitigation
+Realization of High-Fidelity CZ Gate based on a Double-Transmon Coupler
+Exchange anisotropies in microwave-driven singlet-triplet qubits
+Effects of reservoir squeezing on the amplification of quantum correlation and the quantum speed limit
+Precision enhancement in quantum spatial measurement by squeezing-assisted weak-value amplification
+Violation of Cluster Property in Superconducting Qubit
+Designing Phase Sensitive Probes of Monopole Superconducting Order
