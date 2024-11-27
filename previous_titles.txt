@@ -1144,3 +1144,8 @@ Effects of reservoir squeezing on the amplification of quantum correlation and t
 Precision enhancement in quantum spatial measurement by squeezing-assisted weak-value amplification
 Violation of Cluster Property in Superconducting Qubit
 Designing Phase Sensitive Probes of Monopole Superconducting Order
+Properties and dynamics of generalized squeezed states
+Fast, accurate, and error-resilient noise spectroscopy via basis optimization
+High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture
+Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation
+Fidelity of remotely entangled nuclear spin states in photon-connected multiqubit registers
