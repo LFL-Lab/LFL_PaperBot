@@ -1149,3 +1149,8 @@ Fast, accurate, and error-resilient noise spectroscopy via basis optimization
 High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture
 Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation
 Fidelity of remotely entangled nuclear spin states in photon-connected multiqubit registers
+Understanding the Scalability of Circuit Cutting Techniques for Practical Quantum Applications
+Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circuits on FPGAs
+Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond
+Demonstrating a universal logical gate set in error-detecting surface codes on a superconducting quantum processor
+Theory of the Simultaneous Transient Dispersive Readout of Multiple Spin Qubits
