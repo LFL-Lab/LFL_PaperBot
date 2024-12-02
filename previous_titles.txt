@@ -1154,3 +1154,14 @@ Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circ
 Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond
 Demonstrating a universal logical gate set in error-detecting surface codes on a superconducting quantum processor
 Theory of the Simultaneous Transient Dispersive Readout of Multiple Spin Qubits
+Generating non-Clifford gate operations through exact mapping between Majorana fermions and $\mathbb{Z}_4$ parafermions
+Impact of leakage to the dynamic of a ST$_0$ qubit implemented on a Double Quantum Dot device
+Quantum feedback control with a transformer neural network architecture
+Leveraging Hardware Power through Optimal Pulse Profiling for Each Qubit Pair
+Unitary-transformed projective squeezing: applications for circuit-knitting and state-preparation of non-Gaussian states
+Quantum computing architecture with Rydberg gates in trapped ions
+Theory of the photonic Joule effect in superconducting circuits
+Synthetic $\mathbb{Z}_2$ gauge theories based on parametric excitations of trapped ions
+The classical-quantum limit
+SNS Junctions along the BCS-BEC Crossover
+Limitations of Caldeira-Leggett model for description of phase transitions in superconducting circuits
