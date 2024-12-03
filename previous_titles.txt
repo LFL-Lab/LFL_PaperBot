@@ -1165,3 +1165,17 @@ Synthetic $\mathbb{Z}_2$ gauge theories based on parametric excitations of trapp
 The classical-quantum limit
 SNS Junctions along the BCS-BEC Crossover
 Limitations of Caldeira-Leggett model for description of phase transitions in superconducting circuits
+Controller-decoder system requirements derived by implementing Shor's algorithm with surface code
+Programming Variational Quantum Circuits with Quantum-Train Agent
+Magic State Injection on IBM Quantum Processors Above the Distillation Threshold
+Dynamic Evolution of Quantum Fisher and Skew Information under Decoherence in Three-Qubit X-States
+Observing the dynamics of quantum states generated inside nonlinear optical cavities
+Quantum microwaves: stabilizing squeezed light by phase locking
+Bosonic and fermionic Gaussian states from K\"ahler structures
+Measurement-induced state transitions in dispersive qubit readout schemes
+Pymablock: an algorithm and a package for quasi-degenerate perturbation theory
+Erasure-tolerance scheme for the surface codes on neutral atom quantum computers
+Quantum enhancement of spoofing detection with squeezed states of light
+Nonlinear coherent modes and atom optics
+Andreev non-Hermitian Hamiltonian for open Josephson junctions from Green's functions
+A quantum dot in germanium proximitized by a superconductor
