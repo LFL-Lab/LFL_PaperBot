@@ -1179,3 +1179,6 @@ Quantum enhancement of spoofing detection with squeezed states of light
 Nonlinear coherent modes and atom optics
 Andreev non-Hermitian Hamiltonian for open Josephson junctions from Green's functions
 A quantum dot in germanium proximitized by a superconductor
+CaliScalpel: In-Situ and Fine-Grained Qubit Calibration Integrated with Surface Code Quantum Error Correction
+Effects of multi-photon states in the calibration of single-photon detectors based on a portable bi-photon source
+Optical losses as a function of beam position on the mirrors in a 285-m suspended Fabry-Perot cavity
