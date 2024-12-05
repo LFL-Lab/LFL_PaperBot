@@ -1182,3 +1182,10 @@ A quantum dot in germanium proximitized by a superconductor
 CaliScalpel: In-Situ and Fine-Grained Qubit Calibration Integrated with Surface Code Quantum Error Correction
 Effects of multi-photon states in the calibration of single-photon detectors based on a portable bi-photon source
 Optical losses as a function of beam position on the mirrors in a 285-m suspended Fabry-Perot cavity
+SymBreak: Mitigating Quantum Degeneracy Issues in QLDPC Code Decoders by Breaking Symmetry
+Quantum sensitivity of parametric oscillators
+Universal distributed blind quantum computing with solid-state qubits
+Simultaneous ponderomotive squeezing of light by two mechanical modes in an optomechanical system
+BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap
+Transient Dynamics of the Quantum Stuart-Landau Oscillator
+Theory for dissipative time crystals in coupled parametric oscillators
