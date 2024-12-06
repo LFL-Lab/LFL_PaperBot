@@ -1189,3 +1189,9 @@ Simultaneous ponderomotive squeezing of light by two mechanical modes in an opto
 BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap
 Transient Dynamics of the Quantum Stuart-Landau Oscillator
 Theory for dissipative time crystals in coupled parametric oscillators
+Self-correcting GKP qubit in a superconducting circuit with an oscillating voltage bias
+Utilizing redundancies in Qubit Hilbert Space to reduce entangling gate counts in the Unitary Vibrational Coupled-Cluster Method
+Super-Poissonian Squeezed Light in the Deep Strong Regime of the Quantum Rabi Model
+Exponentially Improved Dispersive Qubit Readout with Squeezed Light
+Recovering Quantum Coherence of a Cavity Qubit Coupled to a Noisy Ancilla through Real-Time Feedback
+Transport Signatures of Radial Rashba Spin-Orbit Coupling at Ferromagnet/Superconductor Interfaces
