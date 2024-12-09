@@ -1195,3 +1195,12 @@ Super-Poissonian Squeezed Light in the Deep Strong Regime of the Quantum Rabi Mo
 Exponentially Improved Dispersive Qubit Readout with Squeezed Light
 Recovering Quantum Coherence of a Cavity Qubit Coupled to a Noisy Ancilla through Real-Time Feedback
 Transport Signatures of Radial Rashba Spin-Orbit Coupling at Ferromagnet/Superconductor Interfaces
+Spin squeezing: Thermal behavior and distribution on excited states
+Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices
+Non-rotational measures in the Bargmann space, and entanglement of bipartite squeezed coherent states
+Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic fieldxx
+Dimensionality reduction for closed-loop quantum gate calibration
+Superconductor-Insulator Transition in Weakly Monitored Josephson Junction Arrays
+Performance Bounds for Quantum Feedback Control
+Experimental realization of universal quantum gates and six-qubit entangled state using photonic quantum walk
+Artificial topological insulator realized in a two-terminal Josephson junction with Rashba spin-orbit interaction
