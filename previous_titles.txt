@@ -1204,3 +1204,13 @@ Superconductor-Insulator Transition in Weakly Monitored Josephson Junction Array
 Performance Bounds for Quantum Feedback Control
 Experimental realization of universal quantum gates and six-qubit entangled state using photonic quantum walk
 Artificial topological insulator realized in a two-terminal Josephson junction with Rashba spin-orbit interaction
+Noise-induced quantum-circuit refrigeration
+Optimizing Qubit Mapping with Quasi-Orthogonal Space-Time Block Codes and Quaternion Orthogonal Designs
+Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions
+Towards novel tunability schemes for hybrid ferromagnetic transmon qubits
+Electron-beam annealing of Josephson junctions for frequency tuning of quantum processors
+Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic field
+Resisting High-Energy Impact Events through Gap Engineering in Superconducting Qubit Arrays
+Experiments with the four-dimensional surface code on a quantum charge-coupled device quantum computer
+High-performance heralded squeezing gate with quantum network modules
+Proposal for a nonadiabatic geometric gate with an Andreev spin qubit
