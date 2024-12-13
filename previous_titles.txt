@@ -1225,3 +1225,8 @@ A mechanical quantum memory for microwave photons
 Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices
 Lattice Hamiltonians and Stray Interactions Within Quantum Processors
 Optical Gottesman-Kitaev-Preskill Qubit Generation via Approximate Squeezed Coherent State Superposition Breeding
+A Mathematical Structure for Amplitude-Mixing Error-Transparent Gates for Binomial Codes
+Partial-immunity of two-photon correlation against wavefront distortion for spatially entangled photons
+An Optical Interconnect for Modular Quantum Computers
+Ultrafast Quantum Optics and Communication
+A minimal model of an artificial topological material realized in a two-terminal Josephson junction threaded by Aharonov-Casher fluxes
