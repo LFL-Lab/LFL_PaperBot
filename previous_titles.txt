@@ -1231,3 +1231,4 @@ An Optical Interconnect for Modular Quantum Computers
 Ultrafast Quantum Optics and Communication
 A minimal model of an artificial topological material realized in a two-terminal Josephson junction threaded by Aharonov-Casher fluxes
 Flux-insensitive qubit from a split transmon shunted with a Josephson junction
+Microscopic Theory of DC Current-Biased Josephson Junctions with Arbitrary Transparencies
