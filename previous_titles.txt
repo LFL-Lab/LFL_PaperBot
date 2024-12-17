@@ -1232,3 +1232,20 @@ Ultrafast Quantum Optics and Communication
 A minimal model of an artificial topological material realized in a two-terminal Josephson junction threaded by Aharonov-Casher fluxes
 Flux-insensitive qubit from a split transmon shunted with a Josephson junction
 Microscopic Theory of DC Current-Biased Josephson Junctions with Arbitrary Transparencies
+Quantum evolution of mixed states and performance of quantum heat engines
+Experimental investigation of heralded Gaussification of phase-randomized coherent states of light
+Fabrication of low-loss Josephson parametric devices
+The Stabilizer Bootstrap of Quantum Machine Learning with up to 10000 qubits
+Magnon Blockade with Skyrmion Qubit-Magnon Coupling in a Hybrid Quantum System
+Quantum heat engine in the optomechanical system with mechanical parametric drive
+Conveyor-belt superconducting quantum computer
+Fast single-qubit gates for continuous dynamically decoupled systems
+High dynamic-range quantum sensing of magnons and their dynamics using a superconducting qubit
+Establishing a New Benchmark in Quantum Computational Advantage with 105-qubit Zuchongzhi 3.0 Processor
+Control of a Josephson Digital Phase Detector via an SFQ-based Flux Bias Driver
+Gatemon Qubit Revisited for Improved Reliability and Stability
+Fully and partially distributed Quantum Generalized Benders Decomposition for Unit Commitment Problems
+Cascaded Multiparameter Quantum Metrology
+Simultaneous measurement of multimode squeezing
+Fluxonium-based superconducting qubit magnetometer: Optimization of phase estimation algorithms
+Transport signatures of phase fluctuations in superconducting qubits
