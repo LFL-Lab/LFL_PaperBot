@@ -1249,3 +1249,7 @@ Cascaded Multiparameter Quantum Metrology
 Simultaneous measurement of multimode squeezing
 Fluxonium-based superconducting qubit magnetometer: Optimization of phase estimation algorithms
 Transport signatures of phase fluctuations in superconducting qubits
+End-to-end switchless architecture for fault-tolerant photonic quantum computing
+Enhancement of non-Gaussianity and nonclassicality of pair coherent states with postselected von Neumann measurement
+Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States
+Classical simulation of circuits with realistic Gottesman-Kitaev-Preskill states
