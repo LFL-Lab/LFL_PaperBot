@@ -1253,3 +1253,12 @@ End-to-end switchless architecture for fault-tolerant photonic quantum computing
 Enhancement of non-Gaussianity and nonclassicality of pair coherent states with postselected von Neumann measurement
 Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States
 Classical simulation of circuits with realistic Gottesman-Kitaev-Preskill states
+Two-qubit gate protocols with microwave-dressed Rydberg ions in a linear Paul trap
+Turning qubit noise into a blessing: Automatic state preparation and long-time dynamics for impurity models on quantum computers
+Dispersive Qubit Readout of Temperature
+Tensor-network decoders for process tensor descriptions of non-Markovian noise
+99.9%-fidelity in measuring a superconducting qubit
+The random coupled-plaquette gauge model and the surface code under circuit-level noise
+Hyperbolic Quantum Processor
+Bath Dynamical Decoupling with a Quantum Channel
+Optomechanical cooling with simultaneous intracavity and extracavity squeezed light
