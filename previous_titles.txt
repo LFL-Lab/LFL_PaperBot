@@ -1262,3 +1262,14 @@ The random coupled-plaquette gauge model and the surface code under circuit-leve
 Hyperbolic Quantum Processor
 Bath Dynamical Decoupling with a Quantum Channel
 Optomechanical cooling with simultaneous intracavity and extracavity squeezed light
+Scaling and logic in the color code on a superconducting quantum processor
+Demonstrating dynamic surface codes
+Multiplexed Readout of Superconducting Qubits Using a 3D Re-entrant Cavity Filter
+Dynamics of Quantum Coherence and Non-Classical Correlations in Open Quantum System Coupled to a Squeezed Thermal Bath
+Short two-qubit pulse sequences for exchange-only spin qubits in 2D layouts
+Quantum SWAP gate realized with CZ and iSWAP gates in a superconducting architecture
+Quantum computation over the vibrational modes of a single trapped ion
+Cavity Quantum Electrodynamics in Finite-Bandwidth Squeezed Reservoir
+Faulty States can be used in Cat Code Error Correction
+Impact of Josephson junction array modes on fluxonium readout
+Possible High temperature Superconductivity above 200K mediated by Bose Einstein Condensation of exciton
