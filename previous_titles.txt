@@ -1273,3 +1273,15 @@ Cavity Quantum Electrodynamics in Finite-Bandwidth Squeezed Reservoir
 Faulty States can be used in Cat Code Error Correction
 Impact of Josephson junction array modes on fluxonium readout
 Possible High temperature Superconductivity above 200K mediated by Bose Einstein Condensation of exciton
+Reliable quantum advantage in quantum battery charging
+Optimizing FTQC Programs through QEC Transpiler and Architecture Codesign
+New Design of three-qubit system with three transmons and a single fixed-frequency resonator coupler
+Implementation of Magic State Injection within Heavy-Hexagon Architecture
+Indistinguishable MHz-narrow heralded photon pairs from a whispering gallery resonator
+Optimization of Two-Qubit Gates in Tunable-Coupler Architectures Using Single Flux Quantum Control
+Knowledge-dependent optimal Gaussian strategies for phase estimation
+Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations
+Robust quantum gap estimation with a noise-resilient hybrid algorithm
+Magnetic bound states embedded in tantalum superconducting thin films
+Robust gap closing and reopening in topological-insulator Josephson junctions
+Towards the Scalable Fabrication of thin-film Superconducting Parametric Amplifiers
