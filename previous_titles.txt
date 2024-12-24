@@ -1285,3 +1285,11 @@ Robust quantum gap estimation with a noise-resilient hybrid algorithm
 Magnetic bound states embedded in tantalum superconducting thin films
 Robust gap closing and reopening in topological-insulator Josephson junctions
 Towards the Scalable Fabrication of thin-film Superconducting Parametric Amplifiers
+Resource-efficient high-threshold fault-tolerant quantum computation with weak nonlinear optics
+Sensitivity-Adapted Closed-Loop Optimization for High-Fidelity Controlled-Z Gates in Superconducting Qubits
+Ultrashort-pulse-pumped, single-mode type-0 squeezers in lithium niobate nanophotonics
+Universal Quantum Computation via Superposed Orders of Single-Qubit Gates
+Digital Quantum Simulation of Cavity Quantum Electrodynamics: Insights from Superconducting and Trapped Ion Quantum Testbeds
+Processing and Decoding Rydberg Leakage Error with MBQC
+Phase-dependent supercurrent and microwave dissipation of HgTe quantum well Josephson junctions
+Origin of Subharmonic Gap Structure of DC Current-Biased Josephson Junctions
