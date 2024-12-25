@@ -1293,3 +1293,7 @@ Digital Quantum Simulation of Cavity Quantum Electrodynamics: Insights from Supe
 Processing and Decoding Rydberg Leakage Error with MBQC
 Phase-dependent supercurrent and microwave dissipation of HgTe quantum well Josephson junctions
 Origin of Subharmonic Gap Structure of DC Current-Biased Josephson Junctions
+The optimization of exact multi-target quantum search algorithm based on MindQuantum
+Universal pulses for superconducting qudit ladder gates
+Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management
+Deep thermalization in Gaussian continuous-variable quantum systems
