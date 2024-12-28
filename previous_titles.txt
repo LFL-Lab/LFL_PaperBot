@@ -1297,3 +1297,5 @@ The optimization of exact multi-target quantum search algorithm based on MindQua
 Universal pulses for superconducting qudit ladder gates
 Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management
 Deep thermalization in Gaussian continuous-variable quantum systems
+Optical Gottesman-Kitaev-Preskill qubit generation via approximate squeezed coherent state superposition breeding
+Electromagnetic waves in a Lorentzian medium with periodically modulated oscillator density
