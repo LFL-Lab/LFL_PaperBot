@@ -1299,3 +1299,11 @@ Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Manageme
 Deep thermalization in Gaussian continuous-variable quantum systems
 Optical Gottesman-Kitaev-Preskill qubit generation via approximate squeezed coherent state superposition breeding
 Electromagnetic waves in a Lorentzian medium with periodically modulated oscillator density
+Enhancing tripartite photon-phonon-magnon entanglement by synergizing parametric amplifications
+Traversing Quantum Control Robustness Landscapes: A New Paradigm for Quantum Gate Engineering
+A C-Band Cryogenic GaAs MMIC Low-Noise Amplifier for Quantum Applications
+Single-qubit quantum gate at an arbitrary speed
+Entanglement-Driven Energy Exchange in a Two-Qubit Quantum Battery
+Transmon qutrit-based simulation of spin-1 AKLT systems
+Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice
+Segal-Bargmann type spaces related to non-rotational measure, and entanglement of bipartite squeezed coherent states
