@@ -1307,3 +1307,8 @@ Entanglement-Driven Energy Exchange in a Two-Qubit Quantum Battery
 Transmon qutrit-based simulation of spin-1 AKLT systems
 Efficient and high-performance routing of lattice-surgery paths on three-dimensional lattice
 Segal-Bargmann type spaces related to non-rotational measure, and entanglement of bipartite squeezed coherent states
+Experimental computations of atomic properties on a superconducting quantum processor
+An Addressable and Tunable Module for Donor-based Scalable Silicon Quantum Computing
+The surface code under generic $X$-error channels: Statistical mechanics, error thresholds, and errorfield double phenomenology
+Oscillatory dissipative tunneling in an asymmetric double-well potential
+Fast and high-fidelity dispersive readout of a spin qubit with squeezed microwave and resonator nonlinearity
