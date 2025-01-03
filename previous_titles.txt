@@ -1312,3 +1312,14 @@ An Addressable and Tunable Module for Donor-based Scalable Silicon Quantum Compu
 The surface code under generic $X$-error channels: Statistical mechanics, error thresholds, and errorfield double phenomenology
 Oscillatory dissipative tunneling in an asymmetric double-well potential
 Fast and high-fidelity dispersive readout of a spin qubit with squeezed microwave and resonator nonlinearity
+Optimal asymptotic precision bounds for nonlinear quantum metrology under collective dephasing
+Unraveling the switching dynamics in a quantum double-well potential
+Q3DE: A fault-tolerant quantum computer architecture for multi-bit burst errors by cosmic rays
+Electronic Noise Considerations for Designing Integrated Solid-State Quantum Memories
+Measurable Improvement in Multi-Qubit Readout Using a Kinetic Inductance Traveling Wave Parametric Amplifier
+Four-Qubit Variational Algorithms in Silicon Photonics with Integrated Entangled Photon Sources
+Black Hole Waterfall: a unitary phenomenological model for black hole evaporation with Page curve
+Quantum speed limit and nonclassicality in open quantum system models using the Wigner function
+Probing Light Bosonic Dark Matter with Transmon Qubits
+Measuring weak microwave signals via current-biased Josephson junctions: Approaching the quantum limit of energy detection
+Transport Signatures of Inverted Andreev Bands in Topological Josephson Junctions
