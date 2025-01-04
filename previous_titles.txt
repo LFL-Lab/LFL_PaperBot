@@ -1323,3 +1323,4 @@ Quantum speed limit and nonclassicality in open quantum system models using the 
 Probing Light Bosonic Dark Matter with Transmon Qubits
 Measuring weak microwave signals via current-biased Josephson junctions: Approaching the quantum limit of energy detection
 Transport Signatures of Inverted Andreev Bands in Topological Josephson Junctions
+Modeling correlated-noise in silicon spin qubit device
