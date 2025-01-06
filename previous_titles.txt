@@ -1324,3 +1324,10 @@ Probing Light Bosonic Dark Matter with Transmon Qubits
 Measuring weak microwave signals via current-biased Josephson junctions: Approaching the quantum limit of energy detection
 Transport Signatures of Inverted Andreev Bands in Topological Josephson Junctions
 Modeling correlated-noise in silicon spin qubit device
+Topological quantum compilation of metaplectic anyons
+Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling
+Restoring Heisenberg-Limited Precision in Non-Markovian Open Quantum Systems via Dynamical Decoupling
+Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform
+Empirical learning of dynamical decoupling on quantum processors
+Qubit-assisted quantum metrology under a time-reversal strategy
+Genuine quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator
