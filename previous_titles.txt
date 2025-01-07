@@ -1331,3 +1331,12 @@ Quantum Error Correction Without Encoding via the Circulant Structure of Pauli N
 Empirical learning of dynamical decoupling on quantum processors
 Qubit-assisted quantum metrology under a time-reversal strategy
 Genuine quantum non-Gaussianity and metrological sensitivity of Fock states prepared in a mechanical resonator
+A Toffoli Gate Decomposition via Echoed Cross-Resonance Gates
+Linear Optics to Scalable Photonic Quantum Computing
+Cavity-assisted quantum transduction between superconducting qubits and trapped atomic particles mediated by Rydberg levels
+Floquet geometric squeezing in fast-rotating condensates
+Dissipative Landau-Zener tunneling in the crossover regime from weak to strong environment coupling
+Coherent control of a superconducting qubit using light
+Combining quantum processors with real-time classical communication
+Non-Markovian dynamics of a superconducting qubit in a phononic bandgap
+Quantum sensing from gravity as a universal dephasing channel for qubits
