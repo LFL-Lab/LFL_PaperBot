@@ -1340,3 +1340,7 @@ Coherent control of a superconducting qubit using light
 Combining quantum processors with real-time classical communication
 Non-Markovian dynamics of a superconducting qubit in a phononic bandgap
 Quantum sensing from gravity as a universal dephasing channel for qubits
+Four-body coupler for superconducting qubits based on Josephson parametric oscillators
+Exact Decoding of Repetition Code under Circuit Level Noise
+Spin Environment of a Superconducting Qubit in High Magnetic Fields
+All-microwave Lamb shift engineering for a fixed frequency multi-level superconducting qubit
