@@ -1352,3 +1352,9 @@ Adapting coherent-state superpositions in noisy channels
 Thermally driven quantum refrigerator autonomously resets a superconducting qubit
 Kerr-magnon-assisted asymptotic stationary photon-phonon squeezing
 Obstacles to two-line Josephson traveling wave parametric amplifier
+Efficient Qubit Calibration by Binary-Search Hamiltonian Tracking
+Entropy flow in a parametric amplifier
+Demonstrating experimentally the encoding and dynamics of an error-correctable logical qubit on a hyperfine-coupled nuclear spin qudit
+The optimization of exact multi-target quantum search algorithm based on MindSpore
+Fast single atom imaging for optical lattice arrays
+Direct Detection of Down-Converted Photons Spontaneously Produced at a Single Josephson Junction
