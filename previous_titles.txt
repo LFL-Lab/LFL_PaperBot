@@ -1360,3 +1360,9 @@ Fast single atom imaging for optical lattice arrays
 Direct Detection of Down-Converted Photons Spontaneously Produced at a Single Josephson Junction
 Partial immunity of two-photon correlation against wavefront distortion for spatially entangled photons
 Encoding quantum optical phase-space with classical wireless microwave constellation
+Deterministic Fault-Tolerant State Preparation for Near-Term Quantum Error Correction: Automatic Synthesis Using Boolean Satisfiability
+Teleportation and Entanglement Swapping of Continuous Quantum Variables of Microwave Radiation
+Myths around quantum computation before full fault tolerance: What no-go theorems rule out and what they don't
+Plane-selective coherent manipulations of nuclear spin qubits in a three-dimensional optical tweezer array
+Hidden entanglement in twin beams generated through optical parametric amplification in hot alkali atoms
+Randomized benchmarking with non-Markovian noise and realistic finite-time gates
