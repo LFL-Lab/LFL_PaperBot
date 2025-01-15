@@ -1378,3 +1378,11 @@ Encoded probabilistic imaginary-time evolution on a trapped-ion quantum computer
 Influence of bias voltage noise on the Inelastic Cooper-Pair Tunneling Amplifier (ICTA)
 Blueprint for All-to-All-Connected Superconducting Spin Qubits
 Information merging and reconstruction of single-shot dual-mode wide-field imaging with high spatial resolution
+Exact amplitudes of parametric processes in driven Josephson circuits
+The Clifford hierarchy for one qubit or qudit
+Decoherence time of the ground state spin of $V_{B}$ centers in hexagonal boron nitride
+Schr\"odinger cat states of a nuclear spin qudit in silicon
+Schrödinger cat states of a nuclear spin qudit in silicon
+Quantum State Transfer via a Multimode Resonator
+Exploring the energy spectrum of a four-terminal Josephson junction: Towards topological Andreev band structures
+Josephson effect and odd-frequency pairing in superconducting junctions with unconventional magnets
