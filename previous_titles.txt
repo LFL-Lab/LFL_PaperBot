@@ -1386,3 +1386,9 @@ Schrödinger cat states of a nuclear spin qudit in silicon
 Quantum State Transfer via a Multimode Resonator
 Exploring the energy spectrum of a four-terminal Josephson junction: Towards topological Andreev band structures
 Josephson effect and odd-frequency pairing in superconducting junctions with unconventional magnets
+Magnon cat states in a cavity-magnon-qubit system via two-magnon driving and dissipation
+Securities Transaction Settlement Optimization on superconducting quantum devices
+Photon-Number Conserved Universal Quantum Logic Employing Continuous-Time Quantum Walk on Dual-Rail Qubit Arrays
+Balanced cross-Kerr coupling for superconducting qubit readout
+Error Crafting in Mixed Quantum Gate Synthesis
+Quantum secure direct communication based on quantum error correction code
