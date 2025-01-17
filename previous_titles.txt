@@ -1392,3 +1392,15 @@ Photon-Number Conserved Universal Quantum Logic Employing Continuous-Time Quantu
 Balanced cross-Kerr coupling for superconducting qubit readout
 Error Crafting in Mixed Quantum Gate Synthesis
 Quantum secure direct communication based on quantum error correction code
+High-frequency readout free from transmon multi-excitation resonances
+Non-reciprocical Scattering in a Microwave Frequency Comb
+Comprehensive Survey of QML: From Data Analysis to Algorithmic Advancements
+Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction
+Thermodynamics of coherent energy exchanges between lasers and two-level systems
+Sample-based Krylov Quantum Diagonalization
+Transformer Models for Quantum Gate Set Tomography
+Topological quantum compilation of metaplectic anyons based on the genetic optimized algorithms
+Non-Markovian Feedback for Optimized Quantum Error Correction
+Sequential and Programmable Squeezing Gates for Optical Non-Gaussian Input States
+Chiral adiabatic transmission protected by Fermi surface topology
+Kinetic inductance and non-linearity of MgB 2  films at 4K
