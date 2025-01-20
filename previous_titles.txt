@@ -1406,3 +1406,7 @@ Chiral adiabatic transmission protected by Fermi surface topology
 Kinetic inductance and non-linearity of MgB 2  films at 4K
 Spectroscopy and Modeling of $^{171}\mathrm{Yb}$ Rydberg States for High-Fidelity Two-Qubit Gates
 Ultrastrongly coupled and directionally nonreciprocal magnon polaritons in magnetochiral metamolecules
+Low-overhead Magic State Circuits with Transversal CNOTs
+Quantum tomography from the evolution of a single expectation
+Benchmarking the readout of a superconducting qubit for repeated measurements
+Low-Loss Superconducting Resonators Fabricated from Tantalum Films Grown at Room Temperature
