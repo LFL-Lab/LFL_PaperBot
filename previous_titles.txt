@@ -1410,3 +1410,23 @@ Low-overhead Magic State Circuits with Transversal CNOTs
 Quantum tomography from the evolution of a single expectation
 Benchmarking the readout of a superconducting qubit for repeated measurements
 Low-Loss Superconducting Resonators Fabricated from Tantalum Films Grown at Room Temperature
+Perfect, Pretty Good and Optimized Quantum State Transfer in Transmon qubit chains
+Selective Excitation of Superconducting Qubits with a Shared Control Line through Pulse Shaping
+Generalized Entropic Quantum Speed Limits
+Optical Nuclear Electric Resonance as Single Qubit Gate for Trapped Neutral Atoms
+Quantum transistors for heat flux in and out of working substance parts: harmonic vs transmon and Kerr environs
+Solving Constrained Optimization Problems Using Hybrid Qubit-Qumode Quantum Devices
+A Generalized Schawlow-Townes Limit
+Fault-tolerance of [[6, 1, 3]] non-CSS code family generated using measurements on graph states
+Experimental protocol for qubit-environment entanglement detection
+Frozonium: Freezing Anharmonicity in Floquet Superconducting Circuits
+Andreev spin relaxation time in a shadow-evaporated InAs weak link
+On the importance of data encoding in quantum Boltzmann methods
+Non-Markovian feedback for optimized quantum error correction
+Designing fast quantum gates using optimal control with a reinforcement-learning ansatz
+Entangling Schr\"odinger's cat states by bridging discrete- and continuous-variable encoding
+Entangling power, gate typicality, and measurement-induced phase transitions
+Cavity-mode initialization via a Rabi-driven qubit
+Properties of two level systems in current-carrying superconductors
+The origin of anomalous non-linear microwave absorption in Josephson junction qubits: mysterious nature of two level systems or their dynamic interaction?
+Multiterminal Josephson junctions with tunable topological properties
