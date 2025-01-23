@@ -1430,3 +1430,8 @@ Cavity-mode initialization via a Rabi-driven qubit
 Properties of two level systems in current-carrying superconductors
 The origin of anomalous non-linear microwave absorption in Josephson junction qubits: mysterious nature of two level systems or their dynamic interaction?
 Multiterminal Josephson junctions with tunable topological properties
+Cavity Mode Initialization via a Rabi Driven Qubit
+Preparing low-variance states using a distributed quantum algorithm
+Looped Pipelines Enabling Effective 3D Qubit Lattices in a Strictly 2D Device
+Dissipative Protection of a GKP Qubit in a High-Impedance Superconducting Circuit Driven by a Microwave Frequency Comb
+Spin-Triplet Excitonic Insulator in the Ultra-Quantum Limit of HfTe5
