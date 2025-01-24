@@ -1435,3 +1435,9 @@ Preparing low-variance states using a distributed quantum algorithm
 Looped Pipelines Enabling Effective 3D Qubit Lattices in a Strictly 2D Device
 Dissipative Protection of a GKP Qubit in a High-Impedance Superconducting Circuit Driven by a Microwave Frequency Comb
 Spin-Triplet Excitonic Insulator in the Ultra-Quantum Limit of HfTe5
+Probabilistic Channel Distillation via Indefinite Causal Order
+Effects of valley splitting on resonant-tunneling readout of spin qubits
+Read out the fermion parity of a potential artificial Kitaev chain utilizing a transmon qubit
+Recovery of Quantum Correlations using Machine Learning
+Quantum Error Correction near the Coding Theoretical Bound
+Intracavity squeezing for a Kerr quantum nondemolition measurement scheme
