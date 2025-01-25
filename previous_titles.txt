@@ -1441,3 +1441,4 @@ Read out the fermion parity of a potential artificial Kitaev chain utilizing a t
 Recovery of Quantum Correlations using Machine Learning
 Quantum Error Correction near the Coding Theoretical Bound
 Intracavity squeezing for a Kerr quantum nondemolition measurement scheme
+Unifying Floquet Theory of Longitudinal and Dispersive Readout
