@@ -1442,3 +1442,13 @@ Recovery of Quantum Correlations using Machine Learning
 Quantum Error Correction near the Coding Theoretical Bound
 Intracavity squeezing for a Kerr quantum nondemolition measurement scheme
 Unifying Floquet Theory of Longitudinal and Dispersive Readout
+Distributed quantum error correction based on hyperbolic Floquet codes
+Hierarchical Verification of Non-Gaussian Coherence in Bosonic Quantum States
+Analysis of heralded higher-fidelity two-qubit entangling gates with self-correction
+Error-mitigated Geometric Quantum Control over an Oscillator
+Verifying Fault-Tolerance of Quantum Error Correction Codes
+Quantum Neural Networks: A Comparative Analysis and Noise Robustness Evaluation
+End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml
+A dressed singlet-triplet qubit in germanium
+Quantum-Centric Algorithm for Sample-Based Krylov Diagonalization
+Orbital-Selective Spin-Triplet Superconductivity in Infinite-Layer LaNiO$_{2}$
