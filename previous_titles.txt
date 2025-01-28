@@ -1452,3 +1452,9 @@ End-to-end workflow for machine learning-based qubit readout with QICK and hls4m
 A dressed singlet-triplet qubit in germanium
 Quantum-Centric Algorithm for Sample-Based Krylov Diagonalization
 Orbital-Selective Spin-Triplet Superconductivity in Infinite-Layer LaNiO$_{2}$
+Construction of new type of CNOT gate using cross-resonance pulse in the transmon-PPQ system
+Crystalline superconductor-semiconductor Josephson junctions for compact superconducting qubits
+Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate Predictions
+Renormalized and iterative formalism of the Andreev levels within a large multiparametric space
+Decoherence in Andreev spin qubits
+A flux-controlled two-site Kitaev chain
