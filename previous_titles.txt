@@ -1458,3 +1458,16 @@ Hybrid Quantum Neural Networks with Amplitude Encoding: Advancing Recovery Rate 
 Renormalized and iterative formalism of the Andreev levels within a large multiparametric space
 Decoherence in Andreev spin qubits
 A flux-controlled two-site Kitaev chain
+Near-Optimal Parameter Tuning of Level-1 QAOA for Ising Models
+Viewing fluxonium through the lens of the cat qubit
+High-fidelity QND readout and measurement back-action in a Tantalum-based high-coherence fluxonium qubit
+Tunable quantum light by modulated free electrons
+Space-Time-Coupled Qubits for Enhanced Superconducting Quantum Computing
+Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver
+Dephasing-induced leakage in multi-level superconducting quantum circuits
+Two measurement bases are asymptotically informationally complete for any pure state tomography
+Directly probing work extraction from a single qubit engine fueled by quantum measurements
+Time-Efficient Constant-Space-Overhead Fault-Tolerant Quantum Computation
+Benchmarking Quantum Optimization for the Maximum-Cut Problem on a Superconducting Quantum Computer
+Effective Hamiltonian and parametric tuning for the cross-cross-resonance gate in the transmon model
+Pair Wavefunction Symmetry in UTe2 from Zero-Energy Surface State Visualization
