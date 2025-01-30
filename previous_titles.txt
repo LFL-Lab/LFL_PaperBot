@@ -1471,3 +1471,8 @@ Time-Efficient Constant-Space-Overhead Fault-Tolerant Quantum Computation
 Benchmarking Quantum Optimization for the Maximum-Cut Problem on a Superconducting Quantum Computer
 Effective Hamiltonian and parametric tuning for the cross-cross-resonance gate in the transmon model
 Pair Wavefunction Symmetry in UTe2 from Zero-Energy Surface State Visualization
+Efficient compilation of quantum circuits using multi-qubit gates
+The quantromon: A qubit-resonator system with orthogonal qubit and readout modes
+Readout-induced leakage of the fluxonium qubit
+Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration
+Squeezed microwave and magnonic frequency combs
