@@ -1476,3 +1476,9 @@ The quantromon: A qubit-resonator system with orthogonal qubit and readout modes
 Readout-induced leakage of the fluxonium qubit
 Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration
 Squeezed microwave and magnonic frequency combs
+A strong-driving toolkit for topological Floquet energy pumps with superconducting circuits
+Generalization of Bidirectional Controlled Hybrid Protocol of Quantum Teleportation and Remote State Preparation
+A Linear Quantum Coupler for Clean Bosonic Control
+Squeezing-enhanced accurate differential sensing under large phase noise
+Impact of qubit anharmonicity on near-resonant Rabi oscillations
+Singlet-only Always-on Gapless Exchange Qubits with Baseband Control
