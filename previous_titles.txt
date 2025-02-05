@@ -1500,3 +1500,11 @@ Non-reciprocal Scattering in a Microwave Frequency Comb
 Effect of 2$^\text{nd}$ harmonic current--phase relation on a behavior of a Josephson Traveling Wave Parametric Amplifier
 Interplay of correlations and Majorana mode from local solution perspective
 Tuning the interfacial transport behavior in a superconducting van der Waals heterostructure
+Cavity-enhanced solid-state nuclear spin gyroscope
+Potential of photon-subtracted CV states towards gain sensitivity of the Mach-Zehnder interferometer
+Dynamic Circuits for the Quantum Lattice-Boltzmann Method
+Contextuality of Quantum Error-Correcting Codes
+Extension of the Alberti-Uhlmann criterion beyond qubit dichotomies
+Optimal and robust error filtration for quantum information processing
+Quantum enhanced real-time sensing of protein-gold adsorption kinetics
+Directional emission of a broadband squeezed microwave field
