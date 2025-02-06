@@ -1508,3 +1508,14 @@ Extension of the Alberti-Uhlmann criterion beyond qubit dichotomies
 Optimal and robust error filtration for quantum information processing
 Quantum enhanced real-time sensing of protein-gold adsorption kinetics
 Directional emission of a broadband squeezed microwave field
+Characterizing stationary optomechanical entanglement in the presence of non-Markovian noise
+Holevo Cram\'{e}r-Rao bound for multi-parameter estimation in nonlinear interferometers
+High-fidelity initialization a logical qubit with multiple injections
+Universality of stationary entanglement in an optomechanical system driven by non-Markovian noise and squeezed light
+Gain compression in Josephson Traveling-Wave Parametric Amplifiers
+Gain of squeezing via photon subtractions
+Efficient Lindblad synthesis for noise model construction
+Demonstration of Robust and Efficient Quantum Property Learning with Shallow Shadows
+Impact of time-retarded noise on dynamical decoupling schemes for qubits
+Revealing the orbital origins of exotic electronic states with Ti substitution in kagome superconductor CsV3Sb5
+Flux-tunable Kitaev chain in a quantum dot array
