@@ -1519,3 +1519,7 @@ Demonstration of Robust and Efficient Quantum Property Learning with Shallow Sha
 Impact of time-retarded noise on dynamical decoupling schemes for qubits
 Revealing the orbital origins of exotic electronic states with Ti substitution in kagome superconductor CsV3Sb5
 Flux-tunable Kitaev chain in a quantum dot array
+Efficient Implementation of Arbitrary Two-Qubit Gates via Unified Control
+Improving and benchmarking NISQ qubit routers
+DAPO-QAOA: An algorithm for solving combinatorial optimization problems by dynamically constructing phase operators
+Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz
