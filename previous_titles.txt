@@ -1523,3 +1523,4 @@ Efficient Implementation of Arbitrary Two-Qubit Gates via Unified Control
 Improving and benchmarking NISQ qubit routers
 DAPO-QAOA: An algorithm for solving combinatorial optimization problems by dynamically constructing phase operators
 Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz
+Berry phase effects on the transverse conductivity of Fermi surfaces and their detection via spin qubit noise magnetometry
