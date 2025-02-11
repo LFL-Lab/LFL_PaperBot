@@ -1529,3 +1529,13 @@ Impulse measurements enhanced with squeezed readout light
 Quantum error-correcting codes with a covariant encoding
 Kerr non-linearity enhances the response of a graphene Josephson bolometer
 Topological Josephson vortices at finite voltage bias
+Heuristic Time Complexity of NISQ Shortest-Vector-Problem Solvers
+First-principle crosstalk dynamics and Hamiltonian learning via Rabi experiments
+Efficient learning and optimizing non-Gaussian correlated noise in digitally controlled qubit systems
+Telegraph flux noise induced beating Ramsey fringe in transmon qubits
+How to Entangle or Disentangle Gaussian States with Hong-Ou-Mandel Interference
+Heisenberg-limited calibration of entangling gates with robust phase estimation
+Noise-resilient and resource-efficient hybrid algorithm for robust quantum gap estimation
+Energy exchange and fluctuations between a dissipative qubit and a monitor under continuous measurement and feedback
+Photon-pair generation via down-conversion in III-V semiconductor microrings: Modal dispersion and quasi-phase-matching
+Electrostatic field-driven supercurrent suppression in ionic-gated metallic Josephson nanotransistors
