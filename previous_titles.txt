@@ -1539,3 +1539,12 @@ Noise-resilient and resource-efficient hybrid algorithm for robust quantum gap e
 Energy exchange and fluctuations between a dissipative qubit and a monitor under continuous measurement and feedback
 Photon-pair generation via down-conversion in III-V semiconductor microrings: Modal dispersion and quasi-phase-matching
 Electrostatic field-driven supercurrent suppression in ionic-gated metallic Josephson nanotransistors
+Mixed-state geometric phases of coherent and squeezed spin states
+Quantum State Tomography in a Third-Order Integrated Optical Parametric Oscillator
+Kinetic inductance coupling for circuit QED with spins
+A proposal for charge basis tomography of superconducting qubits
+Operation of a high-frequency, phase-slip qubit
+Tomographic Signatures of Interacting Majorana and Andreev States in Superconductor-Semiconductor Transmon Qubits
+Optical readout of a superconducting qubit using a piezo-optomechanical transducer
+All-optical superconducting qubit readout
+Pump-efficient Josephson parametric amplifiers with high saturation power
