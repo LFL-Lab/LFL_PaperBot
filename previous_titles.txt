@@ -1548,3 +1548,10 @@ Tomographic Signatures of Interacting Majorana and Andreev States in Superconduc
 Optical readout of a superconducting qubit using a piezo-optomechanical transducer
 All-optical superconducting qubit readout
 Pump-efficient Josephson parametric amplifiers with high saturation power
+Enhancing dissipative cat qubit protection by squeezing
+Multiplexed qubit readout quality metric beyond assignment fidelity
+Spin-Valley Protected Kramers Pair in Bilayer Graphene
+Spin-split Andreev bound states and diode effect in an Ising superconductor Josephson junction
+Non-Reciprocal Current-Phase Relation and Superconducting Diode Effect in Topological-Insulator-Based Josephson Junctions
+Effects of correlated noise on the excitation of robust breathers in an ac-driven, lossy sine-Gordon system
+Adding or subtracting a single photon is the same for pure squeezed vacuum states
