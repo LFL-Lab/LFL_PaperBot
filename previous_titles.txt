@@ -1555,3 +1555,8 @@ Spin-split Andreev bound states and diode effect in an Ising superconductor Jose
 Non-Reciprocal Current-Phase Relation and Superconducting Diode Effect in Topological-Insulator-Based Josephson Junctions
 Effects of correlated noise on the excitation of robust breathers in an ac-driven, lossy sine-Gordon system
 Adding or subtracting a single photon is the same for pure squeezed vacuum states
+High-Rate Four Photon Subtraction from Squeezed Vacuum: Preparing Cat State for Optical Quantum Computation
+Scalable Optical Quantum State Synthesizer with Dual-Mode Cavity Memory
+Approximate Dynamical Quantum Error-Correcting Codes
+Approaching the ultrastrong coupling regime between an Andreev level and a microwave resonator
+Angle-dependent dissipation effects in topological insulator-based Josephson junctions
