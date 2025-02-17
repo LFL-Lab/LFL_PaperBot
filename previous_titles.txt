@@ -1560,3 +1560,12 @@ Scalable Optical Quantum State Synthesizer with Dual-Mode Cavity Memory
 Approximate Dynamical Quantum Error-Correcting Codes
 Approaching the ultrastrong coupling regime between an Andreev level and a microwave resonator
 Angle-dependent dissipation effects in topological insulator-based Josephson junctions
+Variational quantum thermalizers based on weakly-symmetric nonunitary multi-qubit operations
+Revealing correlated noise with single-qubit operations
+Weak continuous measurements require more work than strong ones
+Spin-squeezed vector atomic magnetometry
+Variational optical phase learning on a continuous-variable quantum compiler
+Analog Quantum Teleportation
+Cosmic muon flux attenuation methods for superconducting qubit experiments
+Limited Parallelization in Gate Operations Leads to Higher Space Overhead and Lower Noise Threshold
+Microwave pulse transparency in Flux-qubit based superconducting quantum metamaterial
