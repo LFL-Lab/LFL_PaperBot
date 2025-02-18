@@ -1569,3 +1569,8 @@ Analog Quantum Teleportation
 Cosmic muon flux attenuation methods for superconducting qubit experiments
 Limited Parallelization in Gate Operations Leads to Higher Space Overhead and Lower Noise Threshold
 Microwave pulse transparency in Flux-qubit based superconducting quantum metamaterial
+The Q-Spellbook: Crafting Surface Code Layouts and Magic State Protocols for Large-Scale Quantum Computing
+Quantum Error Mitigation for Sampling Algorithms
+Bulk-to-boundary anyon fusion from microscopic models
+Storing quantum coherence in a quantum dot nuclear spin ensemble for over 100 milliseconds
+Josephson junction of minimally twisted bilayer graphene
