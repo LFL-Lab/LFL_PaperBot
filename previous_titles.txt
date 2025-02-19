@@ -1574,3 +1574,10 @@ Quantum Error Mitigation for Sampling Algorithms
 Bulk-to-boundary anyon fusion from microscopic models
 Storing quantum coherence in a quantum dot nuclear spin ensemble for over 100 milliseconds
 Josephson junction of minimally twisted bilayer graphene
+Roadmap to fault tolerant quantum computation using topological qubit arrays
+A Compact One-Way Fault-Tolerant Optical Quantum Computation
+Benchmarking MedMNIST dataset on real quantum hardware
+Compression of Entanglement Improves Quantum Communication
+Geometric dependence of critical current magnitude and nonreciprocity in planar Josephson junctions
+Directional optical parametric amplification in a hyperbolic metamaterial
+The hybrid Josephson rhombus: A superconducting element with tailored current-phase relation
