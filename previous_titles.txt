@@ -1581,3 +1581,7 @@ Compression of Entanglement Improves Quantum Communication
 Geometric dependence of critical current magnitude and nonreciprocity in planar Josephson junctions
 Directional optical parametric amplification in a hyperbolic metamaterial
 The hybrid Josephson rhombus: A superconducting element with tailored current-phase relation
+Beam splitters as controlled-Z gate for hybrid state
+On-demand storing time-bin qubit states with optical quantum memory
+Emergence of realism through quantum discord suppression in photonic weak measurements
+Influence of bias-voltage noise on the inelastic cooper-pair tunneling amplifier (ICTA)
