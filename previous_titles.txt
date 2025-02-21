@@ -1585,3 +1585,13 @@ Beam splitters as controlled-Z gate for hybrid state
 On-demand storing time-bin qubit states with optical quantum memory
 Emergence of realism through quantum discord suppression in photonic weak measurements
 Influence of bias-voltage noise on the inelastic cooper-pair tunneling amplifier (ICTA)
+Discovering highly efficient low-weight quantum error-correcting codes with reinforcement learning
+Passive leakage removal unit based on a disordered transmon array
+Noise Mitigation in Single Microwave Photon Counting by Cascaded Quantum Measurements
+Adaptive Syndrome Extraction
+Spin Squeezing of Macroscopic Nuclear Spin Ensembles
+Taming Recoil Effect in Cavity-Assisted Quantum Interconnects
+Error correctable efficient quantum homomorphic encryption using Calderbank-Shor-Steane codes
+Demonstrating Experimentally the Encoding and Dynamics of an Error-Correctable Logical Qubit on a Hyperfine-Coupled Nuclear Spin Qudit
+Optimal Control in Large Open Quantum Systems: The Case of Transmon Readout and Reset
+Slave-spin approach to the Anderson-Josephson quantum dot
