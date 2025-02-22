@@ -1595,3 +1595,5 @@ Error correctable efficient quantum homomorphic encryption using Calderbank-Shor
 Demonstrating Experimentally the Encoding and Dynamics of an Error-Correctable Logical Qubit on a Hyperfine-Coupled Nuclear Spin Qudit
 Optimal Control in Large Open Quantum Systems: The Case of Transmon Readout and Reset
 Slave-spin approach to the Anderson-Josephson quantum dot
+Non-Gaussian Generalized Two-Mode Squeezing: Applications to Two-Ensemble Spin Squeezing and Beyond
+System characterization of dispersive readout in superconducting qubits
