@@ -1597,3 +1597,5 @@ Optimal Control in Large Open Quantum Systems: The Case of Transmon Readout and 
 Slave-spin approach to the Anderson-Josephson quantum dot
 Non-Gaussian Generalized Two-Mode Squeezing: Applications to Two-Ensemble Spin Squeezing and Beyond
 System characterization of dispersive readout in superconducting qubits
+Randomized benchmarking of a high-fidelity remote CNOT gate over a meter-scale microwave interconnect
+Non-degenerate noise-resilient superconducting qubit
