@@ -1599,3 +1599,12 @@ Non-Gaussian Generalized Two-Mode Squeezing: Applications to Two-Ensemble Spin S
 System characterization of dispersive readout in superconducting qubits
 Randomized benchmarking of a high-fidelity remote CNOT gate over a meter-scale microwave interconnect
 Non-degenerate noise-resilient superconducting qubit
+Chip-integrated single-mode coherent-squeezed light source using four-wave mixing in microresonators
+Continuous variable quantum teleportation, $U(2)$ invariant squeezing and non-Gaussian resource states
+High quality superconducting tantalum resonators with beta phase defects
+Beyond NISQ: The Megaquop Machine
+Quadrature squeezing in a nanophotonic microresonator
+Compact Pulse Schedules for High-Fidelity Single-Flux Quantum Qubit Control
+Superconducting qubit readout enhanced by path signature
+Benchmarking quantum gates and circuits
+Topologically cloaked magnetic colloidal transport
