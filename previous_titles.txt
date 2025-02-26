@@ -1608,3 +1608,11 @@ Compact Pulse Schedules for High-Fidelity Single-Flux Quantum Qubit Control
 Superconducting qubit readout enhanced by path signature
 Benchmarking quantum gates and circuits
 Topologically cloaked magnetic colloidal transport
+Experimentally Informed Decoding of Stabilizer Codes Based on Syndrome Correlations
+A Computational Framework for Simulations of Dissipative Non-Adiabatic Dynamics on Hybrid Oscillator-Qubit Quantum Devices
+Microwave dynamics of gated Al/InAs superconducting nanowires
+Indefinite Time Directed Quantum Metrology
+Tuning of Josephson junctions -- the effects of depinning physics
+Demolition measurement protocol for transmon qubits
+Cavity magnon-polariton interface for strong spin-spin coupling
+Near-quantum-limited subgigahertz $\mathrm{Ti}\mathrm{N}$ kinetic inductance traveling-wave parametric amplifier operating in a frequency-translating mode
