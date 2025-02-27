@@ -1616,3 +1616,11 @@ Tuning of Josephson junctions -- the effects of depinning physics
 Demolition measurement protocol for transmon qubits
 Cavity magnon-polariton interface for strong spin-spin coupling
 Near-quantum-limited subgigahertz $\mathrm{Ti}\mathrm{N}$ kinetic inductance traveling-wave parametric amplifier operating in a frequency-translating mode
+Programmable interferometer: an application in quantum channels
+Work Statistics via Real-Time Effective Field Theory: Application to Work Extraction from Thermal Bath with Qubit Coupling
+Scalable Low-overhead Superconducting Non-local Coupler with Exponentially Enhanced Connectivity
+Non-paraxial effects on laser-qubit interactions
+The Octo-Rail Lattice: a four-dimensional cluster state design
+Remote Entangling Gates for Spin Qubits in Quantum Dots using a Charge-Sensitive Superconducting Coupler
+Entangling distant systems via universal nonadiabatic passage
+Hardware-efficient quantum error correction via concatenated bosonic qubits
