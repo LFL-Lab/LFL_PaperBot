@@ -1624,3 +1624,7 @@ The Octo-Rail Lattice: a four-dimensional cluster state design
 Remote Entangling Gates for Spin Qubits in Quantum Dots using a Charge-Sensitive Superconducting Coupler
 Entangling distant systems via universal nonadiabatic passage
 Hardware-efficient quantum error correction via concatenated bosonic qubits
+Cross-resonance control of an oscillator with an auxiliary fluxonium qubit
+Interferometric Purcell suppression of spontaneous emission in a superconducting qubit
+Applications of the Quantum Phase Difference Estimation Algorithm to the Excitation Energies in Spin Systems on a NISQ Device
+On the interpretability of neural network decoders
