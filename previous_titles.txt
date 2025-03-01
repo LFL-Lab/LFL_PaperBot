@@ -1628,3 +1628,5 @@ Cross-resonance control of an oscillator with an auxiliary fluxonium qubit
 Interferometric Purcell suppression of spontaneous emission in a superconducting qubit
 Applications of the Quantum Phase Difference Estimation Algorithm to the Excitation Energies in Spin Systems on a NISQ Device
 On the interpretability of neural network decoders
+Photon number splitting in a multilevel transmon with different microwave photon sources
+Flux-pump-induced degradation of ${T}_{1}$ for dissipative cat qubits
