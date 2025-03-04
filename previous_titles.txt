@@ -1634,3 +1634,10 @@ Leveraging Atom Loss Errors in Fault Tolerant Quantum Algorithms
 Improving error suppression with noise-aware decoding
 Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction
 Learning-Driven Annealing with Adaptive Hamiltonian Modification for Solving Large-Scale Problems on Quantum Devices
+Observation and mitigation of microwave echoes from dielectric defects in Josephson traveling wave amplifiers
+Collective Neutrino Oscillations in Three Flavors on Qubit and Qutrit Processors
+Locating Rydberg Decay Error in SWAP-LRU
+Renormalization and Low-Energy Effective Models in Cavity and Circuit QED
+Reservoir-engineered two-mode squeezing in an optomechanical cavity
+Integration of graphene-based superconducting quantum circuits in 3D cavity
+Impact of Andreev Bound States within the Leads of a Quantum Dot Josephson Junction
