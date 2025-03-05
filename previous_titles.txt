@@ -1641,3 +1641,8 @@ Renormalization and Low-Energy Effective Models in Cavity and Circuit QED
 Reservoir-engineered two-mode squeezing in an optomechanical cavity
 Integration of graphene-based superconducting quantum circuits in 3D cavity
 Impact of Andreev Bound States within the Leads of a Quantum Dot Josephson Junction
+Universal Counterdiabatic Driving
+An rf-SQUID-based traveling-wave parametric amplifier with -84 dBm input saturation power across more than one octave bandwidth
+Unclonable Encryption with Continuous Variables
+Superconducting qubit based on a single molecule: the carbon nanotube gatemon
+Impact of chaos on the excited-state quantum phase transition of the Kerr parametric oscillator
