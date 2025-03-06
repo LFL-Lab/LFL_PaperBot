@@ -1646,3 +1646,16 @@ An rf-SQUID-based traveling-wave parametric amplifier with -84 dBm input saturat
 Unclonable Encryption with Continuous Variables
 Superconducting qubit based on a single molecule: the carbon nanotube gatemon
 Impact of chaos on the excited-state quantum phase transition of the Kerr parametric oscillator
+Quantum resource estimates for computing binary elliptic curve discrete logarithms
+Quantum-enhanced radio-frequency photonic distributed imaging
+Enhancing the Performance of Quantum Neutral-Atom-Assisted Benders Decomposition
+KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA
+Fault-Tolerant Qudit Gate Optimization in Solid-State Quantum Memory
+Compact Superconducting Kinetic Inductance Traveling Wave Parametric Amplifiers with On-chip rf Components
+Vortex Motion Induced Losses in Tantalum Resonators
+Quantum-limited amplification without instability
+Incoherent Approximation of Leakage in Quantum Error Correction
+Dicke superradiant enhancement of the heat current in circuit QED
+Optimizing Gate Decomposition for High-Level Quantum Programming
+Near-ground-state cooling in electromechanics using measurement-based feedback and a Josephson traveling-wave parametric amplifier
+Non-classical properties of two-mode squeezed cross-Kerr state and its non-Gaussian character based on the cumulants
