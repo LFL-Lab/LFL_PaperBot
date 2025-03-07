@@ -1659,3 +1659,15 @@ Dicke superradiant enhancement of the heat current in circuit QED
 Optimizing Gate Decomposition for High-Level Quantum Programming
 Near-ground-state cooling in electromechanics using measurement-based feedback and a Josephson traveling-wave parametric amplifier
 Non-classical properties of two-mode squeezed cross-Kerr state and its non-Gaussian character based on the cumulants
+Generalized toric codes on twisted tori for quantum error correction
+Universal logical operations with a dynamical qubit in Floquet code
+Acoustic phonon phase gates with number-resolving phonon detection
+Protocols for inter-module two-qubit gates mediated by time-bin encoded photons
+Scalable quantum simulator with an extended gate set in giant atoms
+Calibrating Magnetic Flux Control in Superconducting Circuits by Compensating Distortions on Time Scales from Nanoseconds up to Tens of Microseconds
+Characterization and Mitigation of Crosstalk in Quantum Error Correction
+Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes
+Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays
+Constrained many-body phases in a $\mathbb{Z}_2$-Higgs lattice gauge theory
+Nonlinear response theory for lossy superconducting quantum circuits
+Integrability and charge transport in asymmetric quantum-circuit geometries
