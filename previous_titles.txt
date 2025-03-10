@@ -1672,3 +1672,13 @@ Constrained many-body phases in a $\mathbb{Z}_2$-Higgs lattice gauge theory
 Nonlinear response theory for lossy superconducting quantum circuits
 Integrability and charge transport in asymmetric quantum-circuit geometries
 Engineering Nonequilibrium Steady States through Floquet Liouvillians
+Retrieving information in sloppy quantum phase estimation
+Quantum Dual Extended Hamming Code Immune to Collective Coherent Errors
+Spectrum analysis with parametrically modulated transmon qubits
+Quantum decoherence of nitrogen-vacancy spin ensembles in a nitrogen spin bath in diamond under dynamical decoupling
+Cooperative squeezing of internal and collective spins in an atomic ensemble
+Generation of Frequency-Tunable Shaped Single Microwave Photons Using a Fixed-Frequency Superconducting Qubit
+The singlet-triplet and exchange-only flopping-mode spin qubits
+Platonic dynamical decoupling sequences for interacting spin systems
+Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing
+Flux-tunable parity-protected qubit based on a single full-shell nanowire Josephson junction
