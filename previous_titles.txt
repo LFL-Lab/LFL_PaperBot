@@ -1682,3 +1682,24 @@ The singlet-triplet and exchange-only flopping-mode spin qubits
 Platonic dynamical decoupling sequences for interacting spin systems
 Characterizing Dynamic Majorana Hybridization for Universal Quantum Computing
 Flux-tunable parity-protected qubit based on a single full-shell nanowire Josephson junction
+The Art of Optimizing T-Depth for Quantum Error Correction in Large-Scale Quantum Computing
+Hybrid quantum surface acoustic wave with skyrmion qubit for quantum information processing
+Fabrication and Characterization of Impedance-transformed Josephson Parametric Amplifier
+Experimental observation of non-Markovian quantum exceptional points
+Steady-state tripartite non-Gaussian entanglement and steering in output field from intracavity triple-photon parametric downconversion
+TANGO: A Robust Qubit Mapping Algorithm via Two-Stage Search and Bidirectional Look
+Quasiparticle poisoning of superconducting qubits with active gamma irradiation
+Enhanced Hamiltonian Learning Precision with Multi-Stage Neural Networks
+Fabrication and characterization of vacuum-gap microstrip resonators
+Optimal Connectivity from Idle Qubit residual coupling Cross-Talks in a Cavity Mediated Entangling Gate
+Real-Time Monitoring of Multimode Squeezing
+Genuine Continuous Quantumness
+Probing the Design Space of InSb Topological Superconductor Nanowires for the Realization of Majorana Zero Modes
+Josephson traveling-wave parametric amplifier based on low-intrinsic-loss coplanar lumped-element waveguide
+On the Minimum Distances of Finite-Length Lifted Product Quantum LDPC Codes
+Vulnerability of fault-tolerant topological quantum error correction to quantum deviations in code space
+Efficient and Scalable Architectures for Multi-Level Superconducting Qubit Readout
+Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoders
+Processing and Decoding Rydberg Decay Error with MBQC
+Aharonov-Bohm and Altshuler-Aronov-Spivak oscillations in the quasi-ballistic regime in phase-pure GaAs/InAs core/shell nanowires
+Engineering Andreev Bound States for Thermal Sensing in Proximity Josephson Junctions
