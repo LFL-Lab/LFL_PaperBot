@@ -1703,3 +1703,10 @@ Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoders
 Processing and Decoding Rydberg Decay Error with MBQC
 Aharonov-Bohm and Altshuler-Aronov-Spivak oscillations in the quasi-ballistic regime in phase-pure GaAs/InAs core/shell nanowires
 Engineering Andreev Bound States for Thermal Sensing in Proximity Josephson Junctions
+Quantum Error Corrected Non-Markovian Metrology
+Quantum squeezing amplification with a weak Kerr nonlinear oscillator
+Single-Qubit Gates Beyond the Rotating-Wave Approximation for Strongly Anharmonic Low-Frequency Qubits
+Kramers-protected hardware-efficient error correction with Andreev spin qubits
+24 Days-Stable CNOT Gate on Fluxonium Qubits with Over 99.9% Fidelity
+Andreev versus Tunneling Spectroscopy of Unconventional Flat Band Superconductors
+Josephson diode effect with Andreev and Majorana bound states
