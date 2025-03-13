@@ -1710,3 +1710,9 @@ Kramers-protected hardware-efficient error correction with Andreev spin qubits
 24 Days-Stable CNOT Gate on Fluxonium Qubits with Over 99.9% Fidelity
 Andreev versus Tunneling Spectroscopy of Unconventional Flat Band Superconductors
 Josephson diode effect with Andreev and Majorana bound states
+Quantum Averaging for High-Fidelity Quantum Logic Gates
+Eigen-SNAP gate for photonic qubits in a cavity-transmon system
+Correlated quasiparticle poisoning from phonon-only events in superconducting qubits
+A Monte Carlo approach for finding optimally controlled quantum gates with differential geometry
+Variational Graphical Quantum Error Correction Codes
+Many-body effects of two-level systems in superconducting qubits
