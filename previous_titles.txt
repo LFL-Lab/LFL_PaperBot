@@ -1716,3 +1716,12 @@ Correlated quasiparticle poisoning from phonon-only events in superconducting qu
 A Monte Carlo approach for finding optimally controlled quantum gates with differential geometry
 Variational Graphical Quantum Error Correction Codes
 Many-body effects of two-level systems in superconducting qubits
+The quantum non-Markovianity for a special class of generalized Weyl channel
+Extractors: QLDPC Architectures for Efficient Pauli-Based Computation
+Direct estimation of arbitrary observables of an oscillator
+Performance of the spin qubit shuttling architecture for a surface code implementation
+Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory
+Benchmarking the Readout of a Superconducting Qubit for Repeated Measurements
+Shapiro response of superconducting diode effect derived from Andreev molecules
+$x+y$ Floquet code: A simple example for topological quantum computation in the path-integral approach
+Impedance matched Josephson parametric amplifier with a multisection      λ  /  4     transmission line transformer
