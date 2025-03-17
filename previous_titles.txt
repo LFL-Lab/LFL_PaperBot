@@ -1725,3 +1725,16 @@ Benchmarking the Readout of a Superconducting Qubit for Repeated Measurements
 Shapiro response of superconducting diode effect derived from Andreev molecules
 $x+y$ Floquet code: A simple example for topological quantum computation in the path-integral approach
 Impedance matched Josephson parametric amplifier with a multisection      λ  /  4     transmission line transformer
+Sub-resonant wideband superconducting Purcell filters
+Quantum Error Detection For Early Term Fault-Tolerant Quantum Algorithms
+A Superconducting Qubit-Resonator Quantum Processor with Effective All-to-All Connectivity
+Bias-preserving and error-detectable entangling operations in a superconducting dual-rail system
+Charge Parity Rates in Transmon Qubits with Different Shunting Capacitors
+Realizing a Continuous Set of Two-Qubit Gates Parameterized by an Idle Time
+Dynamics of Quantum Correlations within the double Caldeira-Leggett formalism
+Fault-tolerant logical state construction based on cavity-QED network
+The waves-in-space Purcell effect for superconducting qubits
+Scaffold-Assisted Window Junctions for Superconducting Qubit Fabrication
+Coherence of a hole spin flopping-mode qubit in a circuit quantum electrodynamics environment
+Reflectionless modes as a source of Weyl nodes in multiterminal Josephson junctions
+Arresting Quantum Chaos Dynamically in Transmon Arrays
