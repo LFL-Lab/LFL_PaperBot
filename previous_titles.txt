@@ -1738,3 +1738,21 @@ Scaffold-Assisted Window Junctions for Superconducting Qubit Fabrication
 Coherence of a hole spin flopping-mode qubit in a circuit quantum electrodynamics environment
 Reflectionless modes as a source of Weyl nodes in multiterminal Josephson junctions
 Arresting Quantum Chaos Dynamically in Transmon Arrays
+Noise-strength-adapted approximate quantum codes inspired by machine learning
+High-Efficiency, Low-Loss Floquet-mode Traveling Wave Parametric Amplifier Characterization and Measurement
+Niobium Air Bridges as a Low-Loss Component for Superconducting Quantum Hardware
+Automatic Characterization of Fluxonium Superconducting Qubits Parameters with Deep Transfer Learning
+Quantum-enhanced quickest change detection of transmission loss
+Performance Stabilization of High-Coherence Superconducting Qubits
+Performance Characterization of a Multi-Module Quantum Processor with Static Inter-Chip Couplers
+Virtual purification complements quantum error correction in quantum metrology
+Quantum error detection in qubit-resonator star architecture
+Reversing Hydrogen-Related Loss in $\alpha$-Ta Thin Films for Quantum Device Fabrication
+Symmetric channel verification for purifying noisy quantum channels
+Optimizing the frequency positioning of tunable couplers in a circuit QED processor to mitigate spectator effects on quantum operations
+Study of Magnetic Field Resilient High Impedance High-Kinetic Inductance Superconducting Resonators
+Mixed spin-boson coupling for qubit readout with suppressed residual shot-noise dephasing
+Exchange-Coupled Spins for Robust High-Temperature Qubits
+Strongly-anharmonic gateless gatemon qubits based on InAs/Al 2D heterostructure
+Engineering Bosonic Codes with Quantum Lattice Gates
+Edge dependence of the Josephson current in the quantum Hall regime
