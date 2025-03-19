@@ -1756,3 +1756,9 @@ Exchange-Coupled Spins for Robust High-Temperature Qubits
 Strongly-anharmonic gateless gatemon qubits based on InAs/Al 2D heterostructure
 Engineering Bosonic Codes with Quantum Lattice Gates
 Edge dependence of the Josephson current in the quantum Hall regime
+Error correction of a logical qubit encoded in a single atomic ion
+Optimal Moment-based Characterization of a Gaussian State
+Identifying Materials-Level Sources of Performance Variation in Superconducting Transmon Qubits
+Demonstration of High-Fidelity Entangled Logical Qubits using Transmons
+Protocols for $\sqrt{i\mathrm{SWAP}}$ gates using a fixed coupler driven by two microwave pulses
+Sn-InAs nanowire shadow-defined Josephson junctions
