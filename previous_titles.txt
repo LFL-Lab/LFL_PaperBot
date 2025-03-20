@@ -1762,3 +1762,20 @@ Identifying Materials-Level Sources of Performance Variation in Superconducting 
 Demonstration of High-Fidelity Entangled Logical Qubits using Transmons
 Protocols for $\sqrt{i\mathrm{SWAP}}$ gates using a fixed coupler driven by two microwave pulses
 Sn-InAs nanowire shadow-defined Josephson junctions
+Spin squeezing in an ensemble of nitrogen-vacancy centers in diamond
+Optimal and efficient qubit routing for quantum simulation
+Quantifying Trapped Magnetic Vortex Losses in Niobium Resonators at mK Temperatures
+Protected phase gate for the $0$-$\pi$ qubit using its internal modes
+Heuristic and Optimal Synthesis of CNOT and Clifford Circuits
+Active Leakage Cancellation in Single Qubit Gates
+2D transmons with lifetimes and coherence times exceeding 1 millisecond
+Fault-Tolerant Optical Quantum Computation using 3D Hybrid Cluster States
+Optical nonreciprocity induced by quantum squeezing in temperature sensitive optomechanical systems
+Two-qubit logic and teleportation with mobile spin qubits in silicon
+Natural Quantization of Neural Networks
+Thermally driven quantum refrigerator autonomously resets superconducting qubit
+Quantum metrology using quantum combs and tensor network formalism
+High-Precision Multi-Qubit Clifford+T Synthesis by Unitary Diagonalization
+Resource-Efficient Quantum Correlation Measurement: A Multicopy Neural Network Approach for Practical Applications
+Radio-frequency cascade readout and coherent exchange control of spin qubits fabricated using a 300 mm wafer process
+Nature of Andreev bound states in Josephson junctions of triple-point semimetals
