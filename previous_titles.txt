@@ -1779,3 +1779,11 @@ High-Precision Multi-Qubit Clifford+T Synthesis by Unitary Diagonalization
 Resource-Efficient Quantum Correlation Measurement: A Multicopy Neural Network Approach for Practical Applications
 Radio-frequency cascade readout and coherent exchange control of spin qubits fabricated using a 300 mm wafer process
 Nature of Andreev bound states in Josephson junctions of triple-point semimetals
+Reducing T Gates with Unitary Synthesis
+Optimizing realistic continuous-variable quantum teleportation with non-Gaussian resources
+Excitonic Enhancement of Squeezed Light in Quantum-Optical High-Harmonic Generation From a Mott Insulator
+Multimode Qubit-Conditional Operations via Generalized Cross-Resonance
+Constant-Depth Quantum Circuits for Arbitrary Quantum State Preparation via Measurement and Feedback
+Non-Markovian Relaxation Spectroscopy of Fluxonium Qubits
+Fast, accurate, and error-resilient variational quantum noise spectroscopy
+Deterministic remote entanglement using a chiral quantum interconnect
