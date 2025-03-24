@@ -1788,3 +1788,7 @@ Non-Markovian Relaxation Spectroscopy of Fluxonium Qubits
 Fast, accurate, and error-resilient variational quantum noise spectroscopy
 Deterministic remote entanglement using a chiral quantum interconnect
 ADMX Axion Dark Matter Bounds around $3.3\text{ }\text{ }\mathrm{μ}\mathrm{eV}$ with Dine-Fischler-Srednicki-Zhitnitsky Discovery Ability
+QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs
+Tight-Binding Energy-Phase Calculation for Topological Josephson Junction Nanowire Architecture
+On the Importance of Error Mitigation for Quantum Computation
+Dual-type dual-element atom arrays for quantum information processing
