@@ -1792,3 +1792,14 @@ QCPINN: Quantum Classical Physics-Informed Neural Networks for Solving PDEs
 Tight-Binding Energy-Phase Calculation for Topological Josephson Junction Nanowire Architecture
 On the Importance of Error Mitigation for Quantum Computation
 Dual-type dual-element atom arrays for quantum information processing
+Fundamental limits on determination of photon number statistics from measurements with multiplexed on/off detectors
+Approximate Quantum Error Correction with 1D Log-Depth Circuits
+Fourier State Tomography of Polarization-Encoded Qubits
+Optomechanical quantum bus for donor spins in silicon
+Isoenergetic model for optical downconversion and error-specific limits of the parametric approximation
+Almost device-independent calibration beyond Born's rule: Bell tests for cross-talk detection
+Fault-tolerant Quantum Error Correction Using a Linear Array of Emitters
+Transversal Clifford and T-gate codes of short length and high distance
+Inverse Superconductor-Insulator Transition in Weakly Monitored Josephson Junction Arrays
+Multipartite magnon entanglement and collective steering in cavity magnonics
+Variational solution of the superconducting Anderson impurity model and the band-edge singularity phenomena
