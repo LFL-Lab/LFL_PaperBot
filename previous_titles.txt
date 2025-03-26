@@ -1803,3 +1803,11 @@ Transversal Clifford and T-gate codes of short length and high distance
 Inverse Superconductor-Insulator Transition in Weakly Monitored Josephson Junction Arrays
 Multipartite magnon entanglement and collective steering in cavity magnonics
 Variational solution of the superconducting Anderson impurity model and the band-edge singularity phenomena
+Study of the EPR-type entanglement characteristics of a NDPA with time-delayed coherent feedback
+Long-distance quantum communication using concatenated ring graph codes
+Predicted third-order sweet spots for phi-junction Josephson parametric amplifiers
+High-Rate Extended Binomial Codes for Multi-Qubit Encoding
+Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits
+Preserving Phase Coherence and Linearity in Cat Qubits with Exponential Bit-Flip Suppression
+Parametric longitudinal coupling of a semiconductor charge qubit and an rf resonator
+An on-chip compact Chebyshev filter for semiconductor quantum dots in cQED architecture
