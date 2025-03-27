@@ -1811,3 +1811,5 @@ Fast Flux-Activated Leakage Reduction for Superconducting Quantum Circuits
 Preserving Phase Coherence and Linearity in Cat Qubits with Exponential Bit-Flip Suppression
 Parametric longitudinal coupling of a semiconductor charge qubit and an rf resonator
 An on-chip compact Chebyshev filter for semiconductor quantum dots in cQED architecture
+Prospect for measuring work statistics in quantum coherent systems
+Strong coupling between cavity and flopping-mode qubit beyond direct gate connection in a Si/SiGe triple quantum dot
