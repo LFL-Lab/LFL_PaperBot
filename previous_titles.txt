@@ -1813,3 +1813,14 @@ Parametric longitudinal coupling of a semiconductor charge qubit and an rf reson
 An on-chip compact Chebyshev filter for semiconductor quantum dots in cQED architecture
 Prospect for measuring work statistics in quantum coherent systems
 Strong coupling between cavity and flopping-mode qubit beyond direct gate connection in a Si/SiGe triple quantum dot
+Modelling and optimization of pulsed squeezed state generation in a ring-resonator system
+Variational Quantum Algorithms in the era of Early Fault Tolerance
+Dispersive regime of multiphoton qubit-oscillator interactions
+Generative Decoding for Quantum Error-correcting Codes
+Bosonic quantum error correction with microwave cavities for quantum repeaters
+Efficiency Enhancement up to Unity in a Generalized Quantum Otto Engine: Comparative Analysis with Conventional Quantum Otto Engine Utilizing a Two-Qubit Heisenberg XXZ Chain
+Hacking quantum computers with row hammer attack
+Atomic Josephson Parametric Amplifier
+Dissipative protection of a GKP qubit in a high-impedance superconducting circuit driven by a microwave frequency comb
+Benchmarking the performance of a high-Q cavity qudit using random unitaries
+Andreev bound states and supercurrent in an unconventional superconductor-altermagnetic Josephson junction
