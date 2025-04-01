@@ -1831,3 +1831,14 @@ Husimi phase distribution in non-Gaussian operations
 Driving electrons at needle tips strongly with quantum light
 Experimental realization of deterministic and selective photon addition in a bosonic mode assisted by an ancillary qubit
 Phase-Coherent Dynamics in Intervalley Coherent States
+Theory of the correlated quantum Zeno effect in a monitored qubit dimer
+Towards practical non-Markovianity measures: Normalization and regularization techniques
+Entanglement detection with quantum support vector machine(QSVM) on near-term quantum devices
+Quantum Computation with Quantum Batteries
+Quantum Features of the Thermal Two-Qubit Quantum Rabi Model in Ultra- and Deep-Strong Regimes
+Coherent manipulation of interacting electron qubits on solid neon
+Mechanical Squeezed Kerr Oscillator based on Tapered Ion Trap
+Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor
+Mitigation of correlated readout errors without randomized measurements
+Finite-round quantum error correction on symmetric quantum sensors
+Coupling molecular spin qubits with 2D magnets for coherent magnon manipulation
