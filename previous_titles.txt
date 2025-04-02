@@ -1842,3 +1842,12 @@ Implementation and readout of maximally entangled two-qubit gates quantum circui
 Mitigation of correlated readout errors without randomized measurements
 Finite-round quantum error correction on symmetric quantum sensors
 Coupling molecular spin qubits with 2D magnets for coherent magnon manipulation
+Output Prediction of Quantum Circuits based on Graph Neural Networks
+Bright squeezed light in the kilohertz frequency band
+Experimental realization and synchronization of a quantum van der Pol oscillator
+A Clue on Small-Capacitance Josephson Junction: What to Expect from Cooper Pair Ideal Conductor and Ohmic Resistor in Parallel?
+Wavelet correlation noise analysis for qubit operation variable time series
+Complexity-constrained quantum thermodynamics
+Scalable noise characterization of syndrome-extraction circuits with averaged circuit eigenvalue sampling
+Gaussian Formalism: Joint Measurement for Heisenberg's Uncertainty Relation for Errors by Squeezed Coherent States
+Signatures of exceptional points in multiterminal superconductor-normal metal junctions
