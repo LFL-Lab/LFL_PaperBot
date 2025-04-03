@@ -1851,3 +1851,8 @@ Complexity-constrained quantum thermodynamics
 Scalable noise characterization of syndrome-extraction circuits with averaged circuit eigenvalue sampling
 Gaussian Formalism: Joint Measurement for Heisenberg's Uncertainty Relation for Errors by Squeezed Coherent States
 Signatures of exceptional points in multiterminal superconductor-normal metal junctions
+Fault-tolerant correction-ready encoding of the [[7,1,3]] Steane code on a 2D grid
+Preparation of conditionally-squeezed states in qubit-oscillator systems
+Variational preparation of entangled states in a system of transmon qubits
+Accurate and Honest Approximation of Correlated Qubit Noise
+Photon-distillation schemes with reduced resource costs based on multiphoton Fourier interference
