@@ -1859,3 +1859,4 @@ Photon-distillation schemes with reduced resource costs based on multiphoton Fou
 Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla
 An Overview of Josephson Junctions Based QPUs
 Andreev probing of a Cooper-pair flying qubit
+Fast and Accurate Greenberger-Horne-Zeilinger Encoding Using All-to-All Interactions
