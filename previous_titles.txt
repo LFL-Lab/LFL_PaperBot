@@ -1860,3 +1860,13 @@ Quantum singular value transformation without block encodings: Near-optimal comp
 An Overview of Josephson Junctions Based QPUs
 Andreev probing of a Cooper-pair flying qubit
 Fast and Accurate Greenberger-Horne-Zeilinger Encoding Using All-to-All Interactions
+Objective Reduction of the Wave Function Demonstrated on Superconducting Quantum Compute
+SpinHex: A low-crosstalk, spin-qubit architecture based on multi-electron couplers
+Dynamically near-stable two-mode squeezing in optomechanical system
+Native-oxide-passivated trilayer junctions for superconducting qubits
+Reducing quantum error correction overhead using soft information
+Squeezing light with optomechanical and spin-light quantum interfaces
+A silicon spin vacuum: isotopically enriched $^{28}$silicon-on-insulator and $^{28}$silicon from ultra-high fluence ion implantation
+Dynamical excitation control and multimode emission of an atom-photon bound state
+Fast and Accurate Greenberger-Horne-Zeilinger Encoding Using All-to-all Interactions
+Engineering long-lived entanglement through dissipation in quantum hybrid solid-state platforms
