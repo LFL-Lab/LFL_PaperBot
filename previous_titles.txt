@@ -1870,3 +1870,12 @@ A silicon spin vacuum: isotopically enriched $^{28}$silicon-on-insulator and $^{
 Dynamical excitation control and multimode emission of an atom-photon bound state
 Fast and Accurate Greenberger-Horne-Zeilinger Encoding Using All-to-all Interactions
 Engineering long-lived entanglement through dissipation in quantum hybrid solid-state platforms
+High-Dimensional Quantum Key Distribution with Qubit-like States
+CutQAS: Topology-aware quantum circuit cutting via reinforcement learning
+Fast gates for bit-flip protected superconducting qubits
+Quantum walk with coherent multiple translations induces fast quantum gate operations
+Measuring R\'enyi entropy using a projected Loschmidt echo
+Correlated decoding of logical algorithms with transversal gates
+Controlled-squeeze gate in superconducting quantum circuits
+Decoherence-protected holonomic gates with reduced requirements for physical resources
+Radio frequency single electron transmission spectroscopy of a semiconductor Si/SiGe quantum dot
