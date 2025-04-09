@@ -1879,3 +1879,8 @@ Correlated decoding of logical algorithms with transversal gates
 Controlled-squeeze gate in superconducting quantum circuits
 Decoherence-protected holonomic gates with reduced requirements for physical resources
 Radio frequency single electron transmission spectroscopy of a semiconductor Si/SiGe quantum dot
+Spin Squeezing via One-Axis Twisting in a Quadrupolar NMR system under relaxation effects
+Training Hybrid Deep Quantum Neural Network for Reinforcement Learning Efficiently
+Dynamically near-stable two-mode squeezing in optomechanical systems
+QARPET: A Crossbar Chip for Benchmarking Semiconductor Spin Qubits
+Modeling realistic multilayer devices for superconducting quantum electronic circuits
