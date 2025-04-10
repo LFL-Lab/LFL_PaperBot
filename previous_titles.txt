@@ -1884,3 +1884,12 @@ Training Hybrid Deep Quantum Neural Network for Reinforcement Learning Efficient
 Dynamically near-stable two-mode squeezing in optomechanical systems
 QARPET: A Crossbar Chip for Benchmarking Semiconductor Spin Qubits
 Modeling realistic multilayer devices for superconducting quantum electronic circuits
+Experimental Implementation of a Qubit-Efficient Variational Quantum Eigensolver with Analog Error Mitigation on a Superconducting Quantum Processor
+Geometric Quantum Gates of Non-closed Paths Under Counterdiabatic Driving
+Kerr enhanced optomechanical entanglement via reservoir design
+Variational Quantum Machine Learning with Quantum Error Detection
+Dissipation and noise in strongly driven Josephson junctions
+Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecular Energetics
+Kerr-cat Qubit Operations Below the Fault-tolerant Threshold
+Wigner Function of Observed Quantum Systems
+High-fidelity QND readout and measurement back-action in a tantalum-based high-coherence fluxonium qubit
