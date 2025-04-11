@@ -1893,3 +1893,10 @@ Machine Learning Approach towards Quantum Error Mitigation for Accurate Molecula
 Kerr-cat Qubit Operations Below the Fault-tolerant Threshold
 Wigner Function of Observed Quantum Systems
 High-fidelity QND readout and measurement back-action in a tantalum-based high-coherence fluxonium qubit
+Ergotropy-Based Quantum Thermodynamics
+Characterising the failure mechanisms of error-corrected quantum logic gates
+Large amplitude mechanical coherent states and detection of weak nonlinearities in cavity optomechanics
+Estimating entanglement monotones of non-pure spin-squeezed states
+Quantum error correction via multi-particle discrete-time quantum walk
+Localized quasiparticles in a fluxonium with quasi-two-dimensional amorphous kinetic inductors
+Efficient Formal Verification of Quantum Error Correcting Programs
