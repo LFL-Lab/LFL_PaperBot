@@ -1900,3 +1900,9 @@ Estimating entanglement monotones of non-pure spin-squeezed states
 Quantum error correction via multi-particle discrete-time quantum walk
 Localized quasiparticles in a fluxonium with quasi-two-dimensional amorphous kinetic inductors
 Efficient Formal Verification of Quantum Error Correcting Programs
+Downloading many-qubit entanglement from continuous-variable cluster states
+Hybrid quantum optimization in the context of minimizing traffic congestion
+Towards a Digital Twin of Noisy Quantum Computers: Calibration-Driven Emulation of Transmon Qubits
+Nonclassical states of light induced via measurement in a bimodalsystem
+Multiparameter estimation with an array of entangled atomic sensors
+Magnon and photon blockade in an antiferromagnet-cavity hybrid quantum system
