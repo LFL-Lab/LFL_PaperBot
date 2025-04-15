@@ -1906,3 +1906,12 @@ Towards a Digital Twin of Noisy Quantum Computers: Calibration-Driven Emulation 
 Nonclassical states of light induced via measurement in a bimodalsystem
 Multiparameter estimation with an array of entangled atomic sensors
 Magnon and photon blockade in an antiferromagnet-cavity hybrid quantum system
+Fault-tolerant protocols through spacetime concatenation
+Analog Quantum Simulation of Dirac Hamiltonians in Circuit QED Using Rabi Driven Qubits
+Survival of the Optimized: An Evolutionary Approach to T-depth Reduction
+Investigation of Rare-Earth Ion-Photon Interaction and Strong Coupling in Optical Microcavities
+Scalable fluxonium qubit architecture with tunable interactions between non-computational levels
+Cross-talk in superconducting qubit lattices with tunable couplers - comparing transmon and fluxonium architectures
+Universal fault-tolerant logic with heterogeneous holographic codes
+LSQCA: Resource-Efficient Load/Store Architecture for Limited-Scale Fault-Tolerant Quantum Computing
+Probing Spin Defects via Single Spin Relaxometry
