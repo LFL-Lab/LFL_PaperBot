@@ -1921,3 +1921,10 @@ A Quantum Advantage in Localizing Transmission Loss Change in Optical Networks
 Measuring coherent dynamics of a superconducting qubit in an open waveguide
 Reducing leakage of single-qubit gates for superconducting quantum processors using analytical control pulse envelopes
 Surface Code Error Correction with Crosstalk Noise
+Hardware Co-Designed Optimal Control for Programmable Atomic Quantum Processors via Reinforcement Learning
+Characterizing physical and logical errors in a transversal CNOT via cycle error reconstruction
+Locality-aware Pauli-based computation for local magic state preparation
+Logical multi-qubit entanglement with dual-rail superconducting qubits
+High-Efficiency, Low-Loss Floquet-mode Traveling Wave Parametric Amplifier
+Superconducting lens and Josephson effect in AA-stacked bilayer graphene
+Gate tunable enhancement of supercurrent in hybrid planar Josephson junctions
