@@ -1928,3 +1928,8 @@ Logical multi-qubit entanglement with dual-rail superconducting qubits
 High-Efficiency, Low-Loss Floquet-mode Traveling Wave Parametric Amplifier
 Superconducting lens and Josephson effect in AA-stacked bilayer graphene
 Gate tunable enhancement of supercurrent in hybrid planar Josephson junctions
+Multi-qubit nanoscale sensing with entanglement as a resource
+Non-invasive mid-circuit measurement and reset on atomic qubits
+Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model
+Feedforward suppression of readout-induced faults in quantum error correction
+The effects of disorder in superconducting materials on qubit coherence
