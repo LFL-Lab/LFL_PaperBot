@@ -1934,3 +1934,7 @@ Unbiased Quantum Error Mitigation Without Reliance on an Accurate Error Model
 Feedforward suppression of readout-induced faults in quantum error correction
 The effects of disorder in superconducting materials on qubit coherence
 Nonreciprocal photon blockade induced by parametric amplification in an asymmetrical cavity
+Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy
+Logical channels in approximate Gottesman-Kitaev-Preskill error correction
+Fast microwave-driven two-qubit gates between fluxonium qubits with a transmon coupler
+Quantum theory of the Josephson junction between finite islands
