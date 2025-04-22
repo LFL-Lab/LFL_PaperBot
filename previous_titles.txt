@@ -1938,3 +1938,10 @@ Atomic-scale imaging and charge state manipulation of NV centers by scanning tun
 Logical channels in approximate Gottesman-Kitaev-Preskill error correction
 Fast microwave-driven two-qubit gates between fluxonium qubits with a transmon coupler
 Quantum theory of the Josephson junction between finite islands
+Enhancing LLM-based Quantum Code Generation with Multi-Agent Optimization and Quantum Error Correction
+Photonic Qubit Gates via 1D Scattering from an Array of Two-Level Emitters
+Efficient simulation of Clifford circuits with small Markovian errors
+Multi-Target Rydberg Gates via Spatial Blockade Engineering
+Impact of dynamics, entanglement, and Markovian noise on the fidelity of few-qubit digital quantum simulation
+Strong Intrinsic Longitudinal Coupling in Circuit Quantum Electrodynamics
+Smolyak algorithm assisted robust control for quantum systems with uncertainties
