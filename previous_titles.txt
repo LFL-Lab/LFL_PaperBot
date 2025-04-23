@@ -1945,3 +1945,12 @@ Multi-Target Rydberg Gates via Spatial Blockade Engineering
 Impact of dynamics, entanglement, and Markovian noise on the fidelity of few-qubit digital quantum simulation
 Strong Intrinsic Longitudinal Coupling in Circuit Quantum Electrodynamics
 Smolyak algorithm assisted robust control for quantum systems with uncertainties
+Long-lived entanglement of a spin-qubit register in silicon photonics
+Dispersive-induced magnon blockade with a superconducting qubit
+Entanglement-enhanced randomized measurement in noisy quantum devices
+Lattice surgery-based logical state teleportation via noisy links
+Quantum Speed Limits in Qubit Dynamics Driven by Bistable Random Telegraph Noise: From Markovian to Non-Markovian Regimes
+Quantum Discrete Variable Representations
+Non-demolition fluorescence readout and high-fidelity unconditional reset of a fluxonium qubit via dissipation engineering
+Detector of microwave photon pairs based on a Josephson photomultiplier
+Two-time weak measurement protocol for ergotropy protection in open quantum batteries
