@@ -1965,3 +1965,12 @@ Topological Origin of Andreev Flatland in UTe$_2$: Implication for Josephson STM
 Gapfull and gapless $1$D Topological Superconductivity in Spin-Orbit Coupled Bilayer Graphene
 Braiding of Majorana Zero Modes in Vortex Cores
 Effect of a second-harmonic current–phase relation on the behavior of a Josephson traveling-wave parametric amplifier
+Surface-code Superconducting Quantum Processors: From Calibration To Logical Performance
+OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing
+Broadband Kinetic-Inductance Parametric Amplifiers with Impedance Engineering
+Multiobjective Optimization for Robust Holonomic Quantum Gates
+Leakage at zero temperature from changes in chemical potential in Majorana qubits
+Magic state distillation without measurements and post-selection
+Stamps of state on structure: Probing the state of ultralight dark matter via its density fluctuations
+Small correlation is sufficient for optimal noisy quantum metrology
+Indirect Tunneling Enabled Spontaneous Time-Reversal Symmetry Breaking and Josephson Diode Effect in TiN/Al$_2$O$_3$/Hf$_{0.8}$Zr$_{0.2}$O$_2$/Nb tunnel junctions
