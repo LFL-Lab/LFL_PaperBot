@@ -1975,3 +1975,8 @@ Stamps of state on structure: Probing the state of ultralight dark matter via it
 Small correlation is sufficient for optimal noisy quantum metrology
 Indirect Tunneling Enabled Spontaneous Time-Reversal Symmetry Breaking and Josephson Diode Effect in TiN/Al$_2$O$_3$/Hf$_{0.8}$Zr$_{0.2}$O$_2$/Nb tunnel junctions
 <i>In Situ</i> Tunable Interaction with an Invertible Sign between a Fluxonium and a Post Cavity
+Multiparameter quantum estimation with Gaussian states: efficiently evaluating Holevo, RLD and SLD Cram\'er-Rao bounds
+Spin decoherence in molecular crystals: nuclear v.s. electronic spin baths
+Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms
+Optical Schr\"odinger cat states generation using cubic phase resource state and beamsplitter
+Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control
