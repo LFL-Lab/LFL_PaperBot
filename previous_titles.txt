@@ -1980,3 +1980,14 @@ Spin decoherence in molecular crystals: nuclear v.s. electronic spin baths
 Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms
 Optical Schr\"odinger cat states generation using cubic phase resource state and beamsplitter
 Quantum Speed Limit and Quantum Thermodynamic Uncertainty Relation under Feedback Control
+Phase-space approach to cavity field dynamics in a squeezed thermal reservoir
+Simulation of a rapid qubit readout dependent on the transmission of a single fluxon
+Characterization of Schmidt modes in high-gain SU(1,1) interferometers
+Precision Polarization Tuning for Light Shift Mitigation in Trapped-Ion Qubits
+Fooling the Decoder: An Adversarial Attack on Quantum Error Correction
+Quantum Error Correction in Quaternionic Hilbert Spaces
+Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures
+Superconducting Quantum Interference Devices based on InSb nanoflag Josephson junctions
+Quantum squeezed-reservoir engineering in Laguerre-Gaussian cavity optomechanics
+Spectroscopic signature of anisotropic order parameter in Kagome lattice superconductor LaRh$_3$B$_2$
+Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions
