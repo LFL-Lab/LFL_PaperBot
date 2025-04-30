@@ -1991,3 +1991,12 @@ Superconducting Quantum Interference Devices based on InSb nanoflag Josephson ju
 Quantum squeezed-reservoir engineering in Laguerre-Gaussian cavity optomechanics
 Spectroscopic signature of anisotropic order parameter in Kagome lattice superconductor LaRh$_3$B$_2$
 Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions
+Network-Aware Scheduling for Remote Gate Execution in Quantum Data Centers
+Parameter optimization for the unimon qubit
+Saturation of Quantum Cramer-Rao Bounds for Distributed Sensing via Error Sensitivity in SU(1,1)-SU(m) Interferometry
+Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs
+Noise limits for dc SQUID readout of high-$Q$ resonators below 300 MHz
+Transversal Gates in Nonadditive Quantum Codes
+Phase-locking in dynamical systems and quantum mechanics
+High-coherence fluxonium qubits manufactured with a wafer-scale-uniformity process
+A foundry-fabricated spin qubit unit cell with in-situ dispersive readout
