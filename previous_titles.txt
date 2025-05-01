@@ -2000,3 +2000,11 @@ Transversal Gates in Nonadditive Quantum Codes
 Phase-locking in dynamical systems and quantum mechanics
 High-coherence fluxonium qubits manufactured with a wafer-scale-uniformity process
 A foundry-fabricated spin qubit unit cell with in-situ dispersive readout
+Iceberg Beyond the Tip: Co-Compilation of a Quantum Error Detection Code and a Quantum Algorithm
+A microwave-activated high-fidelity three-qubit gate scheme for fixed-frequency superconducting qubits
+Simulating quantum collision models with Hamiltonian simulations using early fault-tolerant quantum computers
+Heterogeneously error-corrected QRAMs
+SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing
+Towards a $\cos(2\varphi)$ Josephson element using aluminum junctions with well-transmitted channels
+Landau-Zener-St\"uckelberg spectroscopy of a fluxonium quantum circuit
+High coherence fluxonium manufactured with a wafer-scale uniformity process
