@@ -2008,3 +2008,12 @@ SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-to
 Towards a $\cos(2\varphi)$ Josephson element using aluminum junctions with well-transmitted channels
 Landau-Zener-St\"uckelberg spectroscopy of a fluxonium quantum circuit
 High coherence fluxonium manufactured with a wafer-scale uniformity process
+Erasure Minesweeper: exploring hybrid-erasure surface code architectures for efficient quantum error correction
+Tripartite hybrid quantum systems: Skyrmion-mediated quantum interactions between single NV centers and superconducting qubits
+A Low-Noise and High-Stability DC Source for Superconducting Quantum Circuits
+Scalable Quantum Computing with Optical Links
+Probing excited-state dynamics of transmon ionization
+Offset Charge Dependence of Measurement-Induced Transitions in Transmons
+Quantum Circuit Overhead
+Classical variational optimization of PREPARE circuit for quantum phase estimation of quantum chemistry Hamiltonians
+Dynamics of decoherence in a noisy driven environment
