@@ -2017,3 +2017,8 @@ Offset Charge Dependence of Measurement-Induced Transitions in Transmons
 Quantum Circuit Overhead
 Classical variational optimization of PREPARE circuit for quantum phase estimation of quantum chemistry Hamiltonians
 Dynamics of decoherence in a noisy driven environment
+Quasiparticle-induced decoherence of a driven superconducting qubit
+Theory of Quasiparticle Generation by Microwave Drives in Superconducting Qubits
+S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices
+Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes
+Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit
