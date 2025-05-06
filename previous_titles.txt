@@ -2022,3 +2022,16 @@ Theory of Quasiparticle Generation by Microwave Drives in Superconducting Qubits
 S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices
 Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes
 Observation of Full Hierarchy of Temporal Quantum Correlations with a Superconducting Qubit
+The construction of a universal quantum gate set for the SU(2)k anyon models via a numerical method
+Interference in complex canonical variables is not quantum
+Generation of 95-qubit genuine entanglement and verification of symmetry-protected topological phases
+Flux-Trapping Fluxonium Qubit
+Data-driven Hamiltonian correction for qubits for design of gates
+Lumped-element broadband SNAIL parametric amplifier with on-chip pump filter for multiplexed readout
+Hyperinductance based on stacked Josephson junctions
+Engineering a multi-level bath for transmons with three-wave mixing and parametric drives
+Engineering CSS surgery: compiling any CNOT in any code
+Quadrature-Dependent Lattice Dynamics of Dissipative Microcombs
+Effect of interatomic repulsion on a Kitaev-transmon qubit based on double quantum dots
+Comparing the performance of direct and parametric drives for piezoelectric MEMS actuators
+Nonequilibrium Andreev resonances in ballistic graphene Andreev interferometers
