@@ -2035,3 +2035,8 @@ Quadrature-Dependent Lattice Dynamics of Dissipative Microcombs
 Effect of interatomic repulsion on a Kitaev-transmon qubit based on double quantum dots
 Comparing the performance of direct and parametric drives for piezoelectric MEMS actuators
 Nonequilibrium Andreev resonances in ballistic graphene Andreev interferometers
+Magnetic-field dependent VB- spin decoherence in hexagonal boron nitrides: A first-principles study
+Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability
+Concatenate codes, save qubits
+Theoretical framework for enhancing or enabling cooling of a mechanical resonator via the anti-Stokes or Stokes interaction and zero-photon detection
+Parametrically amplified Josephson plasma waves in YBa_2Cu_3O_(6+x): evidence for local superconducting fluctuations up to the pseudogap temperature $T^*$
