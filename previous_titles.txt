@@ -2040,3 +2040,12 @@ Highly squeezed nanophotonic quantum microcombs with broadband frequency tunabil
 Concatenate codes, save qubits
 Theoretical framework for enhancing or enabling cooling of a mechanical resonator via the anti-Stokes or Stokes interaction and zero-photon detection
 Parametrically amplified Josephson plasma waves in YBa_2Cu_3O_(6+x): evidence for local superconducting fluctuations up to the pseudogap temperature $T^*$
+Non-Gaussian Noise Magnetometry Using Local Spin Qubits
+Traveling-Wave Parametric Amplifier with Passive Reverse Isolation
+Unconventional photon blockade in cavity QED with parametric amplification
+3D-Integrated Superconducting qubits: CMOS-Compatible, Wafer-Scale Processing for Flip-Chip Architectures
+Phase sensitivity via photon-subtraction operations inside Mach-Zehnder interferometer
+Quantum thermodynamics and semi-definite optimization
+Encoding classical data into the squeezing of noisy-states for nanowire communication
+Clock precision beyond the Standard Quantum Limit at $10^{-18}$ level
+Timescales, Squeezing and Heisenberg Scalings in Many-Body Continuous Sensing
