@@ -2049,3 +2049,9 @@ Quantum thermodynamics and semi-definite optimization
 Encoding classical data into the squeezing of noisy-states for nanowire communication
 Clock precision beyond the Standard Quantum Limit at $10^{-18}$ level
 Timescales, Squeezing and Heisenberg Scalings in Many-Body Continuous Sensing
+Quantum Acoustics with Superconducting Qubits in the Multimode Transition-Coupling Regime
+Planar fault-tolerant circuits for non-Clifford gates on the 2D color code
+Optimal Decoder for the Error Correcting Parity Code
+Distributed quantum sensing with measurement-after-interaction strategies
+Generating entanglement of two acoustic modes by driving the qubit in a circuit quantum acoustodynamics system
+Magnon squeezing induced by virtual photons in a magnon-cavity-qubit system
