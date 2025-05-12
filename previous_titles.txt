@@ -2056,3 +2056,12 @@ Distributed quantum sensing with measurement-after-interaction strategies
 Generating entanglement of two acoustic modes by driving the qubit in a circuit quantum acoustodynamics system
 Magnon squeezing induced by virtual photons in a magnon-cavity-qubit system
 Continuous-Variable Square-Ladder Cluster States in a Microwave Frequency Comb
+A Circuit-QED Lattice System with Flexible Connectivity and Gapped Flat Bands for Photon-Mediated Spin Models
+A near-quantum-limited diamond maser amplifier operating at millikelvin temperatures
+Quantitative calibration of a TWPA applied to an optomechanical platform
+Achieving Heisenberg limit of metrology via measurement on ancillary qubit
+Algebraic Topology Principles behind Topological Quantum Error Correction
+Coherent Generation and Protection of Anticoherent Spin States
+Non-degenerate pumping of superconducting resonator parametric amplifier with evidence of phase-sensitive amplification
+Optimization of Quantum Error Correcting Code under Temporal Variation of Qubit Quality
+Combining quantum noise reduction resources: a practical approach
