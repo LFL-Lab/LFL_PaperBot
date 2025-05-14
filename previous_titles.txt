@@ -2074,3 +2074,17 @@ Near-quantum-limited axion dark matter search with the ORGAN experiment around 2
 Yu-Shiba-Rusinov–Bond Qubit in a Double Quantum Dot with Circuit-QED Operation
 High-fidelity initialization of a logical qubit with multiple injections
 Protected Symmetrical Superconducting Qubit Based on Quantum Flux Parametron
+Orchestrating Multi-Zone Shuttling in Trapped-Ion Quantum Computers
+Physically motivated extrapolation for quantum error mitigation
+Recovery dynamics of a gap-engineered transmon after a quasiparticle burst
+CMOS-Compatible, Wafer-Scale Processed Superconducting Qubits Exceeding Energy Relaxation Times of 200us
+Quantum gyroscope based on the cavity magnomechanical system
+High-contrast interaction between remote superconducting qubits mediated by multimode cable coupling
+Runtime Quantum Advantage with Digital Quantum Optimization
+Simultaneous sweet-spot locking of gradiometric fluxonium qubits
+Controllable creation of topological boundary states in topological-insulator-based Josephson corner junctions
+Thermodynamics of ancilla-assisted erasure of quantum information
+Millimeter-Wave Superconducting Qubit
+Achieving computational gains with quantum error-correction primitives: Generation of long-range entanglement enhanced by error detection
+Radio-frequency cascade readout of coupled spin qubits fabricated using a 300~mm wafer process
+Implementation of single-qubit gates with two rotations around axes in a plane
