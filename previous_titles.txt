@@ -2088,3 +2088,6 @@ Millimeter-Wave Superconducting Qubit
 Achieving computational gains with quantum error-correction primitives: Generation of long-range entanglement enhanced by error detection
 Radio-frequency cascade readout of coupled spin qubits fabricated using a 300~mm wafer process
 Implementation of single-qubit gates with two rotations around axes in a plane
+Quantum Error-Corrected Computation of Molecular Energies
+Light-Matter Interaction in dispersive Superconducting Circuit QED
+Quantum size effects on Andreev transport in Nb/Au/Nb Josephson junctions: A combined ab-initio and experimental study
