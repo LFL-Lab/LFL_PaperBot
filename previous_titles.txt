@@ -2097,3 +2097,4 @@ Efficient benchmarking of logical magic state
 Unlocking early fault-tolerant quantum computing with mitigated magic dilution
 Generation of Motional Squeezed States for Neutral Atoms in Optical Tweezers
 Magnon Nesting in Driven Two-Dimensional Quantum Magnets
+Quantum Size Effects on Andreev Transport in $\mathrm{Nb}/\mathrm{Au}/\mathrm{Nb}$ Josephson Junctions: A Combined <i>Ab Initio</i> and Experimental Study
