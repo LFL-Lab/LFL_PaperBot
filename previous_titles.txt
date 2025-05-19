@@ -2098,3 +2098,11 @@ Unlocking early fault-tolerant quantum computing with mitigated magic dilution
 Generation of Motional Squeezed States for Neutral Atoms in Optical Tweezers
 Magnon Nesting in Driven Two-Dimensional Quantum Magnets
 Quantum Size Effects on Andreev Transport in $\mathrm{Nb}/\mathrm{Au}/\mathrm{Nb}$ Josephson Junctions: A Combined <i>Ab Initio</i> and Experimental Study
+Distributed Realization of Color Codes for Quantum Error Correction
+Digital quantum simulation of squeezed states via enhanced bosonic encoding in a superconducting quantum processor
+Unbiased observable estimation via noisy channel mixtures for fault-tolerant quantum computation
+Probing Quantum Structure in Gravitational Radiation
+Lower Bounds on Learning Pauli Channels with Individual Measurements
+Geodesic Algorithm for Unitary Gate Design with Time-Independent Hamiltonians
+Niobium coaxial cavities with internal quality factors exceeding 1.5 billion for circuit quantum electrodynamics
+Multi-qubit entanglement generation with squeezed modes
