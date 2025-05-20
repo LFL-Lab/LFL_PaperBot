@@ -2106,3 +2106,11 @@ Lower Bounds on Learning Pauli Channels with Individual Measurements
 Geodesic Algorithm for Unitary Gate Design with Time-Independent Hamiltonians
 Niobium coaxial cavities with internal quality factors exceeding 1.5 billion for circuit quantum electrodynamics
 Multi-qubit entanglement generation with squeezed modes
+Josephson Junctions in the Age of Quantum Discovery
+Quantum Algorithms for Causal Estimands
+Parametric Stability Analysis for Circuit Quantum Electrodynamical Hardwares
+Unraveling superradiance: entanglement and mutual information in collective decay
+Temporal SU(1,1) Interferometer with Broadband Squeezed Light Injection
+Level Generation with Quantum Reservoir Computing
+Qubit based on 0-$\pi$ Josephson junctions
+Ab initio modeling of nonequilibrium dynamics in superconducting detectors and qubits
