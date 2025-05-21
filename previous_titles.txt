@@ -2114,3 +2114,9 @@ Temporal SU(1,1) Interferometer with Broadband Squeezed Light Injection
 Level Generation with Quantum Reservoir Computing
 Qubit based on 0-$\pi$ Josephson junctions
 Ab initio modeling of nonequilibrium dynamics in superconducting detectors and qubits
+Fast correlated decoding of transversal logical algorithms
+Correlated noise can be beneficial to quantum transducers
+An engineering guide to superconducting quantum circuit shielding
+Mesoscopic Hamiltonian for Josephson travelling-wave parametric amplifiers
+Rise of conditionally clean ancillae for efficient quantum circuit constructions
+Measurement of parity-dependent energy-phase relation of the low-energy states in a potential artificial Kitaev chain utilizing a transmon qubit
