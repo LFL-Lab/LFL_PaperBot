@@ -2120,3 +2120,10 @@ An engineering guide to superconducting quantum circuit shielding
 Mesoscopic Hamiltonian for Josephson travelling-wave parametric amplifiers
 Rise of conditionally clean ancillae for efficient quantum circuit constructions
 Measurement of parity-dependent energy-phase relation of the low-energy states in a potential artificial Kitaev chain utilizing a transmon qubit
+Performance analysis of GKP error correction
+Impact of Clifford operations on non-stabilizing power and quantum chaos
+Measurement-free quantum error correction optimized for biased noise
+Procedure of tuning up a three-site artificial Kitaev chain based on transmon measurements
+Search for Dark Photon Dark Matter of a Mass around $36.1\text{ }\mathrm{\mu}\mathrm{eV}$ Using a Frequency-tunable Cavity Controlled through a Coupled Superconducting Qubit
+Transport signatures of inverted Andreev bands in topological Josephson junctions
+Fractional-statistics-induced entanglement from Andreev-like tunneling
