@@ -2127,3 +2127,11 @@ Procedure of tuning up a three-site artificial Kitaev chain based on transmon me
 Search for Dark Photon Dark Matter of a Mass around $36.1\text{ }\mathrm{\mu}\mathrm{eV}$ Using a Frequency-tunable Cavity Controlled through a Coupled Superconducting Qubit
 Transport signatures of inverted Andreev bands in topological Josephson junctions
 Fractional-statistics-induced entanglement from Andreev-like tunneling
+Mitigating cosmic ray-like correlated events with a modular quantum processor
+Magnonic entanglement in a chiral cavity-magnon coupling system
+Satellite-assisted Entanglement Distribution with High-Dimensional Photonic Encoding
+Extending Quantum Computing through Subspace, Embedding and Classical Molecular Dynamics Techniques
+Active Quantum Reservoir Engineering: Using a Qubit to Manipulate its Environment
+Multi-Timescale Coherent Control via Quantum Averaging Theory for High-Fidelity Gate Operations
+Observation of a full hierarchy of temporal quantum correlations with a superconducting qubit
+Zero-bias conductance peaks at zero applied magnetic field due to stray fields from integrated micromagnets in hybrid nanowire quantum dots
