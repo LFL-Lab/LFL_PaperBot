@@ -2135,3 +2135,6 @@ Active Quantum Reservoir Engineering: Using a Qubit to Manipulate its Environmen
 Multi-Timescale Coherent Control via Quantum Averaging Theory for High-Fidelity Gate Operations
 Observation of a full hierarchy of temporal quantum correlations with a superconducting qubit
 Zero-bias conductance peaks at zero applied magnetic field due to stray fields from integrated micromagnets in hybrid nanowire quantum dots
+Leveraging biased noise for more efficient quantum error correction at the circuit-level with two-level qubits
+Non-Local Phase Estimation with a Rydberg-Superconducting Qubit Hybrid
+Neural Network Assisted Fermionic Compression Encoding: A Lossy-QSCI Framework for Scalable Quantum Chemistry Simulations
