@@ -2138,3 +2138,10 @@ Zero-bias conductance peaks at zero applied magnetic field due to stray fields f
 Leveraging biased noise for more efficient quantum error correction at the circuit-level with two-level qubits
 Non-Local Phase Estimation with a Rydberg-Superconducting Qubit Hybrid
 Neural Network Assisted Fermionic Compression Encoding: A Lossy-QSCI Framework for Scalable Quantum Chemistry Simulations
+Continuous quantum correction on Markovian and Non-Markovian models
+Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code
+Catability as a metric for evaluating superposed coherent states
+Correcting noisy quantum gates with shortcuts to adiabaticity
+Line search by quantum logic spectroscopy enhanced with squeezing and statistical tests
+Hardware-tailored logical Clifford circuits for stabilizer codes
+A distillation-teleportation protocol for fault-tolerant QRAM
