@@ -2145,3 +2145,13 @@ Correcting noisy quantum gates with shortcuts to adiabaticity
 Line search by quantum logic spectroscopy enhanced with squeezing and statistical tests
 Hardware-tailored logical Clifford circuits for stabilizer codes
 A distillation-teleportation protocol for fault-tolerant QRAM
+Fundamentals of Trapped Ions and Quantum Simulation of Chemical Dynamics
+Inflationary power spectrum from the Lanczos algorithm
+Competition between heating and cooling effects in an optomechanical oscillator using a squeezed field
+Optimized quantum sensor networks for ultralight dark matter detection
+Probing the quantum motion of a macroscopic mechanical oscillator with a radio-frequency superconducting qubit
+Parasitic RF-SQUIDs in superconducting qubits due to wirebonds
+Noisy Qudit vs Multiple Qubits : Conditions on Gate Efficiency for Enhancing Fidelity
+Strong-coupling quantum thermodynamics using a superconducting flux qubit
+Low-loss lumped-element inductors made from granular aluminum
+Optimizing the pump coupling for a three-wave-mixing Josephson parametric amplifier
