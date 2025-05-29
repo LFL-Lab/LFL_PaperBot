@@ -2155,3 +2155,10 @@ Noisy Qudit vs Multiple Qubits : Conditions on Gate Efficiency for Enhancing Fid
 Strong-coupling quantum thermodynamics using a superconducting flux qubit
 Low-loss lumped-element inductors made from granular aluminum
 Optimizing the pump coupling for a three-wave-mixing Josephson parametric amplifier
+Low Crosstalk in a Scalable Superconducting Quantum Lattice
+Calibrating quantum gates up to 52 qubits in a superconducting processor
+Dynamical Sweet and Sour Regions in Bichromatically Driven Floquet Qubits
+Disambiguating Pauli noise in quantum computers
+The construction of a universal quantum gate set for the SU(2)k (k=5,6,7) anyon models via GA-enhanced SK algorithm
+How Much Entanglement Is Needed for Quantum Error Correction?
+Thermometry based on a superconducting qubit
