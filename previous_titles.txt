@@ -2171,3 +2171,6 @@ Entangled Photon-Pair Emission in Waveguide Circuit QED from a Cooper Pair Split
 Quantum microwaves: Stabilizing squeezed light by phase locking
 Strongly driven transmon as an incoherent noise source
 NbTiN Nanowire Resonators for Spin-Photon Coupling on Solid Neon
+Bosonic quantum error correction using squeezed Fock states
+Quantum-Classical Embedding via Ghost Gutzwiller Approximation for Enhanced Simulations of Correlated Electron Systems
+Quantum dynamics of semiconductor quantum dot Josephson junctions
