@@ -2174,3 +2174,9 @@ NbTiN Nanowire Resonators for Spin-Photon Coupling on Solid Neon
 Bosonic quantum error correction using squeezed Fock states
 Quantum-Classical Embedding via Ghost Gutzwiller Approximation for Enhanced Simulations of Correlated Electron Systems
 Quantum dynamics of semiconductor quantum dot Josephson junctions
+Demonstrating magnetic field robustness and reducing temporal T1 noise in transmon qubits through magnetic field engineering
+Noiseless signal amplification in an opto-mechanical transducer
+Stacking the Odds: Full-Stack Quantum System Design Space Exploration
+Floquet-Engineered Fast SNAP gates in weakly coupled cQED systems
+Floquet-engineered decoherence-resilient protocols for wideband sensing beyond the linear standard quantum limit
+Quantum error mitigation for rotation symmetric bosonic codes with symmetry expansion
