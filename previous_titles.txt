@@ -2180,3 +2180,12 @@ Stacking the Odds: Full-Stack Quantum System Design Space Exploration
 Floquet-Engineered Fast SNAP gates in weakly coupled cQED systems
 Floquet-engineered decoherence-resilient protocols for wideband sensing beyond the linear standard quantum limit
 Quantum error mitigation for rotation symmetric bosonic codes with symmetry expansion
+Cavity-mediated cross-cross-resonance gate
+Ultracoherent superconducting cavity-based multiqudit platform with error-resilient control
+Selective Addressing of Coupled Qubits via Complex Frequency Zero Targeting
+Flagged Extensions and Numerical Simulations for Quantum Channel Capacity: Bridging Theory and Computation
+Permutationally-Invariant N-body gates via Tavis-Cummings Hamiltonian
+Exceeding the Parametric Drive Strength Threshold in Nonlinear Circuits
+Ultralong Room-Temperature Qubit Lifetimes of Covalent Organic Frameworks
+An 11-qubit atom processor in silicon
+Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning
