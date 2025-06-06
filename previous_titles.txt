@@ -2189,3 +2189,14 @@ Exceeding the Parametric Drive Strength Threshold in Nonlinear Circuits
 Ultralong Room-Temperature Qubit Lifetimes of Covalent Organic Frameworks
 An 11-qubit atom processor in silicon
 Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning
+Superconducting antiqubits achieve optimal phase estimation via unitary inversion
+Exponential distillation of dominant eigenproperties
+Full characterization of measurement-induced transitions of a superconducting qubit
+The Arm Qubit: A Superconducting Qubit Co-Designed for Coherence and Coupling
+Correlating Superconducting Qubit Performance Losses to Sidewall Near-Field Scattering via Terahertz Nanophotonics
+Gate-tunable spectrum and charge dispersion mitigation in a graphene superconducting qubit
+Cosmic-ray-induced correlated errors in superconducting qubit array
+Implementation and topological characterization of Weyl exceptional rings in quantum-mechanical systems
+Realization of maximally-entangling two-qutrit gates using the Cross-Resonance scheme
+Buried unstrained Ge channels: a lattice-matched platform for quantum technology
+Pressure-Driven Metallicity in {\AA}ngstr\"om-Thickness 2D Bismuth and Layer-Selective Ohmic Contact to MoS2
