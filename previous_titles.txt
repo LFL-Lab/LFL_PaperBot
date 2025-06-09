@@ -2201,3 +2201,7 @@ Realization of maximally-entangling two-qutrit gates using the Cross-Resonance s
 Buried unstrained Ge channels: a lattice-matched platform for quantum technology
 Pressure-Driven Metallicity in {\AA}ngstr\"om-Thickness 2D Bismuth and Layer-Selective Ohmic Contact to MoS2
 Editorial for the Special Topic: Advances in quantum metrology
+Ancilla measurement-based Quantum Otto engine using double-pair spin architecture
+Design Tradeoffs in Photonically Linked Qubit Networks
+Squeezing and quantum control of antiferromagnetic magnon pseudospin
+Optimization of Floquet fluxonium qubits with commensurable two-tone drives
