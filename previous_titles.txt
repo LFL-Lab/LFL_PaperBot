@@ -2213,3 +2213,16 @@ Suppression of spin bath and low-frequency noise for sub-MHz AC magnetometry bas
 Key Issues Review: Useful autonomous quantum machines
 Curvature effects on stimulated parametric down-conversion process: an analog model
 Dispersive qubit readout of temperature
+Network nonlocality with continuous variables: probing nonbilocality through pseudospin measurements
+Quantum Resource Comparison for Two Leading Surface Code Lattice Surgery Approaches
+Insightful Approach to Quantum Noise Suppression Below the Standard Quantum Limit Using a Single Mirror and Beam Splittert
+Robust Spin Polarization by Adiabatic Dynamical Decoupling
+Quantum Resource Assay for the Grid-Based Simulation of the Photodynamics of Pyrazine
+Optimizing Superconducting Three-Qubit Gates for Surface-Code Error Correction
+Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates
+Low-crosstalk optical addressing system for atomic qubits based on multiple objectives and acousto-optic deflectors
+Fault-tolerant quantum computation with a neutral atom processor
+Virtual-$Z$ Gates and Symmetric Gate Compilation
+Spin-split superconductivity in spin-orbit coupled hybrid nanowires with ferromagnetic barriers
+Andreev spin qubit protected by Franck-Condon blockade
+YSR Bond Qubit in a Double Quantum Dot with cQED Operation
