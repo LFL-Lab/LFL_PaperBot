@@ -2226,3 +2226,8 @@ Virtual-$Z$ Gates and Symmetric Gate Compilation
 Spin-split superconductivity in spin-orbit coupled hybrid nanowires with ferromagnetic barriers
 Andreev spin qubit protected by Franck-Condon blockade
 YSR Bond Qubit in a Double Quantum Dot with cQED Operation
+Devanagari Digit Recognition using Quantum Machine Learning
+Enhancing quantum noise characterization via extra energy levels
+Speeding up adiabatic holonomic quantum gates via $\pi$-pulse modulation
+Real-time adaptive tracking of fluctuating relaxation rates in superconducting qubits
+Bipartite entanglement extracted from multimode squeezed light generated in lossy waveguides
