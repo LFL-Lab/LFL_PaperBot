@@ -2231,3 +2231,7 @@ Enhancing quantum noise characterization via extra energy levels
 Speeding up adiabatic holonomic quantum gates via $\pi$-pulse modulation
 Real-time adaptive tracking of fluctuating relaxation rates in superconducting qubits
 Bipartite entanglement extracted from multimode squeezed light generated in lossy waveguides
+Lieb-Mattis states for robust entangled differential phase sensing
+Constructive interference at the edge of quantum ergodic dynamics
+Synchronization for Fault-Tolerant Quantum Computers
+High-dynamic-range quantum sensing of magnons and their dynamics using a superconducting qubit
