@@ -2235,3 +2235,7 @@ Lieb-Mattis states for robust entangled differential phase sensing
 Constructive interference at the edge of quantum ergodic dynamics
 Synchronization for Fault-Tolerant Quantum Computers
 High-dynamic-range quantum sensing of magnons and their dynamics using a superconducting qubit
+Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction
+Physics-inspired neural networks as quasi inverse of quantum channels
+Insightful Approach to Quantum Noise Suppression Below the Standard Quantum Limit Using a Single Mirror and Beam Splitter
+Estimating the Energy Threshold of Phonon-mediated Superconducting Qubit Detectors Operated in an Energy-Relaxation Sensing Scheme
