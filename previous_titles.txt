@@ -2239,3 +2239,17 @@ Learning Encodings by Maximizing State Distinguishability: Variational Quantum E
 Physics-inspired neural networks as quasi inverse of quantum channels
 Insightful Approach to Quantum Noise Suppression Below the Standard Quantum Limit Using a Single Mirror and Beam Splitter
 Estimating the Energy Threshold of Phonon-mediated Superconducting Qubit Detectors Operated in an Energy-Relaxation Sensing Scheme
+Physical-Layer Machine Learning with Multimode Interferometric Photon Counting
+Simulating the Antiferromagnetic Heisenberg Model on a Spin-Frustrated Kagome Lattice with the Contextual Subspace Variational Quantum Eigensolver
+Noise tolerance via reinforcement: Learning a reinforced quantum dynamics
+A unified picture for quantum Zeno and anti-Zeno effects
+Testing the quantum nature of gravity through interferometry
+Theory of Stationary Photon Emission from a Steadily Driven Parametric Oscillator Based on the Complex Spectral Analysis of the Heisenberg Equation
+Scalable Simulation of Quantum Many-Body Dynamics with Or-Represented Quantum Algebra
+Exact Quantum Capacity of Decohering Channels in Arbitrary Dimensions
+Nonclassicality of fully degenerate triple-photon states and its application in generating non-Gaussian entanglement
+Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation
+Leveraging erasure errors in logical qubits with metastable $^{171}$Yb atoms
+Imaging at the quantum limit with convolutional neural networks
+Flat-Band (De)localization Emulated with a Superconducting Qubit Array
+Andreev bound states and supercurrent in an unconventional superconductor-altermagnet Josephson junction
