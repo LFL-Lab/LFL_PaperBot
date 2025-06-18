@@ -2253,3 +2253,14 @@ Leveraging erasure errors in logical qubits with metastable $^{171}$Yb atoms
 Imaging at the quantum limit with convolutional neural networks
 Flat-Band (De)localization Emulated with a Superconducting Qubit Array
 Andreev bound states and supercurrent in an unconventional superconductor-altermagnet Josephson junction
+Tunable Hybrid-Mode Coupler Enabling Strong Interactions between Transmons at Centimeter-Scale Distance
+Experimental demonstration of high-fidelity logical magic states from code switching
+Enhancing photon-axion conversion probability with squeezed coherent states
+Non-Gaussian state preparation and enhancement using weak-value amplification
+Broadband merged-element Josephson parametric amplifier
+Breaking even with magic: demonstration of a high-fidelity logical non-Clifford gate
+Resolving Andreev spin qubits in germanium-based Josephson junctions
+Quantum-assisted tracer dispersion in turbulent shear flow
+Relation between quantum illumination and quantum parameter estimation
+High yield, low disorder Si/SiGe heterostructures for spin qubit devices manufactured in a BiCMOS pilot line
+Observation of photonic dynamics in dissipative quantum Rabi models
