@@ -2264,3 +2264,14 @@ Quantum-assisted tracer dispersion in turbulent shear flow
 Relation between quantum illumination and quantum parameter estimation
 High yield, low disorder Si/SiGe heterostructures for spin qubit devices manufactured in a BiCMOS pilot line
 Observation of photonic dynamics in dissipative quantum Rabi models
+Long-Range Entangling Operations via Josephson Junction Metasurfaces
+Optimal Compilation Strategies for QFT Circuits in Neutral-Atom Quantum Computing
+A Topologically Fault-Tolerant Quantum Computer with Four Dimensional Geometric Codes
+High-Efficiency Quantum Memory of Full-Bandwidth Squeezed Light
+Error-detected coherence metrology of a dual-rail encoded fixed-frequency multimode superconducting qubit
+Symmetry in Multi-Qubit Correlated Noise Errors Enhances Surface Code Thresholds
+Fast, continuous and coherent atom replacement in a neutral atom qubit array
+Optimizing mechanical entanglement using squeezing and parametric amplification
+Reservoir-Engineered Squeezed Lasing through the Parametric Coupling
+Efficient Chromatic-Number-Based Multiqubit Decoherence and Crosstalk Suppression
+Solitonic Andreev Spin Qubit
