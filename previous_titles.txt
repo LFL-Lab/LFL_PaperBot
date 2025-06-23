@@ -2275,3 +2275,18 @@ Optimizing mechanical entanglement using squeezing and parametric amplification
 Reservoir-Engineered Squeezed Lasing through the Parametric Coupling
 Efficient Chromatic-Number-Based Multiqubit Decoherence and Crosstalk Suppression
 Solitonic Andreev Spin Qubit
+Superconducting Qubit Readout Using Next-Generation Reservoir Computing
+Memory effects in a dynamical decoupling process by parity kicks
+Fully convolutional 3D neural network decoders for surface codes with syndrome circuit noise
+Design of Advanced Readout and System-on-Chip Analog Circuits for Quantum Chip
+Quantum-Processing-Assisted Classical Communications
+Experimental Extraction of Coherent Ergotropy and Its Energetic Cost in a Superconducting Qubit
+Squeezing Towards the Heisenberg Limit with Locally Interacting Spins
+Protocol for detecting the nonlocality of the multi-Majorana Systems
+No Scratch Quantum Computing by Reducing Qubit Overhead for Efficient Arithmetics
+Comparison of spin-qubit architectures for quantum error-correcting codes
+Efficient Magic State Distillation by Zero-Level Distillation
+Nonequilibrium Quasiparticles in Superconducting Circuits: Energy Relaxation, Charge and Flux Noise
+A Josephson wormhole in coupled superconducting Yukawa-SYK metals
+Band-like Exact Zero-energy Andreev Bound States and Superconducting Diode Effect in Mixed ${s+p}$-wave Josephson Junctions
+Electric field control of superconducting fluctuations and quasiparticle interference at oxide interfaces
