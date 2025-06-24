@@ -2290,3 +2290,15 @@ Nonequilibrium Quasiparticles in Superconducting Circuits: Energy Relaxation, Ch
 A Josephson wormhole in coupled superconducting Yukawa-SYK metals
 Band-like Exact Zero-energy Andreev Bound States and Superconducting Diode Effect in Mixed ${s+p}$-wave Josephson Junctions
 Electric field control of superconducting fluctuations and quasiparticle interference at oxide interfaces
+Crosstalk-Robust Dynamical Decoupling for Bipartite-Topology Quantum Processors
+Planar Fault-Tolerant Quantum Computation with Low Overhead
+Programming Quantum Computers with Large Language Models
+Correlated Error Bursts in a Gap-Engineered Superconducting Qubit Array
+Classical and Quantum Resources in Perfect Teleportation
+Robust Control of High-dimensional Quantum Systems against Coherent and Incoherent Errors
+Phase-Dependent Squeezing in Dual-Comb Interferometry
+Improving the lifetime of aluminum-based superconducting qubits through atomic layer etching and deposition
+Towards a hybrid 3D transmon qubit with topological insulator-based Josephson junctions
+Global Variational Quantum Circuits for Arbitrary Symmetric State Preparation
+Towards a micromechanical qubit based on quantized oscillations in superfluid helium
+Synthetic     π   -flux system in 2D superconducting qubit array with tunable coupling
