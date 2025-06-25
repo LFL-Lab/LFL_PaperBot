@@ -2302,3 +2302,10 @@ Towards a hybrid 3D transmon qubit with topological insulator-based Josephson ju
 Global Variational Quantum Circuits for Arbitrary Symmetric State Preparation
 Towards a micromechanical qubit based on quantized oscillations in superfluid helium
 Synthetic     π   -flux system in 2D superconducting qubit array with tunable coupling
+Continuous-variable Quantum Diffusion Model for State Generation and Restoration
+A Qubit-Efficient Hybrid Quantum Encoding Mechanism for Quantum Machine Learning
+Practical continuous-variable quantum key distribution with squeezed light
+Error recovery protocols within metastable Decoherence-Free Subspaces
+High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity
+Fast readout of quantum dot spin qubits via Andreev spins
+rf-SQUID-based traveling-wave parametric amplifier with input saturation power of $−84$ dBm across more than one octave in bandwidth
