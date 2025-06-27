@@ -2319,3 +2319,7 @@ Quantum sensing of displacements with stabilized GKP states
 Continuous operation of a coherent 3,000-qubit system
 Architectural mechanisms of a universal fault-tolerant quantum computer
 Variational quantum regression algorithm with encoded data structure
+Explainable quantum regression algorithm with encoded data structure
+Amplifying microwave pulses with a single qubit engine fueled by quantum measurements
+Origin of the subharmonic gap structure of dc current-biased Josephson junctions
+Suppressed paramagnetism in amorphous $\mathrm{Ta}$${}_{2}$$\mathrm{O}$${}_{5−x}$ oxides and its link to superconducting-qubit performance
