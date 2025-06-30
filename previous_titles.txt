@@ -2323,3 +2323,10 @@ Explainable quantum regression algorithm with encoded data structure
 Amplifying microwave pulses with a single qubit engine fueled by quantum measurements
 Origin of the subharmonic gap structure of dc current-biased Josephson junctions
 Suppressed paramagnetism in amorphous $\mathrm{Ta}$${}_{2}$$\mathrm{O}$${}_{5−x}$ oxides and its link to superconducting-qubit performance
+Consistent Simulation of Fibonacci Anyon Braiding within a Qubit Quasicrystal Inflation Code
+Experimental quantum reservoir computing with a circuit quantum electrodynamics system
+Daemonic ergotropy of Gaussian quantum states and the role of measurement-induced purification via general-dyne detection
+Spin squeezing generation in atom-cavity systems: on the effects of adiabatic elimination beyond the leading order
+General many-body entanglement swapping protocol
+Decoherence of Majorana qubits by 1/f noise
+Fast, robust and laser-free universal entangling gates for trapped-ion quantum computing
