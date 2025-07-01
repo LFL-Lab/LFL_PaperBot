@@ -2330,3 +2330,9 @@ Spin squeezing generation in atom-cavity systems: on the effects of adiabatic el
 General many-body entanglement swapping protocol
 Decoherence of Majorana qubits by 1/f noise
 Fast, robust and laser-free universal entangling gates for trapped-ion quantum computing
+Demonstration of measurement-free universal fault-tolerant quantum computation
+A scanning resonator for probing quantum coherent devices
+Quantum Computing Architecture and Hardware for Engineers -- Step by Step -- Volume II
+SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks
+Unraveling superradiance: Entanglement and mutual information in collective decay
+Two-Dimensional Materials-Based Josephson Junctions
