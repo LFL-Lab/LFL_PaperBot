@@ -2336,3 +2336,8 @@ Quantum Computing Architecture and Hardware for Engineers -- Step by Step -- Vol
 SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks
 Unraveling superradiance: Entanglement and mutual information in collective decay
 Two-Dimensional Materials-Based Josephson Junctions
+Logarithmic Depth Decomposition of Approximate Multi-Controlled Single-Qubit Gates Without Ancilla Qubits
+Quantum Imaginary-Time Evolution with Polynomial Resources in Time
+The Metaphysics of Protection: Emergence, Agency, and the Ontological Status of Logical Qubits
+Logical operations with a dynamical qubit in Floquet-Bacon-Shor code
+Buried unstrained germanium channels: a lattice-matched platform for quantum technology
