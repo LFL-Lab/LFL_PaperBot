@@ -2341,3 +2341,10 @@ Quantum Imaginary-Time Evolution with Polynomial Resources in Time
 The Metaphysics of Protection: Emergence, Agency, and the Ontological Status of Logical Qubits
 Logical operations with a dynamical qubit in Floquet-Bacon-Shor code
 Buried unstrained germanium channels: a lattice-matched platform for quantum technology
+Quantum Computing in Discrete- and Continuous-Variable Architectures
+Temperature and Magnetic-Field Dependence of Energy Relaxation in a Fluxonium Qubit
+Coupled Cluster Downfolding Theoryin Simulations of Chemical Systems on Quantum Hardware
+A Fundamental Bound for Robust Quantum Gate Control
+Fiber transmission of cluster states via multi-level time-bin encoding
+Toward graviton detection via photon-graviton quantum state conversion
+Noise-induced stabilization of dynamical states with broken time-reversal symmetry
