@@ -2348,3 +2348,8 @@ A Fundamental Bound for Robust Quantum Gate Control
 Fiber transmission of cluster states via multi-level time-bin encoding
 Toward graviton detection via photon-graviton quantum state conversion
 Noise-induced stabilization of dynamical states with broken time-reversal symmetry
+Efficient characterization of coherent and correlated noise in layers of gates
+Bias-tailored single-shot quantum LDPC codes
+Context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity
+Structured squeezed light allows for high-harmonic generation in classical forbidden geometries
+Coupled Cluster Downfolding Theory in Simulations of Chemical Systems on Quantum Hardware
