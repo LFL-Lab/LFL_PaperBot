@@ -2353,3 +2353,16 @@ Bias-tailored single-shot quantum LDPC codes
 Context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity
 Structured squeezed light allows for high-harmonic generation in classical forbidden geometries
 Coupled Cluster Downfolding Theory in Simulations of Chemical Systems on Quantum Hardware
+High-power readout of a transmon qubit using a nonlinear coupling
+Awesome Quantum Computing Experiments: Benchmarking Experimental Progress Towards Fault-Tolerant Quantum Computation
+Compact Fiber-Coupled Narrowband Two-Mode Squeezed Light Source
+Engineering a Multi-Mode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection
+Bounds on Autonomous Quantum Error Correction
+A Useful Metric for the NISQ Era: Qubit Error Probability and Its Role in Zero Noise Extrapolation
+Enhancing variational quantum algorithms by balancing training on classical and quantum hardware
+Superfluid-Cooled Transmon Qubits under Optical Excitation
+Robust, fast, and high-fidelity composite single-qubit gates for superconducting transmon qubits
+Fast unconditional reset and leakage reduction of a tunable superconducting qubit via an engineered dissipative bath
+Andreev bound state spectroscopy of a quantum-dot-based Aharonov-Bohm interferometer with superconducting terminals
+The Ferroelectric Superconducting Field Effect Transistor
+Magnetic field-free braiding and nontrivial fusion of Majorana bound states in high-temperature planar Josephson junctions
