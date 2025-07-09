@@ -2366,3 +2366,9 @@ Fast unconditional reset and leakage reduction of a tunable superconducting qubi
 Andreev bound state spectroscopy of a quantum-dot-based Aharonov-Bohm interferometer with superconducting terminals
 The Ferroelectric Superconducting Field Effect Transistor
 Magnetic field-free braiding and nontrivial fusion of Majorana bound states in high-temperature planar Josephson junctions
+Solving Large-Scale Vehicle Routing Problems with Hybrid Quantum-Classical Decomposition
+Reservoir-engineered squeezed lasing through the parametric coupling
+Low-depth quantum error correction via three-qubit gates in Rydberg atom arrays
+How the Kerr-Cat Qubit Dies-And How to Rescue It
+Generation of Large Amplitude Phonon States in Quantum Acoustics
+Open Quantum System Approaches to Superconducting Qubits
