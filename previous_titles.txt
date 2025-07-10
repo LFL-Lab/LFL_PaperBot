@@ -2372,3 +2372,8 @@ Low-depth quantum error correction via three-qubit gates in Rydberg atom arrays
 How the Kerr-Cat Qubit Dies-And How to Rescue It
 Generation of Large Amplitude Phonon States in Quantum Acoustics
 Open Quantum System Approaches to Superconducting Qubits
+Two Variations of Quantum Phase Estimation for Reducing Circuit Error Rates: Application to the Harrow--Hassidim--Lloyd Algorithm
+No physics required! A visual-based introduction to GKP qubits for computer scientists
+Flexible Readout and Unconditional Reset for Superconducting Multi-Qubit Processors with Tunable Purcell Filters
+Plane-selective manipulations of nuclear spin qubits in a three-dimensional optical tweezer array
+Enhanced Andreev Reflection in Flat-Band Systems: Wave Packet Dynamics, DC Transport and the Josephson Effect
