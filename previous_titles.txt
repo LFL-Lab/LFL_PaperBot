@@ -2377,3 +2377,7 @@ No physics required! A visual-based introduction to GKP qubits for computer scie
 Flexible Readout and Unconditional Reset for Superconducting Multi-Qubit Processors with Tunable Purcell Filters
 Plane-selective manipulations of nuclear spin qubits in a three-dimensional optical tweezer array
 Enhanced Andreev Reflection in Flat-Band Systems: Wave Packet Dynamics, DC Transport and the Josephson Effect
+A Neural-Guided Variational Quantum Algorithm for Efficient Sign Structure Learning in Hybrid Architectures
+Kinetic Inductance Traveling Wave Parametric Amplifiers Near the Quantum Limit: Methodology and Characterization
+Preparing spin-squeezed states in Rydberg atom arrays via quantum optimal control
+Vacuum squeezing enhanced micrometer scale vapor cell magnetometer
