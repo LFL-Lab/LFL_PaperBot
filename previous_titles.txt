@@ -2381,3 +2381,7 @@ A Neural-Guided Variational Quantum Algorithm for Efficient Sign Structure Learn
 Kinetic Inductance Traveling Wave Parametric Amplifiers Near the Quantum Limit: Methodology and Characterization
 Preparing spin-squeezed states in Rydberg atom arrays via quantum optimal control
 Vacuum squeezing enhanced micrometer scale vapor cell magnetometer
+Hybrid Cat-Transmon Architecture for Scalable, Hardware-Efficient Quantum Error Correction
+Continuous-variable quantum teleportation, U(2)-invariant squeezing, and non-Gaussian resource states
+Modeling and optimization of pulsed-squeezed-state generation in a ring-resonator system
+Gain compression in Josephson traveling-wave parametric amplifiers
