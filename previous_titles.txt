@@ -2385,3 +2385,15 @@ Hybrid Cat-Transmon Architecture for Scalable, Hardware-Efficient Quantum Error 
 Continuous-variable quantum teleportation, U(2)-invariant squeezing, and non-Gaussian resource states
 Modeling and optimization of pulsed-squeezed-state generation in a ring-resonator system
 Gain compression in Josephson traveling-wave parametric amplifiers
+Uncertainty Relations and Entanglement for PQ-deformed Supersymmetric Coherent States
+Real-Time Dynamics in a (2+1)-D Gauge Theory: The Stringy Nature on a Superconducting Quantum Simulator
+Improving Transmon Qubit Performance with Fluorine-based Surface Treatments
+Enhancing Decoding Performance using Efficient Error Learning
+Arbitrary high-fidelity binomial codes from multiphoton spin-boson interactions
+Simulated non-Markovian Noise Resilience of Silicon-Based Spin Qubits with Surface Code Error Correction
+Distinct Lifetimes for $X$ and $Z$ Loop Measurements in a Majorana Tetron Device
+Averaging gate approximation error and performance of Unitary Coupled Cluster ansatz in Pre-FTQC Era
+Interferometric Mass Photometry at the Quantum Limit of Sensitivity
+The Electronic Structure of the Hydrogen Molecule: A Tutorial Exercise in Classical and Quantum Computation
+Exciting terahertz magnons with amplitude modulated light: spin pumping, squeezed states, symmetry breaking and pattern formation
+Strengthened correlations near [110] edges of $d$-wave superconductors in the t-J model with the Gutzwiller approximation
