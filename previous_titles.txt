@@ -2397,3 +2397,15 @@ Interferometric Mass Photometry at the Quantum Limit of Sensitivity
 The Electronic Structure of the Hydrogen Molecule: A Tutorial Exercise in Classical and Quantum Computation
 Exciting terahertz magnons with amplitude modulated light: spin pumping, squeezed states, symmetry breaking and pattern formation
 Strengthened correlations near [110] edges of $d$-wave superconductors in the t-J model with the Gutzwiller approximation
+Time crystals and nonequilibrium dissipative phase transitions mediated by squeezed bath
+Impedance-Engineered Josephson Parametric Amplifier with Single-Step Lithography
+Echoes in a parametrically perturbed Kerr-nonlinear oscillator
+Using a Kerr interaction for GKP magic state preparation
+Small Quantum Low Parity Density Check Codes for Near-Term Experiments
+Intrinsic Multi-Mode Interference for Passive Suppression of Purcell Decay in Superconducting Circuits
+Continuous variable quantum communication with 40 pairs of entangled sideband
+Thermal rectification in a qubit-resonator system
+Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes under Coherent Noise
+Universal scaling of microwave dissipation in superconducting circuits
+Non-reciprocal scattering in a microwave frequency comb
+Nonreciprocal scattering in a microwave frequency comb
