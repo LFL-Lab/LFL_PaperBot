@@ -2409,3 +2409,8 @@ Fault-Tolerant Quantum Error Correction for Constant-Excitation Stabilizer Codes
 Universal scaling of microwave dissipation in superconducting circuits
 Non-reciprocal scattering in a microwave frequency comb
 Nonreciprocal scattering in a microwave frequency comb
+Real-time preparation and verification of nonstabilizer states
+Entanglement Classification in the Graph States: The generalization to $n$-Qubits States using the Entanglement Matrix
+Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code
+Understanding Quantum Information and Computation
+Transverse Spin Supercurrent at p-wave magnetic Josephson Junctions
