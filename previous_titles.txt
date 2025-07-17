@@ -2414,3 +2414,16 @@ Entanglement Classification in the Graph States: The generalization to $n$-Qubit
 Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code
 Understanding Quantum Information and Computation
 Transverse Spin Supercurrent at p-wave magnetic Josephson Junctions
+Tripartite Entanglement in Multimode Cavity Quantum Electrodynamics
+Simultaneous High-Fidelity Single-Qubit Gates in a Spin Qubit Array
+QAS-QTNs: Curriculum Reinforcement Learning-Driven Quantum Architecture Search for Quantum Tensor Networks
+Optomagnonic continuous-variable quantum teleportation enhanced by non-Gaussian distillation
+Comment on "Properties and dynamics of generalized squeezed states"
+Design Automation in Quantum Error Correction
+On approximate quantum error correction for symmetric noise
+Quantum estimation of cosmological parameters
+Ultra-strong Quantum Squeezing Mediated by Plasma Waves
+Fault-tolerant fermionic quantum computing
+No-Go Theorem for Generic Simulation of Qubit Channels with Finite Classical Resources
+Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy
+Material Loss Model Calibration for Tantalum Superconducting Resonators
