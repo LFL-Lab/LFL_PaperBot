@@ -2427,3 +2427,10 @@ Fault-tolerant fermionic quantum computing
 No-Go Theorem for Generic Simulation of Qubit Channels with Finite Classical Resources
 Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy
 Material Loss Model Calibration for Tantalum Superconducting Resonators
+Unfolded distillation: very low-cost magic state preparation for biased-noise qubits
+Scalable dissipative quantum error correction for discrete-variable codes
+Deterministic Generation of Four-Component Schr\"odinger Cat States via Floquet Engineering in a Hybrid Magnon-Superconductor System
+Mechanical Squeezed-Fock Qubit: Towards Quantum Weak-Force Sensing
+Technical Review on RF-Amplifiers for Quantum Computer Circuits: New Architectures of Josephson Parametric Amplifier
+A superinductor in a deep sub-micron integrated circuit
+Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Information Processing
