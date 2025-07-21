@@ -2434,3 +2434,7 @@ Mechanical Squeezed-Fock Qubit: Towards Quantum Weak-Force Sensing
 Technical Review on RF-Amplifiers for Quantum Computer Circuits: New Architectures of Josephson Parametric Amplifier
 A superinductor in a deep sub-micron integrated circuit
 Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Information Processing
+Two-photon coupling via Josephson element II: Interaction renormalizations and cross-Kerr coupling
+Enhancing Coherence with a Clock Transition and Dynamical Decoupling in the Cr$_7$Mn Molecular Nanomagnet
+Fast charge noise sensing using a spectator valley state in a singlet-triplet qubit
+Sizable superconducting gap and anisotropic chiral topological superconductivity in the Weyl semimetal PtBi$_2$
