@@ -2438,3 +2438,11 @@ Two-photon coupling via Josephson element II: Interaction renormalizations and c
 Enhancing Coherence with a Clock Transition and Dynamical Decoupling in the Cr$_7$Mn Molecular Nanomagnet
 Fast charge noise sensing using a spectator valley state in a singlet-triplet qubit
 Sizable superconducting gap and anisotropic chiral topological superconductivity in the Weyl semimetal PtBi$_2$
+High-fidelity, quasi-deterministic entanglement generation using phase-matched spectral islands in a zero-added-loss multiplexing architecture
+Mitigating state transition errors during readout with a synchronized flux pulse
+Spectator Leakage Elimination in CZ Gates via Tunable Coupler Interference on a Superconducting Quantum Processor
+Resource-Efficient Cross-Platform Verification with Modular Superconducting Devices
+Quantum thermometry with non-Gaussian states: From non-equilibrium speed to equilibrium precision
+Supercurrent tuning of the Josephson coupling energy
+Sustained Amplification of Coherent Spin Waves by Parametric Pumping with Surface Acoustic Waves
+Layer-selective Cooper pairing in an alternately stacked transition metal dichalcogenide
