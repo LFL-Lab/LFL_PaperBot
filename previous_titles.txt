@@ -2446,3 +2446,13 @@ Quantum thermometry with non-Gaussian states: From non-equilibrium speed to equi
 Supercurrent tuning of the Josephson coupling energy
 Sustained Amplification of Coherent Spin Waves by Parametric Pumping with Surface Acoustic Waves
 Layer-selective Cooper pairing in an alternately stacked transition metal dichalcogenide
+Impact of finite squeezing on near-term quantum computations using GKP qubits
+Non-Markovian Exceptional Points by Interpolating Quantum Channels
+Practical blueprint for low-depth photonic quantum computing with quantum dots
+Engineering Non-Hermitian Quantum Evolution Using a Hermitian Bath Environment
+Multi-qubit Rydberg gates between distant atoms
+Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity
+Parametric Amplification of Spin-Motion Coupling in Three-Dimensional Trapped-Ion Crystals
+Quantum teleportation of an elemental silicon nanophotonic CNOT gate
+Enhanced Quantum Mpemba Effect with Squeezed Thermal Reservoirs
+Andreev molecules at distance
