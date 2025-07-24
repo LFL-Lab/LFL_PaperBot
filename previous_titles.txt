@@ -2456,3 +2456,11 @@ Parametric Amplification of Spin-Motion Coupling in Three-Dimensional Trapped-Io
 Quantum teleportation of an elemental silicon nanophotonic CNOT gate
 Enhanced Quantum Mpemba Effect with Squeezed Thermal Reservoirs
 Andreev molecules at distance
+On small perturbations of coherent information
+Qubit-Efficient Quantum Algorithm for Linear Differential Equations
+On-chip stencil lithography for superconducting qubits
+Josephson Traveling-Wave Parametric Amplifier with Inverse Kerr Phase Matching
+Rabi oscillations and entanglement between two atoms interacting by the Rydberg blockade studied by the Jaynes-Cummings Model
+Hybrid quantum lattice model: Polaritons, photons, and spin waves propagation
+Hybrid quantum simulations with qubits and qumodes on trapped-ion platforms
+Spontaneous Emergence of Phase Coherence in a quasiparticle Bose-Einstein Condensate
