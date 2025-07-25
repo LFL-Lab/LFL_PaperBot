@@ -2464,3 +2464,12 @@ Rabi oscillations and entanglement between two atoms interacting by the Rydberg 
 Hybrid quantum lattice model: Polaritons, photons, and spin waves propagation
 Hybrid quantum simulations with qubits and qumodes on trapped-ion platforms
 Spontaneous Emergence of Phase Coherence in a quasiparticle Bose-Einstein Condensate
+Quantum Fisher Information in Curved Spacetime: Dirac Particles in Noisy Channels around a Schwarzschild Black Hole
+Squeezing enhanced sensing at an exceptional point
+Certifying non-classicality and non-Gaussianity through optical parametric amplification
+Tunable Non-Gaussian Mechanical States in a Strongly Coupled Hybrid Quantum System
+Hybrid quantum-classical algorithm for near-optimal planning in POMDPs
+Phase-selective tripartite entanglement and asymmetric Einstein-Podolsky-Rosen steering in squeezed optomechanics
+Fast generation of Pauli transfer matrices utilizing tensor product structure
+Magnetic Hysteresis Experiments Performed on Quantum Annealers
+Parametric Multielement Coupling Architecture for Coherent and Dissipative Control of Superconducting Qubits
