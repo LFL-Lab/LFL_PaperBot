@@ -2473,3 +2473,13 @@ Phase-selective tripartite entanglement and asymmetric Einstein-Podolsky-Rosen s
 Fast generation of Pauli transfer matrices utilizing tensor product structure
 Magnetic Hysteresis Experiments Performed on Quantum Annealers
 Parametric Multielement Coupling Architecture for Coherent and Dissipative Control of Superconducting Qubits
+Analysis of RF Surface Loss in a Planar 2D Qubit
+Digital Twin Simulations Toolbox of the Nitrogen-Vacancy Center in Diamond
+Co-optimization of codon usage and mRNA secondary structure using quantum computing
+Almost fault--tolerant quantum machine learning with drastic overhead reduction
+Scalable native multi-qubit gates for fluxonium architectures with tunable plasmon interactions
+Random approximate quantum information masking
+Higher-dimensional entanglement detection and quantum channel characterization using moments of generalized positive maps
+Testing time order and Leggett-Garg inequalities with noninvasive measurements on public quantum computers
+Sensing magnonic quantum superpositions using a bosonic mode as the probe
+The Josephson effect in Fibonacci superconductors
