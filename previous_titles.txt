@@ -2483,3 +2483,14 @@ Higher-dimensional entanglement detection and quantum channel characterization u
 Testing time order and Leggett-Garg inequalities with noninvasive measurements on public quantum computers
 Sensing magnonic quantum superpositions using a bosonic mode as the probe
 The Josephson effect in Fibonacci superconductors
+Quantum Reinforcement Learning by Adaptive Non-local Observables
+Exponentially robust non-Clifford gate in a driven-dissipative circuit
+Circuit simulation of readout process toward large-scale superconducting quantum circuits
+A small and interesting architecture for early fault-tolerant quantum computers
+Electron charge coherence on a solid neon surface
+Real-Space Chemistry on Quantum Computers: A Fault-Tolerant Algorithm with Adaptive Grids and Transcorrelated Extension
+Noise-Limited Sensitivity in Cavity Optomechanical Molecular Sensing Enabled by Quantum Zero-Point Displacement Coupling and Strong Photon-Phonon Interaction for Chiral Detection
+Analog quantum simulation of Dirac Hamiltonians in circuit QED using Rabi-driven qubits
+Nondemolition fluorescence readout and high-fidelity unconditional reset of a fluxonium qubit via dissipation engineering
+Characterizing local Majorana properties using Andreev states
+Localized Edge States in Stacked Al/Ni Multilayers: Possible Evidence of Chiral Hinge Modes
