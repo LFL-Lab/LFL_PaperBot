@@ -2494,3 +2494,5 @@ Analog quantum simulation of Dirac Hamiltonians in circuit QED using Rabi-driven
 Nondemolition fluorescence readout and high-fidelity unconditional reset of a fluxonium qubit via dissipation engineering
 Characterizing local Majorana properties using Andreev states
 Localized Edge States in Stacked Al/Ni Multilayers: Possible Evidence of Chiral Hinge Modes
+Subharmonic Control of a Fluxonium Qubit via a Purcell-Protected Flux Line
+Simple high-saturation-power quantum-limited rf-SQUID-array-based Josephson parametric amplifiers
