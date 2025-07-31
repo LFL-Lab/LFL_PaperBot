@@ -2496,3 +2496,13 @@ Characterizing local Majorana properties using Andreev states
 Localized Edge States in Stacked Al/Ni Multilayers: Possible Evidence of Chiral Hinge Modes
 Subharmonic Control of a Fluxonium Qubit via a Purcell-Protected Flux Line
 Simple high-saturation-power quantum-limited rf-SQUID-array-based Josephson parametric amplifiers
+Protected quantum gates using qubit doublons in dynamical optical lattices
+Parametric Amplification in Kerr Nonlinear Resonators: A theoretical review of Josephson Parametric Amplifiers
+Single- and Two-Mode Squeezing by Modulated Coupling to a Rabi Driven Qubit
+Programmable Microwave Cluster States via Josephson Metamaterials
+Digital Quantum Simulation of Spin Transport
+Joint Estimation of a Two-Phase Spin Rotation beyond Classical Limit
+Symmetrically Threaded Superconducting Quantum Interference Devices As Next Generation Kerr-cat Qubits
+Unitary reformulation of the thermofield double state and limits of cyclic multi-mode squeezing
+Superconducting integrated on-demand quantum memory with microwave pulse preservation
+Realization of High-Fidelity Perfect Entanglers between Remote Superconducting Quantum Processors
