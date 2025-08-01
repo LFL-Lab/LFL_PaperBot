@@ -2506,3 +2506,12 @@ Symmetrically Threaded Superconducting Quantum Interference Devices As Next Gene
 Unitary reformulation of the thermofield double state and limits of cyclic multi-mode squeezing
 Superconducting integrated on-demand quantum memory with microwave pulse preservation
 Realization of High-Fidelity Perfect Entanglers between Remote Superconducting Quantum Processors
+Asymptotically optimal joint phase and dephasing strength estimation using spin-squeezed states
+Placing and Routing Non-Local Quantum Error Correcting Codes in Multi-Layer Superconducting Qubit Hardware
+Environment-assisted and weak measurement strategies for robust bidirectional quantum teleportation
+Superradiant Axionic Black-Hole Clouds as Seeds for Graviton Squeezing
+Squeezed gravitons from superradiant axion fields around rotating black holes
+Turning qubit noise into an advantage: Automatic state preparation and long-time dynamics for impurity models on quantum computers
+Exceptional Andreev spectrum and supercurrent in p-wave non-Hermitian Josephson junctions
+Effect of quasiparticles on the parameters of a gap-engineered transmon
+Sextets in four-terminal Josephson junctions
