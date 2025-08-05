@@ -2521,3 +2521,13 @@ Quantum entanglement of Hawking-Partner modes in expanding cavities
 Implementing fault-tolerant non-Clifford gates using the [[8,3,2]] color code
 Celestial Quantum Error Correction I: Qubits from Noncommutative Klein Space
 Wave-mixing cathodoluminescence microscopy of low-frequency excitations
+Quantum Sensing with Bright Two-Mode Squeezed Light in a Distributed Network of Gyroscopes
+Theory of quantum comb enhanced interferometry
+Microscopic analysis of above-threshold ionization driven by squeezed light
+Distributed fault-tolerant quantum memories over a 2xL array of qubit modules
+Enhancement of Quantum Semi-Supervised Learning via Improved Laplacian and Poisson Methods
+Co-designed reflective and leaky-waveguide low-pass filter for superconducting circuits
+Parametric pair production of collective excitations in a Bose-Einstein condensate
+Compiling Arbitrary Single-Qubit Gates Via the Phase-Shifts of Microwave Pulses
+Nondestructive optomechanical detection scheme for Bose-Einstein condensates
+Discovery of Itinerant Magnetic Domain Wall and Quasiparticle Boundary State in Spin-Density-Waves
