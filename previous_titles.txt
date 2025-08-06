@@ -2531,3 +2531,9 @@ Parametric pair production of collective excitations in a Bose-Einstein condensa
 Compiling Arbitrary Single-Qubit Gates Via the Phase-Shifts of Microwave Pulses
 Nondestructive optomechanical detection scheme for Bose-Einstein condensates
 Discovery of Itinerant Magnetic Domain Wall and Quasiparticle Boundary State in Spin-Density-Waves
+Quantum Dynamics and Information Measures in PT and Anti-PT-Symmetric Systems
+Probing strongly driven and strongly coupled superconducting qubit-resonator system
+Coherent phase control of two-color continuous variable entangled light
+Characterizing and Mitigating Flux Crosstalk in Superconducting Qubits-Couplers System
+Squeezed Quasinormal Modes from Nonlinear Gravitational Effects
+Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware
