@@ -2537,3 +2537,13 @@ Coherent phase control of two-color continuous variable entangled light
 Characterizing and Mitigating Flux Crosstalk in Superconducting Qubits-Couplers System
 Squeezed Quasinormal Modes from Nonlinear Gravitational Effects
 Directional Codes: a new family of quantum LDPC codes on hexagonal- and square-grid connectivity hardware
+Probing and Enhancing the Robustness of GNN-based QEC Decoders with Reinforcement Learning
+Fault-tolerant Fusion-based Quantum Computing with the Four-legged Cat Code
+Coupling phase enabled level transitions in pseudo-Hermitian magnon-polariton systems
+Efficient detection of spectrally multimode squeezed light through optical parametric amplification
+Transmon qubit using Sn as a junction superconductor
+Dynamical generation of geometric squeezing in interacting Bose-Einstein condensates
+Density of States (Gate) - Controlled Andreev Molecule and Sensor
+Longitudinal and Nonlinear Coupling for High-Fidelity Readout of a Superconducting Qubit
+Photoinduced flipping of optical chirality during backward-wave parametric amplification in a chiral nonlinear medium
+Experimental realization of universal quantum gates and a six-qubit entangled state using a photonic quantum walk
