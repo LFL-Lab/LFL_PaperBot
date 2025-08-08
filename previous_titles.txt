@@ -2547,3 +2547,12 @@ Density of States (Gate) - Controlled Andreev Molecule and Sensor
 Longitudinal and Nonlinear Coupling for High-Fidelity Readout of a Superconducting Qubit
 Photoinduced flipping of optical chirality during backward-wave parametric amplification in a chiral nonlinear medium
 Experimental realization of universal quantum gates and a six-qubit entangled state using a photonic quantum walk
+Automorphism gadgets in homological product codes
+Fault-Tolerant Universal Quantum Computing in the Presence of Anisotropic Noise
+Taming coherent noise with teleportation
+Minimum-Weight Parity Factor Decoder for Quantum Error Correction
+Quantum Circuit Benchmarking on IBM Brisbane: Performance Insights from Superconducting Qubit Models
+Material-Driven Optimization of Transmon Qubits for Scalable and Efficient Quantum Architectures
+Third harmonic-mediated amplification in TWPA
+Analyzing negativity criterion in qubit-qutrit system located in external magnetic fields with the Dzyaloshinskii-Moriya interaction
+Viewing protected superconducting qubits through the lens of the cat qubit
