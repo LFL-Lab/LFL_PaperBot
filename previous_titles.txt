@@ -2556,3 +2556,4 @@ Material-Driven Optimization of Transmon Qubits for Scalable and Efficient Quant
 Third harmonic-mediated amplification in TWPA
 Analyzing negativity criterion in qubit-qutrit system located in external magnetic fields with the Dzyaloshinskii-Moriya interaction
 Viewing protected superconducting qubits through the lens of the cat qubit
+Dissipative superradiant phase transitions and multicriticality induced by two-mode squeezing
