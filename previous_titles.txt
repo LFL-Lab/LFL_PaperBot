@@ -2557,3 +2557,11 @@ Third harmonic-mediated amplification in TWPA
 Analyzing negativity criterion in qubit-qutrit system located in external magnetic fields with the Dzyaloshinskii-Moriya interaction
 Viewing protected superconducting qubits through the lens of the cat qubit
 Dissipative superradiant phase transitions and multicriticality induced by two-mode squeezing
+End-to-End Efficient Quantum Thermal and Ground State Preparation Made Simple
+State-adaptive quantum error correction and fault-tolerant quantum computing
+The loss tolerance of cat breeding for fault-tolerant grid state generation
+ConiQ: Enabling Concatenated Quantum Error Correction on Neutral Atom Arrays
+Interferometric sorting of temporal Hermite-Gauss modes via temporal Gouy phase
+Quantum Benchmarking of High-Fidelity Noise-Biased Operations on a Detuned-Kerr-Cat Qubit
+Finite Length Effects and Coulomb Interaction in Ge Quantum Well-Based Josephson Junctions Probed with Microwave Spectroscopy
+Gate reflectometry in a minimal Kitaev chain device
