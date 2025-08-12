@@ -2565,3 +2565,16 @@ Interferometric sorting of temporal Hermite-Gauss modes via temporal Gouy phase
 Quantum Benchmarking of High-Fidelity Noise-Biased Operations on a Detuned-Kerr-Cat Qubit
 Finite Length Effects and Coulomb Interaction in Ge Quantum Well-Based Josephson Junctions Probed with Microwave Spectroscopy
 Gate reflectometry in a minimal Kitaev chain device
+Nondegenerate Josephson Mixers with Enhanced Bandwidth and Saturation Power for Quantum Signal Amplification and Transduction
+Unambiguous discrimination of the change point for quantum channels
+Squeezed Coherent States in Supersymmetric Quantum Mechanics with Position-Dependent Mass
+GPU-Accelerated Syndrome Decoding for Quantum LDPC Codes below the 63 $\mu$s Latency Threshold
+$\bf A^2$-robust superradiant phase transition in hybrid qubit-cavity optomechanics
+Handling fabrication defects in hex-grid surface codes
+Color it, Code it, Cancel it: k-local dynamical decoupling from classical additive codes
+Spin Phonon Coupling and Relaxation time in Lu(II) compound with 9.2GHz clock transition
+Rabi Oscillations Modulated Noise Squeezing in Active Quantum Dot Ensembles
+On the electromagnetic couplings in superconducting qubit circuits
+Global and local performance of a quantum battery under correlated noise channels
+Self-phase-matched broadband amplification with a left-handed Josephson transmission line
+Quantum simulation of topological zero modes on a 41-qubit superconducting processor
