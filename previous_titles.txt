@@ -2578,3 +2578,10 @@ On the electromagnetic couplings in superconducting qubit circuits
 Global and local performance of a quantum battery under correlated noise channels
 Self-phase-matched broadband amplification with a left-handed Josephson transmission line
 Quantum simulation of topological zero modes on a 41-qubit superconducting processor
+Generalized Kennedy Receivers Enhanced CV-QKD in Turbulent Channels for Endogenous Security of Space-Air-Ground Integrated Network
+Robust quantum computational advantage with programmable 3050-photon Gaussian boson sampling
+Constrained free energy minimization for the design of thermal states and stabilizer thermodynamic systems
+A Broadband Squeezed Light Source for Table-Top Interferometry
+Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors
+Fast superconducting qubit control with sub-harmonic drives
+Characterization and generation of a SQL-beating cat-like state through repetitive measurements
