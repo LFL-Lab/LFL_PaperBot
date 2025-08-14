@@ -2585,3 +2585,9 @@ A Broadband Squeezed Light Source for Table-Top Interferometry
 Generalized Bicycle Codes with Low Connectivity: Minimum Distance Bounds and Hook Errors
 Fast superconducting qubit control with sub-harmonic drives
 Characterization and generation of a SQL-beating cat-like state through repetitive measurements
+Quantum-Enhanced Generative Adversarial Networks: Comparative Analysis of Classical and Hybrid Quantum-Classical Generative Adversarial Networks
+Displaced Janus States: Tunable Non-Gaussianity and Exact Higher-Order Coherences for Quantum Advantage
+Scalable Fluxonium-Transmon Architecture for Error Corrected Quantum Processors
+An integrated photonics platform for high-speed, ultrahigh-extinction, many-channel quantum control
+Fault tolerant Operations in Majorana-based Quantum Codes: Gates, Measurements and High Rate Constructions
+Control of nonlinear Compton scattering in a squeezed vacuum
