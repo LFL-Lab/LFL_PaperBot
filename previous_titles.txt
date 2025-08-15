@@ -2591,3 +2591,11 @@ Scalable Fluxonium-Transmon Architecture for Error Corrected Quantum Processors
 An integrated photonics platform for high-speed, ultrahigh-extinction, many-channel quantum control
 Fault tolerant Operations in Majorana-based Quantum Codes: Gates, Measurements and High Rate Constructions
 Control of nonlinear Compton scattering in a squeezed vacuum
+Exploring the topology of a non-Hermitian superconducting qubit using shortcuts to adiabaticity
+Metrological power of single-qubit dynamical Casimir effect in circuit QED
+Reservoir-Engineered Mechanical Cat States with a Driven Qubit
+Direct Nuclear-Level Qubits using Trapped Th-229 Ions: A Platform for Entanglement and Universal Quantum Information Processing
+Parity Cross-Resonance: A Multiqubit Gate
+Generating Compilers for Qubit Mapping and Routing
+Randomized Benchmarking with Non-Markovian Noise and Realistic Finite-Time Gates
+Discovery of Niobium Hydride Precipitates in Superconducting Qubits
