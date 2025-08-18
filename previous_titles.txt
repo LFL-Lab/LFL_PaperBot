@@ -2599,3 +2599,8 @@ Parity Cross-Resonance: A Multiqubit Gate
 Generating Compilers for Qubit Mapping and Routing
 Randomized Benchmarking with Non-Markovian Noise and Realistic Finite-Time Gates
 Discovery of Niobium Hydride Precipitates in Superconducting Qubits
+Generation of frequency-bin-encoded dual-rail cluster states via time-frequency multiplexing of microwave photonic qubits
+Wireless Josephson parametric amplifier above 20 GHz
+Learning to Restore Heisenberg Limit in Noisy Quantum Sensing via Quantum Digital Twin
+Quantum-Enhanced Sensing of Excited-State Dynamics with Correlated Photons
+Low barrier ZrO$_x$-based Josephson junctions
