@@ -2619,3 +2619,5 @@ Scalable Optical Quantum State Synthesizer with Dual-Mode Resonator Memory
 Gate-tunable enhancement of supercurrent in hybrid planar Josephson junctions
 Andreev crystals in hybrid Josephson junction arrays
 Magnetotransport properties of thin Josephson junctions for spectroscopic applications in the presence of large magnetic fields
+All-mechanical coherence protection and fast control of a spin qubit
+Josephson diode effect in nanowire-based Andreev molecules
