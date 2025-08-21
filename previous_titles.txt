@@ -2621,3 +2621,13 @@ Andreev crystals in hybrid Josephson junction arrays
 Magnetotransport properties of thin Josephson junctions for spectroscopic applications in the presence of large magnetic fields
 All-mechanical coherence protection and fast control of a spin qubit
 Josephson diode effect in nanowire-based Andreev molecules
+Flag at origin: a modular fault-tolerant preparation for CSS codes
+Logical Error Rates for the Surface Code Under a Mixed Coherent and Stochastic Circuit-Level Noise Model Inspired by Trapped Ions
+Free-Particle State Realized via Optimal Filtering in Optomechanics: Implications for Gravity-Induced Entanglement
+Trace-Based Reconstruction of Quantum Circuit Dataflow in Surface Codes
+Quantum reservoir computing induced by controllable damping
+String Diagrams for Defect-Based Surface Code Computing
+Quantum teleportation over thermal microwave network
+Efficient nonclassical state preparation via generalized parity measurement
+Anyon Theory and Topological Frustration of High-Efficiency Quantum Low-Density Parity-Check Codes
+Compromise-Free Scaling of Qubit Speed and Coherence
