@@ -2631,3 +2631,10 @@ Quantum teleportation over thermal microwave network
 Efficient nonclassical state preparation via generalized parity measurement
 Anyon Theory and Topological Frustration of High-Efficiency Quantum Low-Density Parity-Check Codes
 Compromise-Free Scaling of Qubit Speed and Coherence
+Energy-independent tomography of Gaussian states
+Microscopic Theory of Squeezed Light in Quantum Dot Systems
+Non-Commutative weak measurements: Entanglement, Symmetry Breaking, and the Role of Readout
+Fermion-to-Fermion Low-Density Parity-Check Codes
+Quantum-enhanced parameter estimation in continuously monitored boundary time crystals
+Colour Codes Reach Surface Code Performance using Vibe Decoding
+Quantum-size effect induced Andreev bound states in ultrathin metallic islands proximitized by a superconductor
