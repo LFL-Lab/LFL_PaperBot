@@ -2642,3 +2642,11 @@ Protocol for Purifying Noisy Preparation and Measurements of Qubits
 Above 99.9% Fidelity Single-Qubit Gates, Two-Qubit Gates, and Readout in a Single Superconducting Quantum Device
 High temporal stability of niobium superconducting resonators by surface passivation with organophosphonate self-assembled monolayers
 Almost fault-tolerant quantum machine learning with drastic overhead reduction
+Tunable Superconducting Quantum Interference Device Coupler for Fluxonium Qubits
+A fluxonium qubit-based hybrid electromechanical system
+Automated, physics-guided, multi-parameter design optimization for superconducting quantum devices
+Low-rank optimal control of quantum devices
+Hybrid Quantum-Classical Learning for Multiclass Image Classification
+Quantum nature of gravitational waves from binary black holes
+GAN decoder on a quantum toric code for noise-robust quantum teleportation
+Revisiting the adiabatic limit in ballistic multiterminal Josephson junctions
