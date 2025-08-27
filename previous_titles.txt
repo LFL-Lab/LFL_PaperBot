@@ -2650,3 +2650,6 @@ Hybrid Quantum-Classical Learning for Multiclass Image Classification
 Quantum nature of gravitational waves from binary black holes
 GAN decoder on a quantum toric code for noise-robust quantum teleportation
 Revisiting the adiabatic limit in ballistic multiterminal Josephson junctions
+Time Domain Design of a Josephson Parametric Amplifier and Comparison with Input Output Theory
+Quantum computing on encrypted data with arbitrary rotation gates
+Amplifying Two-Mode Squeezing in Nanomechanical Resonators
