@@ -2654,3 +2654,12 @@ Time Domain Design of a Josephson Parametric Amplifier and Comparison with Input
 Quantum computing on encrypted data with arbitrary rotation gates
 Amplifying Two-Mode Squeezing in Nanomechanical Resonators
 Non-Hermitian Josephson junctions with four Majorana zero modes
+Compilation-informed probabilistic quantum error cancellation
+Modulation Instability-Induced Multimode Squeezing in Quadratic Frequency Combs
+Overhead in Quantum Circuits with Time-Multiplexed Qubit Control
+Louvre: Relaxing Hardware Requirements of Quantum LDPC Codes by Routing with Expanded Quantum Instruction Set
+Linear optical quantum computing with a hybrid squeezed cat code
+A Quantum Speedup in Localizing Transmission Loss Change in Optical Networks
+Generation of Four-Component Schr\"odinger Cat States via Floquet Engineering in a Hybrid Ferromagnet-Superconductor System
+The carbon nanotube gatemon qubit
+Optical Response by Time-Varying Plasmonic Nanoparticles
