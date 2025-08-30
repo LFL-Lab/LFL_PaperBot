@@ -2663,3 +2663,5 @@ A Quantum Speedup in Localizing Transmission Loss Change in Optical Networks
 Generation of Four-Component Schr\"odinger Cat States via Floquet Engineering in a Hybrid Ferromagnet-Superconductor System
 The carbon nanotube gatemon qubit
 Optical Response by Time-Varying Plasmonic Nanoparticles
+Symmetrically Threaded Superconducting Quantum Interference Devices as Next-Generation Kerr-Cat Qubits
+Multilevel dynamical decoupling for a coupled superconducting two-qubit system
