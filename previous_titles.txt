@@ -2665,3 +2665,4 @@ The carbon nanotube gatemon qubit
 Optical Response by Time-Varying Plasmonic Nanoparticles
 Symmetrically Threaded Superconducting Quantum Interference Devices as Next-Generation Kerr-Cat Qubits
 Multilevel dynamical decoupling for a coupled superconducting two-qubit system
+Quantum Phase Sensitivity with Generalized Coherent States Based on Deformed su(1,1) and Heisenberg Algebras
