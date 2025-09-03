@@ -2666,3 +2666,19 @@ Optical Response by Time-Varying Plasmonic Nanoparticles
 Symmetrically Threaded Superconducting Quantum Interference Devices as Next-Generation Kerr-Cat Qubits
 Multilevel dynamical decoupling for a coupled superconducting two-qubit system
 Quantum Phase Sensitivity with Generalized Coherent States Based on Deformed su(1,1) and Heisenberg Algebras
+Strategies to search for two-dimensional materials with long spin qubit coherence time
+An exploration of the noise sensitivity of the Shor's algorithm
+Trainmon: a framework for reverse engineering potentials in superconducting Qubits
+Nonclassical correlations and quadrature squeezing of photons in anisotropic quantum Rabi-Stark model
+A simple universal routing strategy for reducing the connectivity requirements of quantum LDPC codes
+Quantum Seniority-based Subspace Expansion: Linear Combinations of Short-Circuit Unitary Transformations for Efficient Quantum Measurements
+Superstrong Dynamics and Chiral Emission of a Giant Atom in a Structured Bath
+Sampling Continuous Quantum Dynamics from a Single Static State
+Quantum Machine Learning for UAV Swarm Intrusion Detection
+QUBO-based training for VQAs on Quantum Annealers
+Exponentially Enhanced Tripartite Coupling in Quantum Nonlinear Magnonics
+Accelerating BP-OSD Decoder for QLDPC Codes with Local Syndrome-Based Preprocessing
+Parametrically Driven Superradiance of an Interacting Tavis-Cummings Model
+Four types of non-Gaussian squeezed states and their entanglement properties
+Disentangling the impact of quasiparticles and two-level systems on the statistics of superconducting-qubit lifetime
+Shot noise as a probe for Andreev reflection in graphene-based heterojunctions
