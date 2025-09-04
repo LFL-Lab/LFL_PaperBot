@@ -2682,3 +2682,15 @@ Parametrically Driven Superradiance of an Interacting Tavis-Cummings Model
 Four types of non-Gaussian squeezed states and their entanglement properties
 Disentangling the impact of quasiparticles and two-level systems on the statistics of superconducting-qubit lifetime
 Shot noise as a probe for Andreev reflection in graphene-based heterojunctions
+\textit{In Silico} Benchmarking of Detectable Byzantine Agreement in Noisy Quantum Networks
+Quantum Circuit Optimization for the Fault-Tolerance Era: Do We Have to Start from Scratch?
+The Munich Quantum Software Stack: Connecting End Users, Integrating Diverse Quantum Technologies, Accelerating HPC
+Improving Hardware Requirements for Fault-Tolerant Quantum Computing by Optimizing Error Budget Distributions
+Tableau-Based Framework for Efficient Logical Quantum Compilation
+Zero-Error Nash Equilibrium: Harnessing Nonlocal Correlation in Incomplete Information Games
+Programmable Quantum Matter: Heralding Large Cluster States in Driven Inhomogeneous Spin Ensembles
+Effects of intrinsic decoherence in multipartite system subjected to Kerr effect and parametric amplification with quantum correlations and estimation
+Cat-state-like non-Gaussian entanglement in magnon systems
+High-fidelity control of a $^{13}$C nuclear spin coupled to a tin-vacancy center in diamond
+Effective Hamiltonian for an off-resonantly driven qubit-cavity system
+Quantum Data Encoding and Variational Algorithms: A Framework for Hybrid Quantum Classical Machine Learning
