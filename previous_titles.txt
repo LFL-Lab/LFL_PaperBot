@@ -2695,3 +2695,4 @@ High-fidelity control of a $^{13}$C nuclear spin coupled to a tin-vacancy center
 Effective Hamiltonian for an off-resonantly driven qubit-cavity system
 Quantum Data Encoding and Variational Algorithms: A Framework for Hybrid Quantum Classical Machine Learning
 Forecasting Low-Dimensional Turbulence via Multi-Dimensional Hybrid Quantum Reservoir Computing
+Quantum-optical signatures of solid-state high-harmonic generation driven by squeezed coherent states
