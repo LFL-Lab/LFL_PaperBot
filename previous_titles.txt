@@ -2696,3 +2696,15 @@ Effective Hamiltonian for an off-resonantly driven qubit-cavity system
 Quantum Data Encoding and Variational Algorithms: A Framework for Hybrid Quantum Classical Machine Learning
 Forecasting Low-Dimensional Turbulence via Multi-Dimensional Hybrid Quantum Reservoir Computing
 Quantum-optical signatures of solid-state high-harmonic generation driven by squeezed coherent states
+Qumode-Based Variational Quantum Eigensolver for Molecular Excited States
+Tracking Quantum Dynamics in an Optical Cavity for Recovering Purity and Squeezing via Quantum State Smoothing
+Fast entangling gates on fluxoniums via parametric modulation of plasmon interaction
+Transmon-assisted high-fidelity controlled-Z gates for integer fluxonium qubits
+Hybrid Quantum-Classical Scheduling with Problem-Aware Calibration on a Quantum Annealer
+High-fidelity two-qubit gates with transmon qubits using bipolar flux pulses and tunable couplers
+Exploring an implementation of quantum learning pipeline for support vector machines
+Suppression of measurement-induced state transitions in cos{\phi}-coupling transmon readout
+Cultivating T states on the surface code with only two-qubit gates
+Efficient optical configurations for trapped-ion entangling gates
+Adaptive Circuit Learning of Born Machine: Towards Realization of Amplitude Embedding and Quantum Data Loading
+Qudit vs. Qubit: Simulated performance of error correction codes in higher dimensions
