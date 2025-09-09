@@ -2708,3 +2708,11 @@ Cultivating T states on the surface code with only two-qubit gates
 Efficient optical configurations for trapped-ion entangling gates
 Adaptive Circuit Learning of Born Machine: Towards Realization of Amplitude Embedding and Quantum Data Loading
 Qudit vs. Qubit: Simulated performance of error correction codes in higher dimensions
+Practical Fidelity Limits of Toffoli Gates in Superconducting Quantum Processors
+Mitigating Measurement Crosstalk via Pulse Shaping
+Quantum Theory of Distributed-Feedback Parametric Amplifiers and Oscillators
+Simultaneous generation and transfer of mechanical noise squeezing
+Schrodinger's Toolbox: Exploring the Quantum Rowhammer Attack
+Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting
+Benchmarking Single-Qubit Gates on a Neutral Atom Quantum Processor
+Isoenergetic model for optical down-conversion and error-specific limits of the parametric approximation
