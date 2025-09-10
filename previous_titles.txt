@@ -2716,3 +2716,13 @@ Schrodinger's Toolbox: Exploring the Quantum Rowhammer Attack
 Enhancing Fault-Tolerant Surface Code Decoding with Iterative Lattice Reweighting
 Benchmarking Single-Qubit Gates on a Neutral Atom Quantum Processor
 Isoenergetic model for optical down-conversion and error-specific limits of the parametric approximation
+Performance enhancement in Josephson traveling wave parametric amplifiers by tailoring the relative distance between junctions
+On-chip microwave sensing of quasiparticles in tantalum superconducting circuits on silicon for scalable quantum technologies
+Simulation of one and two qubit superconducting quantum gates under the non-Markovian $1/f$ noise
+Modeling Josephson traveling-wave parametric amplifiers with electromagnetic and circuit co-simulation
+Quartz phononic crystal resonators for hybrid acoustic quantum memories
+A Non-Monotonic Relationship: An Empirical Analysis of Hybrid Quantum Classifiers for Unseen Ransomware Detection
+Cross-Resonant Gates in Hybrid Fluxonium-Transmon Systems
+Dissipative Quantum Chaos unveiled by Stochastic Quantum Trajectories
+Building Trust in the Quantum Cloud with Physical Unclonable Functions
+Exploring the Energy Spectrum of a Four-Terminal Josephson Junction: Toward Topological Andreev Band Structures
