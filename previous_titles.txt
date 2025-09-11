@@ -2726,3 +2726,6 @@ Cross-Resonant Gates in Hybrid Fluxonium-Transmon Systems
 Dissipative Quantum Chaos unveiled by Stochastic Quantum Trajectories
 Building Trust in the Quantum Cloud with Physical Unclonable Functions
 Exploring the Energy Spectrum of a Four-Terminal Josephson Junction: Toward Topological Andreev Band Structures
+Scalable Network of Mach-Zehnder Interferometers with a Single Entangled Resource
+Practical robust Bayesian spin-squeezing-enhanced quantum sensing under noises
+Loss-tolerant parallelized Bell-state generation with a hybrid cat qudit
