@@ -2738,3 +2738,18 @@ Achieving the Heisenberg limit of metrology via measurement on an ancillary qubi
 Optimal Moment-Based Characterization of a Gaussian State
 Quantum sensing in the presence of pulse errors and qubit leakage
 Wafer-Scale Squeezed-Light Chips
+Non-Hermitian Physics in Quantum Channels: Pseudo-Hermiticity, Spectrum Measurement and Application to Hamiltonian Parameter Estimation
+Gradients, parallelism, and variance of quantum estimates
+Neural Decoders for Universal Quantum Algorithms
+Efficient Preparation of Decoherence Free Subspace Basis States
+Autonomous stabilization of remote entanglement in a cascaded quantum network
+Quantum Storage of Qubits in an Array of Independently Controllable Solid-State Quantum Memories
+Learning kernels with quantum optical circuits
+Placing and routing quantum LDPC codes in multilayer superconducting hardware
+Correlated Quasiparticle Poisoning from Phonon-Only Events in Superconducting Qubits
+Optimization of two-qubit gates in tunable-coupler architectures using single-flux-quantum control
+Nanosculpting lateral weak link junctions in superconducting Fe(Te,Se)/Bi2Te3 with focused Si++ ions and implications on vortex pinning
+Spin-polarization and diode effect in thermoelectric current through altermagnet-based superconductor heterostructures
+Orbital-selective spin-triplet superconductivity in infinite-layer LaNiO$_2$
+Terahertz near-field imaging of sidewall-induced losses in superconducting qubits
+Realization of strong coupling between Er 3+ : CaWO 4  crystal and the loop-gap resonator for a hybrid quantum system
