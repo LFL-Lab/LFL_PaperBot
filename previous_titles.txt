@@ -2753,3 +2753,11 @@ Spin-polarization and diode effect in thermoelectric current through altermagnet
 Orbital-selective spin-triplet superconductivity in infinite-layer LaNiO$_2$
 Terahertz near-field imaging of sidewall-induced losses in superconducting qubits
 Realization of strong coupling between Er 3+ : CaWO 4  crystal and the loop-gap resonator for a hybrid quantum system
+EmuPlat: A Framework-Agnostic Platform for Quantum Hardware Emulation with Validated Transpiler-to-Pulse Pipeline
+Designing Shadow Tomography Protocols by Natural Language Processing
+The Quantum Control Hierarchy: When Physics-Informed Design Meets Machine Learning
+Steady-state entanglement of spin qubits mediated by non-reciprocal and chiral magnons
+A Robust Modular Quantum Processor
+Dynamically Optimized Super-Robust Nonadiabatic Holonomic Quantum Gates Based on Superconducting Circuits
+Systematic Schrieffer-Wolff-transformation approach to Josephson junctions: quasiparticle effects and Josephson harmonics
+Parametric amplification via coupling linear and nonlinear superconducting resonators
