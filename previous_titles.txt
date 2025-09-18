@@ -2761,3 +2761,13 @@ A Robust Modular Quantum Processor
 Dynamically Optimized Super-Robust Nonadiabatic Holonomic Quantum Gates Based on Superconducting Circuits
 Systematic Schrieffer-Wolff-transformation approach to Josephson junctions: quasiparticle effects and Josephson harmonics
 Parametric amplification via coupling linear and nonlinear superconducting resonators
+Evaluating the Limits of QAOA Parameter Transfer at High-Rounds on Sparse Ising Models With Geometrically Local Cubic Terms
+End-to-End Complexity Analysis for Quantum Simulation of the Extended Jaynes-Cummings Models
+Loss-tolerant detection of squeezed states in the 2 um region
+Trajectory-based Measure of Nonlocality in the Double Caldeira-Leggett Formalism
+Quantum Reinforcement Learning-Guided Diffusion Model for Image Synthesis via Hybrid Quantum-Classical Generative Model Architectures
+Quantum Simulations of Battery Electrolytes with VQE-qEOM and SQD: Active-Space Design, Dissociation, and Excited States of LiPF$_6$, NaPF$_6$, and FSI Salts
+Resonator-assisted quantum transduction between superconducting qubits and trapped atomic systems via Rydberg levels
+Self-Correcting Gottesman-Kitaev-Preskill Qubit and Gates in a Driven-Dissipative Circuit
+Observation and mitigation of microwave echoes from dielectric defects in Josephson traveling-wave amplifiers
+Transmon-assisted high-fidelity controlled-$Z$ gates for integer fluxonium qubits
