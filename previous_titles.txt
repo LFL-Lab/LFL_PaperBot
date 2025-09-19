@@ -2771,3 +2771,11 @@ Resonator-assisted quantum transduction between superconducting qubits and trapp
 Self-Correcting Gottesman-Kitaev-Preskill Qubit and Gates in a Driven-Dissipative Circuit
 Observation and mitigation of microwave echoes from dielectric defects in Josephson traveling-wave amplifiers
 Transmon-assisted high-fidelity controlled-$Z$ gates for integer fluxonium qubits
+HQCNN: A Hybrid Quantum-Classical Neural Network for Medical Image Classification
+Improving the efficiency of quantum engineering of SCSs by adding two demultiplexed input photons
+The superconducting grid-states qubit
+Composable logical gate error in approximate quantum error correction: reexamining gate implementations in Gottesman-Kitaev-Preskill codes
+Proposal of cavity quantum acoustodynamics platform based on Lithium Niobate-on-Sapphire chip
+Magnetic-Field and Temperature Limits of a Kinetic-Inductance Traveling-Wave Parametric Amplifier
+Exploring dark matter with quantum-enhanced haloscopes and time projection chambers
+A unified picture for quantum Zeno and anti-Zeno effects -- a review
