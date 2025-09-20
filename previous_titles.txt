@@ -2779,3 +2779,4 @@ Proposal of cavity quantum acoustodynamics platform based on Lithium Niobate-on-
 Magnetic-Field and Temperature Limits of a Kinetic-Inductance Traveling-Wave Parametric Amplifier
 Exploring dark matter with quantum-enhanced haloscopes and time projection chambers
 A unified picture for quantum Zeno and anti-Zeno effects -- a review
+Cavity quantum electrodynamics in a finite-bandwidth squeezed reservoir
