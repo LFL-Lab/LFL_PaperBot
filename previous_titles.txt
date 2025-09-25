@@ -2801,3 +2801,6 @@ Transversal STAR architecture for megaquop-scale quantum simulation with neutral
 Chiral Color Code : Single-shot error correction for exotic topological order
 Characterizing Noise in Controlling Superconducting Qubits
 Assessing the operating characteristics of an ion-milled phonon-mediated quantum parity detector
+Spin squeezing via one-axis twisting in a quadrupolar NMR system under relaxation effects
+Quantum heat engine in an optomechanical system with mechanical parametric drive
+Microwave-activated high-fidelity three-qubit gate scheme for fixed-frequency superconducting qubits
