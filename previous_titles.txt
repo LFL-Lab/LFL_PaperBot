@@ -2808,3 +2808,7 @@ Teleportation-based filtering for gravitational-wave detectors
 Erasing Photon-Number Correlations through Hong-Ou-Mandel Interference
 Qudit vs. qubit: Simulated performance of error-correction codes in higher dimensions
 Field-resilient superconducting coplanar waveguide resonators made of Nb, NbTi, and NbTiN
+Machine Learning for Quantum State Tomography: Robust Covariance Matrix Estimation for Squeezed Vacuum States with Thermal Noise
+Multi-Qubit Gates by Dynamical Decoupling Implemented with IBMQ and 15NV Center in Diamond
+Extending coherence time beyond break-even point using only drives and dissipation
+Investigation of Parasitic Two-Level Systems in Merged-Element Transmon Qubits
