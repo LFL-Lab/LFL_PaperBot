@@ -2832,3 +2832,17 @@ Microwave-to-Optical Quantum Transduction of Photons for Quantum Interconnects
 Measurement-based quantum computation using two-component BECs
 Physics-Inspired Extrapolation for efficient error mitigation and hardware certification
 A Perspective on Quantum Computing Applications in Quantum Chemistry using 25--100 Logical Qubits
+Passive detection of Schwinger boson dynamics via a qubit
+Double-Bracket Algorithmic Cooling
+Exploiting Translational Symmetry for Quantum Computing with Squeezed Cat Qubits
+Quantum Probabilistic Label Refining: Enhancing Label Quality for Robust Image Classification
+Photonic Hybrid Quantum Computing
+Linear-Size QAC0 Channels: Learning, Testing and Hardness
+Provably Optimal Quantum Circuits with Mixed-Integer Programming
+Pre-Distillation of Magic States via Composite Schemes
+Superpositions of Quantum Gaussian Processes
+Quantum Lego and XP Stabilizer Codes
+Estimating quantum relative entropies on quantum computers
+Spin squeezing in an ensemble of nitrogen–vacancy centres in diamond
+Gate-tunable Josephson parametric amplifiers based on semiconductor nanowires
+Beyond mean-field effects in Josephson oscillations and self-trapping of Bose-Einstein condensates in two-dimensional dual-core traps
