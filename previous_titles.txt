@@ -2846,3 +2846,7 @@ Estimating quantum relative entropies on quantum computers
 Spin squeezing in an ensemble of nitrogen–vacancy centres in diamond
 Gate-tunable Josephson parametric amplifiers based on semiconductor nanowires
 Beyond mean-field effects in Josephson oscillations and self-trapping of Bose-Einstein condensates in two-dimensional dual-core traps
+Design and Characterization of a Cryogenic Vacuum Chamber for Ion Trapping Experiments
+Benchmarking Quantum Simulation Methods
+Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model
+Toward high-fidelity quantum information processing and quantum simulation with spin qubits and phonons
