@@ -2850,3 +2850,7 @@ Design and Characterization of a Cryogenic Vacuum Chamber for Ion Trapping Exper
 Benchmarking Quantum Simulation Methods
 Digital quantum simulation of many-body localization crossover in a disordered kicked Ising model
 Toward high-fidelity quantum information processing and quantum simulation with spin qubits and phonons
+Characterizing Superconducting Qubits using Averaged Circuit Eigenvalue Sampling
+MAQCY: Modular Atom-Array Quantum Computing with Space-Time Hybrid Multiplexing
+Basis-independent coherence and its distribution in de Sitter spacetime
+Plasmonic metamaterial time crystal
