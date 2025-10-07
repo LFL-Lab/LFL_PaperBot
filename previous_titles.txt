@@ -2854,3 +2854,20 @@ Characterizing Superconducting Qubits using Averaged Circuit Eigenvalue Sampling
 MAQCY: Modular Atom-Array Quantum Computing with Space-Time Hybrid Multiplexing
 Basis-independent coherence and its distribution in de Sitter spacetime
 Plasmonic metamaterial time crystal
+Reduction of the impact of the local valley splitting on the coherence of conveyor-belt spin shuttling in $^{28}$Si/SiGe
+Ion-Based Characterization of Laser Beam Profiles for Quantum Information Processing
+Quantum Error Correction with Superpositions of Squeezed Fock States
+Time-resolved characterization of pulsed squeezed light from a strongly driven silicon nitride microresonator
+Robust iSWAP gates for semiconductor spin qubits with local driving
+Fast surgery for quantum LDPC codes
+Efficient three-qubit gates with giant atoms
+Enhancing Optomechanical Entanglement and Mechanical Squeezing by the Synergistic Effect of Quadratic Optomechanical Coupling and Coherent Feedback
+Quantum Reservoir Computing for Credit Card Default Prediction on a Neutral Atom Platform
+Do Qubit States have to be non-degenerate two-level systems?
+Correcting quantum errors using a classical code and one additional qubit
+Coupling a $^{73}$Ge nuclear spin to an electrostatically defined quantum dot
+Impact of Josephson-Junction Array Modes on Fluxonium Readout
+Approaching the ultrastrong-coupling regime between an Andreev level and a microwave resonator
+Groundbreaking quantum-tunnelling experiments win physics Nobel
+Anomalous Fraunhofer patterns in Cd$_3$As$_2$ Josephson Junctions
+A highly efficient photodetector for squeezed light measurement in the gigahertz range
