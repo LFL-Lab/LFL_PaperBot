@@ -2871,3 +2871,14 @@ Approaching the ultrastrong-coupling regime between an Andreev level and a micro
 Groundbreaking quantum-tunnelling experiments win physics Nobel
 Anomalous Fraunhofer patterns in Cd$_3$As$_2$ Josephson Junctions
 A highly efficient photodetector for squeezed light measurement in the gigahertz range
+Fault-tolerant interfaces for modular quantum computing on diverse qubit platforms
+Peaked quantum advantage using error correction
+Efficient Post-Selection for General Quantum LDPC Codes
+Hybrid Quantum-Classical Policy Gradient for Adaptive Control of Cyber-Physical Systems: A Comparative Study of VQC vs. MLP
+An integrated photonic millimeter-wave receiver with sub-ambient noise
+Parametric multi-element coupling architecture for coherent and dissipative control of superconducting qubits
+Invested and Potential Magic Resources in Measurement-Based Quantum Computation
+A unified relativistic path integral origin for noise-activated collapse and decoherence
+Diode effect in Shapiro steps in an asymmetric SQUID with a superconducting nanobridge
+Switchable spin-photon coupling with hole spins in single-quantum dots
+Giant and robust Josephson diode effect in multiband topological nanowires
