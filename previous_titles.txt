@@ -2882,3 +2882,13 @@ A unified relativistic path integral origin for noise-activated collapse and dec
 Diode effect in Shapiro steps in an asymmetric SQUID with a superconducting nanobridge
 Switchable spin-photon coupling with hole spins in single-quantum dots
 Giant and robust Josephson diode effect in multiband topological nanowires
+Qudit low-density parity-check codes
+Non-Gaussian states via pump-depleted SPDC
+CLAQS: Compact Learnable All-Quantum Token Mixer with Shared-ansatz for Text Classification
+Constant-Overhead Addressable Gates via Single-Shot Code Switching
+Randomized Quantum Singular Value Transformation
+Phonon-induced two-axis spin squeezing with decoherence reduction in hybrid spin-optomechanical system
+Entangling remote qubits through a two-mode squeezed reservoir
+Efficient tensor-network simulations of weakly-measured quantum circuits
+End-to-end quantum algorithms for tensor problems
+Quantum speed limits based on Jensen-Shannon and Jeffreys divergences for general physical processes
