@@ -2892,3 +2892,14 @@ Entangling remote qubits through a two-mode squeezed reservoir
 Efficient tensor-network simulations of weakly-measured quantum circuits
 End-to-end quantum algorithms for tensor problems
 Quantum speed limits based on Jensen-Shannon and Jeffreys divergences for general physical processes
+Proposals for experimentally realizing (mostly) quantum-autonomous gates
+Speed limits of two-qutrit gates
+Quantum Tanner Color Codes on Qubits with Transversal Gates
+Local active error correction from simulated confinement
+Adaptive Quantum Homeopathy
+Characterizing Liouvillian Exceptional Points Through Newton Polygons and Tropical Geometry
+Transversal gates for probabilistic implementation of multi-qubit Pauli rotations
+Universal Fault Tolerance with Non-Transversal Clifford Gates
+Dynamical error reshaping for dual-rail erasure qubits
+Single-Shot Universality in Quantum LDPC Codes via Code-Switching
+Effect of interatomic repulsion and quasi-degenerate states on a Kitaev-transmon qubit based on double quantum dots
