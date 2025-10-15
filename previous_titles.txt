@@ -2920,3 +2920,8 @@ Hybrid Quantum Systems: Coupling Single-Molecule Magnet Qudits with Industrial S
 Quasiparticle pairing encoding of atomic nuclei for quantum annealing
 Dynamically stable two-mode squeezing in cavity optomechanics
 Quantifying trapped magnetic vortex losses in niobium resonators at mK temperatures
+Decoding Multimode Gottesman-Kitaev-Preskill Codes with Noisy Auxiliary States
+Trajectory-Protected Quantum Computing
+Classical simulation of circuits with realistic odd-dimensional Gottesman-Kitaev-Preskill states
+From empty to filled vortices in squeezed 39K Bose-Bose liquid drops
+Deterministic generation of a twin-Fock state of two nitrogen-vacancy ensembles via a superconducting flux qubit
