@@ -2927,3 +2927,10 @@ From empty to filled vortices in squeezed 39K Bose-Bose liquid drops
 Deterministic generation of a twin-Fock state of two nitrogen-vacancy ensembles via a superconducting flux qubit
 Probing non-Markovian qubit noise and modeling Post Markovian Master Equation
 Experimental Demonstration of High-Fidelity Logical Magic States from Code Switching
+Towards gravimetry enhancement with squeezed states
+Quantum Low-Density Parity-Check Codes
+Symmetry-protected states of interacting qubits in superconducting quantum circuits
+Multiparameter quantum-enhanced adaptive metrology with squeezed light
+Signatures of Topological Symmetries on a Noisy Quantum Simulator
+Benchmarking the quality of multiplexed qubit readout beyond assignment fidelity
+A Temperature Change can Solve the Deutsch-Jozsa Problem : An Exploration of Thermodynamic Query Complexity
