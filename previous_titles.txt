@@ -2934,3 +2934,7 @@ Multiparameter quantum-enhanced adaptive metrology with squeezed light
 Signatures of Topological Symmetries on a Noisy Quantum Simulator
 Benchmarking the quality of multiplexed qubit readout beyond assignment fidelity
 A Temperature Change can Solve the Deutsch-Jozsa Problem : An Exploration of Thermodynamic Query Complexity
+Investigating the performance of RPM JTWPAs by optimizing LC-resonator elements
+A Hybrid Quantum Solver for Gaussian Process Regression
+Benchmarking non-Clifford gates using only Pauli twirling group
+Solving the 3D Heat Equation with VQA via Remeshing-Based Warm Starts
