@@ -2938,3 +2938,13 @@ Investigating the performance of RPM JTWPAs by optimizing LC-resonator elements
 A Hybrid Quantum Solver for Gaussian Process Regression
 Benchmarking non-Clifford gates using only Pauli twirling group
 Solving the 3D Heat Equation with VQA via Remeshing-Based Warm Starts
+Coherence-Mediated Quantum Thermometry in a Hybrid Circuit-QED Architecture
+Quantum thermometric sensing: Local vs. Remote approaches
+Phase sensitivity of lossy Mach-Zehnder interferometer via photon addition operation
+Quantum Reciprocity: A Structured-Bath Hamiltonian for Coherent Amplification
+Field-Trial Quantum Key Distribution with Qubit-Based Frame Synchronization
+Quantum Reverse Mapping: Synthesizing an Optimal Spin Qubit Shuttling Bus Architecture for the Surface Code
+Topological Dynamical Decoupling with Complete Pulse Error Cancellation
+Memory effects in a dynamical decoupling process
+Fault-tolerant dynamically-decoupled hyper-Ramsey spectroscopy of ultra-narrow clock transitions
+Interplay of spin orbit interaction and Andreev reflection in proximized quantum dots
