@@ -2948,3 +2948,7 @@ Topological Dynamical Decoupling with Complete Pulse Error Cancellation
 Memory effects in a dynamical decoupling process
 Fault-tolerant dynamically-decoupled hyper-Ramsey spectroscopy of ultra-narrow clock transitions
 Interplay of spin orbit interaction and Andreev reflection in proximized quantum dots
+Application Scale Quantum Circuit Compilation and Optimization
+Simple logical quantum computation with concatenated symplectic double codes
+Surface code scaling on heavy-hex superconducting quantum processors
+Altermon: a magnetic-field-free parity protected qubit based on a narrow altermagnet Josephson junction
