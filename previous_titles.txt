@@ -2952,3 +2952,11 @@ Application Scale Quantum Circuit Compilation and Optimization
 Simple logical quantum computation with concatenated symplectic double codes
 Surface code scaling on heavy-hex superconducting quantum processors
 Altermon: a magnetic-field-free parity protected qubit based on a narrow altermagnet Josephson junction
+Simulating high-accuracy nuclear motion Hamiltonians in discrete variable representation using Walsh-Hadamard QROM with fault-tolerant quantum computers
+Accelerating Fault-Tolerant Quantum Computation with Good qLDPC Codes
+Zero-field identification and control of hydrogen-related electron-nuclear spin registers in diamond
+Addressing spins at the clock transitions with a frequency- and bandwidth-tunable superconducting resonator
+Explicitly Quantum-parallel Computation by Displacements
+Passive quantum error correction of photon loss at breakeven
+Transient dynamics of the quantum Stuart-Landau oscillator
+Performance enhancement in Josephson traveling-wave parametric amplifiers by tailoring the relative distance between junctions
