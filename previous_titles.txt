@@ -2960,3 +2960,11 @@ Explicitly Quantum-parallel Computation by Displacements
 Passive quantum error correction of photon loss at breakeven
 Transient dynamics of the quantum Stuart-Landau oscillator
 Performance enhancement in Josephson traveling-wave parametric amplifiers by tailoring the relative distance between junctions
+A transmon qubit realized by exploiting the superconductor-insulator transition
+Reduced State Embedding for Error Correction in Quantum Cryptography
+All-Gaussian State Discrimination Beyond the Coherent Helstrom Bound
+Electronically-controlled one- and two-qubit gates for transmon quasicharge qubits
+Parametric Phase Modulation in Superconducting Circuits
+Measuring weak microwave signals via current-biased Josephson Junctions II: Arriving at single-photon detection sensitivity
+Fabrication and Structural Analysis of Trilayers for Tantalum Josephson Junctions with Ta$_2$O$_5$ Barriers
+Linear optical quantum computing with a hybrid squeezed-cat code
