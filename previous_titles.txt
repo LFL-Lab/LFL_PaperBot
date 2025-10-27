@@ -2968,3 +2968,5 @@ Parametric Phase Modulation in Superconducting Circuits
 Measuring weak microwave signals via current-biased Josephson Junctions II: Arriving at single-photon detection sensitivity
 Fabrication and Structural Analysis of Trilayers for Tantalum Josephson Junctions with Ta$_2$O$_5$ Barriers
 Linear optical quantum computing with a hybrid squeezed-cat code
+Harnessing Intrinsic Noise for Quantum Simulation of Open Quantum Systems
+A broadband single microwave-photon detector insensitive to the thermal noise
