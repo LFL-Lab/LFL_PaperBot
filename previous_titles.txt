@@ -2970,3 +2970,8 @@ Fabrication and Structural Analysis of Trilayers for Tantalum Josephson Junction
 Linear optical quantum computing with a hybrid squeezed-cat code
 Harnessing Intrinsic Noise for Quantum Simulation of Open Quantum Systems
 A broadband single microwave-photon detector insensitive to the thermal noise
+Autonomous Floquet Engineering of Bosonic Codes via Reinforcement Learning
+Scalable Neural Decoders for Practical Real-Time Quantum Error Correction
+Heat measurement of quantum interference
+Optimal strategies for transient and equilibrium quantum thermometry using Gaussian and non-Gaussian probes
+Josephson traveling-wave parametric amplifier based on a low-intrinsic-loss lumped-element coplanar waveguide
