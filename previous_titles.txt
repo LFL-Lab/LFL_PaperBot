@@ -2975,3 +2975,7 @@ Scalable Neural Decoders for Practical Real-Time Quantum Error Correction
 Heat measurement of quantum interference
 Optimal strategies for transient and equilibrium quantum thermometry using Gaussian and non-Gaussian probes
 Josephson traveling-wave parametric amplifier based on a low-intrinsic-loss lumped-element coplanar waveguide
+An exact Error Threshold of Surface Code under Correlated Nearest-Neighbor Errors: A Statistical Mechanical Analysis
+Application Scale Quantum Circuit Compilation with Controlled Error
+Enhancement of non-Gaussianity and nonclassicality of pair coherent states with a postselected von Neumann measurement
+Nonequilibrium quasiparticles in superconducting circuits: Energy relaxation and charge and flux noise
