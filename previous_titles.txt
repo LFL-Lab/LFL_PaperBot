@@ -2979,3 +2979,10 @@ An exact Error Threshold of Surface Code under Correlated Nearest-Neighbor Error
 Application Scale Quantum Circuit Compilation with Controlled Error
 Enhancement of non-Gaussianity and nonclassicality of pair coherent states with a postselected von Neumann measurement
 Nonequilibrium quasiparticles in superconducting circuits: Energy relaxation and charge and flux noise
+Decoder Switching: Breaking the Speed-Accuracy Tradeoff in Real-Time Quantum Error Correction
+Decoherence Estimation of Superconducting Qubit
+Accurate Leakage Speculation for Quantum Error Correction
+Low-Gap Hf-HfOx-Hf Josephson Junctions for meV-Scale Particle Detection
+Hybrid Quantum-Classical Recurrent Neural Networks
+Superstrong Dynamics and Directional Emission of a Giant Atom in a Structured Bath
+Artificial Transmission Line Synthesis Tailored for Traveling-Wave Parametric Processes
