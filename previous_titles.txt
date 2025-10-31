@@ -2986,3 +2986,16 @@ Low-Gap Hf-HfOx-Hf Josephson Junctions for meV-Scale Particle Detection
 Hybrid Quantum-Classical Recurrent Neural Networks
 Superstrong Dynamics and Directional Emission of a Giant Atom in a Structured Bath
 Artificial Transmission Line Synthesis Tailored for Traveling-Wave Parametric Processes
+Nonlinear quantum evolution of a dissipative superconducting qubit
+Optimal Displacement Sensing with Spin-Dependent Squeezed States
+Enabling Fast and Accurate Neutral Atom Readout through Image Denoising
+The Fast for the Curious: How to accelerate fault-tolerant quantum applications
+Modeling of simple bandpass filters: bandwidth broadening of Josephson parametric devices due to non-Markovian coupling to dressed transmission-line modes
+Generation and detection of squeezed states via a synchronously pumped optical parametric oscillator
+Simulation Framework for the Automated Search of Optimal Parameters Using Physically Relevant Metrics in Nonlinear Superconducting Quantum Circuits
+Generation of Quantum Entanglement in Autonomous Thermal Machines: Effects of Non-Markovianity, Hilbert Space Structure, and Quantum Coherence
+Nondegenerate Noise-Resilient Superconducting Qubit
+Einstein-Podolsky-Rosen-type entanglement properties of a nondegenerate parametric amplifier with time-delayed coherent feedback
+Gatemon qubit revisited for improved reliability and stability
+Sweet-spot protection of hole spins in sparse arrays via spin-dependent magneto-tunneling
+Selective Parametric Amplification of Degenerate Modes in Electrostatically Transduced Coupled Beam Resonators
