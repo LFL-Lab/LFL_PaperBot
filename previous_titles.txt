@@ -3004,3 +3004,11 @@ Single-Photon-Level Atomic Frequency Comb Storage in Room Temperature Alkali Vap
 Fast Bosonic Control via Multiphoton Qubit-Oscillator Interactions
 Teleportation-based squeezer for bosonic cluster states
 How the Kerr-Cat Qubit Dies -- And How to Rescue It
+Enhancing Kerr-Cat Qubit Coherence with Controlled Dissipation
+ECCentric: An Empirical Analysis of Quantum Error Correction Codes
+In situ calibration of unitary operations during quantum error correction
+High-fidelity all-microwave CZ gate with partial erasure-error detection via a transmon coupler
+Non-Markovian dynamics in nonstationary Gaussian baths
+Fast and Robust Remote Two-Qubit Gates on Distributed Qubits
+Broadly Tunable Quantum Enhanced Raman Microscopy for Advancing Bioimaging
+Inverse Purcell Suppression of Decoherence in Majorana Qubits via Environmental Engineering
