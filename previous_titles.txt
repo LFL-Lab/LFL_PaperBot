@@ -3012,3 +3012,11 @@ Non-Markovian dynamics in nonstationary Gaussian baths
 Fast and Robust Remote Two-Qubit Gates on Distributed Qubits
 Broadly Tunable Quantum Enhanced Raman Microscopy for Advancing Bioimaging
 Inverse Purcell Suppression of Decoherence in Majorana Qubits via Environmental Engineering
+ZZ-Free Two-Transmon CZ Gate Mediated by a Fluxonium Coupler
+Multiplexed double-transmon coupler scheme in scalable superconducting quantum processor
+Decay of transmon qubit strongly coupled with a continuum
+Collective Quantum Batteries and Charger-Battery Setup in Open Quantum Systems: Impact of Inter-Qubit Interactions, Dissipation, and Quantum Criticality
+Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and Security in the NISQ Era
+Josephson Junction Tuning Described by Depinning Physics
+Exceptional Andreev spectrum and supercurrent in $p$-wave non-Hermitian Josephson junctions
+Adjustable entanglement enhancement via approaching to higher-order exceptional points in non-Hermitian network system
