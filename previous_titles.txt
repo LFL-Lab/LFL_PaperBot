@@ -3020,3 +3020,17 @@ Trustworthy Quantum Machine Learning: A Roadmap for Reliability, Robustness, and
 Josephson Junction Tuning Described by Depinning Physics
 Exceptional Andreev spectrum and supercurrent in $p$-wave non-Hermitian Josephson junctions
 Adjustable entanglement enhancement via approaching to higher-order exceptional points in non-Hermitian network system
+Frequency- and Amplitude-Modulated Gates for Universal Quantum Control
+Quantum properties of superpositions of oppositely squeezed states
+Quantum phase transition in the anisotropic Rabi model induced by parametric amplification
+Annual-modulation fingerprint of the axion wind induced sideband triplet in quantum dot spin qubit sensors
+Frequency shifts as a reflection of ground state squeezing and entanglement in two coupled harmonic oscillators
+Quantum Error Correction-like Noise Mitigation for Wave-like Dark Matter Searches with Quantum Sensors
+Multi-qubit DC gates over an inhomogeneous array of quantum dots
+Low Overhead Universal Quantum Computation with Triorthogonal Codes
+Dispersion-engineered multipass optical parametric amplification
+Millisecond lifetimes and coherence times in 2D transmon qubits
+Leggett's plasma resonances and two-gap structures in the CVCs of MgB$_2$ break junctions $-$ a direct evidence for a two-gap superconductivity in MgB$_2$
+Quartet Tomography in Multiterminal Josephson Junctions
+Thermodynamic uncertainty relations in superconducting junctions
+Non-hermitian topology in multiterminal superconducting junctions
