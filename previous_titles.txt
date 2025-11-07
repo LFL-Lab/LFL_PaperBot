@@ -3034,3 +3034,16 @@ Leggett's plasma resonances and two-gap structures in the CVCs of MgB$_2$ break 
 Quartet Tomography in Multiterminal Josephson Junctions
 Thermodynamic uncertainty relations in superconducting junctions
 Non-hermitian topology in multiterminal superconducting junctions
+Quantum error correction for multiparameter metrology
+Quantum Chip Co-Design for Fidelity and Entanglement Preservation
+Engineered Robustness for Nonadiabatic Geometric Quantum Gates
+Quantum time-marching algorithms for solving linear transport problems including boundary conditions
+Neutral-atom quantum computation using multi-qubit geometric gates via adiabatic passage
+Microwave Output Stabilization of a Qubit Controller via Device-Level Temperature Control
+Homodyne detection for pulse-by-pulse squeezing measurements
+Qubit Mapping and Routing tailored to Advanced Quantum ISAs: Not as Costly as You Think
+Photodetection of Squeezed Light: a Whittaker-Shannon Analysis
+Automatic tuning of a donor in a silicon quantum device using machine learning
+Performance Evaluations of Signed and Unsigned Noisy Approximate Quantum Fourier Arithmetic
+The Clifford theory of the n-qubit Clifford group
+Vortex-Controlled Quasiparticle Multiplication and Self-Growth Dynamics in Superconducting Resonators
