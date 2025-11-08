@@ -3047,3 +3047,4 @@ Automatic tuning of a donor in a silicon quantum device using machine learning
 Performance Evaluations of Signed and Unsigned Noisy Approximate Quantum Fourier Arithmetic
 The Clifford theory of the n-qubit Clifford group
 Vortex-Controlled Quasiparticle Multiplication and Self-Growth Dynamics in Superconducting Resonators
+Clock Precision beyond the Standard Quantum Limit at ${10}^{−18}$ Level
