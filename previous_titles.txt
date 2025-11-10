@@ -3048,3 +3048,9 @@ Performance Evaluations of Signed and Unsigned Noisy Approximate Quantum Fourier
 The Clifford theory of the n-qubit Clifford group
 Vortex-Controlled Quasiparticle Multiplication and Self-Growth Dynamics in Superconducting Resonators
 Clock Precision beyond the Standard Quantum Limit at ${10}^{−18}$ Level
+Analysis of Frequency Collisions in Parametrically Modulated Superconducting Circuits
+Robust Quantum Teleportation Against Noise Using Weak Measurement and Flip Operations
+A Triple-Hybrid Quantum Support Vector Machine Using Classical, Quantum Gate-based and Quantum Annealing-based Computing
+Mapping the positions of Two-Level-Systems on the surface of a superconducting transmon qubit
+Quantum advantage from effective $200$-qubit holographic random circuit sampling
+Quantum Boltzmann Machines for Sample-Efficient Reinforcement Learning
