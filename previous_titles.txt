@@ -3067,3 +3067,11 @@ Fault-tolerant syndrome extraction in [[n,1,3]] non-CSS code family generated us
 Quantum low-density parity-check codes for erasure-biased atomic quantum processors
 Properties of multiterminal superconducting nanostructure with double quantum dot
 Optically-Induced Faraday-Goldstone Waves
+Secure and Efficient n-Qubit Entangled State Teleportation Using Partially Entangled GHZ Channels and Optimal POVM
+Fidelity sweet spot in transmon qubit rings under strong connectivity noise
+Quantum annealing for lattice models with competing long-range interactions
+Reinforcement Learning Control of Quantum Error Correction
+The FLuid Allocation of Surface code Qubits (FLASQ) cost model for early fault-tolerant quantum algorithms
+Fluctuation amplification engineering in multimode Raman-cavity systems
+Optomechanical Accelerometer Search for Ultralight Dark Matter
+The prize at the end of the quantum tunnel
