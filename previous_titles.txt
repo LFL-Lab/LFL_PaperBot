@@ -3075,3 +3075,10 @@ The FLuid Allocation of Surface code Qubits (FLASQ) cost model for early fault-t
 Fluctuation amplification engineering in multimode Raman-cavity systems
 Optomechanical Accelerometer Search for Ultralight Dark Matter
 The prize at the end of the quantum tunnel
+Hybrid Atomistic-Parametric Decoherence Model for Molecular Spin Qubits
+Space-Time Optimisations for Early Fault-Tolerant Quantum Computation
+All-nitride superconducting qubits based on atomic layer deposition
+Degeneracy beyond the parity-symmetry protection in one-dimensional spinless models: The parity-violating Kerr parametric oscillator
+Transversal Toffoli-gate in Hybrid-code System
+Adaptive Estimation of Drifting Noise in Quantum Error Correction
+Quantitative calibration of a traveling-wave parametric amplifier applied to an optomechanical platform
