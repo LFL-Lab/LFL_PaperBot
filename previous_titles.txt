@@ -3082,3 +3082,16 @@ Degeneracy beyond the parity-symmetry protection in one-dimensional spinless mod
 Transversal Toffoli-gate in Hybrid-code System
 Adaptive Estimation of Drifting Noise in Quantum Error Correction
 Quantitative calibration of a traveling-wave parametric amplifier applied to an optomechanical platform
+Quantum Frustration as a Protection Mechanism in Non-Topological Majorana Qubits
+Two-Mode Janus States: non-Gaussian generalizations of thermofield double
+Liquid metal printing for superconducting circuits
+Provably Efficient Quantum Algorithms for Solving Nonlinear Differential Equations Using Multiple Bosonic Modes Coupled with Qubits
+Improved coherence time of a non-Hermitian qubit in a $\mathcal{PT}$-symmetric Environment
+Addressable fault-tolerant universal quantum gate operations for high-rate lift-connected surface codes
+Assessing Finite Scalability in Early Fault-Tolerant Quantum Computing for Homogeneous Catalysts
+Hardware-Efficient Bosonic Module for Entangling Superconducting Quantum Processors via Optical Networks
+Impacts of Decoder Latency on Utility-Scale Quantum Computer Architectures
+Fault-tolerant and secure long-distance quantum communication via uncorrectable-error-injection
+Tunable Non-Gaussianity and Exact Higher-Order Coherences for Quantum Advantage
+Fault-Tolerant Quantum Computation with Constant Overhead for General Noise
+Implementation of a Quantum Addressable Router Using Superconducting Qubits
