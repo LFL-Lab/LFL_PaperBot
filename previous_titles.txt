@@ -3095,3 +3095,4 @@ Fault-tolerant and secure long-distance quantum communication via uncorrectable-
 Tunable Non-Gaussianity and Exact Higher-Order Coherences for Quantum Advantage
 Fault-Tolerant Quantum Computation with Constant Overhead for General Noise
 Implementation of a Quantum Addressable Router Using Superconducting Qubits
+Intensity-dependent enhancements in strong-field ionization by quantum light
