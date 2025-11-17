@@ -3096,3 +3096,8 @@ Tunable Non-Gaussianity and Exact Higher-Order Coherences for Quantum Advantage
 Fault-Tolerant Quantum Computation with Constant Overhead for General Noise
 Implementation of a Quantum Addressable Router Using Superconducting Qubits
 Intensity-dependent enhancements in strong-field ionization by quantum light
+Relative entropy for locally squeezed states
+Cycle Basis Algorithms for Reducing Maximum Edge Participation
+A Depinning Model for Josephson Junction Tuning
+Impact of spin-orbit coupling and Zeeman interaction on the subharmonic gap structure due to multiple Andreev reflections in nanoscopic Josephson junctions
+Empty and filled vortices in squeezed 39K Bose-Bose liquid drops
