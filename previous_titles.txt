@@ -3101,3 +3101,21 @@ Cycle Basis Algorithms for Reducing Maximum Edge Participation
 A Depinning Model for Josephson Junction Tuning
 Impact of spin-orbit coupling and Zeeman interaction on the subharmonic gap structure due to multiple Andreev reflections in nanoscopic Josephson junctions
 Empty and filled vortices in squeezed 39K Bose-Bose liquid drops
+Application of optical squeezing to microresonator based optical sensors
+Scalable quantum error mitigation with phase-cycled dynamical decoupling
+Optimal Multiparameter Quantum Estimation of Magnonic Couplings in a Magnomechanical Cavity
+Machine Learning Framework for Efficient Prediction of Quantum Wasserstein Distance
+Discovering autonomous quantum error correction via deep reinforcement learning
+Autonomously Designed Pulses for Precise, Site-Selective Control of Atomic Qubits
+Minute-Scale Photonic Quantum Memory
+Topological quantum compilation for non-semisimple Ising anyons via monte carlo simulations
+Measurement-based Dynamical Decoupling for Fidelity Preservation on Large-scale Quantum Processors
+Ultra Low Overhead Syndrome Extraction for the Steane code
+Quantum Error Correction Codes for Truncated SU(2) Lattice Gauge Theories
+The role of interaction in matter wave optics with motional states
+Bayesian mitigation of measurement errors in multiqubit experiments
+Universal quantum computation via scalable measurement-free error correction
+The construction of a universal quantum gate set for the SU(2)k (k=5,6,7) anyon models via genetic optimized algorithm
+Axion Electrodynamics and Giant Magnetic Birefringence in Weyl Excitonic Insulators
+Tuning of Weyl point emergence in multi-terminal Josephson junctions using quantum point contacts
+Intrinsic space-time crystalline order in a hybrid Josephson junction
