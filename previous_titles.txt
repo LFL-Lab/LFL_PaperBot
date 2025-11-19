@@ -3119,3 +3119,15 @@ The construction of a universal quantum gate set for the SU(2)k (k=5,6,7) anyon 
 Axion Electrodynamics and Giant Magnetic Birefringence in Weyl Excitonic Insulators
 Tuning of Weyl point emergence in multi-terminal Josephson junctions using quantum point contacts
 Intrinsic space-time crystalline order in a hybrid Josephson junction
+Hybrid Predictive Quantum Feedback: Extending Qubit Lifetimes Beyond the Wiseman-Milburn Limit
+Optimizing two-dimensional isometric tensor networks with quantum computers
+Halving the Cost of Controlled Time-Evolution
+Enhancing Non-classical Properties of Entangled Coherent States via Post-Selected von Neumann Measurements
+Robust Two-Qubit Geometric Phase Gates using Amplitude and Frequency Ramping
+Simulating quantum electrodynamics in 2+1 dimensions with qubits and qumodes
+Optimization of High-Fidelity Single-Qubit Gates for Fluxoniums Using Single-Flux Quantum Control
+Empirical Quantum Advantage in Constrained Optimization from Encoded Unitary Designs
+Quantum Circuit Model of Black Hole Evaporation with Controlled Causal Leakage
+Kerr-enhanced optomechanical entanglement generation via reservoir design
+Universal quantum control over Majorana zero modes
+Spin-polarized transport and quantum phase transitions in one-dimensional superconductor-ferromagnetic insulator heterostructures
