@@ -3131,3 +3131,8 @@ Quantum Circuit Model of Black Hole Evaporation with Controlled Causal Leakage
 Kerr-enhanced optomechanical entanglement generation via reservoir design
 Universal quantum control over Majorana zero modes
 Spin-polarized transport and quantum phase transitions in one-dimensional superconductor-ferromagnetic insulator heterostructures
+Generation of 10-dB squeezed light from a broadband waveguide optical parametric amplifier with improved phase locking method
+Tensor-network approach to quantum optical state evolution beyond the Fock basis
+Design and Optimization of Adaptive Diversity Schemes in Quantum MIMO Channels
+Scalable spin squeezing from spontaneous breaking of a continuous symmetry
+Synthetic areas spread in two-dimensional Superconducting Quantum Interference Arrays
