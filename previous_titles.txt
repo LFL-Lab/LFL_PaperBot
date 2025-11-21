@@ -3136,3 +3136,8 @@ Tensor-network approach to quantum optical state evolution beyond the Fock basis
 Design and Optimization of Adaptive Diversity Schemes in Quantum MIMO Channels
 Scalable spin squeezing from spontaneous breaking of a continuous symmetry
 Synthetic areas spread in two-dimensional Superconducting Quantum Interference Arrays
+Engineering multi-mode bosonic squeezed states using Monte-Carlo optimization
+Generation of spin-squeezed states using dipole-coupled spins
+Quantum speed limit for observables from quantum asymmetry
+Probing Sub-eV Dark Photon, Scalar and Axion-like Particle Dark Matters with Transmon Qubits
+Cooperative Squeezing of Internal and Collective Spins in an Atomic Ensemble
