@@ -3141,3 +3141,5 @@ Generation of spin-squeezed states using dipole-coupled spins
 Quantum speed limit for observables from quantum asymmetry
 Probing Sub-eV Dark Photon, Scalar and Axion-like Particle Dark Matters with Transmon Qubits
 Cooperative Squeezing of Internal and Collective Spins in an Atomic Ensemble
+Parametric phase modulation in superconducting circuits
+Dynamic Josephson-junction metasurfaces for multiplexed control of superconducting qubits
