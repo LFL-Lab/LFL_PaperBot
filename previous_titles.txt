@@ -3143,3 +3143,9 @@ Probing Sub-eV Dark Photon, Scalar and Axion-like Particle Dark Matters with Tra
 Cooperative Squeezing of Internal and Collective Spins in an Atomic Ensemble
 Parametric phase modulation in superconducting circuits
 Dynamic Josephson-junction metasurfaces for multiplexed control of superconducting qubits
+Magnetically induced Josephson nano-diodes in field-resilient superconducting microwave circuits
+Spectroscopy on a single nonlinear mode recognizes quantum states
+Basic cell for a quantum microwave router
+Improved error correction with leakage reduction units built into qubit measurement in a superconducting quantum processor
+Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $\Sigma(72\times3)$
+Building 3D superconductor-based Josephson junctions using a via transfer approach
