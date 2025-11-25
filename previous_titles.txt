@@ -3149,3 +3149,6 @@ Basic cell for a quantum microwave router
 Improved error correction with leakage reduction units built into qubit measurement in a superconducting quantum processor
 Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $\Sigma(72\times3)$
 Building 3D superconductor-based Josephson junctions using a via transfer approach
+Elucidating Many-Body Effects in Molecular Core Spectra through Real-Time Approaches: Efficient Classical Approximations and a Quantum Perspective
+Attosecond-resolved quantum fluctuations of light and matter
+Resource-efficient quantum correlation measurements via multicopy neural network methods
