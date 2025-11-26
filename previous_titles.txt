@@ -3152,3 +3152,12 @@ Building 3D superconductor-based Josephson junctions using a via transfer approa
 Elucidating Many-Body Effects in Molecular Core Spectra through Real-Time Approaches: Efficient Classical Approximations and a Quantum Perspective
 Attosecond-resolved quantum fluctuations of light and matter
 Resource-efficient quantum correlation measurements via multicopy neural network methods
+Entropy Flow and Exceptional-Point Structure in Two-Mode Squeezed-Bath Dynamics
+Error-structure-tailored early fault-tolerant quantum computing
+An Adaptable Route to Fast Coherent State Transport via Bang-Bang-Bang Protocols
+Superconducting Parametric Amplifiers: Resonator Design and Role in Qubit Readout
+Fault-Tolerant Non-Clifford GKP Gates using Polynomial Phase Gates and On-Demand Noise Biasing
+Dynamic local single-shot checks for toric codes
+Microwave spectroscopy of few-carrier states in bilayer graphene quantum dots
+Boundaries of Acceptable Defectiveness: Redefining Surface Code Robustness under Heterogeneous Noise
+Logical Operations with a Dynamical Qubit in Floquet-Bacon-Shor Code
