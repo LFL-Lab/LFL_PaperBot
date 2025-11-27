@@ -3161,3 +3161,11 @@ Dynamic local single-shot checks for toric codes
 Microwave spectroscopy of few-carrier states in bilayer graphene quantum dots
 Boundaries of Acceptable Defectiveness: Redefining Surface Code Robustness under Heterogeneous Noise
 Logical Operations with a Dynamical Qubit in Floquet-Bacon-Shor Code
+Relativistic Quantum-Speed Limit for Gaussian Systems and Prospective Experimental Verification
+Closed-Loop Phase-Coherence Compensation for Superconducting Qubits Integrated Computational and Hardware Validation of the Aurora Method
+Nonreciprocal quantum information processing with superconducting diodes in circuit quantum electrodynamics
+Generalized Heralded Generation of Non-Gaussian States Using an Optical Parametric Amplifier
+Compilation Pipeline for Predicting Algorithmic Break-Even in an Early-Fault-Tolerant Surface Code Architecture
+Frequency shifts heralding ground state squeezing and entanglement of two coupled harmonic oscillators
+Fault-tolerant quantum computation with polylogarithmic time and constant space overheads
+High-quality superconducting tantalum resonators with beta phase defects
