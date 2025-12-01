@@ -3169,3 +3169,15 @@ Compilation Pipeline for Predicting Algorithmic Break-Even in an Early-Fault-Tol
 Frequency shifts heralding ground state squeezing and entanglement of two coupled harmonic oscillators
 Fault-tolerant quantum computation with polylogarithmic time and constant space overheads
 High-quality superconducting tantalum resonators with beta phase defects
+Lattice Surgery Aware Resource Analysis for the Mapping and Scheduling of Quantum Circuits for Scalable Modular Architectures
+Experimental signatures of a $\sigma_z\sigma_x$ beam-splitter interaction between a Kerr-cat and transmon qubit
+Quantum Sensing using Geometrical Phase in Qubit-Oscillator Systems
+Ultrafast Single Qubit Gates through Multi-Photon Transition Removal
+Tunable and nonlinearity-enhanced dispersive-plus-dissipative coupling in photon-pressure circuits
+Superconducting Qubit Gates Robust to Parameter Fluctuations
+Raising the Cavity Frequency in cQED
+Evidence for unexpectedly low quasiparticle generation rates across Josephson junctions of driven superconducting qubits
+Quantum Cubature Codes
+Denotational semantics for stabiliser quantum programs
+Majorana modes in graphene strips: polarization, wavefunctions, disorder, and Andreev states
+Coherent subgap transport in spin-split Josephson junctions
