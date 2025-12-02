@@ -3181,3 +3181,23 @@ Quantum Cubature Codes
 Denotational semantics for stabiliser quantum programs
 Majorana modes in graphene strips: polarization, wavefunctions, disorder, and Andreev states
 Coherent subgap transport in spin-split Josephson junctions
+A Concatenated Dual Displacement Code for Continuous-Variable Quantum Error Correction
+Geometric Parameterization of Kraus Operators with Applications to Quasi Inverse Channels for Multi Qubit Systems
+On-Chip Levitated Neon Particle Arrays for Robust and Scalable Electron Qubits
+Weighted Projective Line ZX Calculus: Quantized Orbifold Geometry for Quantum Compilation
+Boosting Gaussian Boson Sampling using Optical Parametric Amplification Networks
+Optimal Control of thermally noisy quantum gates in a multilevel system
+Multiqubit Rydberg Gates for Quantum Error Correction
+Resource Estimation for VQE on Small Molecules: Impact of Fermion Mappings and Hamiltonian Reductions
+Hybrid Quantum State Preparation via Data Compression
+Variational quantum algorithm for anion exchange across electrolyzer membrane
+Field-free diode effects in one-dimensional superconductor: a complex interplay between Fulde-Ferrell pairing and altermagnetism
+Monte Carlo approach for finding optimally controlled quantum gates with differential geometry
+Measurement-Free Quantum Error Correction Optimized for Biased Noise
+Edge dependence of the supercurrent in the quantum Hall regime
+Finite-length effects and Coulomb interaction in Josephson junctions based on Ge quantum wells and probed with microwave spectroscopy
+Purely even harmonic Josephson current due to crossed pair transmission across strongly spin-polarized materials
+Nonlocal Josephson diode effect in minimal Kitaev chains
+High-fidelity regimes of resonator-mediated controlled-Z gates between quantum-dot qubits
+Admittance and critical current of nonreciprocal Josephson junctions
+Spectral Bifurcation and Anomalous Supercurrent in Dissipative Topological Insulator-based Josephson Junctions
