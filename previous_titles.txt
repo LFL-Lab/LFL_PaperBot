@@ -3201,3 +3201,11 @@ Nonlocal Josephson diode effect in minimal Kitaev chains
 High-fidelity regimes of resonator-mediated controlled-Z gates between quantum-dot qubits
 Admittance and critical current of nonreciprocal Josephson junctions
 Spectral Bifurcation and Anomalous Supercurrent in Dissipative Topological Insulator-based Josephson Junctions
+Quantum-Classical Separation in Bounded-Resource Tasks Arising from Measurement Contextuality
+Full-counting statistics and quantum information of dispersive readout with a squeezed environment
+Constraint-Optimal Driven Allocation for Scalable QEC Decoder Scheduling
+A unified optical platform for non-Gaussian and fault-tolerant Gottesman-Kitaev-Preskill states
+Fault-tolerant quantum computation with constant overhead for general noise
+SDQC: Distributed Quantum Computing Architecture Utilizing Entangled Ion Qubit Shuttling
+Quantum Coulomb drag signatures of Majorana bound states
+The formation of Schrodinger cat-like states in the process of spontaneous parametric down-conversion
