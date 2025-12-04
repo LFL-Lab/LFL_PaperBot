@@ -3209,3 +3209,8 @@ Fault-tolerant quantum computation with constant overhead for general noise
 SDQC: Distributed Quantum Computing Architecture Utilizing Entangled Ion Qubit Shuttling
 Quantum Coulomb drag signatures of Majorana bound states
 The formation of Schrodinger cat-like states in the process of spontaneous parametric down-conversion
+The Pound-Drever-Hall Method for Superconducting-Qubit Readout
+Hybridized-Mode Parametric Amplifier in Kinetic-Inductance Circuits
+Energy-Scaled Zero-Noise Extrapolation for Gottesman-Kitaev-Preskill Code
+Quantum Chip Co-Design for Fidelity and Entanglement Preservation: Architecture, Modeling, and QGHNN Optimization
+Enhanced bundle emission of squeezed photons using parametric amplification
