@@ -3214,3 +3214,8 @@ Hybridized-Mode Parametric Amplifier in Kinetic-Inductance Circuits
 Energy-Scaled Zero-Noise Extrapolation for Gottesman-Kitaev-Preskill Code
 Quantum Chip Co-Design for Fidelity and Entanglement Preservation: Architecture, Modeling, and QGHNN Optimization
 Enhanced bundle emission of squeezed photons using parametric amplification
+A Quantum Gate Architecture via Teleportation and Entanglement
+Supramolecular approach-based intermolecular interaction energy calculations using quantum phase estimation algorithm
+Mitigating Residual Exchange Coupling in Resonant Singlet-Triplet Qubits
+Engineering a Multilevel Bath for Transmons with Three-Wave Mixing and Parametric Drives
+Broadband kinetic inductance parametric amplifiers with impedance engineering
