@@ -3219,3 +3219,10 @@ Supramolecular approach-based intermolecular interaction energy calculations usi
 Mitigating Residual Exchange Coupling in Resonant Singlet-Triplet Qubits
 Engineering a Multilevel Bath for Transmons with Three-Wave Mixing and Parametric Drives
 Broadband kinetic inductance parametric amplifiers with impedance engineering
+Analog quantum simulation of the Lipkin-Meshkov-Glick model in a transmon qudit
+Real-time optimal quantum control for atomic magnetometers with decoherence
+Highly resilient, error-protected quantum gates in a solid-state quantum network node
+Lattice field theory for superconducting circuits
+Microwave electrometry with quantum-limited resolutions in a Rydberg atom array
+Cross-talk in superconducting qubit lattices with tunable couplers -- comparing transmon and fluxonium architectures
+High-fidelity implementation of a Majorana-encoded CNOT gate on a photonic platform
