@@ -3226,3 +3226,21 @@ Lattice field theory for superconducting circuits
 Microwave electrometry with quantum-limited resolutions in a Rydberg atom array
 Cross-talk in superconducting qubit lattices with tunable couplers -- comparing transmon and fluxonium architectures
 High-fidelity implementation of a Majorana-encoded CNOT gate on a photonic platform
+Highly robust logical qubit encoding in an ensemble of V-symmetrical qutrits
+Exploring the topology induced by non-Markovian Liouvillian exceptional points
+Hybrid qubit-oscillator module with motional states of two trapped interacting atoms
+Scheduling Lattice Surgery with Magic State Cultivation
+Single Flux Quantum Circuit Operation at Millikelvin Temperatures
+Suppressing Fast Dipolar Noise in Solid-State Spin Qubits
+Hidden Structural Variants in ALD NbN Superconducting Trilayers Revealed by Atomistic Analysis
+Digital-Analog-Digital Quantum Supremacy
+A manufacturable surface code architecture for spin qubits with fast transversal logic
+A scalable and real-time neural decoder for topological quantum codes
+Strongly driven cavity quantum electrodynamical-optomechanical hybrid system
+LUNA: LUT-Based Neural Architecture for Fast and Low-Cost Qubit Readout
+Fast-feedback protocols for calibration and drift control in quantum computers
+Finite-Key Analysis of Quantum Key Distribution with Characterized Devices Using Entropy Accumulation
+Ion-Trap Chip Architecture Optimized for Implementation of Quantum Error-Correcting Code
+Quantum Seniority-based Subspace Expansion: Linear Combinations of Short-Circuit Unitary Transformations for the Electronic Structure Problem
+A method for the numerical analysis of hybrid lumped-distributed superconducting quantum circuits
+Effect of multiqubit correlated noise on surface-code thresholds
