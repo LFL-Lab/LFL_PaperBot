@@ -3244,3 +3244,15 @@ Ion-Trap Chip Architecture Optimized for Implementation of Quantum Error-Correct
 Quantum Seniority-based Subspace Expansion: Linear Combinations of Short-Circuit Unitary Transformations for the Electronic Structure Problem
 A method for the numerical analysis of hybrid lumped-distributed superconducting quantum circuits
 Effect of multiqubit correlated noise on surface-code thresholds
+Coherence-limited digital control of a superconducting qubit using a Josephson pulse generator at 3 K
+Information-Theoretic Analysis of Weak Measurements and Their Reversal
+Coherent and compact van der Waals transmon qubits
+Single-Step Phase-Engineered Pulse for Active Readout Cavity Reset in Superconducting Circuits
+Higher Josephson harmonics in a tunable double-junction transmon qubit
+Tunable passive squeezing of squeezed light through unbalanced double homodyne detection
+Perfect continuous-variable quantum microcombs
+Emergent Non-Markovianity in Logical Qubit Dynamics
+SAQ: Stabilizer-Aware Quantum Error Correction Decoder
+Quantum Power Iteration Unified Using Generalized Quantum Signal Processing
+Low-Depth Quantum Error Correction via Three-Qubit Gates in Rydberg Atom Arrays
+Massive Dirac states bound to vortices by a boson-fermion interaction
