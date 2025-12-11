@@ -3256,3 +3256,11 @@ SAQ: Stabilizer-Aware Quantum Error Correction Decoder
 Quantum Power Iteration Unified Using Generalized Quantum Signal Processing
 Low-Depth Quantum Error Correction via Three-Qubit Gates in Rydberg Atom Arrays
 Massive Dirac states bound to vortices by a boson-fermion interaction
+Enhanced Squeezing and Faster Metrology from Layered Quantum Neural Networks
+Exact and Efficient Stabilizer Simulation of Thermal-Relaxation Noise for Quantum Error Correction
+Entanglement with a mode observable via a tunable interaction with a qubit
+Three-body interaction in a magnon-Andreev-superconducting qubit system: collapse-revival phenomena and entanglement redistribution
+Dynamic stimulated emission for deterministic addition and subtraction of propagating photons
+Quantum error correction via purification using a single auxiliary
+Error Mitigation of Fault-Tolerant Quantum Circuits with Soft Information
+Higher-Order Adiabatic Elimination in Atom-Cavity Systems and Its Impact on Spin-Squeezing Generation
