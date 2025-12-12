@@ -3264,3 +3264,8 @@ Dynamic stimulated emission for deterministic addition and subtraction of propag
 Quantum error correction via purification using a single auxiliary
 Error Mitigation of Fault-Tolerant Quantum Circuits with Soft Information
 Higher-Order Adiabatic Elimination in Atom-Cavity Systems and Its Impact on Spin-Squeezing Generation
+Eight-Qubit Operation of a 300 mm SiMOS Foundry-Fabricated Device
+Generating strong mechanical squeezing via combined squeezed vacuum field and two-tone driving
+Integrated Generation and Purification of Entangled Coherent States for Non-Gaussian Teleportation
+A Cryogenic Muon Tagging System Based on Kinetic Inductance Detectors for Superconducting Quantum Processors
+Scalable Optical Links for Controlling Bosonic Quantum Processors
