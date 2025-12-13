@@ -3269,3 +3269,4 @@ Generating strong mechanical squeezing via combined squeezed vacuum field and tw
 Integrated Generation and Purification of Entangled Coherent States for Non-Gaussian Teleportation
 A Cryogenic Muon Tagging System Based on Kinetic Inductance Detectors for Superconducting Quantum Processors
 Scalable Optical Links for Controlling Bosonic Quantum Processors
+Characterization of leakage errors in a transmon qubit due to resonant digital control
