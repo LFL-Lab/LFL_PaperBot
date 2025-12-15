@@ -3270,3 +3270,10 @@ Integrated Generation and Purification of Entangled Coherent States for Non-Gaus
 A Cryogenic Muon Tagging System Based on Kinetic Inductance Detectors for Superconducting Quantum Processors
 Scalable Optical Links for Controlling Bosonic Quantum Processors
 Characterization of leakage errors in a transmon qubit due to resonant digital control
+Nonreciprocal flow of fluctuations, populations and correlations between doubly coupled bosonic modes
+CNOT gates in inductively coupled multi-fluxonium systems
+Andreev spin qubits bound to Josephson vortices in spin-orbit coupled planar Josephson junctions
+Microgravity and Near-Absolute Zero: A New Frontier in Quantum Computing Hardware
+QGEC : Quantum Golay Code Error Correction
+Entanglement of a nuclear spin qubit register in silicon photonics
+Strongly anharmonic flux-tunable transmon based on InAs-Al 2D heterostructure
