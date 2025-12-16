@@ -3277,3 +3277,17 @@ Microgravity and Near-Absolute Zero: A New Frontier in Quantum Computing Hardwar
 QGEC : Quantum Golay Code Error Correction
 Entanglement of a nuclear spin qubit register in silicon photonics
 Strongly anharmonic flux-tunable transmon based on InAs-Al 2D heterostructure
+Classical Second-Order Moments and Tensor Squeezing in Spin-1 Systems
+Mid-circuit logic executed in the qubit layer of a quantum processor
+Quantum Implicit Neural Representations for 3D Scene Reconstruction and Novel View Synthesis
+Practical Hybrid Quantum Language Models with Observable Readout on Real Hardware
+Genuine Tripartite Strong Coupling in a Superconducting-Spin Hybrid Quantum System
+Slowing and Storing Microwaves in a Single Superconducting Fluxonium Artificial Atom
+Fault-tolerant multi-qubit gates in Parity Codes
+Impact of Information on Quantum Heat Engines
+Decoding 3D color codes with boundaries
+Wigner function negativity in a classical model of quantum light
+Quadratic and cubic scrambling in the estimation of two successive phase-shifts
+Towards Quantum Advantage in Chemistry
+A SAT Encoding for Optimal Clifford Circuit Synthesis
+Decoherence of a tunable capacitively shunted flux qubit
