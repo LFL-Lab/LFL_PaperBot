@@ -3291,3 +3291,8 @@ Quadratic and cubic scrambling in the estimation of two successive phase-shifts
 Towards Quantum Advantage in Chemistry
 A SAT Encoding for Optimal Clifford Circuit Synthesis
 Decoherence of a tunable capacitively shunted flux qubit
+Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes
+Magic state cultivation on a superconducting quantum processor
+Engineering Anisotropic Rabi Model in Circuit QED
+Physics-Informed Neural Networks with Adaptive Constraints for Multi-Qubit Quantum Tomography
+Reading Qubits with Sequential Weak Measurements: Limits of Information Extraction
