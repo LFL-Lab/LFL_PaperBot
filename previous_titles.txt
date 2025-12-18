@@ -3296,3 +3296,13 @@ Magic state cultivation on a superconducting quantum processor
 Engineering Anisotropic Rabi Model in Circuit QED
 Physics-Informed Neural Networks with Adaptive Constraints for Multi-Qubit Quantum Tomography
 Reading Qubits with Sequential Weak Measurements: Limits of Information Extraction
+Quantum Resource Analysis of Low-Round Keccak/SHA-3 Preimage Attack: From Classical 2^57.8 to Quantum 2^28.9 using Qiskit Modeling
+Quantum Fisher-information limits of resonant nanophotonic sensors: why high-Q is not optimal even at the quantum limit
+Enabling Technologies for Scalable Superconducting Quantum Computing
+Bosonic quantum computing with near-term devices and beyond
+Quantum Batteries in Coherent Ising Machine
+Universal Blind Quantum Computation with Recursive Rotation Gates
+Energy Inference of Black-Box Quantum Computers Using Quantum Speed Limit
+Enigma: Application-Layer Privacy for Quantum Optimization on Untrusted Computers
+Enhancing the Yield of Bucket Brigade Quantum Random Access Memory using Redundancy Repair
+Robust and optimal loading of general classical data into quantum computers
