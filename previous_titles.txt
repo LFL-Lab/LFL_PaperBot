@@ -3306,3 +3306,12 @@ Energy Inference of Black-Box Quantum Computers Using Quantum Speed Limit
 Enigma: Application-Layer Privacy for Quantum Optimization on Untrusted Computers
 Enhancing the Yield of Bucket Brigade Quantum Random Access Memory using Redundancy Repair
 Robust and optimal loading of general classical data into quantum computers
+Geometric Latent Space Tomography with Metric-Preserving Autoencoders
+Amplifying Decoherence-Free Many-Body Interactions with Giant Atoms Coupled to Parametric Waveguide
+Giant-atom quantum acoustodynamics in hybrid superconducting-phononic integrated circuits
+Fast Native Three-Qubit Gates and Fault-Tolerant Quantum Error Correction with Trapped Rydberg Ions
+Scalable tests of quantum contextuality from stabilizer-testing nonlocal games
+Topological magic response in quantum spin chains
+Practical Unclonable Encryption with Continuous Variables
+Scalable low-latency entanglement distribution for distributed quantum computing
+Visualizing Pair-breaking Scattering Interference in Bulk FeSe
