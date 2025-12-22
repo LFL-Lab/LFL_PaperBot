@@ -3316,3 +3316,11 @@ Practical Unclonable Encryption with Continuous Variables
 Scalable low-latency entanglement distribution for distributed quantum computing
 Visualizing Pair-breaking Scattering Interference in Bulk FeSe
 Balanced Cross-Kerr Coupling for Superconducting Qubit Readout
+Attosecond Control of Squeezed Light
+Probing an electron spin ensemble with squeezed microwave signals
+Frequency-Multiplexed Millimeter-Wave Fault-Tolerant Superconducting Qubits Enabled by an On-Chip Nonreciprocal Control Bus
+Kerr-induced non-Gaussianity of ultrafast bright squeezed vacuum
+Low-loss frequency-tunable Josephson junction array cavities on Ge/SiGe heterostructures with a tapered etching approach
+Chronicle: "Foot of the iceberg" of Nobel Prize in Physics 2025: ILTPE and LTP contribution
+Effective Mass in Dissipative Coupled Polaritons
+Q-Fly: An Optical Interconnect for Modular Quantum Computers
