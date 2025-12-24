@@ -3348,3 +3348,16 @@ Towards Arbitrary Time-frequency Mode Squeezing with Self-conjugated Mode Squeez
 Gate-Tunable Spectrum and Charge Dispersion Mitigation in a Graphene Superconducting Qubit
 Quantum complementarity <i>ad infinitum</i>: Switching higher-order coherence from infinity to zero
 $p$-wave superconductivity and Josephson current in $p$-wave unconventional magnet/$s$-wave superconductor hybrid systems
+Theory of Scalable Spin Squeezing with Disordered Quantum Dipoles
+Gate-Based Microwave Quantum Repeater Via Grid-State Encoding
+DC-powered broadband quantum-limited microwave amplifier
+Force Sensing Beyond the Standard Quantum Limit in a Hybrid Optomechanical Platform
+Scaling roadmap for modular trapped-ion QEC and lattice-surgery teleportation
+Quantum Bayesian Optimization for the Automatic Tuning of Lorenz-96 as a Surrogate Climate Model
+Experimental characterization of the Toffoli gate via channel spectrum benchmarking
+Minimal model of an artificial topological material realized in a two-terminal Josephson junction threaded by Aharonov-Casher fluxes
+${A}^{2}$-robust superradiant phase transition in hybrid qubit-cavity optomechanics
+The Nobel Prize in physics and the contribution of Ukrainian scientists to the understanding of quantum phenomena, in particular the behavior of macroscopic systems (The 2025 Nobel Prize in Physics)
+High-quality and field resilient microwave resonators on Ge/SiGe quantum well heterostructures
+Validation of Quantum Computing for Transition Metal Oxide-based Automotive Catalysis
+Impedance-engineered Josephson parametric amplifier with single-step lithography
