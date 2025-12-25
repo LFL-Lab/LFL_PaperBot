@@ -3361,3 +3361,15 @@ The Nobel Prize in physics and the contribution of Ukrainian scientists to the u
 High-quality and field resilient microwave resonators on Ge/SiGe quantum well heterostructures
 Validation of Quantum Computing for Transition Metal Oxide-based Automotive Catalysis
 Impedance-engineered Josephson parametric amplifier with single-step lithography
+Systematic Construction of Time-Dependent Hamiltonians for Microwave-Driven Josephson Circuits
+Tutorial on Superconducting Quantum Circuits: From Basics to Applications
+Quantum Homotopy Algorithm for Solving Nonlinear PDEs and Flow Problems
+Information-Scrambling-Enhanced Quantum Sensing Beyond the Standard Quantum Limit
+Interaction-Resilient Scalable Fluxonium Architecture with All-Microwave Gates
+All-optical control and multiplexed readout of multiple superconducting qubits
+3D cavity-based graphene superconducting quantum circuits in two-qubit architectures
+Horizons and Soft Quantum Information
+Broadband parametric amplification for multiplexed SiMOS quantum dot signals
+Long coherence silicon spin qubit fabricated in a 300 mm industrial foundry
+Topological Charge-2ne Superconductors
+Submicrometer tunnel ferromagnetic Josephson junctions with transmon energy scale
