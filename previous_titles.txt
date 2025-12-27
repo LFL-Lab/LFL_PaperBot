@@ -3373,3 +3373,4 @@ Broadband parametric amplification for multiplexed SiMOS quantum dot signals
 Long coherence silicon spin qubit fabricated in a 300 mm industrial foundry
 Topological Charge-2ne Superconductors
 Submicrometer tunnel ferromagnetic Josephson junctions with transmon energy scale
+Flux-trapping fluxonium qubit
