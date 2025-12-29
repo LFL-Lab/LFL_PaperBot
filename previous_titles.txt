@@ -3374,3 +3374,9 @@ Long coherence silicon spin qubit fabricated in a 300 mm industrial foundry
 Topological Charge-2ne Superconductors
 Submicrometer tunnel ferromagnetic Josephson junctions with transmon energy scale
 Flux-trapping fluxonium qubit
+Hybrid Quantum Repeater Chains with Atom-based Quantum Processing Units and Quantum Memory Multiplexers
+Delayed Choice Lorentz Transformations on a Qubit
+Efficient Robust Spontaneous Parametric Down-Conversion via Detuning Modulated Composite Segments Designs
+Spontaneous Decoherence from Logarithmic Spectral Phase Deformations
+Andreev qubit readout from dynamic interference supercurrent
+On the relationship between noise squeezing and Rabi oscillations in active quantum dot ensembles
