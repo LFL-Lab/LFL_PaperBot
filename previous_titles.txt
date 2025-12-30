@@ -3380,3 +3380,10 @@ Efficient Robust Spontaneous Parametric Down-Conversion via Detuning Modulated C
 Spontaneous Decoherence from Logarithmic Spectral Phase Deformations
 Andreev qubit readout from dynamic interference supercurrent
 On the relationship between noise squeezing and Rabi oscillations in active quantum dot ensembles
+Asymmetry effects in homodyne and heterodyne measurements: Positive operator-valued measures and asymptotic security of Gaussian continuous variable quantum key distribution
+Emergence of nonclassical radiation in strongly laser-driven quantum systems
+Heisenberg-limited metrology from the quantum-quench dynamics of an anisotropic ferromagnet
+Novel qubits in hybrid semiconductor-superconductor nanostructures
+Demonstration of Superconductor Shift Registers with Energy Dissipation Below Landauer's Thermodynamic Limit
+Effects of electron-electron interaction and spin-orbit coupling on Andreev pair qubits in quantum dot Josephson junctions
+Information supercurrents and spin waves in chiral active matter: Universality of the Landau-Lifshitz-Gilbert equation
