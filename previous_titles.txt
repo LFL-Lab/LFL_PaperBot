@@ -3387,3 +3387,13 @@ Novel qubits in hybrid semiconductor-superconductor nanostructures
 Demonstration of Superconductor Shift Registers with Energy Dissipation Below Landauer's Thermodynamic Limit
 Effects of electron-electron interaction and spin-orbit coupling on Andreev pair qubits in quantum dot Josephson junctions
 Information supercurrents and spin waves in chiral active matter: Universality of the Landau-Lifshitz-Gilbert equation
+Quantum Error Mitigation with Attention Graph Transformers for Burgers Equation Solvers on NISQ Hardware
+Squeezed states for Frenkel-like two-fermion composite bosons
+Parametric amplification of continuous variable entangled state for loss-tolerant multi-phase estimation
+Gravitationally Induced Entanglement Between Particles in Harmonic Traps: Limits for Gaussian States
+Incorporating multi-qubit exchange coupling effects between transmon qubits in Maxwell-Schr\"{o}dinger numerical methods
+A Boundary Condition Perspective on Circuit QED Dispersive Readout
+Three-Axis Spin Squeezed States Associated with Excited-State Quantum Phase Transitions
+Easier randomizing gates provide more accurate fidelity estimation
+Formation of Andreev molecules at long distance using an embedding circuit
+Supercurrent from the imaginary part of the Andreev levels in non-Hermitian Josephson junctions
