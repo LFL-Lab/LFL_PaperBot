@@ -3398,3 +3398,9 @@ Easier randomizing gates provide more accurate fidelity estimation
 Formation of Andreev molecules at long distance using an embedding circuit
 Supercurrent from the imaginary part of the Andreev levels in non-Hermitian Josephson junctions
 Leveraging Qubit Loss Detection in Fault-Tolerant Quantum Algorithms
+Double-Pumped Kerr Parametric Amplifier Beyond the Gain-Bandwidth Limit
+Chip scale superconducting quantum gravimeter based on a SQUID transmon mechanical resonator
+Biased-Noise Thresholds of Zero-Rate Holographic Codes with Tensor-Network Decoding
+Pure and Mixed State Entanglement Dynamics in Tavis-Cummings Model with Squeezed Coherent Thermal States
+Quantum Gate Dynamics Beyond the Rotating-Wave Approximation using Multi-Timescale Quantum Averaging Theory
+Implementing Grover Algorithm on Quantum Chip Architecture Optimized with QGHNN for Fidelity and Entanglement Preservation
