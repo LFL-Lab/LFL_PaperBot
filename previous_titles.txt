@@ -3404,3 +3404,17 @@ Biased-Noise Thresholds of Zero-Rate Holographic Codes with Tensor-Network Decod
 Pure and Mixed State Entanglement Dynamics in Tavis-Cummings Model with Squeezed Coherent Thermal States
 Quantum Gate Dynamics Beyond the Rotating-Wave Approximation using Multi-Timescale Quantum Averaging Theory
 Implementing Grover Algorithm on Quantum Chip Architecture Optimized with QGHNN for Fidelity and Entanglement Preservation
+Entanglement dynamics of multi-fluxonium-qubits under Non-Markovian TLS noise
+Single-Step Hybrid CV-DV Transfer of Multipartite W States Using Cat-State Qubits
+Constant Depth Digital-Analog Counterdiabatic Quantum Computing
+Distant Entanglement Generation between Magnon and Superconducting Qubits in Magnon-Mediated Hybrid Systems
+Noise-Resilient Heisenberg-limited Quantum Sensing via Indefinite-Causal-Order Error Correction
+Generation of circular polarized high-order harmonics from single color quantum light
+Photon blockade effect from synergistic optical parametric amplification and driving force in Kerr-medium single-mode cavity
+Global Parametric Gates for Multi-qubit Entanglement
+Flux-noise-resilient transmon qubit via a doubly-connected gradiometric design
+Optical nonlinearity of cold atomic ensemble driven by strong coherent field in a saturation regime
+Developments in superconducting erasure qubits for hardware-efficient quantum error correction
+Magnon nesting in driven two-dimensional quantum magnets
+Suppressing measurement noise in logical qubits through measurement scheduling
+Multiple nodal superconducting phases and order-parameter evolution in pressurized UTe$_2$
