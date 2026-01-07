@@ -3418,3 +3418,8 @@ Developments in superconducting erasure qubits for hardware-efficient quantum er
 Magnon nesting in driven two-dimensional quantum magnets
 Suppressing measurement noise in logical qubits through measurement scheduling
 Multiple nodal superconducting phases and order-parameter evolution in pressurized UTe$_2$
+FTCircuitBench: A Benchmark Suite for Fault-Tolerant Quantum Compilation and Architecture
+Probing Dark Matter-Electron Interactions with Superconducting Qubits
+The source of hardware-tailored codes and coding phases
+Hybrid Quantum Surface Acoustic Wave with Skyrmion Qubit for Quantum Information Processing
+Realization of a quantum error detection code with a dynamically reassigned ancillary qubit
