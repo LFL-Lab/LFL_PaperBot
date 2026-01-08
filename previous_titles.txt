@@ -3423,3 +3423,7 @@ Probing Dark Matter-Electron Interactions with Superconducting Qubits
 The source of hardware-tailored codes and coding phases
 Hybrid Quantum Surface Acoustic Wave with Skyrmion Qubit for Quantum Information Processing
 Realization of a quantum error detection code with a dynamically reassigned ancillary qubit
+Optimizing Fault-tolerant Cat State Preparation
+Hybrid non-degenerate parametric amplifier for a microwave cavity mode and an NV ensemble
+Conveyor-mode electron shuttling through a T-junction in Si/SiGe
+Tunable hybrid-mode coupler enabling strong interactions between transmons at centimeter-scale distance
