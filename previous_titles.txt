@@ -3427,3 +3427,13 @@ Optimizing Fault-tolerant Cat State Preparation
 Hybrid non-degenerate parametric amplifier for a microwave cavity mode and an NV ensemble
 Conveyor-mode electron shuttling through a T-junction in Si/SiGe
 Tunable hybrid-mode coupler enabling strong interactions between transmons at centimeter-scale distance
+Quantum sensing with critical systems: impact of symmetry, imperfections, and decoherence
+Exact Multimode Quantization of Superconducting Circuits via Boundary Admittance
+Unconditionally teleported quantum gates between remote solid-state qubit registers
+Fast, high-fidelity Transmon readout with intrinsic Purcell protection via nonperturbative cross-Kerr coupling
+Unitary fault-tolerant encoding of Pauli states in surface codes
+Scalable Suppression of XY Crosstalk by Pulse-Level Control in Superconducting Quantum Processors
+Security proof for quantum cryptography against entanglement-measurement attack
+Fourier Neural Operators for Learning Dynamics in Quantum Spin Systems
+Polynomial-Time Classical Simulation of Noisy Quantum Circuits with Naturally Fault-Tolerant Gates
+Mitigating measurement crosstalk via pulse shaping
