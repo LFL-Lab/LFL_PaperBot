@@ -3437,3 +3437,4 @@ Security proof for quantum cryptography against entanglement-measurement attack
 Fourier Neural Operators for Learning Dynamics in Quantum Spin Systems
 Polynomial-Time Classical Simulation of Noisy Quantum Circuits with Naturally Fault-Tolerant Gates
 Mitigating measurement crosstalk via pulse shaping
+Localized Josephson hot spots due to two-level systems
