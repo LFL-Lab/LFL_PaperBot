@@ -3450,3 +3450,9 @@ Noise-Agnostic Unbiased Quantum Error Mitigation for Logical Qubits
 Compilation-informed probabilistic logical-error cancellation
 Design and characterization of a cryogenic vacuum chamber for ion trapping experiments
 Search for Dark Photon Dark Matter with a Mass around 36.1 {\mu}eV Using a Frequency-tunable Cavity Controlled through a Coupled Superconducting Qubit
+Quantum Circuit-Based Adaptation for Credit Risk Analysis
+Quantum Error Correction and Detection for Quantum Machine Learning
+Reply to Comment on "Properties and dynamics of generalized squeezed states"
+Fault-tolerant modular quantum computing with surface codes using single-shot emission-based hardware
+Mechanical Resonator-based Quantum Computing
+Unbiased observable estimation with approximate channels in fault-tolerant quantum computation
