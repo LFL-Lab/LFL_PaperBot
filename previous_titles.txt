@@ -3456,3 +3456,15 @@ Reply to Comment on "Properties and dynamics of generalized squeezed states"
 Fault-tolerant modular quantum computing with surface codes using single-shot emission-based hardware
 Mechanical Resonator-based Quantum Computing
 Unbiased observable estimation with approximate channels in fault-tolerant quantum computation
+Fault-Tolerant Quantum Error Correction: Implementing Hamming-Based Codes with Advanced Syndrome Extraction Techniques
+Data-driven learning of non-Markovian quantum dynamics
+Learning Better Error Correction Codes with Hybrid Quantum-Assisted Machine Learning
+Quantum State Discrimination Enhanced by FPGA-Based AI Engine Technology
+Extending Qubit Coherence Time via Hybrid Dynamical Decoupling
+Quantum fluctuations of vacuum versus photon-pairs concerning Spontaneous-Parametric Down-Conversion and Four-Wave-Mixing
+Symmetry-Adapted State Preparation for Quantum Chemistry on Fault-Tolerant Quantum Computers
+Single-Period Floquet Control of Bosonic Codes with Quantum Lattice Gates
+Ultrafast quantum optics with attosecond control
+Local Magnetometry from Measurement-Induced Dissipation
+Generation of spin-squeezed state for electronic spin in an ensemble of nitrogen-vacancy centers by cavity feedback
+Coupling of Klein-Andreev Resonant States in Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$-graphene-Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ Devices
