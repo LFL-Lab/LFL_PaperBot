@@ -3468,3 +3468,11 @@ Ultrafast quantum optics with attosecond control
 Local Magnetometry from Measurement-Induced Dissipation
 Generation of spin-squeezed state for electronic spin in an ensemble of nitrogen-vacancy centers by cavity feedback
 Coupling of Klein-Andreev Resonant States in Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$-graphene-Bi$_2$Sr$_2$CaCu$_2$O$_{8+x}$ Devices
+Displacement-Squeeze receiver for BPSK displaced squeezed vacuum states surpassing the coherent-states Helstrom bound under imperfect conditions
+Distributed Exact Quantum Amplitude Amplification Algorithm for Arbitrary Quantum States
+Network-Based Quantum Computing: an efficient design framework for many-small-node distributed fault-tolerant quantum computing
+Toward Spectral Engineering of Squeezed Light in High-Gain PDC
+Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Control with FPGA Prototypes
+Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses
+Squeezing light to get nonclassical work in quantum engines
+Noisy Quantum Learning Theory
