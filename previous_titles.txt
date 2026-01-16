@@ -3476,3 +3476,12 @@ Geometry- and Topology-Informed Quantum Computing: From States to Real-Time Cont
 Generation of Large Coherent-State Superpositions in Free-Space Optical Pulses
 Squeezing light to get nonclassical work in quantum engines
 Noisy Quantum Learning Theory
+Learning to Decode in Parallel: Self-Coordinating Neural Network for Real-Time Quantum Error Correction
+Bridging Superconducting and Neutral-Atom Platforms for Efficient Fault-Tolerant Quantum Architectures
+Coherence Limits in Interference-Based cos(2$\varphi$) Qubits
+Experimental Realization of Rabi-Driven Reset for Fast Cooling of a High-Q Cavity
+Minimal-Energy Optimal Control of Tunable Two-Qubit Gates in Superconducting Platforms Using Continuous Dynamical Decoupling
+Erasure conversion for singlet-triplet spin qubits enables high-performance shuttling-based quantum error correction
+Multiple Andreev Reflection Effects in Asymmetric STM Josephson Junctions
+Superconducting Ring Resonators: Modelling, Simulation, and Experimental Characterisation
+One-step implementation of a hybrid discrete-variable–continuous-variable phase gate with multiple photonic qubits in circuit QED
