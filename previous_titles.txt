@@ -3486,3 +3486,11 @@ Multiple Andreev Reflection Effects in Asymmetric STM Josephson Junctions
 Superconducting Ring Resonators: Modelling, Simulation, and Experimental Characterisation
 One-step implementation of a hybrid discrete-variable–continuous-variable phase gate with multiple photonic qubits in circuit QED
 Theory of quasiparticle generation by microwave drives in superconducting qubits
+Elevator Codes: Concatenation for resource-efficient quantum memory under biased noise
+Charging a quantum battery from the Bloch sphere
+The two-time Leggett-Garg inequalities of a superconducting qubit interacting with thermal photons in a cavity
+Stabilizer Code-Generic Universal Fault-Tolerant Quantum Computation
+Converting qubit relaxation into erasures with a single fluxonium
+Shortcuts to adiabaticity, unexciting backgrounds, and reflectionless potentials
+Controlled Parity of Cooper Pair Tunneling in a Hybrid Superconducting Qubit
+Skyrmion Quantum Diode Prototype: Bridging Micromagnetic Simulations and Quantum Models
