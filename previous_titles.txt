@@ -3494,3 +3494,16 @@ Converting qubit relaxation into erasures with a single fluxonium
 Shortcuts to adiabaticity, unexciting backgrounds, and reflectionless potentials
 Controlled Parity of Cooper Pair Tunneling in a Hybrid Superconducting Qubit
 Skyrmion Quantum Diode Prototype: Bridging Micromagnetic Simulations and Quantum Models
+Experimental observation of dynamical blockade between transmon qubits via ZZ interaction engineering
+Indoor Occupancy Classification using a Compact Hybrid Quantum-Classical Model Enabled by a Physics-Informed Radar Digital Twin
+Synthesis of Fault-tolerant State Preparation Circuits using Steane-type Error Detection
+Quantum Circuit Pruning: Improving Fidelity via Compilation-Aware Circuit Approximation
+3D Stacked Surface-Code Architecture for Measurement-Free Fault-Tolerant Quantum Error Correction
+Squeezed-Light-Enhanced Multiparameter Quantum Estimation in Cavity Magnonics
+Ultra Compact low cost two mode squeezed light source
+Quantum State Preparation of Ferromagnetic Magnons by Parametric Driving
+Confinement-Induced Floquet Engineering and Non-Abelian Geometric Phases in Driven Quantum Wire Qubits
+Small Quantum Low Density Parity Check Codes for Near-Term Experiments
+High-Fidelity Universal Quantum Gate Compilation for Non-semisimple Ising Anyons via Genetic Algorithm-Optimized Solovay-Kitaev Decomposition
+Using Andreev bound states and spin to remove domain walls in a Kitaev chain
+Gigahertz-frequency Lamb wave resonator cavities on suspended lithium niobate for quantum acoustics
