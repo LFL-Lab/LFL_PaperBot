@@ -3507,3 +3507,10 @@ Small Quantum Low Density Parity Check Codes for Near-Term Experiments
 High-Fidelity Universal Quantum Gate Compilation for Non-semisimple Ising Anyons via Genetic Algorithm-Optimized Solovay-Kitaev Decomposition
 Using Andreev bound states and spin to remove domain walls in a Kitaev chain
 Gigahertz-frequency Lamb wave resonator cavities on suspended lithium niobate for quantum acoustics
+Blended Dynamics and Emergence in Open Quantum Networks
+Two-Qubit Spin-Boson Model in the Strong Coupling Regime: Coherence, Non-Markovianity, and Quantum Thermodynamics
+Bose condensation and Bogoliubov excitation in resonator-embedded superconducting qubit network
+Practical implementation of Toffoli-based qubit rotation
+Vortex-parity-controlled diode effect in Corbino topological Josephson junctions
+Emergence of multiple zero modes bound to vortices in extended topological Josephson junctions
+Buried Dirac points in quantum spin Hall insulators: Implications for Majorana Kramers pair-based quantum computing
