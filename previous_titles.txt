@@ -3522,3 +3522,4 @@ Quantum Metrology under Coarse-Grained Measurement
 Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error Correction Evaluated on IBM Repetition-Code Experiments
 Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States
 Supercurrent and multiple Andreev reflections in Ge hut nanowire Josephson Junctions
+Amplifying decoherence-free many-body interactions with giant atoms coupled to a parametric waveguide
