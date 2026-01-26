@@ -3523,3 +3523,11 @@ Calibration-Conditioned FiLM Decoders for Low-Latency Decoding of Quantum Error 
 Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States
 Supercurrent and multiple Andreev reflections in Ge hut nanowire Josephson Junctions
 Amplifying decoherence-free many-body interactions with giant atoms coupled to a parametric waveguide
+LiDMaS: Architecture-Level Modeling of Fault-Tolerant Magic-State Injection in GKP Photonic Qubits
+Quantum phase estimation with optimal confidence interval using three control qubits
+Drive-Through Quantum Gate: Non-Stop Entangling a Mobile Ion Qubit with a Stationary One
+A First Demonstration of the SQUAT Detector Architecture: Direct Measurement of Resonator-Free Charge-Sensitive Transmons
+Entanglement-enhanced quantum sensing via optimal global control with neutral atoms in a cavity
+Local Clustering Decoder as a fast and adaptive hardware decoder for the surface code
+Scalable native multiqubit gates via engineered noncomputational-state interactions in superconducting fluxonium qubits
+Confinement-Tunable Synthetic Gauge Fields and Floquet Topological Phenomena in a Driven Quantum Wire Qubit
