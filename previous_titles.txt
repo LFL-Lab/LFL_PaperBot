@@ -3531,3 +3531,14 @@ Entanglement-enhanced quantum sensing via optimal global control with neutral at
 Local Clustering Decoder as a fast and adaptive hardware decoder for the surface code
 Scalable native multiqubit gates via engineered noncomputational-state interactions in superconducting fluxonium qubits
 Confinement-Tunable Synthetic Gauge Fields and Floquet Topological Phenomena in a Driven Quantum Wire Qubit
+PropHunt: Automated Optimization of Quantum Syndrome Measurement Circuits
+Holstein Primakoff spin codes for local and collective noise
+Realisation of Protected Cat Qutrit via Engineered Quantum Tunnelling
+Bosonic Diffusive Channel: Quantum Metrology via Finite Non-Gaussian Resource
+Coherent Amplifier-Empowered Quantum Interferometer: Preserving Sensitivity and Quantum Advantage under High Loss
+Resource-Efficient Noise Spectroscopy for Generic Quantum Dephasing Environments
+Quantum Error Correction on Error-mitigated Physical Qubits
+Quantum Rotation Diversity in Displaced Squeezed Binary Phase-Shift Keying
+Leveraging Qubit Loss Detection in Fault Tolerant Quantum Algorithms
+Spectrum measurement of quantum channels and application to Hamiltonian parameter estimation
+Hybridization of topologically distinct quartet modes in three-terminal graphene Josephson junctions
