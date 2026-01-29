@@ -3555,3 +3555,12 @@ Theory of low-weight quantum codes
 When Does Adaptation Win? Scaling Laws for Meta-Learning in Quantum Control
 Conditional squeezing induced by a two-level system: a first-principles approach to QND readout
 Symmetric $C_Z$ gate for ultracold neutral atoms based on counterdiabatic driving at Rydberg excitation
+A Surface-Scaffolded Molecular Qubit
+Echo Cross Resonance gate error budgeting on a superconducting quantum processor
+Co-Designed Adaptive Quantum State Preparation Protocols
+Quantum Memory and Autonomous Computation in Two Dimensions
+Quantum Squeezing Enhanced Photothermal Microscopy
+Magnetic-field-resilient high-impedance high-kinetic-inductance superconducting resonators
+Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain
+Fingerprinting superconductors by disentangling Andreev and quasiparticle currents across tunable tunnel junctions
+Towards Scalable Braiding: Topological Superconductivity Unlocked under Arbitrary Magnetic Field Directions in Curved Planar Josephson Junctions
