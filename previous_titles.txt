@@ -3564,3 +3564,15 @@ Magnetic-field-resilient high-impedance high-kinetic-inductance superconducting 
 Quantum capacitance and parity switching of a quantum-dot-based Kitaev chain
 Fingerprinting superconductors by disentangling Andreev and quasiparticle currents across tunable tunnel junctions
 Towards Scalable Braiding: Topological Superconductivity Unlocked under Arbitrary Magnetic Field Directions in Curved Planar Josephson Junctions
+Entangling logical qubits without physical operations
+Dynamical Casimir effect under the action of gravitational waves
+RF-free driving of nuclear spins with color centers in silicon carbide
+High-Coherence and High-frequency Quantum Computing: The Design of a High-Frequency, High-Coherence and Scalable Quantum Computing Architecture
+A biased-erasure cavity qubit with hardware-efficient quantum error detection
+Error-detectable Universal Control for High-Gain Bosonic Quantum Error Correction
+A scalable quantum-enhanced greedy algorithm for maximum independent set problems
+Designing quantum technologies with a quantum computer
+Quantum LEGO Learning: A Modular Design Principle for Hybrid Artificial Intelligence
+Quantum computing isn’t just about scaling
+Lattice surgery realized on two distance-three repetition codes with superconducting qubits
+Solitonic Andreev spin qubits from Andreev states in Corbino Josephson junctions
