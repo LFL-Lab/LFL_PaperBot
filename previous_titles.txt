@@ -3576,3 +3576,6 @@ Quantum LEGO Learning: A Modular Design Principle for Hybrid Artificial Intellig
 Quantum computing isn’t just about scaling
 Lattice surgery realized on two distance-three repetition codes with superconducting qubits
 Solitonic Andreev spin qubits from Andreev states in Corbino Josephson junctions
+Circuit-QED Lattice System with Flexible Connectivity and Gapped Flat Bands for Photon-Mediated Spin Models
+Josephson traveling-wave parametric amplifier with inverse Kerr phase matching
+Dynamical sweet and sour regions in bichromatically driven Floquet qubits
