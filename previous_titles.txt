@@ -3579,3 +3579,9 @@ Solitonic Andreev spin qubits from Andreev states in Corbino Josephson junctions
 Circuit-QED Lattice System with Flexible Connectivity and Gapped Flat Bands for Photon-Mediated Spin Models
 Josephson traveling-wave parametric amplifier with inverse Kerr phase matching
 Dynamical sweet and sour regions in bichromatically driven Floquet qubits
+Three-dimensional squeezing of optically levitated nanospheres
+Scattering of Squeezed Light by a Dielectric Slab
+Fast magic state preparation by gauging higher-form transversal gates in parallel
+Andreev spin qubits based on the helical edge states of magnetically doped two-dimensional topological insulators
+Efficient Magic State Cultivation on the Surface Code
+Andreev bound states in a superconducting qubit at odd parity
