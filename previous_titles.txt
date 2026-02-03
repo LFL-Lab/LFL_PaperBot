@@ -3585,3 +3585,15 @@ Fast magic state preparation by gauging higher-form transversal gates in paralle
 Andreev spin qubits based on the helical edge states of magnetically doped two-dimensional topological insulators
 Efficient Magic State Cultivation on the Surface Code
 Andreev bound states in a superconducting qubit at odd parity
+A room-temperature cavity-magnonic source of correlated microwave pairs
+First-Principles Optical Descriptors and Hybrid Classical-Quantum Classification of Er-Doped CaF$_2$
+Enhanced Phase Estimation via Photon-Added Two-Mode Squeezed States and Kerr Nonlinearity
+Electro-optic conversion of itinerant Fock states
+Quantum Jacobi-Davidson Method
+Real-time detection of correlated quasiparticle tunneling events in a multi-qubit superconducting device
+Position: The Need for Ultrafast Training
+Krylov Complexity in early universe
+Systematic Schrieffer-Wolff transformation approach to Josephson junctions: Quasiparticle effects and Josephson harmonics
+Resource-state generation for a multispin register in a hybrid matter-photon quantum information processor
+Visualizing the Odd-parity Superconducting Order Parameter and its Quasiparticle Surface Band in UTe2
+Josephson wormhole in coupled superconducting Yukawa-SYK metals
