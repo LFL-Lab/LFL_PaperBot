@@ -3597,3 +3597,10 @@ Systematic Schrieffer-Wolff transformation approach to Josephson junctions: Quas
 Resource-state generation for a multispin register in a hybrid matter-photon quantum information processor
 Visualizing the Odd-parity Superconducting Order Parameter and its Quasiparticle Surface Band in UTe2
 Josephson wormhole in coupled superconducting Yukawa-SYK metals
+Unravelling the emergence of quantum jumps in a monitored qubit
+Accelerating the Tesseract Decoder for Quantum Error Correction
+Device variability of Josephson junctions induced by interface roughness
+A Tunable, Modeless, and Hybridization-free Cross-Kerr Coupler for Miniaturized Superconducting Qubits
+Detecting quantum noise of a solid-state spin ensemble with dispersive measurement
+Accelerating qubit reset through the Mpemba effect
+Criteria on quantum fluctuations of vacuum and photons influence in Spontaneous-Parametric Down-Conversion and Four-Wave-Mixing
