@@ -3604,3 +3604,14 @@ A Tunable, Modeless, and Hybridization-free Cross-Kerr Coupler for Miniaturized 
 Detecting quantum noise of a solid-state spin ensemble with dispersive measurement
 Accelerating qubit reset through the Mpemba effect
 Criteria on quantum fluctuations of vacuum and photons influence in Spontaneous-Parametric Down-Conversion and Four-Wave-Mixing
+Detailed, interpretable characterization of mid-circuit measurement on a transmon qubit
+Limitations of an approximative phase-space description in strong-field quantum optics
+Squeezing Enhanced Sagnac Sensing based on SU(1,1) Quantum Interference
+Squeezing-Enhanced Rotational Doppler Metrology
+Restoring Landauer's Principle for Unitarily Transformed Thermal Reservoirs
+Enabling large-scale digital quantum simulations with superconducting qubits
+Review of Superconducting Qubit Devices and Their Large-Scale Integration
+Recovery Dynamics of a Gap-Engineered Transmon after a Quasiparticle Burst
+Universal Adapters between Quantum Low-Density Parity Check Codes
+$\mathrm{Nb}$-$\mathrm{Ti}$-$\mathrm{N}$ nanowire resonators and prospects for spin-photon coupling with electrons on solid neon
+Optical detection of the quantum Hall effect in silicon nanostructures
