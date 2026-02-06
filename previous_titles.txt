@@ -3615,3 +3615,12 @@ Recovery Dynamics of a Gap-Engineered Transmon after a Quasiparticle Burst
 Universal Adapters between Quantum Low-Density Parity Check Codes
 $\mathrm{Nb}$-$\mathrm{Ti}$-$\mathrm{N}$ nanowire resonators and prospects for spin-photon coupling with electrons on solid neon
 Optical detection of the quantum Hall effect in silicon nanostructures
+High-order dynamical decoupling in the weak-coupling regime
+Matchgate synthesis via Clifford matchgates and $T$ gates
+Investigations on Quantum Correlations and Open Quantum System Dynamics Through Nuclear Spins
+Assessing the Sensitivity of Niobium- and Tantalum-Based Superconducting Qubits to Infrared Radiation
+Efficient net-gain integrated optical parametric amplifier in the quantum regime
+Resource state generation for a multispin register in a hybrid matter-photon quantum information processor
+Niobium Air Bridges as Low-Loss Components for Superconducting Quantum Hardware
+Replacement-Type Quantum Gates
+Josephson Dynamics of 2D Bose-Einstein Condensates in Dual-Core Trap: Homogeneous, Droplet-Droplet, and Vortex-Vortex Regimes
