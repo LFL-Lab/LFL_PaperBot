@@ -3624,3 +3624,8 @@ Resource state generation for a multispin register in a hybrid matter-photon qua
 Niobium Air Bridges as Low-Loss Components for Superconducting Quantum Hardware
 Replacement-Type Quantum Gates
 Josephson Dynamics of 2D Bose-Einstein Condensates in Dual-Core Trap: Homogeneous, Droplet-Droplet, and Vortex-Vortex Regimes
+Quantum simulation of the Dicke model in a two-dimensional ion crystal: chaos, quantum thermalization, and revivals
+Characterizing Quantum Error Correction Performance of Radiation-induced Errors
+Hybrid Coupling Topology with Dynamic ZZ Suppression for Optimizing Circuit Depth during Runtime in Superconducting Quantum Processor
+Single-Step Parity Check Gate Set for Quantum Error Correction
+Tachyonic and parametric instabilities in an extended bosonic Josephson junction
