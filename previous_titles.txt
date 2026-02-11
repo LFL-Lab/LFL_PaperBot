@@ -3640,3 +3640,8 @@ Qubit-assisted enhancement of force sensitivity in an optomechanical system with
 Effect of metal encapsulation on bulk superconducting properties of niobium thin films used in qubits
 Superconducting Spin-Singlet QuBit in a Triangulene Spin Chain
 Supercurrent and multiple Andreev reflections in Ge hut nanowire Josephson junctions
+Constant-space-overhead fault-tolerant quantum input/output and communication
+Simpler Presentations for Many Fragments of Quantum Circuits
+Coherence Protection for Mobile Spin Qubits in Silicon
+Field-Dependent Qubit Flux Noise Simulated from Materials-Specific Disordered Exchange Interactions Between Paramagnetic Adsorbates
+Magneto-optical study of Nb thin films for superconducting qubits
