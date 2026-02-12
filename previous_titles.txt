@@ -3645,3 +3645,8 @@ Simpler Presentations for Many Fragments of Quantum Circuits
 Coherence Protection for Mobile Spin Qubits in Silicon
 Field-Dependent Qubit Flux Noise Simulated from Materials-Specific Disordered Exchange Interactions Between Paramagnetic Adsorbates
 Magneto-optical study of Nb thin films for superconducting qubits
+General Theory of Stable Microwave-Optical Quantum Resources in Hybrid-System Dynamics
+Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Information Processing
+Two-Level System Spectroscopy from Correlated Multilevel Relaxation in Superconducting Qubits
+Characterization and generation of a SQL-beating catlike state through repetitive measurements
+Dispersive detection of a charge qubit with a broadband high-impedance quantum-Hall plasmon resonator
