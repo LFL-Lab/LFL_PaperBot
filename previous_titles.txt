@@ -3650,3 +3650,13 @@ Recirculating Quantum Photonic Networks for Fast Deterministic Quantum Informati
 Two-Level System Spectroscopy from Correlated Multilevel Relaxation in Superconducting Qubits
 Characterization and generation of a SQL-beating catlike state through repetitive measurements
 Dispersive detection of a charge qubit with a broadband high-impedance quantum-Hall plasmon resonator
+Quantum computing with anyons is fault tolerant
+Structural control of two-level defect density revealed by high-throughput correlative measurements of Josephson junctions
+Scalable and Highly Fault-Tolerant Circular Quantum Byzantine Agreement
+Millisecond-Scale Calibration and Benchmarking of Superconducting Qubits
+Experimental setup for the combined study of spin ensembles and superconducting quantum circuits
+Stochastic Mean-field Theory for Conditional Spin Squeezing by Homodyne Probing of Atom-Cavity Photon Dressed States
+The Power of Shallow-depth Toffoli and Qudit Quantum Circuits
+Gradually opening Schr\"odinger's box reveals a cascade of sharp dynamical transitions
+Superconducting Integrated On-Demand Quantum Memory with Microwave Pulse Preservation
+Simultaneous High-Fidelity Readout and Strong Coupling for a Donor-Based Spin Qubit
