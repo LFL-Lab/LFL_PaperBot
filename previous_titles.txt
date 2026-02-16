@@ -3660,3 +3660,11 @@ The Power of Shallow-depth Toffoli and Qudit Quantum Circuits
 Gradually opening Schr\"odinger's box reveals a cascade of sharp dynamical transitions
 Superconducting Integrated On-Demand Quantum Memory with Microwave Pulse Preservation
 Simultaneous High-Fidelity Readout and Strong Coupling for a Donor-Based Spin Qubit
+Compressed Sensing Shadow Tomography
+Design and Operation of Wafer-Scale Packages Containing >500 Superconducting Qubits
+Quantum logic control and entanglement in hybrid atom-molecule arrays
+Quantum metrology with partially accessible chaotic sensors
+When does numerical pulse optimization actually help? Error budgets,robustness tradeoffs, and calibration guidance for transmon single-qubit gates
+Trade-offs between Quantum and Classical Resources in the Linear Combination of Unitaries
+Three-body Fermi-liquid corrections for Andreev transport through quantum dots
+Quantitative Photoemission Predictions of Semiconducting Photocathodes from Many-Body Ab Initio Theory
