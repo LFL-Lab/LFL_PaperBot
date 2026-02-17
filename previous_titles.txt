@@ -3668,3 +3668,24 @@ When does numerical pulse optimization actually help? Error budgets,robustness t
 Trade-offs between Quantum and Classical Resources in the Linear Combination of Unitaries
 Three-body Fermi-liquid corrections for Andreev transport through quantum dots
 Quantitative Photoemission Predictions of Semiconducting Photocathodes from Many-Body Ab Initio Theory
+No-Go Theorem on Fault Tolerant Gadgets for Multiple Logical Qubits
+Protection of Exponential Operation using Stabilizer Codes in the Early Fault Tolerance Era
+Quantum Algorithm Framework for Phase-Contrast Transmission Electron Microscopy Image Simulation
+Flux Pumped Kerr-Free Parametric Amplifier
+Generation of large Fock states from coherent states using Kerr interaction and displacement
+Strong-Field Quantum Metrology Beyond the Standard Quantum Limit
+Quantum dynamics of microwave photons in synthetic frequency dimension
+Quantum computation and quantum error correction: the theoretical minimum
+Phase sensitive topological classification of single-qubit measurements in linear cluster states
+Bidirectional Quantum Processor Interfacing by a 4-Kelvin Analog Signal Chain for Superconducting Qubit Control and Quantum State Readout
+Fermionic Stoner-Dicke phase transition in Circuit Quantum Magnetostatics
+A hardware-native time-frequency GKP logical qubit toward fault-tolerant photonic operation
+Homological origin of transversal implementability of logical diagonal gates in quantum CSS codes
+Enhanced multiparameter quantum estimation in cavity magnomechanics via a coherent feedback loop
+Demonstrating and Benchmarking Classical Shadows for Lindblad Tomography
+Finer sub-Planck structures and displacement sensitivity of SU(1,1) circular states
+Probing near-field EM fluctuations in superparamagnetic CoFeB with NV quantum dephasometry
+Nonlocality in Continuous-Variable Quantum Networks
+Scalable quantum error mitigation for dynamical decoupling
+Coherent State Description of Gravitational Waves from Binary Black Holes
+Josephson-like magnetic tunnel junction -- transition from classical to quantum regime
