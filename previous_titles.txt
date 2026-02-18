@@ -3689,3 +3689,8 @@ Nonlocality in Continuous-Variable Quantum Networks
 Scalable quantum error mitigation for dynamical decoupling
 Coherent State Description of Gravitational Waves from Binary Black Holes
 Josephson-like magnetic tunnel junction -- transition from classical to quantum regime
+Dissipative Quantum Battery in the Ultrastrong Coupling Regime Between Two Oscillators
+Realizing a Universal Quantum Gate Set via Double-Braiding of SU(2)k Anyon Models
+Do we have a quantum computer? Expert perspectives on current status and future prospects
+Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering
+Laser annealing enabled resistance reduction and stable frequency tuning of superconducting qubits
