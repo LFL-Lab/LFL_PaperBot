@@ -3694,3 +3694,5 @@ Realizing a Universal Quantum Gate Set via Double-Braiding of SU(2)k Anyon Model
 Do we have a quantum computer? Expert perspectives on current status and future prospects
 Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineering
 Laser annealing enabled resistance reduction and stable frequency tuning of superconducting qubits
+Large critical current density Josephson $\pi$ junctions with PdNi barriers
+Characterizing and mitigating flux crosstalk in superconducting qubits–couplers system
