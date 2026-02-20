@@ -3696,3 +3696,12 @@ Crosstalk Insensitive Trapped-Ion Entanglement through Coupling Matrix Engineeri
 Laser annealing enabled resistance reduction and stable frequency tuning of superconducting qubits
 Large critical current density Josephson $\pi$ junctions with PdNi barriers
 Characterizing and mitigating flux crosstalk in superconducting qubits–couplers system
+A Generalization of the Parametric Amplifier with Dunkl Derivative: Spectral and Statistical Properties
+In situ calibration of microwave attenuation and gain using a cryogenic on-chip attenuator
+Adaptive Aborting Schemes for Quantum Error Correction Decoding
+Near-perfect quantum teleportation between continuous and discrete encodings
+Fault-tolerant preparation of arbitrary logical states in the cat code
+Quantum Advantage for Sensing Properties of Classical Fields
+Quantum Gates via Dynamical Decoupling of Central Qubit on IBMQ and 15NV Center in Diamond
+An approach to study the adiabaticity and irreversibility in the TDHO
+Efficient charging of quantum batteries via non-Markovian squeezed reservoirs
