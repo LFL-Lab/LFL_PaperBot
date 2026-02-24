@@ -3708,3 +3708,13 @@ Efficient charging of quantum batteries via non-Markovian squeezed reservoirs
 Characterizing Physical and Logical Errors in a Transversal CNOT Gate via Cycle Error Reconstruction
 Flux-Activated Resonant Control of a Bosonic Quantum Memory
 Qubit error bursts in superconducting quantum processors of Quantum Inspire: quasiparticle pumping and anomalous time dependence
+Quantum Error Correction and Dynamical Decoupling: Better Together or Apart?
+Ion-atom two-qubit quantum gate based on phonon blockade
+Mass-Independent Gravitationally Induced Entanglement
+Deterministic Ground State Preparation via Power-Cosine Filtering of Time Evolution Operators
+Magnon squeezing in the quantum regime
+Differentiable Maximum Likelihood Noise Estimation for Quantum Error Correction
+Electrical post-fabrication tuning of aluminum Josephson junctions at room temperature
+CQM: Cyclic Qubit Mappings
+Momentum Squeezed State Realized via Optimal Filtering in Optomechanics: Implications for Gravity-Induced Entanglement
+Exploring the Riemann-Surface Topology of a Non-Hermitian Superconducting Qubit Using Shortcuts to Adiabaticity
