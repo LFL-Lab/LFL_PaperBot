@@ -3718,3 +3718,15 @@ Electrical post-fabrication tuning of aluminum Josephson junctions at room tempe
 CQM: Cyclic Qubit Mappings
 Momentum Squeezed State Realized via Optimal Filtering in Optomechanics: Implications for Gravity-Induced Entanglement
 Exploring the Riemann-Surface Topology of a Non-Hermitian Superconducting Qubit Using Shortcuts to Adiabaticity
+Pulse-level control for quantum resource preparation
+A quantum mechanical analysis of the coherence de Broglie wavelength for superresolution and enhanced sensitivity in a coupled interferometer scheme
+A Unified Error Correction Code for Universal Quantum Computing with Identical Particles
+Qudit stabiliser codes for $\mathbb{Z}_N$ lattice gauge theories with matter
+Quantum-limited detection of arrival time and carrier frequency of time-dependent signals
+Entanglement-Induced Resilience of Quantum Dynamics
+Correcting coherent quantum errors by going with the flow
+Zero-point energy of a trapped ultracold Fermi gas at unitarity: squeezing the Heisenberg uncertainty principle and suppressing the Pauli principle to produce a superfluid state
+Entanglement, separability and correlation topology of quantum systems over parametric space of interaction potential
+Continuous quantum correction on Markovian and non-Markovian models
+Qubit Noise Spectroscopy of Superconducting Dynamics in a Magnetic Field
+Disorder-independent hole spin manipulation by hopping
