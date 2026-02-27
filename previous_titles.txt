@@ -3740,3 +3740,9 @@ Coherent Quantum Evaluation of Collider Amplitudes for Effective Field Theory Co
 Phonon decoherence produced by two-level tunneling states
 Quantum Snakes on a Plane: Mobile, Low-Dimensional Logical Qubits on a 2D Surface
 Anisotropy reduction and tunability of hole-spin qubit g-factor in strained parabolic Ge/SiGe quantum wells
+Experimental demonstration of the absence of noise-induced barren plateaus using information content landscape analysis
+Spin-Cat Qubit with Biased Noise in an Optical Tweezer Array
+Quantum Confocal Microscopy in Fock Space with a 19 dB Metrological Gain
+Efficient evaluation of fundamental sensitivity limits and full counting statistics for continuously monitored Gaussian quantum systems
+Quantum squeezing in an all-resonant periodically poled lithium niobate microresonator
+Experimental investigation of the effect of dispersion on squeezing generation in a synchronously pumped optical parametric oscillator
