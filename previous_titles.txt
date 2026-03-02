@@ -3746,3 +3746,9 @@ Quantum Confocal Microscopy in Fock Space with a 19 dB Metrological Gain
 Efficient evaluation of fundamental sensitivity limits and full counting statistics for continuously monitored Gaussian quantum systems
 Quantum squeezing in an all-resonant periodically poled lithium niobate microresonator
 Experimental investigation of the effect of dispersion on squeezing generation in a synchronously pumped optical parametric oscillator
+High-Temporal-Resolution Measurements of the Impacts of Ionizing Radiation on Superconducting Qubits
+Experimental implementation of a discrete-time quantum walk on biological networks
+A frequency-agile microwave-optical interface for superconducting qubits
+Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach
+Impact of leakage on the dynamics of a ST$_0$ qubit implemented in a Double Quantum Dot device
+A Kapitza Pendulum Route to Supercurrent Tunnel Diodes
