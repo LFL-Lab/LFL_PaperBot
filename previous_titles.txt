@@ -3752,3 +3752,12 @@ A frequency-agile microwave-optical interface for superconducting qubits
 Geometric Resilience of Quantum LiDAR in Turbulent Media: A Wasserstein Distance Approach
 Impact of leakage on the dynamics of a ST$_0$ qubit implemented in a Double Quantum Dot device
 A Kapitza Pendulum Route to Supercurrent Tunnel Diodes
+Stairway Codes: Floquetifying Bivariate Bicycle Codes and Beyond
+Closing the Loop: Resource-aware Hybrid NAS Guided by Analytical and Hardware-Calibrated Quantum Cost Modeling
+Compile-once block encodings for masked similarity-transformed effective Hamiltonians
+ReloQate: Transient Drift Detection and In-Situ Recalibration in Surface Code Quantum Error Correction
+Sustaining high-fidelity quantum logic in neutral-atom circuits via mid-circuit operations
+Extending qubit coherence time via hybrid dynamical decoupling
+Strong optomechanical squeezing generation via deep reinforcement learning
+Photon blockade and bunching: Coexistence and switching by optical parametric amplification
+Parametric amplification of spin-motion coupling in three-dimensional trapped-ion crystals
