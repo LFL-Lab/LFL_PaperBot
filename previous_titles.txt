@@ -3761,3 +3761,12 @@ Extending qubit coherence time via hybrid dynamical decoupling
 Strong optomechanical squeezing generation via deep reinforcement learning
 Photon blockade and bunching: Coexistence and switching by optical parametric amplification
 Parametric amplification of spin-motion coupling in three-dimensional trapped-ion crystals
+Measurement of a quantum system using spin-mechanical conversion
+Qudit Designs and Where to Find Them
+Generation of 12 dB squeezed light from a waveguide optical parametric amplifier using a machine-learning-controlled spatial light modulator
+Analytical Quantum Full-Wave Analysis of Few-Photon Transport Through a Superconducting Cavity Qubit
+Achieving speedup in Dark Matter search experiments with a transmon-based NISQ algorithm
+Scaling of silicon spin qubits under correlated noise
+Integrated error-suppressed pipeline for quantum optimization of nontrivial binary combinatorial optimization problems on gate-model hardware at the 156-qubit scale
+Scattering Processes from Quantum Simulation Algorithms for Scalar Field Theories
+A Cascaded Random Access Quantum Memory
