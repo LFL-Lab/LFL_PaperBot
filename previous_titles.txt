@@ -3770,3 +3770,14 @@ Scaling of silicon spin qubits under correlated noise
 Integrated error-suppressed pipeline for quantum optimization of nontrivial binary combinatorial optimization problems on gate-model hardware at the 156-qubit scale
 Scattering Processes from Quantum Simulation Algorithms for Scalar Field Theories
 A Cascaded Random Access Quantum Memory
+Phase-space complexity of discrete-variable quantum states and operations
+Observation of Improved Accuracy over Classical Sparse Ground-State Solvers using a Quantum Computer
+Quantum Lego Power-up: Designing Transversal Gates with Tensor Networks
+Resource-Efficient Emulation of Majorana Zero Mode Braiding on a Superconducting Trijunction
+Towards Practical Quantum Federated Learning: Enhancing Efficiency and Noise Tolerance
+Efficient Time-Aware Partitioning of Quantum Circuits for Distributed Quantum Computing
+Minimum Weight Decoding in the Colour Code is NP-hard
+Magic state distillation with permutation-invariant codes and a two-qubit example
+HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing
+Trigonometric continuous-variable gates and hybrid quantum simulations of the sine-Gordon model
+Analysis of an all-to-all connected star array of transmon qubits
