@@ -3781,3 +3781,15 @@ Magic state distillation with permutation-invariant codes and a two-qubit exampl
 HyQBench: A Benchmark Suite for Hybrid CV-DV Quantum Computing
 Trigonometric continuous-variable gates and hybrid quantum simulations of the sine-Gordon model
 Analysis of an all-to-all connected star array of transmon qubits
+Towards Predictive Quantum Algorithmic Performance: Modeling Time-Correlated Noise at Scale
+Demonstrating Noise-adapted Quantum Error Correction With Break-Even Performance
+Universal Hamiltonian control in a planar trimon circuit
+Fault-tolerant execution of error-corrected quantum algorithms
+Robust composite two-qubit gates for silicon-based spin qubits
+Parsimonious Quantum Low-Density Parity-Check Code Surgery
+SpiderCat: Optimal Fault-Tolerant Cat State Preparation
+QGPU: Parallel logic in quantum LDPC codes
+Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in quantum error correction
+Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime
+Metabolic quantum limit to the information capacity of magnetoencephalography
+Spin-polarized Andreev molecules and anomalous nonlocal Josephson effects in altermagnetic junctions
