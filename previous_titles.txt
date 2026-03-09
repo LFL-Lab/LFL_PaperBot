@@ -3793,3 +3793,7 @@ Spatiotemporal Pauli processes: Quantum combs for modelling correlated noise in 
 Mirror codes: High-threshold quantum LDPC codes beyond the CSS regime
 Metabolic quantum limit to the information capacity of magnetoencephalography
 Spin-polarized Andreev molecules and anomalous nonlocal Josephson effects in altermagnetic junctions
+In-situ Characterization of Light-Matter Coupling in Multimode Circuit-QED Systems
+Heterogeneous entanglement between a trapped ion and a solid-state quantum memory
+Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics
+Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill
