@@ -3797,3 +3797,16 @@ In-situ Characterization of Light-Matter Coupling in Multimode Circuit-QED Syste
 Heterogeneous entanglement between a trapped ion and a solid-state quantum memory
 Quantum Diffusion Models: Score Reversal Is Not Free in Gaussian Dynamics
 Remote Entanglement in Lattice Surgery: To Distill, or Not to Distill
+Quantum Deep Learning: A Comprehensive Review
+Efficient construction of time-invariant process tensors for simulating high-dimensional non-Markovian open quantum systems
+Quantum limit of precision for phase estimation in squeezing-enhanced interferometry with a single-mode readout
+A Scalable Distributed Quantum Optimization Framework via Factor Graph Paradigm
+Entanglement Fidelity in Standard Quantum Channels
+Practical implementation of arbitrary nonlocal controlled-unitary gate via indefinite causal order
+Scalable Postselection of Quantum Resources
+Layered KIK quantum error mitigation for dynamic circuits
+Spacetime-Efficient and Hardware-Compatible Complex Quantum Logic Units in qLDPC Codes
+Controllable nonreciprocal Goos-Hänchen shift via a spinning YIG sphere and parametric amplification
+Anharmonicity and Charge-Noise Sensitivity of Fraunhofer Qubit
+Superconducting Decoherence and Thermal Quenching of the Josephson Diode Effect in Low-Dimensional Josephson Systems
+Large critical current density Josephson  π -junctions with PdNi barriers
