@@ -3810,3 +3810,11 @@ Controllable nonreciprocal Goos-Hänchen shift via a spinning YIG sphere and par
 Anharmonicity and Charge-Noise Sensitivity of Fraunhofer Qubit
 Superconducting Decoherence and Thermal Quenching of the Josephson Diode Effect in Low-Dimensional Josephson Systems
 Large critical current density Josephson  π -junctions with PdNi barriers
+Large Language Model-Assisted Superconducting Qubit Experiments
+Quantum Sensing of Birefringence Beyond the Classical Limit with a Hyper-Entangled SU(1,1) Interferometer
+Enhancing light-matter coupling for exploring chaos in the quantum Rabi model
+Efficient Qubit Simulation of Hybrid Oscillator-Qubit Quantum Computation
+Crosstalk in Multi-Qubit Fluxonium Architectures with Transmon Couplers
+Quantum control of the environment in open quantum systems enables rapid qubit reset
+Qubit reset beyond the Born-Markov approximation: optimal driving to overcome polaron formation
+Rapid qubit readout dependent on the transmission of a single fluxon
