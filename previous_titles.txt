@@ -3818,3 +3818,13 @@ Crosstalk in Multi-Qubit Fluxonium Architectures with Transmon Couplers
 Quantum control of the environment in open quantum systems enables rapid qubit reset
 Qubit reset beyond the Born-Markov approximation: optimal driving to overcome polaron formation
 Rapid qubit readout dependent on the transmission of a single fluxon
+Machine learning the arrow of time in solid-state spins
+Temporal-Mode Engineering for Multiplexed Microwave Photons and Mode-Selective Quantum State Transfer
+Optical quantum teleportation with known amplitude distorting factors of teleported qubits
+Topological robustness of orbital angular momentum entanglement in stochastic channels
+Efficient and accurate two-qubit-gate operation in a high-connectivity transmon lattice utilizing a tunable coupling to a shared mode
+Entanglement distillation based on Hamiltonian dynamics
+Hybridlane: A Software Development Kit for Hybrid Continuous-Discrete Variable Quantum Computing
+A Non-Foster Superconducting Broadband Matching Network
+Linear-nonlinear duality for circuit design on quantum computing platforms
+Broadly tunable quantum-enhanced Raman microscopy for advancing bioimaging
