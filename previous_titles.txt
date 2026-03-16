@@ -3845,3 +3845,19 @@ Non-Markovian dynamics in nonstationary Gaussian baths: a hierarchy of pure stat
 Controlled localization of anyons in a graphene quantum Hall interferometer
 Quantum interference in a twisted high-Tc SQUID senses emergent interfacial order
 Parametric Instabilities of Correlated Quantum Matter
+Qubit measurement and backaction in a multimode nonreciprocal system
+A Traveling-Wave Parametric Amplifier With Integrated Diplexers
+Absence of Charge Offset Drift in a Transmon Qubit
+Hybrid Analog-Digital Simulation of the Abelian Higgs model
+Deep-Learning-Designed AlGaAs Interface Linking Trapped Ions to Telecom Quantum Networks
+Nonlocal continuous-variable quantum nondemolition gates by optical connections
+Breaking concentration barriers for quantum extreme learning on digital quantum processors
+Partially Fault-Tolerant Quantum Computation for Megaquop Applications
+Experimental realization of a $\cos(2\varphi)$ transmon qubit
+On-Demand Correlated Errors in Superconducting Qubits from a Particle Accelerator
+Beta Tantalum Transmon Qubits with Quality Factors Approaching 10 Million
+Fluxon Time-Delay Readout of a Superconducting Qubit Protected by a Spectral Gap in a Josephson Transmission Line
+Quantifying surface losses in superconducting aluminum microwave resonators
+CANOE: Classically Assisted Non-Orthogonal Eigensolver
+Noise-protected two-qubit gate using anisotropic exchange interaction
+Routing-based technique for defect mitigation in quantum error correction
