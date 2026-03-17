@@ -3861,3 +3861,28 @@ Quantifying surface losses in superconducting aluminum microwave resonators
 CANOE: Classically Assisted Non-Orthogonal Eigensolver
 Noise-protected two-qubit gate using anisotropic exchange interaction
 Routing-based technique for defect mitigation in quantum error correction
+Modeling Energy Relaxation via Quantum Thermalization: A Superconducting Qubit Coupled to a Many-Body TLS System
+Characterization of Radiation-Induced Errors in Superconducting Qubits Protected with Various Gap-Engineering Strategies
+Agnostic Dynamical Decoupling for Single-Qubit Gates
+Qubit syndrome measurements with a high fidelity Rb-Cs Rydberg gate
+Quantum dial
+Millimeter Wave Readout of a Superconducting Qubit
+Readout-induced degradation of transmon lifetimes: interplay of TLSs and qubit spectral reshaping
+Adaptive quantum metrology with large dynamic range using short one-axis twists
+Practical Limits to Single-Mode Vacuum Squeezing in a SNAIL Parametric Amplifier
+Quantum-limited traveling-wave parametric amplifier based on DUV lithography-defined planar structures
+Evaluating Calibration-Based Digital Twins for IBM Quantum Hardware Simulation
+Exact characterizations for quantum conditional mutual information and some other entropies
+Autonomous quantum heat engine
+Error semitransparent universal control of a bosonic logical qubit
+End-to-end performance of quantum-accelerated large-scale linear algebra workflows
+Analog-Digital Quantum Computing with Quantum Annealing Processors
+Velocity-Enabled Quantum Computing with Neutral Atoms
+A direct controlled-phase gate between microwave photons
+Universal Weakly Fault-Tolerant Quantum Computation via Code Switching in the [[8,3,2]] Code
+Persistence of Entangled States and High Fidelity Quantum Gate Operations in Si/SiGe Spin Qubits at High Temperature
+Qubit-centric Transformer for Surface Code Decoding
+Coherence-mediated quantum thermometry in a hybrid circuit quantum electrodynamics architecture
+Ion-trap chip architecture optimized for the implementation of quantum error-correcting codes
+Quantum thermodynamic uncertainty relation and macroscopic superconducting coherence
+High-throughput microwave package for precise superconducting device measurement
