@@ -3886,3 +3886,15 @@ Coherence-mediated quantum thermometry in a hybrid circuit quantum electrodynami
 Ion-trap chip architecture optimized for the implementation of quantum error-correcting codes
 Quantum thermodynamic uncertainty relation and macroscopic superconducting coherence
 High-throughput microwave package for precise superconducting device measurement
+Quantum Fisher information and quadrature squeezing in Janus superpositions of squeezed vacua
+Entanglement advantage in sensing power-law spatiotemporal noise correlations
+A fault-tolerant encoding for qubit-controlled collective spins
+Enhancing qubit readout fidelity with two-mode squeezing of the coherent measurement signal
+A Scalable Open-Source QEC System with Sub-Microsecond Decoding-Feedback Latency
+Chipmunq: Fault-Tolerant Compiler for Chiplet Quantum Architectures
+Achieving Sub-Zeptonewton Force Sensitivity and Spin-Motion Entanglement in Levitated Diamond via Pulsed Backaction Evasion
+Distinguishing types of correlated errors in superconducting qubits
+High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout
+CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption
+Near-optimal discrimination of displaced squeezed binary signals using displacement, inverse-squeezing, and photon-number-resolving detection
+Impact of leakage on the dynamics of an ${\mathrm{ST}}_{0}$ qubit implemented in a double quantum dot device
