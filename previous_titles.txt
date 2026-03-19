@@ -3898,3 +3898,15 @@ High Fidelity Single-NV Qubit Quantum State Tomography by Photoelectric Readout
 CryoCMOS RF multiplexer for superconducting qubit control, readout and flux biasing at millikelvin temperatures with picowatt power consumption
 Near-optimal discrimination of displaced squeezed binary signals using displacement, inverse-squeezing, and photon-number-resolving detection
 Impact of leakage on the dynamics of an ${\mathrm{ST}}_{0}$ qubit implemented in a double quantum dot device
+CPDNN quantum channels with qubit output are CPCP
+Generation of many-body Bell correlations with short-range interactions in analog and digital quantum simulators
+Optimizing Logical Mappings for Quantum Low-Density Parity Check Codes
+General circuit compilation protocol into partially fault-tolerant quantum computing architecture
+Exploration of Fluxonium Parameters for Capacitive Cross-Resonance Gates
+Adaptive Loss-tolerant Syndrome Measurements
+Scalable dissipative quantum error correction for qubit codes
+Creating Qubit States with Degenerate Two-level Systems
+Chipmunq: A Fault-Tolerant Compiler for Chiplet Quantum Architectures
+High-fidelity entanglement of metastable trapped-ion qubits with integrated erasure conversion
+Interplay of superconductivity and ferromagnetism in ferromagnetic semiconductor-based Josephson junctions
+A Dayem Loop Qubit Based on Interfering Superconducting Nanowires
