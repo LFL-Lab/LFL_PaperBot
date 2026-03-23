@@ -3923,3 +3923,11 @@ Multiparameter quantum estimation and Stirling Engine Performance in a Gravitati
 Exact Law of Quantum Reversibility under Gaussian Pure Loss
 The Janus State: A Universal Lower Bound for Second-Order Coherence
 Fluxonium as a Control Qubit for Bosonic Quantum Information
+Assessing Spatiotemporally Correlated Noise in Superconducting Qubits via Pulse-Based Quantum Noise Spectroscopy
+Preserving MWPM-Decodability in Fault-Equivalent Rewrites
+Beyond-Ten-Hour Coherence in a Decoherence-Free Trapped-Ion Clock Qubit
+Linear-optical generation of hybrid GKP entanglement from small-amplitude cat states
+Efficiently Computable Strategies and Limits for Bosonic Channel Discrimination
+Ultrastrong Coupling and Coherent Dynamics in a Gate-Tunable Transmon Qubit
+Analyzing Decoders for Quantum Error Correction
+On-chip Dicke-type magnon polaritons in the ultrastrong coupling regime via spatially separated nanomagnets
