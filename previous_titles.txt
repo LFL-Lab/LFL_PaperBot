@@ -3931,3 +3931,20 @@ Efficiently Computable Strategies and Limits for Bosonic Channel Discrimination
 Ultrastrong Coupling and Coherent Dynamics in a Gate-Tunable Transmon Qubit
 Analyzing Decoders for Quantum Error Correction
 On-chip Dicke-type magnon polaritons in the ultrastrong coupling regime via spatially separated nanomagnets
+A Phase-Space Geometric Measure of Magic in Qubit Systems
+Collective Dynamics in Circuit Quantum Acoustodynamics with a Macroscopic Resonator
+Proposal for erasure conversion in integer fluxonium qubits
+High-yield integration design of fixed-frequency superconducting qubit systems using siZZle-CZ gates
+Systematic construction of digital autonomous quantum error correction for state preparation and error suppression via conditional Gaussian operations
+Neural network approach to mitigating intra-gate crosstalk in superconducting CZ gates
+All-optical quantum memory using bosonic quantum error correction codes
+Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes
+Hyperloss from coherent spatial-mode mixing in quantum-correlated networks
+Identical, independent quantum weak measurements violate objective realism
+Post-selective attack with multi-mode projection onto Fock subspace
+Low Latency GNN Accelerator for Quantum Error Correction
+Gap Engineered Superconducting Multilayer Nanobridge Josephson Junctions
+Robust multi-mode superconducting circuit optimized for quantum information processing
+A circuit-differentiation framework for Green's functions on quantum computers
+Loss-Tolerant Detection of Squeezed States in the $2\text{ }\text{ }\mathrm{μ}\mathrm{m}$ Region
+Slow Quasiparticle Dynamics and Anyonic Statistics in a Fractional Quantum Hall Fabry-Pérot Interferometer
