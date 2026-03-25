@@ -3948,3 +3948,12 @@ Robust multi-mode superconducting circuit optimized for quantum information proc
 A circuit-differentiation framework for Green's functions on quantum computers
 Loss-Tolerant Detection of Squeezed States in the $2\text{ }\text{ }\mathrm{μ}\mathrm{m}$ Region
 Slow Quasiparticle Dynamics and Anyonic Statistics in a Fractional Quantum Hall Fabry-Pérot Interferometer
+Dicke materials as a resource for quantum squeezing
+Enabling Chemically Accurate Quantum Phase Estimation in the Early Fault-Tolerant Regime
+Encoded Quantum Signal Processing for Heisenberg-Limited Metrology
+Dynamical Evolution of Quantum Correlations and Decoherence in Coupled Oscillators Interacting with a Thermal Reservoir
+Connection-topology--dependent energy transport and ergotropy in quantum battery networks with reciprocal and nonreciprocal couplings
+Global control via quantum actuators
+Of gyrators and non-identical anyons
+Use of Faulty States in Cat-Code Error Correction
+Squeezing Mismatch in the Inverse-Squeezing Kennedy Receiver for Binary Displaced Squeezed-State Discrimination
