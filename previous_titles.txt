@@ -3957,3 +3957,12 @@ Global control via quantum actuators
 Of gyrators and non-identical anyons
 Use of Faulty States in Cat-Code Error Correction
 Squeezing Mismatch in the Inverse-Squeezing Kennedy Receiver for Binary Displaced Squeezed-State Discrimination
+Characterization and Comparison of Energy Relaxation in Fluxonium Qubits
+Precision bounds for frequency estimation under collective dephasing and open-loop control
+Quantum Neural Physics: Solving Partial Differential Equations on Quantum Simulators using Quantum Convolutional Neural Networks
+Mitigating Dynamic Crosstalk with Optimal Control
+Kubernetes-Orchestrated Hybrid Quantum-Classical Workflows
+Robust Parametric Quantum Gate Against Stochastic Time-Varying Noise
+Enhanced Dark Matter Quantum Sensing via Geometric Phase
+Experimental observation of exact quantum critical states
+Photon number projective measurement in Schr\"odinger cat quantum state preparation procedure after parametric down-conversion interaction
