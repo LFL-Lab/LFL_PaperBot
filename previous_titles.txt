@@ -3966,3 +3966,10 @@ Robust Parametric Quantum Gate Against Stochastic Time-Varying Noise
 Enhanced Dark Matter Quantum Sensing via Geometric Phase
 Experimental observation of exact quantum critical states
 Photon number projective measurement in Schr\"odinger cat quantum state preparation procedure after parametric down-conversion interaction
+Phased outcome-complete simulation
+Clifford synthesis via generalized S and CZ gates
+Hybrid photon blockade with hyperradiance in two-qubit cavity QED system
+Superconducting Parallel-Plate Resonators for the Detection of Single Electron Spins
+High-Fidelity Quantum State Transfer in Multimode Resonators via Tunable Pulses
+Kardashev scale Quantum Computing for Bitcoin Mining
+Intrinsic Quantum Codes
