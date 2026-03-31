@@ -3977,3 +3977,22 @@ Majorana-XYZ subsystem code
 Low-energy spectrum of double-junction superconducting circuits in the Born-Oppenheimer approximation
 Noise modelling of waveguide based squeezed light sources
 On the interpretation of Hahn echo measurements in electron spin resonance scanning tunneling microscopy
+Hyperbolic Cluster States for Fault-Tolerant Measurement-Based Quantum Computing
+Quantum-enhanced estimation of signal field amplitudes with critical squeezed states of photonic modes
+Non-Unitary Quantum Machine Learning: Fisher Efficiency Transitions from Distributed Quantum Expressivity
+Trade-off between coherence and heat in a non-Markovian dephasing dynamics
+Cavity-QED Transducer of Gravitons
+Quantum Robust Control using Geometric Optimal Control Theory
+Resonance fluorescence of an artificial atom with a time-delayed coherent feedback
+Entanglement generation of arbitrary squeezed Fock states
+Learning unified control of internal spin squeezing in atomic qudits for magnetometry
+Phase statistics of a single qubit emission as a direct probe of its coherence
+SesQ: A Surface Electrostatic Simulator for Precise Energy Participation Ratio Simulation in Superconducting Qubits
+Tunable Nonlocal ZZ Interaction for Remote Controlled-Z Gates Between Distributed Fixed-Frequency Qubits
+Shor's algorithm is possible with as few as 10,000 reconfigurable atomic qubits
+A time-dependent wave-packet approach to reactions for quantum computation
+Tunable anharmonicity in Sn-InAs nanowire transmons beyond the short junction limit
+Engineering squeezed thermal reservoirs via passive linear coupling
+JCO: Optimization Framework for Nonlinear Superconducting Circuits Using a Lumped-Element Approach and Harmonic Balance
+Bit-Vector Abstractions to Formally Verify Quantum Error Detection & Entanglement
+Attosecond quantum optics
