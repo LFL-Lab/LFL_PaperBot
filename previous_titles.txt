@@ -3996,3 +3996,18 @@ Engineering squeezed thermal reservoirs via passive linear coupling
 JCO: Optimization Framework for Nonlinear Superconducting Circuits Using a Lumped-Element Approach and Harmonic Balance
 Bit-Vector Abstractions to Formally Verify Quantum Error Detection & Entanglement
 Attosecond quantum optics
+Oxide-nitride heteroepitaxy for low-loss dielectrics in superconducting quantum circuits
+Quantum heat transport in nonequilibrium anisotropic Dicke model
+PAEMS: Precise and Adaptive Error Model for Superconducting Quantum Processors
+Junction-Intrinsic Dissipation in Hybrid Superconductor-Semiconductor Gatemon Qubits
+Non-perturbative CPMG scaling and qutrit-driven breakdown under compiled superconducting-qubit control: a single-qubit study
+Nonequilibrium energy transport in driven-dissipative quantum systems
+Weak-Field Expansion: A Time-Closed Solution of Quantum Three-Wave Mixing
+Four Generations of Quantum Biomedical Sensors
+Strong converse bounds on the classical identification capacity of the qubit depolarizing channel
+Coherent manipulation of interacting electron qubitson solid neon
+Diffusive Stochastic Master Equation (SME) with dispersive qubit/cavity coupling
+Catalytic Quantum Error Correction: Theory, Efficient Catalyst Preparation, and Numerical Benchmarks
+Radiofrequency cascade readout of coupled spin qubits
+Scalable low-overhead superconducting nonlocal coupler for circuit connectivity enhancement
+Metrologically optimal quantum states under noise
