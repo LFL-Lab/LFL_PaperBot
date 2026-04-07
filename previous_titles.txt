@@ -4021,3 +4021,13 @@ Multimode Purcell filter for superconducting-qubit reset and readout with intrin
 Origin of anomalous nonlinear microwave absorption in Josephson junction qubits: Nature of two-level systems or their dynamic interaction
 Dense packing of the surface code: Code deformation procedures and hook-error-avoiding gate scheduling
 Advances in Josephson Junction Materials and Processes Toward Practical Quantum Computing
+A High Motional Frequency Ion Trapping Regime for Quantum Information Science
+Learning high-dimensional quantum entanglement through physics-guided neural networks
+Leakage Suppression in Quantum Control via Static Parameter Offsets
+Quantum Clock Synchronization Networks: A Survey
+Hybrid Fourier Neural Operator for Surrogate Modeling of Laser Processing with a Quantum-Circuit Mixer
+Systematic Approach to Hyperbolic Quantum Error Correction Codes
+Comparing a Few Qubit Systems for Superconducting Hardware Compatibility and Circuit Design Sensitivity in Qiskit
+Simulating high-accuracy nuclear motion Hamiltonians using discrete variable representation and Walsh-Hadamard QROM on fault-tolerant quantum computers
+Full-Counting Statistics and Quantum Information of Dispersive Readout with a Squeezed Environment
+Vacuum-squeezing-enhanced micrometer-scale vapor-cell magnetometer
