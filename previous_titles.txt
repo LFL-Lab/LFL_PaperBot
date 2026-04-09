@@ -4039,3 +4039,15 @@ Dynamical decoupling and quantum error correction with SU(d) symmetries
 Adaptive Deformation of Color Code in Square Lattices with Defects
 Scaling Laws for Hybrid Quantum Neural Networks: Depth, Width, and Quantum-Centric Diagnostics
 Asymptotically good CSS codes that realize the logical transversal Clifford group fault-tolerantly
+Heterogeneous architectures enable a 138x reduction in physical qubit requirements for fault-tolerant quantum computing under detailed accounting
+Soft-Quantum Algorithms
+Discrete-variable assisted error correction of continuous-variable quantum information
+Environment-Assisted Decoherence Suppression of Optical Non-Gaussian States
+QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks
+Quantum coherent transceivers toward Holevo-limited communications
+Continuous-variable two-dimensional cluster states in the microwave domain
+Fock State Generation and SWAP using a Rabi-Driven Qubit
+Attosecond quantum spectroscopy with entangled photon pairs
+Sampling (noisy) quantum circuits through randomized rounding
+Direct evidence of the quasiparticle conversion length in proximity Josephson junctions
+Directional Andreev-Reflection Signatures of Inter-Orbital Pairing in Sr$_2$RuO$_4$
