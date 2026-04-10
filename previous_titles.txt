@@ -4051,3 +4051,10 @@ Attosecond quantum spectroscopy with entangled photon pairs
 Sampling (noisy) quantum circuits through randomized rounding
 Direct evidence of the quasiparticle conversion length in proximity Josephson junctions
 Directional Andreev-Reflection Signatures of Inter-Orbital Pairing in Sr$_2$RuO$_4$
+Ten-Second Electron-Spin Coherence in Isotopically Engineered Diamond
+Complexity phase transition for continuous-variable cluster state
+Photon pairs, squeezed light and the quantum wave mixing effect in a cascaded qubit system
+Optimized Gottesman-Kitaev-Preskill Error Correction via Tunable Preprocessing
+Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation
+Measurement-induced state transitions across the fluxonium qubit landscape
+Towards defending crosstalk-mediated attacks in multi-tenant quantum computing
