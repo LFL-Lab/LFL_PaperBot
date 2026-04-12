@@ -4059,3 +4059,4 @@ Scalable Neural Decoders for Practical Fault-Tolerant Quantum Computation
 Measurement-induced state transitions across the fluxonium qubit landscape
 Towards defending crosstalk-mediated attacks in multi-tenant quantum computing
 Systematic approach to hyperbolic quantum error correction codes
+Kinetic inductance traveling-wave parametric amplifiers near the quantum limit: Methodology and characterization
