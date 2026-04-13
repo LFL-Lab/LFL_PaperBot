@@ -4060,3 +4060,10 @@ Measurement-induced state transitions across the fluxonium qubit landscape
 Towards defending crosstalk-mediated attacks in multi-tenant quantum computing
 Systematic approach to hyperbolic quantum error correction codes
 Kinetic inductance traveling-wave parametric amplifiers near the quantum limit: Methodology and characterization
+High-Fidelity Transmon Reset with a Multimode Acoustic Resonator
+Hardware-Efficient Erasure Qubits With Superconducting Transmon Qutrits
+Frequency resolved optical gating using parametric amplification for characterizing ultrafast temporally multimode squeezed states
+Comparison of the standard and dressed-picture master equations for the quantum Rabi model in the ultrastrong coupling regime
+Crosstalk-robust superconducting two-qubit geometric gates using tunable couplers
+Impact of Pump Phase-Noise on Josephson Traveling-Wave Parametric Amplifiers
+Decoding coherent errors in toric codes on honeycomb and square lattices: duality to Majorana monitored dynamics and symmetry classes
