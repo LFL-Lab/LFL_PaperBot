@@ -4098,3 +4098,13 @@ Decay of transmon qubit in a broadband one-dimensional cavity
 AQ-Stacker: An Adaptive Quantum Matrix Multiplication Algorithm with Scaling via Parallel Hadamard Stacking
 Stabilized entanglement between floating-electron-based qubits
 Influence of Kerr anisotropy in parametric amplification
+Measuring quasiparticle dynamics for particle impact reconstruction in a superconducting qubit chip
+Fault-Tolerant Error Detection Above Break-Even for Multi-Qubit Gates
+Scalable Fluxonium Quantum Processors via Tunable-Coupler Architecture
+Attosecond Access to the Quantum Noise of Light
+Stabilization of finite-energy grid states of a quantum harmonic oscillator by reservoir engineering with two dissipation channels
+A $\boldsymbol{2d \times d \times d}$ Spacetime Volume Implementation of a Logical S Gate in the Surface Code
+Quantum secret sharing in tripartite superconducting network
+Theory of spin qubits and the path to scalability
+High-gain and large-bandwidth Josephson parametric amplifier influenced by Fabry-P\'erot interference
+Optimal Majoranas in Mesoscopic Kitaev Chains
