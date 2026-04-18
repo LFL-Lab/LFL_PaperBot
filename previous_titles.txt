@@ -4120,3 +4120,6 @@ Coherent control of optomechanical entanglement and steering via dual parametric
 Quantum Landscape of Superconducting Diodes
 Universal Global Gates for a Fine-Structure Qubit in Strontium-88
 Long-range spin-polarized Josephson effect in ballistic S/F/S junctions with precessing magnetization
+Enhanced Andreev reflection in flat-band systems: Wave packet dynamics, dc transport, and the Josephson effect
+Multiqubit gate based on parity cross resonance
+Cat-qubit-stabilization scheme using a voltage-biased Josephson junction
