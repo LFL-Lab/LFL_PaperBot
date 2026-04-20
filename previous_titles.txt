@@ -4123,3 +4123,11 @@ Long-range spin-polarized Josephson effect in ballistic S/F/S junctions with pre
 Enhanced Andreev reflection in flat-band systems: Wave packet dynamics, dc transport, and the Josephson effect
 Multiqubit gate based on parity cross resonance
 Cat-qubit-stabilization scheme using a voltage-biased Josephson junction
+Efficient $n$-qubit entangling operations via a superconducting quantum router
+MacWilliams Identities for Intrinsic Quantum Codes
+Quantum Noise Suppression Beyond the Standard Quantum Limit in a Hybrid Magnonic Optomechanical System
+Towards Ultra-High-Rate Quantum Error Correction with Reconfigurable Atom Arrays
+Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Coupled Readout
+Singlet-only always-on gapless exchange (SAGE) spin qubits: Charge noise effects and two-qubit gates
+Wire Codes
+Accelerating BP-based decoders for QLDPC Codes with Local Syndrome-Based Preprocessing
