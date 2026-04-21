@@ -4131,3 +4131,5 @@ Fast, High-Fidelity Erasure Detection of Dual-Rail Qubits with Symmetrically Cou
 Singlet-only always-on gapless exchange (SAGE) spin qubits: Charge noise effects and two-qubit gates
 Wire Codes
 Accelerating BP-based decoders for QLDPC Codes with Local Syndrome-Based Preprocessing
+Statistics of strongly coupled defects in superconducting qubits
+$0-\pi$ transitions in non-Hermitian magnetic Josephson junctions
