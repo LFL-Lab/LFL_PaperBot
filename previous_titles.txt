@@ -4133,3 +4133,10 @@ Wire Codes
 Accelerating BP-based decoders for QLDPC Codes with Local Syndrome-Based Preprocessing
 Statistics of strongly coupled defects in superconducting qubits
 $0-\pi$ transitions in non-Hermitian magnetic Josephson junctions
+Coherence-gated quantum devices via real-time weak measurement
+Efficient Routing of Quantum LDPC Codes on Programmable 2D Toric Architectures
+Learning error suppression strategies for dynamic quantum circuits
+Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach
+Advancing Practical Quantum Embedding Simulations via Operator Commutativity Based State Preparation for Complex Chemical Systems
+Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture
+Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage
