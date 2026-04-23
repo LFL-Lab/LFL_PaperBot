@@ -4140,3 +4140,9 @@ Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach
 Advancing Practical Quantum Embedding Simulations via Operator Commutativity Based State Preparation for Complex Chemical Systems
 Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture
 Architecting Early Fault Tolerant Neutral Atoms Systems with Quantum Advantage
+Toward designing workload-aware Surface Code Architectures
+Controllable non-Hermitian topology in a dynamically protected cat qubit
+Perturbative Variational Quantum Eigensolver via Reduced Density Matrices
+Multimode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection
+Analytic Theory and cQED Implementation of a Two-Qubit Refrigerator: Sub-100 mK Cavity Cooling from a 4 K Bath
+Quantum Optical Signatures of Band Topology in Solid-State High Harmonics
