@@ -4146,3 +4146,16 @@ Perturbative Variational Quantum Eigensolver via Reduced Density Matrices
 Multimode Purcell Filter for Superconducting-Qubit Reset and Readout with Intrinsic Purcell Protection
 Analytic Theory and cQED Implementation of a Two-Qubit Refrigerator: Sub-100 mK Cavity Cooling from a 4 K Bath
 Quantum Optical Signatures of Band Topology in Solid-State High Harmonics
+StabilizerBench: A Benchmark for AI-Assisted Quantum Error Correction Circuit Synthesis
+Dynamical Regimes of Two Qubits Coupled through a Transmission Line
+LightStim: A Framework for QEC Protocol Evaluation and Prototyping with Automated DEM Construction
+Pulse Shaping for Superconducting Qubits
+Bipartite entanglement under frequency comb pumping in parametric Josephson circuits
+Deterministic generation of grid states with programmable nonlinear bosonic circuits
+High-performance cellular automaton decoders for quantum repetition and toric code
+Loss-biased fault-tolerant quantum error correction
+Quantum-information diagnostics of cosmological perturbations with nontrivial sound speed in inflation
+The Origin of the Dynamical Quantum Non-locality
+Asymmetry Control in a Parametric Oscillator for the Quantum Simulation of Chemical Activation
+Enhancing the sensitivity of single-microwave-photon detection with bandwidth tunability
+Tailoring Germanium Heterostructures for Quantum Devices with Machine Learning
