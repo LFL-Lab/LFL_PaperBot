@@ -4159,3 +4159,7 @@ The Origin of the Dynamical Quantum Non-locality
 Asymmetry Control in a Parametric Oscillator for the Quantum Simulation of Chemical Activation
 Enhancing the sensitivity of single-microwave-photon detection with bandwidth tunability
 Tailoring Germanium Heterostructures for Quantum Devices with Machine Learning
+Taming Rydberg Decay with Measurement-Based Quantum Computation
+Fault-Tolerant Operations in Majorana-Based Quantum Codes: Gates, Measurements, and High-Rate Constructions
+Modeling of simple bandpass filters: Bandwidth broadening of Josephson parametric devices due to non-Markovian coupling to dressed transmission-line modes
+Locating Rydberg decay error in the <span class="sc">swap</span> leakage reduction circuit protocol
