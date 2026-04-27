@@ -4164,3 +4164,9 @@ Fault-Tolerant Operations in Majorana-Based Quantum Codes: Gates, Measurements, 
 Modeling of simple bandpass filters: Bandwidth broadening of Josephson parametric devices due to non-Markovian coupling to dressed transmission-line modes
 Locating Rydberg decay error in the <span class="sc">swap</span> leakage reduction circuit protocol
 Scalable fluxonium-qubit architecture with tunable interactions between noncomputational levels
+Qubit-Scalable CVRP via Lagrangian Knapsack Decomposition and Noise-Aware Quantum Execution
+Boundary-Aware Stabilizer Scheduling for Distributed Quantum Error Correction
+Quantum limits on squeezing
+Dual Role of Squeezed-Reservoir in Quantum Phase Synchronization: Boosting and Blockade
+Adaptable Route to Fast Coherent State Transport via Bang-Bang-Bang Protocols
+Strain engineering of Andreev spin qubits in Germanium
