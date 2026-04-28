@@ -4170,3 +4170,19 @@ Quantum limits on squeezing
 Dual Role of Squeezed-Reservoir in Quantum Phase Synchronization: Boosting and Blockade
 Adaptable Route to Fast Coherent State Transport via Bang-Bang-Bang Protocols
 Strain engineering of Andreev spin qubits in Germanium
+Quantum Dynamics and Collapse-and-Revival Phenomena in the Dunkl Anharmonic Oscillator
+Improvement of performance of Grover's algorithm on three generations of Heron family IBM QPUs without and with topological dynamical decoupling
+From Independent to Joint: Enhancing Quantum Phase and Correlation Factor Estimation by Squeezed Reservoir Engineering
+Lobe Dynamics, Phase-Space Transport, and Non-Adiabatic Leakage Thresholds in the Nonautonomous Kerr-Cat Qubit
+Beyond Monolithic Scaling: Modularity and Heterogeneity as an Architectural Imperative for Utility-Scale Quantum Computing
+Dynamical generation of stable optical-microwave squeezing in structured reservoirs
+Witnessing entanglement between photon and matter due to graviton exchange
+CAbLECAR: efficiently scheduling QLDPC codes on a tileable spin qubit chip with shuttling
+Squeezed state degradations due to mode mismatch and thermal aberrations in gravitational wave detectors
+Gate-dependent offset charge shifts and anharmonicity in gatemon qubits in the weak tunneling regime
+Non-identical anyon algebras from compact-field quantum geometry
+Taming Rydberg Decay with Measurement-based Quantum Computation
+Locating Rydberg Decay Error in SWAP-Leakage Reduction Circuit Protocol
+Thermodynamic Recycling of Algorithmic Failure Branches: Quantum-Computer Demonstration with Quantum Error Correction
+Realisation of a Protected Cat-Qutrit Manifold via Engineered Quantum Tunnelling
+Slowing and storing microwaves in a single superconducting fluxonium artificial atom
