@@ -4205,3 +4205,16 @@ Learning Unified Control of Intrinsic Nonlinear Spin Dynamics in Atomic Qudits f
 Coherent Subgap Transport in Spin-Split Josephson Junctions
 3D integration of a hybrid quantum dot circuit-QED device for fast gate dispersive charge readout and coherent spin-photon coupling
 Scaffold-assisted window junctions for superconducting qubit fabrication
+No Tile Left Behind: Multiprogramming for Surface-Code Architectures
+High-fidelity entangling gates and nonlocal circuits with neutral atoms
+Hardware-Efficient Quantum Optimization for Transportation Networks via Compressed Adiabatic Evolution
+System-Level Design of Scalable Fluxonium Quantum Processors with Double-Transmon Couplers
+Towards Quantum Optimised Malware Containment
+Fault-Tolerant Resource Comparison of Qudit and Qubit Encodings for Diagonal Quadratic Operators
+HyPulse: A Pulse Synthesis Framework for Hybrid Qubit-Oscillator Gates on Trapped-Ion Platform
+A Semantic Quantum Circuit Cache for Scalable and Distributed Quantum-Classical Workflows
+Nonlinear-enhanced wideband sensing via subharmonic excitation of a quantum harmonic oscillator
+Chaotic Fluctuations in a Universal Set of Transmon Qubit Gates
+Experimental observation of short-range magnetic correlations in amorphous ${\mathrm{Nb}}_{2}{\mathrm{O}}_{5}$ and ${\mathrm{Ta}}_{2}{\mathrm{O}}_{5}$ thin films
+Quantum gates via dynamical decoupling of a central qubit on IBMQ and $^{15}\mathrm{N}$-vacancy centers in diamond
+Constraint-optimal driven allocation for scalable quantum error correction decoder scheduling
