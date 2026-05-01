@@ -4218,3 +4218,12 @@ Chaotic Fluctuations in a Universal Set of Transmon Qubit Gates
 Experimental observation of short-range magnetic correlations in amorphous ${\mathrm{Nb}}_{2}{\mathrm{O}}_{5}$ and ${\mathrm{Ta}}_{2}{\mathrm{O}}_{5}$ thin films
 Quantum gates via dynamical decoupling of a central qubit on IBMQ and $^{15}\mathrm{N}$-vacancy centers in diamond
 Constraint-optimal driven allocation for scalable quantum error correction decoder scheduling
+Clifft: Fast Exact Simulation of Near-Clifford Quantum Circuits
+High-fidelity iSWAP gate with Double Transmon Coupler
+Demonstration of Exponential Quantum Speedup with Constant-Depth Compiled Circuits for Simon's Problem
+Galilean boost invariance does not survive the trace: symmetry breaking in open quantum systems
+Magnonic Gottesman-Kitaev-Preskill states
+Parametrically Driven iSWAP Gate Using a Capacitively Shunted Double-Transmon Coupler at the Zero-Flux Sweet Spot
+Adaptable Continuous Variable Quantum Network with Finite Size Security
+Learning quantum disentanglement scheduling from reduced states via modular hybrid policies
+A unified framework for magic state distillation and multi-qubit gate-synthesis with reduced resource cost
