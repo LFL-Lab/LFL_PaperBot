@@ -4227,3 +4227,4 @@ Parametrically Driven iSWAP Gate Using a Capacitively Shunted Double-Transmon Co
 Adaptable Continuous Variable Quantum Network with Finite Size Security
 Learning quantum disentanglement scheduling from reduced states via modular hybrid policies
 A unified framework for magic state distillation and multi-qubit gate-synthesis with reduced resource cost
+Signatures of non-Abelian Kitaev quantum spin liquids in noise magnetometry
