@@ -4228,3 +4228,12 @@ Adaptable Continuous Variable Quantum Network with Finite Size Security
 Learning quantum disentanglement scheduling from reduced states via modular hybrid policies
 A unified framework for magic state distillation and multi-qubit gate-synthesis with reduced resource cost
 Signatures of non-Abelian Kitaev quantum spin liquids in noise magnetometry
+Scalable spin-nematic squeezing in multi-level dipole-interacting Rydberg atom arrays
+Toward Heisenberg-Limited Interferometry with Dual Squeezers
+Suppression of Universal Errors in DFS-Encoded Superconducting Geometric Logical \emph{T} Gate
+Quantum Noise Fraction and the Thermal Frontier in High-Frequency Gravitational Wave Detection
+Suppressing spin qubit decoherence during shuttling via confinement modulation
+Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction
+Chip-scale superconducting quantum gravimeter combining a SQUID, a transmon, and a nanomechanical resonator
+Fundamentals and Applications of Hybrid Electro- and Opto-mechanical system coupled to Superconducting Qubit: A Short Review
+Universal bound on microwave dissipation in superconducting circuits
