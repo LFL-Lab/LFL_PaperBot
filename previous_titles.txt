@@ -4237,3 +4237,15 @@ Evolutionary BP+OSD Decoding for Low-Latency Quantum Error Correction
 Chip-scale superconducting quantum gravimeter combining a SQUID, a transmon, and a nanomechanical resonator
 Fundamentals and Applications of Hybrid Electro- and Opto-mechanical system coupled to Superconducting Qubit: A Short Review
 Universal bound on microwave dissipation in superconducting circuits
+Multimode Strong-Coupling Processes in Circuit QED Lattices
+From Qubit to Qubit: A Graduate Course in Quantum Mechanics
+Towards Real-time Control of a CartPole System on a Quantum Computer
+Sub-Cubic Quantum Gate Synthesis via Stochastic Commutator Decomposition
+Readout failures in superconducting qubits due to TLS-defects in tunnel junctions
+Measuring Accuracy and Energy-to-Solution of Quantum Fine-Tuning of Foundational AI Models
+Squeezed light in a semiconductor microcavity
+Unifying Qubit Routing Across Diverse Quantum ISAs via Canonical Representation
+Squeezed, trisqueezed and quadsqueezed states via spin–oscillator coupling
+Correlated Phase Error Bursts in a Gap-Engineered Superconducting Qubit Array
+Synthetic Flat Bands, Hierarchical Topology, and Phase-Fluctuation-Insensitive Quantized Transconductance in Josephson Junctions
+Floquet-Multiple Andreev Reflections
