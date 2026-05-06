@@ -4249,3 +4249,16 @@ Squeezed, trisqueezed and quadsqueezed states via spin–oscillator coupling
 Correlated Phase Error Bursts in a Gap-Engineered Superconducting Qubit Array
 Synthetic Flat Bands, Hierarchical Topology, and Phase-Fluctuation-Insensitive Quantized Transconductance in Josephson Junctions
 Floquet-Multiple Andreev Reflections
+QBalance: A Reproducible Multi-Objective Workflow for Quantum Compilation, Noise Suppression, and Error-Mitigation Strategy Selection
+Understanding the effects of competing spin-pair dephasing pathways in molecular spins
+Mitigating Classical Resource Costs in Quantum Error Correction via Generalized qLDPC Predecoding
+Operating a bistable qubit
+Fault-tolerant measurement-device-independent quantum key distribution with noisy non-Gaussian error correction
+Analytical two-pulse control of universal single-qubit gates in rotational ultracold NaCs molecules
+BBQ-mIS: a parallel quantum algorithm for graph coloring problems
+The power of entanglement in distributed quantum machine learning
+An extensive theory of nonlinearly intercoupled pseudomodes for noise model reduction in circuit QED
+Phase-Reference Control of Steady-State Entanglement in Open Quantum Systems
+Quantum Dispersive Waves and Multimode Squeezing in Pure-Kerr Parametrically Driven Cavity Solitons
+Nonlinear Compton scattering in a frequency-modulated field
+Magic states are rarely the best resource to optimize: An analytical tool for qubit resource estimation in concatenated codes
