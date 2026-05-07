@@ -4262,3 +4262,14 @@ Phase-Reference Control of Steady-State Entanglement in Open Quantum Systems
 Quantum Dispersive Waves and Multimode Squeezing in Pure-Kerr Parametrically Driven Cavity Solitons
 Nonlinear Compton scattering in a frequency-modulated field
 Magic states are rarely the best resource to optimize: An analytical tool for qubit resource estimation in concatenated codes
+Energy-error tradeoff in encoding quantum error correction
+SpinTune: Improving the Reliability of Quantum Sensor Networks for Practical Quantum-Classical Utility
+Triage: An Adaptive Parallel Window Decoding Scheduler for Real-time Fault-Tolerant Quantum Computation
+Generative Quantum-inspired Kolmogorov-Arnold Eigensolver
+Intelligent Optimal Control of Rydberg Gates with Incremental-Update Deep Reinforcement Learning
+Distributed Quantum Error Correction with Bivariate Bicycle Codes in a Modular Architecture
+Quantum Magic in early FTQC: From Diagonal Clifford Hierarchy No-Go Theorems to Architecture Design Blueprints
+Real-time Surface-Code Error Correction Using an FPGA-based Neural-Network Decoder
+Transit Noise in Spin Squeezing Experiments with Coated Rubidium Vapor Cell
+Nonreciprocal Macroscopic Entanglement through Magnon Squeezing in a Cavity Magnomechanics
+Noise-Resilient Quantum Metrology
