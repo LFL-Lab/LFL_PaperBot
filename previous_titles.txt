@@ -4273,3 +4273,15 @@ Real-time Surface-Code Error Correction Using an FPGA-based Neural-Network Decod
 Transit Noise in Spin Squeezing Experiments with Coated Rubidium Vapor Cell
 Nonreciprocal Macroscopic Entanglement through Magnon Squeezing in a Cavity Magnomechanics
 Noise-Resilient Quantum Metrology
+Error Mitigation in Dynamic Circuits for Hamiltonian Simulation
+The true cost of factoring: Linking magic and number-theoretic complexity in Shor's algorithm
+Three wave mixing vacuum squeezing generation in a SNAIL-based Traveling-Wave Parametric Amplifier with alternated flux polarity
+Surface-Code Thresholds and Qubit Footprints in Shuttling-Based Spin-Qubit Railways
+Syndrome resampling enhances quantum error correction thresholds
+Variationally Compressing Quantum Circuits to Approximate Nonadiabatic Molecular Quantum Dynamics
+Macroscopic entanglement between two magnon modes via two-tone driving of a superconducting qubit
+Coherence limitations of a Fourier-engineered $\cos(2\varphi)$ transmon qubit
+Revisiting the multi-mode rhombus circuit as a biased-noise qubit
+Squeezed Vibrational States in Superfluid Helium
+Affine Subcode Ensemble Decoding for Degeneracy-Aware Quantum Error Correction
+A Generalized Landauer's Principle for Unitarily Transformed Thermal Reservoirs
