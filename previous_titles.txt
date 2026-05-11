@@ -4287,3 +4287,15 @@ Affine Subcode Ensemble Decoding for Degeneracy-Aware Quantum Error Correction
 A Generalized Landauer's Principle for Unitarily Transformed Thermal Reservoirs
 Enhanced superconducting diode effect in hybrid Josephson junctions
 Squeezing of light in a dual-pumped microresonator revealed by a common-pass local oscillator
+Giant-atom-enabled quantum optics with valley-polarized photons
+Mid-Circuit Measurements for Clifford Noise Reduction in Hamiltonian Simulations
+Towards second-long electron spin coherence of a telecom quantum emitter in naturally abundant CeO$_2$
+Breaking mechanical dark mode via the Coulomb interaction
+Hybrid Quantum-Classical Logistic Regression for Calibrated Classification of Pulsar Candidates
+Systematic frequency-collision analysis of the cross-resonance gate outside the straddling regime
+Price and Payoff: Non-Determinism in Fault Tolerant Quantum Computation
+Error Correction of Beamsplitter-Generated Entangled GKP States
+Time Crystal from Self-Amplification of Spontaneous Analog Hawking Radiation
+Two-photon coupling via Josephson element II: Interaction dressing, cross-Kerr coupling, and limits of low-energy bosonic model
+Quantum-Enhanced Dark Matter Search Using Cat States
+Majorana bound states in chiral ferromagnet-superconductor heterostructures revisited
