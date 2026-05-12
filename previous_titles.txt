@@ -4299,3 +4299,15 @@ Time Crystal from Self-Amplification of Spontaneous Analog Hawking Radiation
 Two-photon coupling via Josephson element II: Interaction dressing, cross-Kerr coupling, and limits of low-energy bosonic model
 Quantum-Enhanced Dark Matter Search Using Cat States
 Majorana bound states in chiral ferromagnet-superconductor heterostructures revisited
+DART-Q : A Deadline-Driven Framework for Real-Time QLDPC Decoding
+A Hybrid Classical-Quantum Annealing Algorithm for the TSP
+Optimal Approximation of Single Qubit Rotations within a Quantum Circuit
+Time-of-flight force sensing below the quantum zero-point fluctuation
+Two-Phonon Resonance Drives Multicomponent Mechanical Cat States
+Operational time-reversal symmetry for unital qubit channels
+Quantum Differential Equation Solver via Hybrid Oscillator-Qubit Linear Combination of Hamiltonian Simulations
+Squeezing Enhancement Through Resonant Interference in Multi-ring Resonators
+Passive optical superresolution at the quantum limit
+Multi-Qubit Stabilizer Readout on a Dual-Species Rydberg Array
+Directional conductance of Andreev crystals in hybrid Josephson junction arrays
+Anomalous and diode Josephson effect in junctions with inhomogeneous ferromagnetic barrier and interfacial Rashba spin-orbit coupling
