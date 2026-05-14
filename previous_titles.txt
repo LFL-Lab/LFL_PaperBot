@@ -4322,3 +4322,7 @@ Nonequilibrium thermometry via an ensemble of initially correlated qubits
 Practical Quantum Federated Learning for Privacy-Sensitive Healthcare: Communication Efficiency and Noise Resilience
 Probing Excited-State Dynamics of Transmon Ionization
 Sparse non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations
+Coherent control of spinmons
+Scalable Spin Qubit Architecture with Donor-Cluster Arrays in Silicon
+The $\gamma_c$-Peak: Covariant Recovery on Four Organic Qubit Platforms
+An Effective Scaling Framework for Non-Adiabatic Mode Dynamics
