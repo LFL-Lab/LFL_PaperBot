@@ -4334,3 +4334,9 @@ Nonlinear Hamiltonians and Boolean satisfiability
 Nonlocal Topological Maxwell Demon Teleporting Ergotropy via Surface-Code Quantum Error Correction
 Experimental signatures of a $\hat{Z}\hat{X}$ beam-splitter interaction between a Kerr-cat and transmon qubit
 Superconducting-qubit gates robust to parameter fluctuations
+Synthesis and Optimization of Encoding Circuits for Fault-Tolerant Quantum Computation
+Fire and ice: Partially fault-tolerant quantum computing with selective state filtering
+Quantum Feature Pyramid Gating for Seismic Image Segmentation
+Interface Piezoelectric Loss in Superconducting Qubits
+Demonstration of a Multiplexing Trapped Ion Quantum Processing Unit
+Entropy Production from Spin--Vibrational Coupling in Endohedral-Fullerene Qubits Encapsulated in Suspended Carbon Nanotubes
