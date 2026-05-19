@@ -4340,3 +4340,23 @@ Quantum Feature Pyramid Gating for Seismic Image Segmentation
 Interface Piezoelectric Loss in Superconducting Qubits
 Demonstration of a Multiplexing Trapped Ion Quantum Processing Unit
 Entropy Production from Spin--Vibrational Coupling in Endohedral-Fullerene Qubits Encapsulated in Suspended Carbon Nanotubes
+End-to-End Formalization of Quantum Error Correction
+qstack: Compositional End-to-End Compilation for Fault-Tolerant Quantum Programs
+Magic Secret Sharing: Threshold Control of Quantum Computational Power via GHZ Entanglement
+Quantum optics of frequency comb metrology
+Scaling Quantum Optimization for Unit Commitment via Pauli Correlation Encoding
+Sparse Mamba Decoder for Quantum Error Correction: Efficient Defect-Centric Processing of Surface Code Syndromes
+Maximum Likelihood Decoding of Quantum Error Correction Codes
+Experimental observation of entropic-singularity-induced nonadditive quantum communication in a qutrit platypus channel
+Quantum Error Correction Assisted Axion Search in CMOS Spin Qubit Arrays
+Spin-force from a Nitrogen-Vacancy ensemble drives a 100 mg levitated resonator
+Generation of deterministic multi-mode intensity squeezing in a train of ultra-short pulses by unbalanced SU(1,1) interferometers
+Probing Tensor Singularities and Their Euler-Class Descendants via Non-Abelian Quantum Geometry Measurement
+QLIF-CAST: Quantum Leaky-Integrate-and-Fire for Time-Series Weather Forecasting
+Precision limits for time-dependent quantum metrology under Markovian noise
+Universal Jaynes-Cummings Control of an Oscillator
+Detecting nonclassicality in randomly-displaced copies of a squeezed state
+Optimizing the Frequency Positioning of Tunable Couplers in a Circuit QED Processor to Mitigate Spectator Effects on Quantum Operations
+Mitigating state-transition errors during readout with a synchronized flux pulse
+Phase dynamics and dissipation in tunnel ferromagnetic Josephson junctions
+Entanglement dynamics of multi-fluxonium-qubits under non-Markovian TLS noise
