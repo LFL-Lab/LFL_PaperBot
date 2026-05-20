@@ -4360,3 +4360,16 @@ Optimizing the Frequency Positioning of Tunable Couplers in a Circuit QED Proces
 Mitigating state-transition errors during readout with a synchronized flux pulse
 Phase dynamics and dissipation in tunnel ferromagnetic Josephson junctions
 Entanglement dynamics of multi-fluxonium-qubits under non-Markovian TLS noise
+Statistical Quantum Phase Estimation: Extensions and Practical Considerations
+Non-Stationary Decoherence in Superconducting Qubits: Memory Multi-Fractional Brownian Motion and a Time-Dependent Quantum Brownian Motion Extension
+Scalable Single-Step Generation of W States in 2D Superconducting Qubit Lattices
+Towards Fair Benchmarking of Quantum Transfer Learning for Visual Classification
+Quantum-enhanced distributed network sensing using multiple quantum resources
+Photolithography-Only Fabrication of Transmons Using Double-Oblique Evaporation
+Unveiling Energetic Advantage in Superconducting Cat-Qubits Quantum Computation
+Beyond the Purcell Effect: Controlling Pure Quantum Dephasing with Spin Noise Metasurfaces
+PureMagic: A Dynamic Scheduler for Lattice Surgery
+Special Andreev bound states for quantum information in coupled Kitaev chains
+Centimeter-wave quantum-noise-limited resonant superconducting parametric amplifier
+Probing tunable Kerr nonlinearity in graphene Josephson junctions
+Deep Spin Defects in Zinc Oxide for High-Fidelity Single-Shot Readout
