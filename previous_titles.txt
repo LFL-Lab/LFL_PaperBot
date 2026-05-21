@@ -4373,3 +4373,12 @@ Special Andreev bound states for quantum information in coupled Kitaev chains
 Centimeter-wave quantum-noise-limited resonant superconducting parametric amplifier
 Probing tunable Kerr nonlinearity in graphene Josephson junctions
 Deep Spin Defects in Zinc Oxide for High-Fidelity Single-Shot Readout
+Orbital-Angular-Momentum Entangled Photon Emission from Circular Currents in Semiconductor-Superconductor Structures
+Halving the cost of QROM
+Compact narrowband photon-pair generation by slow-light spectral engineering
+WSi weak link element with a non-sinusoidal current-phase relation
+Quantum theory of a three-photon Kerr parametric oscillator
+Towards transistor-based quantum computing
+PIQC: Scalable Distributed Quantum Computing via Photonic Integration of Designed Molecular Quantum Nodes
+Modeling and Resource Optimization for Quantum Oracles
+Encoding classical data into the squeezing of noisy-states for plasmonic communication
