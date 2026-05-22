@@ -4382,3 +4382,8 @@ Towards transistor-based quantum computing
 PIQC: Scalable Distributed Quantum Computing via Photonic Integration of Designed Molecular Quantum Nodes
 Modeling and Resource Optimization for Quantum Oracles
 Encoding classical data into the squeezing of noisy-states for plasmonic communication
+Testing Superpositions of Detector Trajectories
+Concatenating Algebraic Codes over High-Rate Quantum LDPC Codes
+Nonclassical Cutoff Fluctuations in Squeezed-Light-Driven High-Harmonic Generation
+Dual wavelength source of entanglement for space quantum communication
+Quantum Batteries in two-dimensional material-based Josephson Junctions
