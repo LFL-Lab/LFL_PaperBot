@@ -4388,3 +4388,9 @@ Nonclassical Cutoff Fluctuations in Squeezed-Light-Driven High-Harmonic Generati
 Dual wavelength source of entanglement for space quantum communication
 Quantum Batteries in two-dimensional material-based Josephson Junctions
 Passive Quantum Error Correction of Photon Loss at Breakeven
+Automatic De-Quantization of Quantum Programs Using Constant Propagation
+Multiphoton heralding generates large-amplitude squeezed Schr\"odinger cat states and parity-selective Fock superpositions from squeezed vacuum via an OPA
+Information transfer along the causal lightcone of a brickwork quantum circuit
+Optimizing Parallel Execution of Commuting Pauli Product Rotations
+Hybrid Quantum-Classical Corrective Diffusion Modeling for Meteorological Downscaling
+Twinned Dynamical Decoupling
