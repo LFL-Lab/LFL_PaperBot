@@ -4409,3 +4409,11 @@ Trained quantum neural networks are Gaussian processes
 Transpiler-Architecture Co-Design to Curb Clifford Costs in Fault-Tolerant Quantum Computing
 Modelling optimal implementation of an arbitrary $N$-qubit quantum gate within the generalized Bloch vectors formalism
 Higher-order discrete time crystals and enhanced sensing in a quantum kicked top
+Single-Ensemble Multiparameter Squeezing with Qudits
+Integrated squeezed light sources for two-mode entanglement in thin-film lithium niobate
+Practical Entanglement Distillation Protocols with Quadratic Error Suppression
+Sequential quantum nonlocality sharing under local noisy quantum channels
+Genuine Hybrid Number-Polarization Entanglement
+Spatial Qubit Entanglement Witness for Quantum Natured Gravity
+Impact of information on quantum heat engines
+Spatiotemporal Structures of Parametrically Driven Nonlinear Lattices
