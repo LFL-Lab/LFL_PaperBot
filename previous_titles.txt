@@ -4417,3 +4417,21 @@ Genuine Hybrid Number-Polarization Entanglement
 Spatial Qubit Entanglement Witness for Quantum Natured Gravity
 Impact of information on quantum heat engines
 Spatiotemporal Structures of Parametrically Driven Nonlinear Lattices
+Neural Quantum Spectral Operator Learning for Solving Partial Differential Equations
+Coherent catalyst induced stabilization of ergotropy in open quantum batteries
+A multilevel tensor network compression technique for simulating Lindblad dynamics in superconducting circuits
+Displaced Gaussian Boson Sampling for enhanced max-clique search
+Simulation of additive binding energies in asphalt using quantum-selected configuration interaction (QSCI)
+Towards entanglement-enhanced probing of atomic parity violation
+Squeezed-slit Bohr-Einstein Interferometer
+Quantum Spin Squeezing Enhanced by Critical Exceptional Points
+Learning Logical Operations for Arbitrary Quantum Error Correction Codes
+Digital Quantum Simulation of the quantum $\beta$-FPUT Lattice: Formulation and Resource Estimation
+Mechanical Squeezed-Fock Gravimeter
+Large-scale array of squeezed light and synchronization using atomic vapor
+Trapped-Ion Multiqubit Gates are Compatible with Scalable Quantum Error Correction
+Latent-Conditioned Parameterized Quantum Circuits as Universal Approximators for Distributions over Quantum States
+Device-Agnostic Microwave Noise Metrology for Nonlinear Cryogenic Quantum Devices
+Color It, Code It, Cancel It: $k$-Local Dynamical Decoupling from Classical Additive Codes
+Erasure Conversion in Integer Fluxonium Qubits
+Engineering sub-Poissonian squeezed magnons by dissipative coupling in giant-atom-coupled waveguide magnonics
