@@ -4435,3 +4435,11 @@ Device-Agnostic Microwave Noise Metrology for Nonlinear Cryogenic Quantum Device
 Color It, Code It, Cancel It: $k$-Local Dynamical Decoupling from Classical Additive Codes
 Erasure Conversion in Integer Fluxonium Qubits
 Engineering sub-Poissonian squeezed magnons by dissipative coupling in giant-atom-coupled waveguide magnonics
+Quantum error correction and fault tolerance: A comprehensive tutorial
+Quantum Networks Using Color Defects in Diamond: Principles, Progress, and Perspectives
+A comparison of different master equations for driven-dissipative dynamics in composite quantum systems: Dispersive readout in structured electromagnetic environments
+Programmable Dissipation via Partial Quantum Error Correction
+Quantum optimization beyond QUBO for industrial logistics and scheduling
+Quantum and classical noise characteristics of parametrically driven cavity solitons in dispersive Kerr resonators
+qSIEVE: Efficient qLDPC Memory via Systolic Movement in Atom Arrays
+Additive binding energies in asphalt on a quantum processor via quantum-selected configuration interaction (QSCI)
