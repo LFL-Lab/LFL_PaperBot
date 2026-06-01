@@ -4443,3 +4443,10 @@ Quantum optimization beyond QUBO for industrial logistics and scheduling
 Quantum and classical noise characteristics of parametrically driven cavity solitons in dispersive Kerr resonators
 qSIEVE: Efficient qLDPC Memory via Systolic Movement in Atom Arrays
 Additive binding energies in asphalt on a quantum processor via quantum-selected configuration interaction (QSCI)
+Real-Time Quantum Error Correction System Stack: Architecture, Algorithms, and Engineering Practice
+Intrinsic locality dimension of quantum codes
+QASM-Eval: A Dataset to Train and Evaluate LLMs on OpenQASM-3 Beyond Quantum Circuits
+A charge qubit on solid neon in a spin-qubit compatible circuit QED platform
+Transversal architecture for megaquop-scale quantum simulation with neutral atoms
+Transient energy backflow enhanced ergotropy in an open qubit quantum battery assisted by an auxiliary oscillator
+Single- and two-mode magnon thermal squeezing
