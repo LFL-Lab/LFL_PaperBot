@@ -4450,3 +4450,22 @@ A charge qubit on solid neon in a spin-qubit compatible circuit QED platform
 Transversal architecture for megaquop-scale quantum simulation with neutral atoms
 Transient energy backflow enhanced ergotropy in an open qubit quantum battery assisted by an auxiliary oscillator
 Single- and two-mode magnon thermal squeezing
+Phase-Sensitive Crystal-Edge Effects in Linear Optical Parametric Oscillators: Why Nominally Identical Squeezers Behave Differently
+Physics-Informed Learning of Effective Error Processes from Limited Noisy Transmon Measurements for Robust QAOA Reliability
+Learning Mid-circuit Measurement Backaction from Three Repeated Measurements
+Accelerating Surface Radiation Content to Investigate the Impact of Radon Progeny on Superconducting Qubits
+A NISQ-Aware Hybrid Quantum-Classical Framework for Scalable Combinatorial Optimization
+Quantum Algorithm for Distributed Reduction of Entanglements (QADR): A Trainable and Simulation-Efficient QML Framework
+Extensible Fluxonium Architecture Using Tunable Couplers with Low Shunt Capacitance
+Lie Algebra-Based Quantum Optimal Controls Interpolation
+Iterative $C_Z$-gate-based protocol for squeezed Schr\"odinger cat state engineering
+Optimized Point Addition Circuits for Elliptic Curve Discrete Logarithms
+Microwave Crosstalk in Planar Superconducting Quantum Devices
+Practical Limits on Integrated Squeezers
+Chutes and Ladders: Dynamical Automorphisms via the ZX-Calculus
+Creating and Probing Spin-Squeezed States of Molecules
+Characterization of spatial Schmidt modes in high-gain SU(1,1) interferometers
+Universal Sample Complexity Bounds in Quantum Learning Theory via Fisher Information Matrix
+Analytic theory and cavity-QED implementation of a two-qubit refrigerator: Sub-100-mK cavity cooling from a 4-K bath
+Phase-dependent parametric amplification of propagating spin waves in YIG nanostructures enabled by local inhomogeneities
+Strong nonlinear thermoelectricity generation and close-to-Carnot efficient heat engines in Superconductor-Insulator-2D electron gas junctions
