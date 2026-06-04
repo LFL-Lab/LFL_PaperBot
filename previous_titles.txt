@@ -4480,3 +4480,15 @@ Parametrically induced strong coupling between a superconducting quantum circuit
 Squeezed-state semi-device-independent quantum randomness generation
 Practical gates by Majorana fermion motion
 Informational completeness of qubit measurements and IC preservability of qubit channels: Characterization and Quantification
+Quantum error correction with the toric code
+Quantum Information Harvesting with the Parallel Quantum Flow Algorithm
+Characterization of errors in photon-heralded quantum operations between non-interacting quantum emitters
+Anisotropic Rabi Model as a Noise Biased Qubit
+Hybrid quantum-classical physics-informed neural networks for solving nonlinear PDEs: when and where hybridization is effective?
+QPredSGG: Hybrid Quantum Predicate Learning for Long-Tailed Scene Graph Generation
+Efficient Description of Parametric Amplification of Quantum Pulses
+Measurement-induced state transitions in multi-qubit transmon processors
+Generalized Bicycle Codes as Cyclic Submodules and their Automorphism Structure
+Squeezed Phonon Lasing via Floquet-Controlled Solid-State Defects
+Robust applicability of continuous dynamical decoupling to decoherence reduction in longitudinal and transverse-noise settings: The role of anisotropy
+Fluxonium qubit-based hybrid electromechanical system
