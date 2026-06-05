@@ -4492,3 +4492,12 @@ Generalized Bicycle Codes as Cyclic Submodules and their Automorphism Structure
 Squeezed Phonon Lasing via Floquet-Controlled Solid-State Defects
 Robust applicability of continuous dynamical decoupling to decoherence reduction in longitudinal and transverse-noise settings: The role of anisotropy
 Fluxonium qubit-based hybrid electromechanical system
+Multi-Qubit Dyadic Phase Fixing for Fault-Tolerant Quantum Compilation
+Optimal convex approximation of quantum channels based on $\alpha$-affinity
+Symmetry-adapted qubit encoding with complete active space and Bravyi--Kitaev mapping for quantum chemistry on a quantum computer
+Rapid Gaussian Boson Sampling Circuit Screening for GKP States Creation via a Two-Stage Machine Learning Surrogate
+Barbell Codes: qLDPC Codes for Superconducting Quantum Hardware
+Breakeven demonstration of quantum low-density parity-check codes
+Practical Limits to Single-Mode Vacuum Squeezing with a SNAIL Parametric Amplifier
+A nanoscale magnetic spectrum analyzer based on qubit dressed states
+Measurement of cross-correlated charge noise spectrum from transport currents through series-coupled silicon quantum dots
