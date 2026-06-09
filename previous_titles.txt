@@ -4505,3 +4505,15 @@ A superconducting surface-code processor with lattice-surgery logical operations
 Contacting Josephson Junctions via Airbridges in Superconducting Circuits
 Suppression of Quasiparticle Poisoning to $10^{-11}$ Levels in Superconducting Qubits via Infrared Shielding
 Coherent versus stochastic error injection on a repetition-code logical qubit in superconducting hardware
+Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems
+Correlation-Assisted Odd-Parity Encoded Gates in Coupled Fluxonium Qubits under Non-Markovian TLS Noise
+A K-band Kinetic Inductance Parametric Amplifier Near the Quantum Limit
+A Dual Metastable-State Encoding Architecture for Quantum Processing with $^{171}\mathrm{Yb}$ Atom Arrays
+Impact of spontaneous emission on spin-squeezed quantum sensors
+Randomized simulation of quantum channels using small ancilla
+SCOPE: A Syndrome-Driven Control Plane for QEC-Enabled Quantum Networks
+Impact of gate-voltage noise on silicon spin-qubit variational quantum eigensolvers
+Algebraic Kolmogorov--Arnold representation theorem for quantum measurement
+The dynamic 4.8.8 Floquet code
+Frequency-resolved decoherence spectroscopy of a semiconductor charge qubit coupled to a high-impedance resonator
+Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link
