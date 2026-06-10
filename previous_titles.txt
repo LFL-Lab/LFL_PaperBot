@@ -4517,3 +4517,17 @@ Algebraic Kolmogorov--Arnold representation theorem for quantum measurement
 The dynamic 4.8.8 Floquet code
 Frequency-resolved decoherence spectroscopy of a semiconductor charge qubit coupled to a high-impedance resonator
 Nearly ballistic transport and high magnetic-field sensitivity in a $\text{Bi}_4\text{Br}_4$ topological Josephson weak link
+A Cryogenic Hybrid Photonic/CMOS Controller Architecture for Scalable Superconducting Qubit Control
+Variational Approach for Uniform Quantum Permutation Generators
+Camera-enabled scalable homodyne detection of multimode quantum light
+Efficient Magic State Cultivation for $\sqrt{T}$ Gates
+Single-photon scattering in a dissipative superconducting-qubit--SSH lattice hybrid
+Certification of Network Quantum Sensing
+Unitary Channel Testing Under a Depolarizing Noise Assumption
+Noise cancellation by superposition of channels and superactivation of quantum capacity: Experimental realization by NMR
+Inherent flux crosstalk and coupler-driven single-qubit gates in superconducting circuits
+Analog Quantum Asynchronous Event-Based Graph Neural Network
+Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates
+Coset Ensemble Decoder for Quantum Error Correction with Algorithm-Hardware Co-Design
+In-Situ Engineering of the Anisotropic Rabi Model in Circuit QED
+Toward fault-tolerant quantum computation exploiting quantum spatial distribution and gauge symmetry
