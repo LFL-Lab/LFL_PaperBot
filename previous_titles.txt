@@ -4531,3 +4531,13 @@ Bosonic Cyclic Codes: Trading Stabilizers for Gaussian Non-Clifford Phase Gates
 Coset Ensemble Decoder for Quantum Error Correction with Algorithm-Hardware Co-Design
 In-Situ Engineering of the Anisotropic Rabi Model in Circuit QED
 Toward fault-tolerant quantum computation exploiting quantum spatial distribution and gauge symmetry
+Logical error estimation from syndrome data of surface-code experiments
+Tensor-Network-Based Distributed Quantum Dynamics on Independent Quantum Computers
+Controlled ion-ion interactions and cavity-enhanced emission of a coherent dinuclear Eu$^{3+}$ complex
+Dark state spectroscopy in nonlinear waveguide quantum electrodynamics
+Measurement-Free Toric-Code Memory in Array Globally Controlled Rydberg Array
+A quantum implementation of high-order power method for estimating geometric entanglement of pure states
+Residual-Squeezing Mechanism of Mismatch in Inverse-Squeezing Kennedy Receivers
+Nonlocal continuous-variable gates by amplified optical connections
+Crosstalk-robust dynamical decoupling for bipartite-topology quantum processors
+Heisenberg-Langevin theory of an exciton mirror
