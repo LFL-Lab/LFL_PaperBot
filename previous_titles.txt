@@ -4541,3 +4541,12 @@ Residual-Squeezing Mechanism of Mismatch in Inverse-Squeezing Kennedy Receivers
 Nonlocal continuous-variable gates by amplified optical connections
 Crosstalk-robust dynamical decoupling for bipartite-topology quantum processors
 Heisenberg-Langevin theory of an exciton mirror
+Theoretical Study for Generating Optical GKP State via a Single-Photon-Added Squeezed Vacuum
+Block algebra for morphing circuits
+Explicit Quantum Circuit Simulation of Nonlinear 1-Dimensional Fluid with Carleman-linearized Boltzmann Method
+Accidental Symmetry in the Tavis-Cummings Model via the Schwinger Boson Representation
+QuBE/Qubex: an integrated hardware-software system for superconducting qubit experiments with broadband control
+Simple analytical flux-tuned iSWAP pulses for leakage suppression
+Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies
+The table maker's quantum search
+Optical Tautochrone and Squeezing Dynamics in Nonuniform Lattices
