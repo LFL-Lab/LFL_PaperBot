@@ -4550,3 +4550,5 @@ Simple analytical flux-tuned iSWAP pulses for leakage suppression
 Representation-Induced Symmetry Trapping in Adaptive Variational Quantum Simulations of Multi-Reference Topologies
 The table maker's quantum search
 Optical Tautochrone and Squeezing Dynamics in Nonuniform Lattices
+Boosting Gaussian boson sampling using optical parametric amplification networks
+Photodetection of squeezed light: A Whittaker-Shannon analysis
