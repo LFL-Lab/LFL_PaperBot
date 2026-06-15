@@ -4552,3 +4552,9 @@ The table maker's quantum search
 Optical Tautochrone and Squeezing Dynamics in Nonuniform Lattices
 Boosting Gaussian boson sampling using optical parametric amplification networks
 Photodetection of squeezed light: A Whittaker-Shannon analysis
+All about quantum error correction: distillation, mitigation, self-correction and beyond
+OQMD: Single-Qubit Rotation Control Improves Low-CNOT Multiclass Quantum Classification
+Correction scheme for molecular total energies from quantum phase estimation under limited qubit resources
+Nanostructure modelling with early fault tolerant quantum computers
+Monolithic hybrid quantum dot devices in superconducting twisted bilayer graphene
+Qubit States Based on Fractional Vortices in $0-\pi$ Josephson Junctions
