@@ -4575,3 +4575,18 @@ Adaptively secure unitary designs with constant non-Clifford cost
 Temperature and magnetic field limits of a kinetic inductance traveling-wave parametric amplifier
 Non-stationary longitudinal Josephson effect in electron-hole bilayers
 Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
+Projected logical ensembles in surface codes via the random-matrix theory of quantum dots
+Effects of Josephson Junction Non-idealities on Adiabatic Quantum Flux Parametron Circuits
+Broadband High-Level Squeezed Light using Waveguide Optical Parametric Amplifiers with External Dispersion Compensation
+Optimizing bias-tailored quantum error correction beyond code-capacity noise
+Experimental Characterization and Modeling of Measurement-Induced State-Transitions in a Fluxonium Superconducting Qubit
+Quantum Chip Paradigm Framework
+SPICE-Q and Large-Scale Quantum Chip Production
+Twin-beam advantage in quantum LiDAR under correlated noise
+Stochastic signal sensing with finite energy and dead time at the fundamental quantum limit
+Learning Arbitrary Lindbladians with Quantum Error Correction
+Einstein-Podolsky-Rosen correlations between mechanical oscillators revealed through SU(1,1) interferometry
+Coupled-Mode Equations with Arbitrary Mode Combinations for Kinetic-Inductance Superconducting Traveling-Wave Parametric Devices: Theory and Experimental Validation
+Application and quantum properties of superpositions of oppositely squeezed states
+Nonreciprocal Equilibrium Josephson Effect of Arbitrary Periodicity from Poor Man's Majorana Zero Modes
+Impact of spin-orbit coupling and Zeeman interaction on the multiple Andreev reflections subharmonic gap structure in nanoscopic Josephson junctions
