@@ -4590,3 +4590,4 @@ Coupled-Mode Equations with Arbitrary Mode Combinations for Kinetic-Inductance S
 Application and quantum properties of superpositions of oppositely squeezed states
 Nonreciprocal Equilibrium Josephson Effect of Arbitrary Periodicity from Poor Man's Majorana Zero Modes
 Impact of spin-orbit coupling and Zeeman interaction on the multiple Andreev reflections subharmonic gap structure in nanoscopic Josephson junctions
+Quantum dynamics of microwave photons in a synthetic frequency dimension
