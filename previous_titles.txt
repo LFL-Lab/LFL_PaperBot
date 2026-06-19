@@ -4591,3 +4591,15 @@ Application and quantum properties of superpositions of oppositely squeezed stat
 Nonreciprocal Equilibrium Josephson Effect of Arbitrary Periodicity from Poor Man's Majorana Zero Modes
 Impact of spin-orbit coupling and Zeeman interaction on the multiple Andreev reflections subharmonic gap structure in nanoscopic Josephson junctions
 Quantum dynamics of microwave photons in a synthetic frequency dimension
+Nearest-neighbour gates are all you need: High-rate quantum low-density parity-check codes on a planar grid
+Subsystem Quantum Error Correction for Noisy Quantum Metrology
+Optimized Quantum States for Sensing in the Presence of Loss and Phase Noise
+QMCtwin: Master-Equation Simulation of Syndrome Statistics Beyond Pauli Noise
+Operator Learning for efficient Quantum Computation
+Optimal multi-spectral squeezing via deterministic 2D-phase optimization
+Vine Codes: Low-Overhead Quantum LDPC Codes on a Planar Square Grid
+Quantum Batteries as Work Sources for Phase-Locked Parametric Amplification
+Effective Faraday interaction between light and Helium-3 nuclear spins in a multi-pass cell
+Measuring R\'enyi entropy with an Echo Protocol
+Steady-state entanglement of spin qubits mediated by nonreciprocal and chiral magnons
+Remote nonreciprocal optical-microwave entanglement and one-way steering via parametric amplification
