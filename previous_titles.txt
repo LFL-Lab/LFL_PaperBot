@@ -4604,3 +4604,13 @@ Measuring R\'enyi entropy with an Echo Protocol
 Steady-state entanglement of spin qubits mediated by nonreciprocal and chiral magnons
 Remote nonreciprocal optical-microwave entanglement and one-way steering via parametric amplification
 Sensitivity enhancement in superconducting-qubit magnetometry via two-level systems
+M{\o}lmer-S{\o}rensen gates in trapped-ions chains in the presence of correlated noise
+Picosecond Schr\"odinger cat states for ultrafast optical quantum processing
+An Analysis of Speculative Window Decoders for Quantum Error Correction
+Interaction-Enhanced Ergotropy in Phase-Driven Andreev Bound State Quantum Batteries
+When to Skip Syndrome Extraction in Surface-GKP Codes
+A high-fidelity two-qubit gate for multimode superconducting P-mon qubits
+The $\omega$-Effect from a Multimode Squeezed Graviton State
+Logical qubits with erasure conversion using metastable neutral atoms
+Andreev exceptional points in Josephson junctions formed by minimal Kitaev chains
+A K-band kinetic-inductance parametric amplifier near the quantum limit
