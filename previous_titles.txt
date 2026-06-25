@@ -4614,3 +4614,15 @@ The $\omega$-Effect from a Multimode Squeezed Graviton State
 Logical qubits with erasure conversion using metastable neutral atoms
 Andreev exceptional points in Josephson junctions formed by minimal Kitaev chains
 A K-band kinetic-inductance parametric amplifier near the quantum limit
+A Mean-Field Lindblad Master Equation Framework for Interaction-Driven Decoherence in Solid-State Qubit Ensembles
+High-Rate and Resource-Efficient All-Photonic Quantum Repeater Architectures with 9 km Repeater Spacing
+Routing Codes: High-Rate Quantum LDPC Codes with Short, Parallel Non-Local Connectivity
+A phase-space approach for performing continuous-variable quantum teleportation with a non-Gaussian resource
+Preparing two-mode magnonic Schr\"odinger cat states in a cavity-magnon-qubit system
+Sp(2N, R) interferometry in multi-mode Gaussian bosonic systems for optimal metrology and quantum control
+Benchmarking Dark Matter Search using a Parity-Check Protocol with Machine-Learning Optimized Pulses
+Nonlinear Dynamics of Coherent Parametric Amplification in Multipartite two-level System under Intrinsic Decoherence
+Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and Multi-Qubit Operations via Spatial Light Modulator Phase Holography
+Software compensation of trigger-synchronous control-frame errors in qubits and qudits
+Optimizing Pump Conditions of Parametric Amplifiers for Fast Multiplexed Readout of Superconducting Qubits
+Spin model for quantum annealing with Kerr parametric oscillators
