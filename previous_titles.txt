@@ -4626,3 +4626,11 @@ Simulating Universal Quantum Gate Sets on Photonic OAM Qubits: Single-Qubit and 
 Software compensation of trigger-synchronous control-frame errors in qubits and qudits
 Optimizing Pump Conditions of Parametric Amplifiers for Fast Multiplexed Readout of Superconducting Qubits
 Spin model for quantum annealing with Kerr parametric oscillators
+Criterion for qubit-assisted quantum metrology approaching Heisenberg scaling
+Lattice patch structure for fixed-frequency transmon quantum computer with high-fidelity CNOT gates
+Quantum computer architecture with ions in tweezer arrays
+Quantum-Limited Subdiffraction Telescopy Requires Genuine Multi-Telescope Interference
+Self-Sifting quantum key distribution
+Cultivating logical catalysts for fault-tolerant dyadic phase rotations
+Probing Qubit Noise with a Channel-Resolved Post-Markovian Master Equation
+Suppression of Measurement-Induced State Transitions in $\mathrm{cos}﻿φ$-Coupling Transmon Readout
