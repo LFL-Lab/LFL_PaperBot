@@ -4634,3 +4634,12 @@ Self-Sifting quantum key distribution
 Cultivating logical catalysts for fault-tolerant dyadic phase rotations
 Probing Qubit Noise with a Channel-Resolved Post-Markovian Master Equation
 Suppression of Measurement-Induced State Transitions in $\mathrm{cos}﻿φ$-Coupling Transmon Readout
+I-QMapper: Error-Aware Layout Optimization and Device Diagnostics for NISQ Hardware
+Quantum Dynamic Time Warping for Multivariate Time Series Classification
+Standard-quantum-limit-surpassing vector polarimetry using Rydberg atoms in an SU(1,1) interferometer
+Non-equilibrium quantum thermometry with bosonic samples
+Squeezing enhanced homodyne weak force sensing in cavity optomechanics
+Hybrid Quantum-Classical Neural Networks for Recognizing Quantum Phases
+Initial demonstration of a quantum heat engine based on dissipation-engineered superconducting circuits
+Quantum Otto engine with field-decoupled idle levels in a non-Hermitian XY model
+A General Pipeline for Digesting Scientific Literature into a Shared Scientific Knowledge Base
