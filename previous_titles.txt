@@ -4643,3 +4643,13 @@ Hybrid Quantum-Classical Neural Networks for Recognizing Quantum Phases
 Initial demonstration of a quantum heat engine based on dissipation-engineered superconducting circuits
 Quantum Otto engine with field-decoupled idle levels in a non-Hermitian XY model
 A General Pipeline for Digesting Scientific Literature into a Shared Scientific Knowledge Base
+Exploring the Effects of Entanglement on Quantum Machine Learning of Pathogen Epitope-Receptor Binding
+A superconducting qutrit link beyond the qubit limit
+Squeezing as a catalyst for non-Gaussian advantage in characterization of nonlinear media
+Hybrid Quantum Neighborhood Selection: NISQ-Compatible Combinatorial Optimization via Stochastic Frontier Decomposition
+Thermometry with multilevel transmon probes
+Bridging the NISQ and Fault-Tolerant Regimes: Generative-ML-Assisted Quantum Selected CI for Molecular Simulations
+Cavity-mediated probabilistic magic $T$-gate injection
+Spin-orbit coupling induced geometric squeezing in rotating Bose-Einstein condensates
+Planar fault-tolerant logical measurements with low qubit overhead
+Measuring Rényi entropy with an Echo Protocol
