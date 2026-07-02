@@ -4653,3 +4653,13 @@ Cavity-mediated probabilistic magic $T$-gate injection
 Spin-orbit coupling induced geometric squeezing in rotating Bose-Einstein condensates
 Planar fault-tolerant logical measurements with low qubit overhead
 Measuring Rényi entropy with an Echo Protocol
+Spectral Geometry and Bosonic-Bloch Probes: Explorations in Quantum Learning
+A Versatile Analytical Model for Fast and Accurate Determination of Feedline-Coupled Resonators for Superconducting Qubit Readout
+Leakage Mobility and Passive Leakage Removal in Transmons with Tunable Couplers
+Bias-Preserving Gates and Quantum Error Correction With Dual-Rail Cat Codes
+Twisted Gaussian Schell States in Quantum Optics: Twist-Assisted Nonclassicality and Entanglement
+Quantum-Informed Portfolio Selection: An End-to-End Pipeline Validated on Trapped-Ion Hardware with Real Market Data
+Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Nanosheet Technology
+Fast coherent control of a charge qubit on solid neon with a spin-qubit-compatible resonator
+Engineering selective transitions in dressed two-qubit systems with dual driving
+Surface Platinum Alloying for Passivation of Oxide Interfaces on Superconducting Niobium Films
