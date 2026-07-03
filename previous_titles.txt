@@ -4663,3 +4663,12 @@ Simulation of Two-qubit Gate Variability and Fidelity of Spin Qubits Built on Na
 Fast coherent control of a charge qubit on solid neon with a spin-qubit-compatible resonator
 Engineering selective transitions in dressed two-qubit systems with dual driving
 Surface Platinum Alloying for Passivation of Oxide Interfaces on Superconducting Niobium Films
+Decohered toric code under quantum damping noise and its mapping to a classical spin model
+Coherent states in minimal-length Quantum Mechanics: inequivalent characterizations and emergent squeezing
+High-Precision Calibration Workflow Achieves Above $99.9\%$ CZ Gate Fidelity on a Scalable Superconducting Processor
+Surface code logical operations on a superconducting quantum processor
+Structure-Aware Compilation for Scalable Neutral-Atom Quantum Computing
+Partially-Blind Single-Qubit Classification over a Prototype Hybrid Quantum Network
+A transition-metal qubit in diamond with all-optical control and millisecond quantum memory
+Neural-Network Inverse Design of SRF Cavities and Transmons for Bosonic Quantum Computation
+Optimal stellar rank approximation of squeezed cat states with photon catalysis
