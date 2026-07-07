@@ -4672,3 +4672,25 @@ Partially-Blind Single-Qubit Classification over a Prototype Hybrid Quantum Netw
 A transition-metal qubit in diamond with all-optical control and millisecond quantum memory
 Neural-Network Inverse Design of SRF Cavities and Transmons for Bosonic Quantum Computation
 Optimal stellar rank approximation of squeezed cat states with photon catalysis
+Fault-tolerant quantum computation with static atomic buses
+Locally Passive, Globally Charged Quantum Batteries: Coherence-Controlled Work and the Robustness of the Stored Charge
+Photon Squeezing and Its Signatures of Quantum Phase Transitions in the Open Quantum Rabi-Stark Model
+Full-Period Optical Phase Estimation with Heisenberg Scaling Using Displaced Squeezed States and Gaussian Measurements
+Robust phase sensitivity in Mach-Zehnder interferometer using photon added and subtracted squeezed coherent state
+Self-Specializing Vision-Language Transmon Chip Calibration in a Physics-Grounded Environment
+High Success Probability, Fidelity, and Purity Nonlinear Optical Two-Qubit Gates on Chip
+Driving collective RPA modes by a time-dependent Dyson map
+Detection methods for optimal target reflectivity estimation with two-mode squeezed vacuum probes
+A Cross-Platform Analysis of High-Performance Quantum Error Correction Codes
+Genuine Multipartite Entanglement between Logical Qubits via Cross-Code Lattice Surgery
+Noise-Aware Synthesis of Quantum LDPC Encoder Circuits via Two-Sided Hamming Descent
+Contraction and Expansion Values of Quantum Channels
+Transmon Phase Gates Controlled by Superconducting Soliton DAC
+Decoherence Effects on Primordial Black Holes and Scalar-Induced Gravitational Waves
+Shallow randomized measurement in noisy quantum devices
+Generating Fock state exceeding 10000 excitations with near unit fidelity by adaptive generalized-parity measurement
+Absorption capacity of separable noise: Bell-mixing thresholds on separability and teleportation
+Cross-resonant gates in hybrid fluxonium-transmon systems
+Full Gate-Voltage Control of a Parity-Protected Superconducting Qubit with an Altermagnetic Josephson Junction
+Vortex-Number-Controlled Josephson Diode Polarity in Corbino Junctions
+Lindblad theory of linear response susceptibility and dispersive readout in minimal Kitaev junctions
