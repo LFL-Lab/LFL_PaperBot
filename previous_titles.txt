@@ -4694,3 +4694,17 @@ Cross-resonant gates in hybrid fluxonium-transmon systems
 Full Gate-Voltage Control of a Parity-Protected Superconducting Qubit with an Altermagnetic Josephson Junction
 Vortex-Number-Controlled Josephson Diode Polarity in Corbino Junctions
 Lindblad theory of linear response susceptibility and dispersive readout in minimal Kitaev junctions
+Many-body quantum optics in a cascaded chiral network
+Separating transient leakage exposure from endpoint cancellation in fast transmon single-qubit gates
+Latency-Constrained Hardware-Aware Quantum Error Correction Co-Design with Adaptive Confidence-Gated Neural Decoding for the Rotated Surface Code
+Attosecond metrology of bright quantum light
+Quantum Channel Polynomial Processing
+Typical-Case Gate Approximation and Arithmetic Obstructions in Quaternionic Single-Qubit Compilation
+Radio frequency readout and control of Ge/SiGe hole spin qubits with a global accumulation gate
+Fault-tolerant quantum computation by hybrid qubits with bosonic cat-code and single photons
+Measure and Forget Dynamics in Random Circuits
+Asymmetry effects in homodyne and heterodyne measurements: Positive operator-valued measures and asymptotic security of Gaussian-continuous-variable quantum key distribution
+Scalable quantum resources with short-range interacting spin-$\frac12$ chains
+Programmable optical parametric amplifier synthesizer for cubic phase states and amplified Schrodinger cat states
+Floquet polaritons in optically driven materials
+High-transparency topological-insulator-based Josephson junctions enabled by  in situ  low-temperature Al growth and wet etching
