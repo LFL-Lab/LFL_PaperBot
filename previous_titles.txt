@@ -4708,3 +4708,9 @@ Scalable quantum resources with short-range interacting spin-$\frac12$ chains
 Programmable optical parametric amplifier synthesizer for cubic phase states and amplified Schrodinger cat states
 Floquet polaritons in optically driven materials
 High-transparency topological-insulator-based Josephson junctions enabled by  in situ  low-temperature Al growth and wet etching
+Localized Thermometry via Dayem Bridges Integrated on Superconducting Qubit Chips
+Quantum error correction of a grid-state qubit with state preparation and measurement errors below $10^{-3}$
+Multi-stage Quantum Amplifier Readout Chain
+Vectorizing Quantum Control: A RISC-V Vector Extension Architecture for Scalable Qubit Systems
+Characterizing Phase Fragility via Algorithmically Prepared Ancillas in Repeated-Interaction Models
+Accelerating Fault-Tolerant Quantum Computation with Good Quantum Low-Density Parity-Check Codes
