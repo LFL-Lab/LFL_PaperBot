@@ -4714,3 +4714,11 @@ Multi-stage Quantum Amplifier Readout Chain
 Vectorizing Quantum Control: A RISC-V Vector Extension Architecture for Scalable Qubit Systems
 Characterizing Phase Fragility via Algorithmically Prepared Ancillas in Repeated-Interaction Models
 Accelerating Fault-Tolerant Quantum Computation with Good Quantum Low-Density Parity-Check Codes
+Observation of coherent flux-charge interaction in a gate-tunable fluxonium
+Improved GKP magic states from error-corrected non-Gaussian quantum states
+Engineering Nonclassical States via the Dynamical Casimir Effect
+Stroboscopic Stabilization of Cat Qubits
+Magic Gate Teleportation: Structure, Useful Resource States, and Simpler Feedforward
+A Nonstabilizerness Resource Law for Universal Quantum State Purification
+Plaquette: A hardware-aware design platform for fault-tolerant quantum computers
+Mitigation of resonator-photon-induced dephasing in a superconducting qubit using dynamical decoupling
