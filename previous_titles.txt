@@ -4722,3 +4722,11 @@ Magic Gate Teleportation: Structure, Useful Resource States, and Simpler Feedfor
 A Nonstabilizerness Resource Law for Universal Quantum State Purification
 Plaquette: A hardware-aware design platform for fault-tolerant quantum computers
 Mitigation of resonator-photon-induced dephasing in a superconducting qubit using dynamical decoupling
+A diagrammatic field theory of quantum error correction
+Quaternary-Squeeze Quantum Identity Authentication: Direction-Scaling Security via Single-Mode Squeezed Light
+Superconducting singlet-triplet qubits
+Qubit-Boson Hybrid Beam-Splitter Gate with Kerr Nonlinearity in Circuit QED for Many-Body Dynamics
+Majorana parity qubit in coupled minimal Kitaev chains
+Quantum Computing Demonstration of the Polaron-Molecule Transition on a NISQ Device
+Fermion-mediated Casimir effect on mesoscopic rings implementing non-Clifford SWAP$^{\alpha}$ gates
+Probing Cooper pair momentum by quasiparticle steering with planar Josephson junctions
