@@ -4748,3 +4748,17 @@ Autonomous Stabilization of Remote Entanglement in a Cascaded Quantum Network
 Distributing Stationary Qubit Entanglement through a Nonlocal Squeezed Reservoir
 SlaKoNet-VQD: A universal Slater-Koster tight-binding Hamiltonian for variational quantum band-structure calculations on near-term hardware
 Landau-Zener tunneling and quantum interference of Andreev states
+Quantum-classical neurons upgraded with optical spin qubits for advanced computing and networking architectures
+Entangling Power and Symmetries in the Quantum Rabi Model
+HarmQ: Harmonic Backdoor Attacks Against Quantum Neural Networks
+A fault-tolerant quantum blockchain deployed on commercial telecommunications network
+Experimental demonstration of scalable quantum blockchain with exponentially superior quantum communication complexity
+Demonstration of tripartite cat states in two distinct classes of entanglement
+Deterministic Minimum-Leakage Continuous-Variable Quantum Key Distribution with Phase-Conjugated Twin Beams
+Entropy Transport in Programmable Quantum Junctions
+When Close Enough Is Not Enough: Autoregressive Drift in Quantum Circuit Synthesis
+Heisenberg-limited metrology in the presence of non-Markovian noise with finite control rates
+Logical Entangling with Phantom Codes in Hypergraph Products
+From stable periodic orbits to many-body chaos: doubly tunable prethermalization via engineering of an emergent band structure
+Quantum Imaginary-Time Evolution with Polynomial Resources in Evolution Time
+Improving the performance of transmon qubits with fluorine-based surface treatments
