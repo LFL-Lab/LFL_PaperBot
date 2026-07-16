@@ -4762,3 +4762,15 @@ Logical Entangling with Phantom Codes in Hypergraph Products
 From stable periodic orbits to many-body chaos: doubly tunable prethermalization via engineering of an emergent band structure
 Quantum Imaginary-Time Evolution with Polynomial Resources in Evolution Time
 Improving the performance of transmon qubits with fluorine-based surface treatments
+Precision quantum simulation of magnon spectra and interactions
+StreamingQEC: Streaming Quantum Error Correction in Tightly Integrated Quantum-Classical Systems via Certified Recurrence
+Suppressing Detuning-Induced Bias in Ramsey Magnetometry with Composite Pulses
+Towards quantum machine learning for assessing the resilience of post-quantum cryptography
+Foliated Quantum Error Correction for Qudits
+A Reservoir Computing Approach to Quantum Gate Synthesis
+Universal Quantum Computation with Multi-Mode Schr\"odinger Cat States Stabilized by Non-Local Dissipation Engineering
+Benchmarking trigonometric continuous-variable gate primitives with trapped ions
+Real-time adaptive quantum error correction by model-free multi-agent learning
+Tunable Nonlocal $ZZ$ Interaction for Remote Controlled-Z Gates Between Distributed Fixed-Frequency Qubits
+Absorption capacity of separable noise: Bell-mixing thresholds on entanglement and teleportation
+Hybrid single-ion atomic-ensemble node for high-rate remote entanglement generation
