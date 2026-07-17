@@ -4774,3 +4774,16 @@ Real-time adaptive quantum error correction by model-free multi-agent learning
 Tunable Nonlocal $ZZ$ Interaction for Remote Controlled-Z Gates Between Distributed Fixed-Frequency Qubits
 Absorption capacity of separable noise: Bell-mixing thresholds on entanglement and teleportation
 Hybrid single-ion atomic-ensemble node for high-rate remote entanglement generation
+Transducer leakage error suppression using invariant-based shortcut
+Nonplanar qubit with tunable gauge symmetry
+Fock-state preparation based on amplitude amplification in cavity QED
+Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network
+Collapse and Inversion of the Josephson Potential in a Strongly Driven Superconducting Circuit
+Improving Dynamical Decoupling for Trapped-Ion QCCD Quantum Computers
+Quantum Remote Implementation of Hybrid Operations on Hyperstates Using Hyperentangled States
+Evolution-Level Quantum Optimal Control of Single-Qubit Gates with Physics-Informed Neural Networks
+Towards logical entanglement creation in trivalent planar architectures
+A framework of partial error correction for intermediate-scale quantum computers
+Separate Control of Transient Leakage Exposure and Endpoint Leakage in Fast Transmon Gates
+Optimization of high-fidelity single-qubit gates for fluxonium qubits using single-flux quantum control
+Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid
