@@ -4787,3 +4787,4 @@ A framework of partial error correction for intermediate-scale quantum computers
 Separate Control of Transient Leakage Exposure and Endpoint Leakage in Fast Transmon Gates
 Optimization of high-fidelity single-qubit gates for fluxonium qubits using single-flux quantum control
 Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid
+Spin-orbit-coupling-induced geometric squeezing in rotating Bose-Einstein condensates
