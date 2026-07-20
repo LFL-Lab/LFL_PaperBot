@@ -4788,3 +4788,17 @@ Separate Control of Transient Leakage Exposure and Endpoint Leakage in Fast Tran
 Optimization of high-fidelity single-qubit gates for fluxonium qubits using single-flux quantum control
 Single-component twisted $\mathbb{Z}_3$ orthogonal metal in an $e/3$-anyon fluid
 Spin-orbit-coupling-induced geometric squeezing in rotating Bose-Einstein condensates
+The Trinity of Markovian Quantum Thermodynamics: Unifying the Axiomatic, Microscopic, and Operational Paradigms
+Boosting State Discrimination in Quantum Brownian Motion Channel via Memory-Induced Coherence Preservation
+Performance Model for Hybrid Quantum-Classical Workflows
+Generation and detection of squeezed light on a single silicon photonic chip
+Benchmarking Hybrid Quantum-Classical Algorithms for Power Grid Optimization Problems
+Agnostic learning of qudit stabilizer states
+Reconstruction of the noise correlation spectral density from the cavity emission in a two-qubit system
+Quantum-classical crossover in fault-tolerant quantum dynamics simulation
+Fast logical operations in quantum LDPC codes using simple resource states
+Fermion parity of an Andreev molecule probed by nonlocal Josephson effect
+Programming with Quantum-Controlled Quantum Channels
+Harnessing resonant dipolar interactions in a hybrid atom-molecule quantum system
+Radiopurity material assays and radiation exposure projections for superconducting qubit measurements at SNOLAB
+Nanoscale stray fields from micromagnets for optimal spin qubit architecture
