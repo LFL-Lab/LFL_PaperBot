@@ -4817,3 +4817,9 @@ Biased-Noise Quantum Reed--Solomon Codes and a Tornado Concatenation for Cat Qub
 Biased-noise thresholds of zero-rate holographic codes with tensor-network decoding
 Nonreciprocal Superconducting Transport from Chiral Edge States
 Superconducting qubit control using cryogenic frequency conversion
+Observation of a power transfer controlled by the phase of a quantum superposition
+Simulating the Dicke Model on Qubit-Based and hybrid Qubit-Boson-Based Quantum Computers
+Simultaneous calibration of rotation and phase errors in a single experiment
+Limit of spin squeezing in trapped Bose-Einstein condensates
+iSwitch: QEC on Demand via In-Situ Encoding of Bare Qubits for Ion Trap Architectures
+Controller-decoder system requirements derived by implementing Shor’s algorithm with surface code
