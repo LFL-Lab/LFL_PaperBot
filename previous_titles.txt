@@ -4823,3 +4823,12 @@ Simultaneous calibration of rotation and phase errors in a single experiment
 Limit of spin squeezing in trapped Bose-Einstein condensates
 iSwitch: QEC on Demand via In-Situ Encoding of Bare Qubits for Ion Trap Architectures
 Controller-decoder system requirements derived by implementing Shor’s algorithm with surface code
+Hardware-in-the-Loop Syndrome-to-Decoder Validation for Repetition, Surface, CSS-LDPC, and Digitized-GKP Codes
+Robust logical Bell nonlocality based on quantum error correction codes
+Generation of vortex-squeezed light in a coherently prepared medium
+Biased-noise qubits: a guide to efficient fault-tolerance using the hierarchy of errors
+Entanglement dynamics through electromagnetic interactions in single-electron traps
+Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations
+Intermittency in Quantum Graviton-Phonon Conversion
+Precision limit under weak coupling with an ancillary qubit
+Biased-Noise Quantum Reed-Solomon Codes and a Tornado Concatenation for Cat Qubits
