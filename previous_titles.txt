@@ -4832,3 +4832,14 @@ Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IB
 Intermittency in Quantum Graviton-Phonon Conversion
 Precision limit under weak coupling with an ancillary qubit
 Biased-Noise Quantum Reed-Solomon Codes and a Tornado Concatenation for Cat Qubits
+Component-Level Inverse Design of Transmon Qubits Using Neural Networks
+An Analytically Trained Variational Surrogate for Quantum Phase Estimation on NISQ Hardware
+A Quantum Interface Between Neutral-Atoms and Trapped-Ions Quantum Registers
+Classifying Topology via Edge-State Pure Thermalization
+Quasiparticle-induced transitions in a fluxonium qubit
+Strategic Plan for Neutral Atom Quantum Computation
+Fault-tolerant quantum algorithms for simulating atomic nuclei
+Quantum error correction and biological error correction: A structural analogy between qubits and neurons
+Graviton-induced which-path decoherence in matter-wave interferometry
+$ZZ$-free two-transmon CZ gate mediated by a fluxonium coupler
+Exceptional Points in a Parallel Double-Quantum-Dot Josephson Junction Coupled to a Ferromagnetic Reservoir
