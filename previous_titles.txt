@@ -4843,3 +4843,14 @@ Quantum error correction and biological error correction: A structural analogy b
 Graviton-induced which-path decoherence in matter-wave interferometry
 $ZZ$-free two-transmon CZ gate mediated by a fluxonium coupler
 Exceptional Points in a Parallel Double-Quantum-Dot Josephson Junction Coupled to a Ferromagnetic Reservoir
+Capacitive Loading in Two-dimensional Fluxonium Quantum Processors
+Low loss superconducting resonators enabled by aluminum microstructural engineering and dielectric trimming
+A route to damage tolerance exceeding $10\%$ in shuttling-equipped quantum processors
+Highly indistinguishable photons from a tin-vacancy spin qubit in diamond
+Algebraic structure of Tiger codes
+Automated Flag-based Fault-Tolerant State Preparation using Integer Linear Programming
+Correlated Coherent Errors in Stabilizer Codes: A General Cumulant Framework and Interference-Based Error Suppression
+Substrate-metal interface engineering enhances TaN/Ta thin film superconducting resonator performance
+Benchmarking Quantum Simulation of Chemical Hamiltonians using the Sorted-List Encoding
+From Liouville equation to universal quantum control: A study of generating ultra highly squeezed states
+Robustness Evaluation of Hybrid Quantum Neural Networks under Noise Models via System-Level Error Mitigation
