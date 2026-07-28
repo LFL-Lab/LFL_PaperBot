@@ -4854,3 +4854,27 @@ Substrate-metal interface engineering enhances TaN/Ta thin film superconducting 
 Benchmarking Quantum Simulation of Chemical Hamiltonians using the Sorted-List Encoding
 From Liouville equation to universal quantum control: A study of generating ultra highly squeezed states
 Robustness Evaluation of Hybrid Quantum Neural Networks under Noise Models via System-Level Error Mitigation
+Wigner negativity and stellar rank for SU(1,1) states
+Bias-preserving cat-cat CNOT gate via vacuum-conditional beam-splitter
+The Ruskai-Audenaert conjecture & equipartitions of positive operators
+Nested Integral Generator Theorem: From Operator Tautologies to Families of Exact Integral Identities
+Performance of Krotov, PRONTO and PINN for optimal control of quantum gates
+An Integrated DFT-Wannier-Quantum Embedding Pipeline for Strongly Correlated Materials: Scaling Benchmarks in Li-hBN
+Performance and Stability of Quantum Krylov Diagonalization for the Hubbard Model
+Mitigation of Measurement-Induced State Transitions via a Fast-Load and Fast-Clear Readout
+Environment-assisted squeezing in a coherently driven non-Hermitian degenerate parametric oscillator
+Scalable Photon-Mediated Two-Qubit Gates with Spectrally Noisy Quantum Emitters
+Recoverable Quantum Computation: An Information-Centric Paradigm for Quantum Computing with Errors
+Pound-Drever-Hall Feedforward for Trapped-Ion Optical Qubits
+High-order quantum correlations in nonlinear waveguide quantum electrodynamics
+A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson Hamiltonian
+Thermal Quantum Correlations in Coupled Andreev Spin Qubits: Interplay of Superconducting Phase and Spin-Orbit Interaction
+Quantum-Limited Symbol-Blind Channel Estimation for Coherent State Discrimination
+Geometric bounds on multiparameter Heisenberg scaling in optical metrology with limited squeezed resources
+Phonon heat transport with squeezing-based symmetry breaking
+Learning and simulating bosonic systems via finite-energy locality
+Non-Abelian Quantum Signal Processing: A Composite Pulse for Fast Analytic Control of Hybrid Oscillator-Qubit Processors
+Global multimode squeezing in a train of ultrashort pulses from unbalanced SU(1,1) interferometers
+Fast, High-Fidelity Transmon Readout with Intrinsic Purcell Protection via Nonperturbative Cross-Kerr Coupling
+Engineering Andreev bound states for thermal sensing in proximity Josephson junctions
+Signatures of Topological Magnon Edge States in THz Spectroscopy and Cavity Response
