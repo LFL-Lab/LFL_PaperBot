@@ -4878,3 +4878,12 @@ Global multimode squeezing in a train of ultrashort pulses from unbalanced SU(1,
 Fast, High-Fidelity Transmon Readout with Intrinsic Purcell Protection via Nonperturbative Cross-Kerr Coupling
 Engineering Andreev bound states for thermal sensing in proximity Josephson junctions
 Signatures of Topological Magnon Edge States in THz Spectroscopy and Cavity Response
+Fault-tolerant distributed quantum computing with a single nucleus per node
+Numerical Modeling of Quasiparticle-Induced Dissipation in Fluxonium Qubits
+Dissipation Enables Strongly Detuning-Dependent Interference in Pulsed Dynamical Decoupling
+Nonlocal Magnonic Cat States in Hybrid Magnon-Qubit Architectures
+OmniQEC: discovering practical quantum error-correcting codes by an AI scientist
+Predicting the Slow Drift of Nuclear Spin Noise in Semiconductor Spin Qubits
+Gate-Level Quantum Simulation of Nonunitary Linear Dynamics with Hybrid Oscillator-Qubit Architecture
+Higher Josephson Harmonics in a Tunable Double-Junction Transmon Qubit
+Theory of ballistic SNS junctions revisited
