@@ -4900,3 +4900,15 @@ Fault-Tolerant Logical Operations and Efficient State Preparation in Modular Qua
 Enhanced Variational Quantum Kolmogorov-Arnold Network
 Record Loss Sets a Rare-Trajectory Limit on Quantum Purification
 $ZZ$-free two-transmon $CZ$ gate mediated by a fluxonium coupler
+Restrictions on non-Clifford fault tolerance and ruling out beyond-SQL quantum metrology
+Noise-resilient and Scalable Quantum Error Correction for Nuclear Spin Qubits in Silicon with Electron Shuttling
+Exploring the use of quantum computing for facilitating spatially and temporally resolved models of a biological cell
+Quantum LDPC codes with design rate 1/5 and good performance below 1000 physical qubits
+Design of a Quantum Error Correction Decoder Exploiting Temporal Parallelism
+Generating broadband optical squeezing via Cascaded Micro-Ring Resonators
+Logical computation with canonical lifted product codes
+On Optimal Measurement-State Preparation via Geometric Transport of the Squeezing Ellipse
+Pareto Front Engineering of Dynamical Sweet Spots in Superconducting Qubits
+Hybrid Quantum Error Correction and Mitigation by Purification
+Certifying Non-Classicality and Non-Gaussianity Through Optical Parametric Amplification
+Theoretical roadmap for suppressing electrically induced spin decoherence in silicon T centers via dynamical decoupling
