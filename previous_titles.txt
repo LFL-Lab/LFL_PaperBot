@@ -4912,3 +4912,10 @@ Pareto Front Engineering of Dynamical Sweet Spots in Superconducting Qubits
 Hybrid Quantum Error Correction and Mitigation by Purification
 Certifying Non-Classicality and Non-Gaussianity Through Optical Parametric Amplification
 Theoretical roadmap for suppressing electrically induced spin decoherence in silicon T centers via dynamical decoupling
+Nuclear Spin Squeezing Based on Spin-Exchange Collisions
+Numerical Optimization of Two-Qubit Gates in Silicon Flip-Flop Qubit Arrays under Electrical Control
+Non-Hermitian Quantum Nonlinear Optics with Single Photons
+Erasure surface code circuit without mid-circuit erasure checks
+Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units
+QAdapt: A Noise-Adaptive Neural Pre-Decoding Framework for Quantum Error Correction
+Meissner Effect and Josephson Radiation in Driven Dissipative Superconductors
