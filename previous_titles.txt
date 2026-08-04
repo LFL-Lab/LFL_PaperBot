@@ -4919,3 +4919,21 @@ Erasure surface code circuit without mid-circuit erasure checks
 Qubit Loss Inference with Stabilizer Codes without Leakage Detection Units
 QAdapt: A Noise-Adaptive Neural Pre-Decoding Framework for Quantum Error Correction
 Meissner Effect and Josephson Radiation in Driven Dissipative Superconductors
+Realization of a Quantum Topological Photon Pump
+Fault-Tolerant Heisenberg-Limited Quantum Sensing
+Sparse Quantum State Preparation with Sublinear T-Count
+Cooperative Platoon Routing and Dispatching via Edge-Assisted Hybrid Quantum Optimization
+Measurement-Based Loss Tolerance in Graph-GKP Codes through Syndrome-Resolved Pauli-Frame Decoding
+On Identification of Heat and Work in Quantum Many-Body Systems with Local Operations and Classical Communication
+Twenty-one characterizations of reversible quantum channels
+Fault-tolerant quantum computing with a microwave Cat Bus
+Robust Nonclassical magnon pair generation and Cauchy-Schwarz inequality violation in a hybrid electromagnonic system
+The Pangaea Architecture: Fault-Tolerant Heterogeneous Topological Codes via a Quantum Bus
+Oraqle: An Empirical Analysis of Qubit Readout and Discriminators in Quantum Error Correction
+Zero-G: A Pre-Decoder-Aware Decoder for Quantum Error Correction
+Convergence monitoring of quantum Gibbs samplers
+Quantum computer-based simulation of Stark many-body localization in a 1D Fermi-Hubbard model
+Squeezing-Fueled Quantum Otto Engine via Measurement-Induced Cooling: The Two-Qubit Quantum Rabi Model
+Arbitrary-Distance Quantum Error Correction with Gauss's Law for $\mathbb Z_2$ Lattice Gauge Theory
+How NOT to build control-target gates in semiconductor quantum dots and beyond
+Long-time entanglement in open atomic systems driven by a dissipative squeezed cavity
