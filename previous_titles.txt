@@ -4949,3 +4949,20 @@ Real-time decoding of quantum error correction codes using high-performance comp
 High-Frequency Gravitational Wave Detection with Superconducting Qubits
 Bounded Dyson maps and cavity-driven transitions in a time-dependent non-Hermitian spin-boson model
 An entangling gate for dual-rail erasure qubits
+Quantum Error Management in Practice: A Cross-Stack Benchmark
+Quantum channel learning with limited parallel access
+Quantum Error Mitigation with Diffusion-Like Models
+X-Z Round Scheduling for the Surface Code with Defects under Biased Noise
+Quantum information loss
+Provably Efficient Self-Calibrating Quantum Fault Tolerance
+Beyond transversality: structure of Clifford circuits for CSS codes
+Quantum error correction with global control
+Towards fault-tolerance with universal phase-error-transparent gates for high-spin cat codes
+Nonlinear Compton scattering in a quantized pump field
+Time-Reversal Selection Rules for Quantum Error Correction
+GreenPeas: Unlocking adaptive quantum error correction with just-in-time decoding hypergraphs
+Task-Dependent Syndrome Memory in Quantum Sensing and State Recovery
+Asymptotically optimal joint phase and dephasing-strength estimation using spin-squeezed states
+Robust Bayesian spin-squeezing-enhanced quantum sensing under noise
+Gate-based microwave quantum repeater via grid-state encoding
+Promise of Graph Sparsification and Decomposition for Noise Reduction in QAOA: Analysis for Trapped-Ion Compilations
