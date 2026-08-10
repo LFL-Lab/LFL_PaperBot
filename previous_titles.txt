@@ -4966,3 +4966,17 @@ Asymptotically optimal joint phase and dephasing-strength estimation using spin-
 Robust Bayesian spin-squeezing-enhanced quantum sensing under noise
 Gate-based microwave quantum repeater via grid-state encoding
 Promise of Graph Sparsification and Decomposition for Noise Reduction in QAOA: Analysis for Trapped-Ion Compilations
+Matrix Product State Theory of Few-Photon Squeezed Pulses Interacting with a Two-Level Emitter in a Waveguide
+High-Performance Quantum Transduction with Correlated Noise
+Sub-Vacuum Jamming for Secure Communication
+Investigating Quantum-Embedded Transformers on Classical Datasets for Cross-Modality Classification
+Multimode phonon-mediated enhancement of entanglement and competing synchronization in cavity magnomechanics
+Many-Body Localization Induced by Correlated Disorder in Interacting Superconducting Qubits
+Ultrafast quantum gate operations in a Kramers-Henneberger atom Qubit
+Demonstration of an LLO CV-QKD system over 12 km of optical fiber
+Flip-chip integrated superconducting qubits using electroplated bump bonds
+Spin Qubits in Photon-Coupled Microwave Cavities
+An ionic clock qubit inside a circular Rydberg atom
+Harnessing bound states in the continuum for quantum and nonlinear photonics in silicon nitride microresonators
+MCMit: Hardware-Software Co-Design for Mid-Circuit Measurement Error Mitigation
+Symmetry-Projected Weakly Compatible Multiparameter Quantum Sensing
