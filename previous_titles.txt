@@ -4980,3 +4980,20 @@ An ionic clock qubit inside a circular Rydberg atom
 Harnessing bound states in the continuum for quantum and nonlinear photonics in silicon nitride microresonators
 MCMit: Hardware-Software Co-Design for Mid-Circuit Measurement Error Mitigation
 Symmetry-Projected Weakly Compatible Multiparameter Quantum Sensing
+Emergent Non-Markovian Nonlinear Qubit From Collective Spin Interactions
+Quantum Decision Theory for Displacement Detection with Finite-Energy GKP States
+Preserving Heisenberg-Limited Metrological Information during Storage via Correlated-Noise Correction
+The Magic Scroll: Leveraging biased noise to improve magic state cultivation in register-based architectures
+Squeezing for dispersive readout of NV magnetometer
+A Heterogeneous Distributed Architecture for Quantum Simulation
+A non-Markovian approach to spin-phonon coherence and the breakdown of the Markovian approximation
+Memory-, Circuit-, and Ansatz-Efficient VQLS for CFD on Hybrid Quantum-HPC Systems
+Magic State Distillation via Codes over Binary Extension Fields
+Sub-Rayleigh Imaging of Unequal-Intensity Sources: Near-Quantum-Limit Multiparameter Estimation
+Quantum sensing composite excitations in an anisotropic ferromagnet via a qubit
+Efficient and scalable inter-module switching for distributed quantum computing architectures
+Quantum Sensing of Birefringence Beyond the Classical Limit with a Hyper-Squeezed SU(1,1) Interferometer
+Neutral Atom Quantum Computing: Principles, Routes, Progress, and Challenges
+Minimal-energy optimal control of tunable two-qubit gates in superconducting platforms using continuous dynamical decoupling
+Toward spectral engineering of squeezed light in high-gain parametric down-conversion
+Crystalline Group-IV Josephson Junction
