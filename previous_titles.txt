@@ -4997,3 +4997,9 @@ Neutral Atom Quantum Computing: Principles, Routes, Progress, and Challenges
 Minimal-energy optimal control of tunable two-qubit gates in superconducting platforms using continuous dynamical decoupling
 Toward spectral engineering of squeezed light in high-gain parametric down-conversion
 Crystalline Group-IV Josephson Junction
+Long-lived memory effects in the defect bath of superconducting qubits
+Generating GKP states using quantum dots inside a strongly coupled cavity
+A Quantum Dynamics Tutorial: Visualising Dynamical Decoupling Sequences on the Bloch Sphere
+Entanglement depth and ancilla efficiency in quantum channel estimation
+Quantum Codes with Arbitrary Z-Rotation logical Gates and Applications to Fault-Tolerant Code Switching
+Floquet Green's functions for lattice electrons driven by Gaussian quantum light
