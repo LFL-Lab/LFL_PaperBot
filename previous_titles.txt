@@ -5011,3 +5011,12 @@ Tutorial: Understanding quantum Zeno and anti-Zeno regimes
 Simple and efficient end-to-end quantum thermal and ground state preparation
 Energy relaxation via quantum thermalization: A superconducting qubit coupled to an interacting many-body two-level system
 Fault-tolerant resource comparison of qudit and qubit encodings for diagonal quadratic operators
+AutoQuREO: A Framework for Automated Quantum Resource Estimation and Optimization
+Always-on, highly efficient microwave photon detector based on a superconducting artificial molecule
+Mid-circuit ground-state cooling and ancilla readout in the $\textit{omg}$ architecture
+Heterogeneously Integrated Squeezed-Light Generation and Detection on a Single Photonic Chip
+Spectral Localization Principle for Entanglement Harvesting
+Clifford Circuit Synthesis for Distributed Quantum Architectures with Arbitrary Network Topology
+Floquet Quasiparticle Poisoning of Frozonium
+Inductively-protected Andreev (IPA) spin qubit
+Fast and sensitive readout of a semiconductor quantum dot using an <i>in situ</i> microwave resonator with enhanced gate lever arm
