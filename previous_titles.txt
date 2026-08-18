@@ -5030,3 +5030,16 @@ QuMIMO Diversity over Discrete-Variable Free-Space Optical Channels
 Visibility-Engineered Multiparameter Sensing in Dispersive Quantum Interferometry: Identifiability, Noise Robustness, and Hardware Emulation
 A First Bound on the Moffat Energy and Thorium-229 Clock as a Probe of the Nonlocal Time-Energy Structure and a Proposed Experiment for the use of Nuclear Entanglement and Squeezed States to Test Nonlocal Quantum Field Theory
 Crystalline Germanium Josephson Junctions
+Optimized EIT-Based Multi-Target CNOT^k Gates in Heteronuclear Rydberg Atom Arrays
+Finite-energy GKP-QPC architectures for photonic quantum memories and repeaters
+Continuous Quantum Feedback Control via Kraus-Parameterized Belief Reinforcement Learning
+Machine Learning Approaches to Decoding Topological Quantum Codes
+Scientific applications of quantum computing: challenges and opportunities
+Time-optimal quantum gates with bang-bang control in multilevel systems
+Fault-Tolerant Quantum Computation with Adversarial Errors
+Spectator Leakage Suppression via Invariant Subspace Engineering for CZ Gates in Superconducting Quantum Circuits
+On-Chip Nonreciprocal Superconducting Frequency Multiplier for Cryogenic Millimeter-Wave Multiplexed Control
+Operational Concealment of Measurement Incompatibility by Quantum Channels: Rank Loss versus Contraction
+Majorana modes in graphene strips: Polarization, wavefunctions, disorder, and Andreev states
+Driven Time Crystal in Low-Symmetry ENZ Conductors
+Persistence of entangled states and high-fidelity quantum gate operations in Si/SiGe spin qubits at high temperature
