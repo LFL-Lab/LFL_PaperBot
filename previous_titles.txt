@@ -5043,3 +5043,18 @@ Operational Concealment of Measurement Incompatibility by Quantum Channels: Rank
 Majorana modes in graphene strips: Polarization, wavefunctions, disorder, and Andreev states
 Driven Time Crystal in Low-Symmetry ENZ Conductors
 Persistence of entangled states and high-fidelity quantum gate operations in Si/SiGe spin qubits at high temperature
+Sound and Efficient Certification of High-Quality Qubit Operations: Theory and Experiment
+Hardware-Aware Compilation and Execution of Bivariate Bicycle Codes on Neutral-Atom Systems
+Gate-level Implementation and Resource Analysis of Lackadaisical Quantum Walk Search
+Fast Nondestructive Readout for High-Clock-Rate Atom Array Quantum Processor
+Low-Depth and Noise-Resilient Quantum State Preparation for Partial Differential Equations via Virtual Rz
+Weak Typicality of von Neumann Entanglement Entropy in Gaussian Boson Sampling
+Beyond Legal Spacing: A Residual-Aware Characterization of Entangling-Zone Spacing in Neutral-Atom Compilation
+Quantum sensors that compute: quantum computational magnetic-field sensing using a superconducting qubit
+Quantum Circuit for General Unitary: Improved T-count via Block Flattening and Dilation
+Computationally Efficient Optimization of Per-Qubit Clifford Deformation for Non-uniform Biased Noise
+Astrophysical Graviton Squeezing Can Be Hidden in the Far-Field
+M-QAM MIMO Maximum-Likelihood Detection with QAOA: ML-Rate Offline Angle Design and Correlated Infinite-Size Spin-Glass Models
+Dynamics of Majorana tetron qubits under quasiparticle poisoning
+Initiation of Superradiance from Different Collective-Spin States
+Quantum sensing magnonic number states using a bosonic mode as the probe
