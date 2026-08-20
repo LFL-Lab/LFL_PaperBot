@@ -5058,3 +5058,13 @@ M-QAM MIMO Maximum-Likelihood Detection with QAOA: ML-Rate Offline Angle Design 
 Dynamics of Majorana tetron qubits under quasiparticle poisoning
 Initiation of Superradiance from Different Collective-Spin States
 Quantum sensing magnonic number states using a bosonic mode as the probe
+Sampling isometric tensor network states with monitored quantum circuits
+Good Stabilizer Codes from Shallow Clifford Circuits with Random Matchings
+Direct fidelity estimation through joint fiducial grouping
+An ultracompact dilution refrigerator for fast quantum device characterization
+Quantum-Enhanced Atomic Sensor via Spin Nonequilibrium Criticality
+AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL
+An ultra-bright, highly-scalable, squeezed light source for hybrid quantum photonics
+Realizing Logical Diagonal Gates via Transversal Physical $Z$-Rotations in CSS Codes
+Quantum circuit optimization using deep reinforcement learning: Applications across multiple gate sets
+Electromagnetic and Acoustic Fano Interference in Surface Acoustic Wave Resonators
