@@ -5068,3 +5068,11 @@ An ultra-bright, highly-scalable, squeezed light source for hybrid quantum photo
 Realizing Logical Diagonal Gates via Transversal Physical $Z$-Rotations in CSS Codes
 Quantum circuit optimization using deep reinforcement learning: Applications across multiple gate sets
 Electromagnetic and Acoustic Fano Interference in Surface Acoustic Wave Resonators
+The HALO Engine: $\mathcal{O}(1)$-Step Compilation and Localized String Rupture for Lattice Gauge Theories on Quantum Hardware
+Stability and squeezing of the three-photon degenerate parametric down-conversion
+High fidelity control of superconducting qubits with optical transmitted signal
+A charge selection rule fixes what a squeezed-light reservoir computer can compute and afford
+Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays
+Interferometric Signatures of Zero Modes in Fractional Quantum Hall-Superconductor Heterostructures
+Implementation of a $ZZ$-free i<span class="sc">swap</span> gate via dual-microwave suppression of $ZZ$ coupling
+Coherence protection of a silicon hole spin qubit with phase-modulated microwave driving
