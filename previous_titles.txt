@@ -5076,3 +5076,14 @@ Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Ne
 Interferometric Signatures of Zero Modes in Fractional Quantum Hall-Superconductor Heterostructures
 Implementation of a $ZZ$-free i<span class="sc">swap</span> gate via dual-microwave suppression of $ZZ$ coupling
 Coherence protection of a silicon hole spin qubit with phase-modulated microwave driving
+Practical Error Suppression and Mitigation for Reliable Quantum Computing
+Quantum Zeno and Anti-Zeno Responses: Universal Spectral Criterion for Measurement-Induced Decay
+Quantum thermodynamics and semidefinite optimization: Boltzmann, Fermi-Dirac, and Bose-Einstein frameworks
+A Bayesian formulation of hybrid quantum-classical dynamics
+Probing quantumness of superpositions of Gaussian states via Tsirelson probability
+Qubits for Dark Matter Hunting
+A Hybrid Quantum-Classical Framework for Utility-Scale Edge Detection of Real-World Medical and Geospatial Data
+Spatiotemporal Pauli processes: Quantum combs for modeling correlated noise in quantum error correction
+Fault-tolerant hyper-Ramsey spectroscopy of ultra-narrow clock transitions with dynamical decoupling
+Interedge backscattering in quantum spin Hall-based NS and SNS junctions
+Symmetry-Induced Weyl Nodes in Interacting Multi-Terminal Josephson Junctions
