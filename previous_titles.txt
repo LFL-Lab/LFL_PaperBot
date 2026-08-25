@@ -5087,3 +5087,22 @@ Spatiotemporal Pauli processes: Quantum combs for modeling correlated noise in q
 Fault-tolerant hyper-Ramsey spectroscopy of ultra-narrow clock transitions with dynamical decoupling
 Interedge backscattering in quantum spin Hall-based NS and SNS junctions
 Symmetry-Induced Weyl Nodes in Interacting Multi-Terminal Josephson Junctions
+Collective photon echoes in the Tavis-Cummings model: distribution independence, two detuning regimes, and the Dicke ladder
+Robust cavity metrology beyond the limits of Pound-Drever-Hall
+Emulating non-Markovian system-bath dynamics with parametrically driven cavities
+Scalable Quantum Key Distribution via GHZ Entanglement and Qubit Reuse
+Noise-Symmetry Optimization of Quantum Error-Corrected Metrology
+How Far Can You Do Nothing On a Quantum Computer?
+Surface-Code Quantum Error Correction for Molecular Tweezer Arrays: Encoding, Layout, and Correlated Noise
+Automating detection of Two-Level Systems in Superconducting Qubits
+A Cavity-Interfaced Register of Trapped-Ion Qubits with Multi-Second Coherence
+Spinning giant optomechanical cavity with nonreciprocal self-interference
+Fock-state filtering of squeezed states: enhanced nonclassicality and effects of a thermal bath
+Numerical Evaluation of ZX Calculus Optimization for Solovay Kitaev Quantum Circuit Synthesis
+A Unified Quantum Neural Network Framework for Hamiltonian Learning and Emulation of Unknown Quantum Systems
+Taming Spacetime Overhead and Design Complexity in Distributed Fault-Tolerant Superconducting Quantum Computation
+Quantum-Geometric Length Scale for Long-distance Squeezing in Bosonic Bogoliubov Systems
+Leakage-suppressed parametric entangling gates in a spin-resonator hybrid system
+High-fidelity, robust, and programmable quantum logic units via intersubspace dynamical decoupling
+Time reversal of complex evolution on a quantum computer
+Quantum-Noise Induced Localization and Motional Squeezing in a Rydberg Quantum Simulator
