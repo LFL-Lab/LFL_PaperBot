@@ -5109,3 +5109,17 @@ Quantum-Noise Induced Localization and Motional Squeezing in a Rydberg Quantum S
 Improved Quantum Codes with Transversal T Gates
 Holographic codes seen through ZX-calculus
 Quantum-limited traveling-wave parametric amplifier based on DUV-defined planar structures
+Observing Bell Inequality Violation Beyond the Qubit Bound in a Spinor Bose--Einstein Condensate
+Mixed-State Symmetry-Protected Topology and Strong-to-Weak Spontaneous Symmetry Breaking in a Superconducting Qubit Array
+Low-leakage superconducting-qubit measurement with sub-100-ns total duration
+High-Fidelity Entangled States in a Connectivity-Four Fluxonium Quantum Processor
+Certified decoding of quantum LDPC codes
+Phase-sensitive cascade quantum amplifier with nearly noiseless operation
+Fault-tolerant $|\sqrt{ \mathrm{T} }\rangle$ state preparation and injection for more efficient fine-grained quantum circuit synthesis
+Dissipatively Stabilized 0-n Fock Qubits for Noise-Biased Quantum Computing
+The Gain-Engineered Transmon
+Immittance formulas for exact blackbox quantization and divergence-free effective models in circuit QED
+Switchable heavy-hole/light-hole spin qubit
+Characterizing Physical Error Contributions of Quantum Gates
+Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era
+Squeezed vibrational states in superfluid helium
