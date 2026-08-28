@@ -5123,3 +5123,9 @@ Switchable heavy-hole/light-hole spin qubit
 Characterizing Physical Error Contributions of Quantum Gates
 Edge-Local and Qubit-Efficient Quantum Graph Learning for the NISQ Era
 Squeezed vibrational states in superfluid helium
+Fast GHZ encoding with $1-o(1)$ fidelity
+Detuning-robust Rydberg entangling gates from echoed pulses
+Quantum-enhanced ghost imaging recognition via joint optimization of speckle patterns and quantum network parameters
+Programmable Cavity Squeezing for Distributed Sensing in a Tweezer Array
+Permutation-invariant Holstein-Primakoff spin codes for local and collective noise
+Occupation-Driven Josephson Diode in a Symmetric Junction
