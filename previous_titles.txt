@@ -5129,3 +5129,11 @@ Quantum-enhanced ghost imaging recognition via joint optimization of speckle pat
 Programmable Cavity Squeezing for Distributed Sensing in a Tweezer Array
 Permutation-invariant Holstein-Primakoff spin codes for local and collective noise
 Occupation-Driven Josephson Diode in a Symmetric Junction
+Quantum Resource Estimation for Simulating the SYK Model with Trotterization, qDRIFT, and Asymmetric Qubitization
+Scaling Alternating-Bias-Assisted Annealing for Precision Transmon Frequency Targeting on Superconducting Quantum Processors
+High-Throughput Normalized Min-Sum Belief Propagation Decoding for Quantum LDPC Codes with Near-Memory Processing
+Predicting Multipartite Entanglement in Quantum Circuits using Transformer
+Role of the Drive in Mediating Correlations Between Two Qubits Through a Shared Dissipative Cavity
+Kerr nonlinearity and three-wave mixing in superconducting resonators hosting Al-InAs weak links
+Hardware-Efficient Error Mitigation and Shot-Efficient Sampling on IBM Quantum Hardware
+Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering
