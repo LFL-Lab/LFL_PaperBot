@@ -5137,3 +5137,19 @@ Role of the Drive in Mediating Correlations Between Two Qubits Through a Shared 
 Kerr nonlinearity and three-wave mixing in superconducting resonators hosting Al-InAs weak links
 Hardware-Efficient Error Mitigation and Shot-Efficient Sampling on IBM Quantum Hardware
 Bunny Codes: Broadening Superconducting Quantum Error Correction Capability through Advanced Control Engineering
+Probabilistic generation of two-mode binomial cat states using cross-Kerr interactions
+FIREQ: FPGA Instrumentation for Readout and Qubit control
+Parametric amplification in a Kerr Oscillator based on Ne FIB Nanobridges
+Analytical diagonalization of the open-boundary bosonic Kitaev chain: An asymmetric plane-wave ansatz approach
+Dark state as a measurable state by a dispersive readout without a Purcell limit
+Newtonian Gravitational Curvature-Induced Entanglement Generation
+Deterministic Universal Logical Gates for Finite-Energy GKP Qubits in Trapped Neutral Atoms
+Engineering multi-photon dissipation with a dc-voltage-biased Josephson junction
+Josephson-Phase Reversal of Non-Bloch Andreev Propagation
+Homological origin of the transversal implementability of logical diagonal gates in quantum CSS codes
+Achieving Heisenberg limit under noisy conditions with quantum Zeno dynamics and dynamical decoupling
+Dispersive Qubit Readout with Intrinsic Resonator Reset
+Maximum-precision charging of multiqubit quantum batteries
+Crosstalk in multiqubit fluxonium architectures with transmon couplers
+Ballistic-to-Localized Dynamics as Signature of Quantum Phase Transition in Josephson Junction
+Evanescent-mode Casimir-Josephson force and gate-controlled resonances in ballistic graphene Josephson junctions
