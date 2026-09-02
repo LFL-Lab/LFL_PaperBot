@@ -5153,3 +5153,12 @@ Maximum-precision charging of multiqubit quantum batteries
 Crosstalk in multiqubit fluxonium architectures with transmon couplers
 Ballistic-to-Localized Dynamics as Signature of Quantum Phase Transition in Josephson Junction
 Evanescent-mode Casimir-Josephson force and gate-controlled resonances in ballistic graphene Josephson junctions
+Exact learning of quantum noise with tensor networks
+Parametric amplification of continuous-variable entangled state for loss-tolerant quantum distributed sensing
+Superconducting Flux Memory for Cryogenic Applications
+Thermal screening and critical scaling of quantum energy teleportation in a harmonic chain
+Anticoncentration and entanglement in Gaussian boson sampling
+Completing or Refusing Low-Dimensional Records of Structured Quantum Circuits: Measurement Loss, Compression Loss, and Hardware Drift
+Exactness of the doubly nonnegative relaxation for qubit-output quantum channels
+Quantum Magnetometry with Orientation beyond Steady-State Limits in Cavity-Magnon Systems
+Tensor-network representation of excitations in Josephson-junction arrays
