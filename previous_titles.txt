@@ -5162,3 +5162,20 @@ Completing or Refusing Low-Dimensional Records of Structured Quantum Circuits: M
 Exactness of the doubly nonnegative relaxation for qubit-output quantum channels
 Quantum Magnetometry with Orientation beyond Steady-State Limits in Cavity-Magnon Systems
 Tensor-network representation of excitations in Josephson-junction arrays
+Bosonic quantum control with a weakly coupled fluxonium qubit
+Error accumulation in dissipative quantum circuits
+Need One Bell-pair Only (NOBOL) for Low-Overhead Fault-Tolerant Quantum Computing
+Universal scaling and protocol-dependent amplitude in hybrid quantum walks
+Logarithmic-scale variational quantum eigensolver for off-lattice protein structure prediction in continuous torsional angle space
+A variational quantum eigensolver-based cutting plane framework for semidefinite programming problems
+Coherent microwave-to-optical transduction with Yb:YSO spins strongly coupled to a 3D resonator
+Implementation of quantum gates by Floquet analysis of kicked quantum system
+Programming anharmonic potentials in a superconducting harmonic oscillator
+Optimal Fusion Strategies for Quantum Computation
+Thouless pumping and generation of squeezed Fock-state superpositions in a Fock-state lattice
+Transversal Gates and Magic State Distillation in an Optimally Synthesized Spin-Qubit Shuttling Bus
+Tuning Boron-Vacancy Qubit Coherence through Layer Number in hBN
+Effective Sub-Quantum Readout for Non-Monochromatic Axion Signals in High-$Q$ Haloscopes
+Qubit Syndrome Measurements with a High-Fidelity Rb-Cs Rydberg Gate
+Arm qubit: A superconducting qubit co-designed for coherence and coupling
+A thermodynamic uncertainty relation for (hybrid) N--S coherent conductors
