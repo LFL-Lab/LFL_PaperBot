@@ -5179,3 +5179,14 @@ Effective Sub-Quantum Readout for Non-Monochromatic Axion Signals in High-$Q$ Ha
 Qubit Syndrome Measurements with a High-Fidelity Rb-Cs Rydberg Gate
 Arm qubit: A superconducting qubit co-designed for coherence and coupling
 A thermodynamic uncertainty relation for (hybrid) N--S coherent conductors
+Stabilization of dark states in emitter arrays coupled to a half-waveguide
+Optimized Matrix-Product State Simulations of Quantum Error Correction Circuits
+Experimental validation of a compact fault-tolerant architecture for trapped ions
+Pulse-Controlled Topologically Protected Quantum Batteries
+Energetic Costs of Subspace Quantum Error Correction
+Quantum-Enhanced Phase Estimation with Photon-Added Even and Odd Coherent States in an SU(1,1) Interferometer
+Streaming Belief Propagation on Mixed-Alphabet Tanner Graphs for Practical Quantum Memory
+Mitigating Capacitive Loading Enables Fast Two-Qubit Gates in Highly Connected Fluxonium Quantum Processors
+Flux noise without flux tunability in superconducting qubits
+Exciton multipolarity controls coherent and squeezed phonons in van der Waals heterostructures
+A Superconducting Peierls Instability
