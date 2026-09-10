@@ -5201,3 +5201,12 @@ Parametric and feedback-controlled multiparameter quantum estimation in a double
 Proposals for experimentally realizing quantum-autonomous gates
 Statevector-to-Hardware Reconstruction of a Four-Qubit ZZ Quantum Kernel: A Single-Backend Case Study of Three Execution Jobs
 Transparency-engineered SQUID cells for Kerr-free three-wave-mixing Josephson metamaterials
+Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs
+Execution-transcript privacy for fault-tolerant surface-code memories
+Josephson energy of superconducting junctions: amorphous versus crystalline tunnel barriers
+Robust Device-Independent Certification of Boolean-Phase Gates
+Loss-correcting fault-tolerant quantum computing architecture for neutral atoms
+In situ characterization of a photon-subtraction device via heralding counts and homodyne detection
+Private communication via zero-private-capacity quantum channels
+Quantum Ring States
+Qubit-Based Benchmarking of InP HEMT LNAs: Readout Fidelity Versus Power Consumption
