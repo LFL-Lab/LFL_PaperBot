@@ -5222,3 +5222,11 @@ Many-body gravitating quantum systems with Bose-Einstein condensates and dipolar
 Dissipative quantum mechanics of Andreev bound states
 Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
 Weak antilocalization, spin–orbit interaction, and phase coherence in the 3D Dirac semimetal Bi 4 Se 3
+Benchmarking the computational power of quantum computers
+Path-Degenerate Quantum Interferometry for Decoherence Mitigation in Gravitational-Wave Detectors
+Sparse-Blossom Decoding in $o(1)$ Time
+Factoring six-digit integers with superconducting quantum circuits
+Extremely Low-Cost Magic State Preparation toward Fault-Tolerant Quantum Computing
+Fast quantum squeezing of a nanomechanical oscillator with an inverted potential
+Unified scaling of transmon sub-resonant parametric drive strength limits
+Error Correction in a Distributed Quantum Computer
