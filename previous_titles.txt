@@ -5230,3 +5230,24 @@ Extremely Low-Cost Magic State Preparation toward Fault-Tolerant Quantum Computi
 Fast quantum squeezing of a nanomechanical oscillator with an inverted potential
 Unified scaling of transmon sub-resonant parametric drive strength limits
 Error Correction in a Distributed Quantum Computer
+CUDA-Q Logical: Retargetable Compilation for Fault-Tolerant Quantum Computing
+WISER: Systematic Design-Space Exploration of Fault-Tolerant Global Control Trapped-Ions
+Broadband Purcell Filter for Fast Superconducting Qubit Reset and Readout
+Fast CZ gate in hybrid fluxonium-transmon systems with tunable couplers
+An All-van-der-Waals Qubit
+Squeezing measurement with spectrally broadened in microstructured fiber local oscillator
+Parameter-Efficient Quantum NLP for Paraphrase Detection: Performance, Robustness, and Entanglement
+Fermionic quantum error correction is never free
+Improving precision scaling via backaction-evading continuous measurement in a driven-dissipative Kerr parametric oscillator
+Electromagnetic Selection Rules and Coherent Manipulation of Quantum Skyrmion via Surface Acoustic Wave Phonons
+Engineering dissipation and control pulses for high-fidelity fault-tolerance quantum computing
+Parametric two-qubit gates via Landau-Zener interference
+Reducing Decoding Latency in Quantum Error Correction by Early Starting Clustering
+OpenQARP: a modular framework for quantum application research
+Generation of entanglement and magic via continuous homodyne monitoring of a qubit pair
+Quantum Codes for Generalized Amplitude-damping Noise
+Quantum energetics of a non-commuting measurement
+A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phases, Entanglement, and Coherence
+One- and two-dimensional cluster states for topological phase simulation and measurement-based quantum computation
+Dynamically suppressing cavity dephasing induced by frequency fluctuations of a coupled nonlinear mode
+Squeezed light and coherent feedback enhanced multiparameter quantum estimation in a double-cavity optomechanics: steady and dynamical states
