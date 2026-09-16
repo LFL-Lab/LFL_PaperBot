@@ -5251,3 +5251,11 @@ A Multi Affine Geometric Framework for Quantum Nonlocality. Unifying Berry Phase
 One- and two-dimensional cluster states for topological phase simulation and measurement-based quantum computation
 Dynamically suppressing cavity dephasing induced by frequency fluctuations of a coupled nonlinear mode
 Squeezed light and coherent feedback enhanced multiparameter quantum estimation in a double-cavity optomechanics: steady and dynamical states
+Pulse-Level Compilation of Measurement-Free Recovery in Transmon Circuits
+Error-Bounded Fixed-Point Design of Super-Sample-Rate IIR Filters for Real-Time Superconducting Qubit Flux Predistortion
+Quantum Simulation of Two-Dimensional Free Dirac Hamiltonian in Multimode Circuit QED
+Two-qubit gates for the soft 0-{\pi} qubit
+Probabilistic Error Cancellation for Single-Mode Gottesman-Kitaev-Preskill Codes
+Phase-stable voltage bias for Josephson photonics devices
+Quantum Compiler Design for Fault-Tolerant Quantum Computing
+Lower Bounds on Coherent State Rank
