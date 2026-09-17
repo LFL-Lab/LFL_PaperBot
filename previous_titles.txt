@@ -5259,3 +5259,13 @@ Probabilistic Error Cancellation for Single-Mode Gottesman-Kitaev-Preskill Codes
 Phase-stable voltage bias for Josephson photonics devices
 Quantum Compiler Design for Fault-Tolerant Quantum Computing
 Lower Bounds on Coherent State Rank
+Quantum Encodings, Private Messages, and Communication Complexity
+Fourier Analysis of Parametrized Interactive Quantum Classifiers
+Bath dimension and initial entropy for closed repeated use of a quantum channel
+Impact of a CSS quantum error correction code in underwater quantum key distribution
+Hamiltonian engineering via pulses: beyond group averaging
+Finite relative entropy for locally squeezed states
+Rings Around the Ancilla: A Workload-Aware FTQC Architecture
+Certified targets for measuring and controlling an entanglement-breaking index on programmable hardware
+Phonon blockade via Floquet-sideband resonance in a circuit quantum acoustodynamics system
+High-fidelity transmon reset with a multimode acoustic resonator
