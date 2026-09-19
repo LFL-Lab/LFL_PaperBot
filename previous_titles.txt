@@ -5280,3 +5280,4 @@ Scalable logical qubits
 Weak-measurement assisted quantum teleportation fidelity enhancement under noise
 Readout-Induced Degradation of Transmon Lifetimes: Interplay of TLSs and Qubit Spectral Reshaping
 Generating hybrid entanglement between a discrete-variable optical qubit and multiple continuous-variable optical qubits in circuit QED
+Local inhomogeneity-mediated phase-dependent magnon amplification in YIG nanostructures
