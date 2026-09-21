@@ -5281,3 +5281,8 @@ Weak-measurement assisted quantum teleportation fidelity enhancement under noise
 Readout-Induced Degradation of Transmon Lifetimes: Interplay of TLSs and Qubit Spectral Reshaping
 Generating hybrid entanglement between a discrete-variable optical qubit and multiple continuous-variable optical qubits in circuit QED
 Local inhomogeneity-mediated phase-dependent magnon amplification in YIG nanostructures
+Shock-Capturing Quantum Algorithm for the Linear Advection Operator
+Fast universal parametric spin control in an acoustically modulated quantum dot
+Improved Error Correction with Leakage Reduction Units Built into Qubit Measurement in a Superconducting Quantum Processor
+Amplification of bosonic interactions through squeezing in the presence of decoherence
+Collective excitation-mediated transport in nanoscale Josephson junctions that exhibit quantum confinement
