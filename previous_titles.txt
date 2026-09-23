@@ -5295,3 +5295,8 @@ Superconducting qubit based on altermagnets
 Frequency collisions in parametrically modulated superconducting circuits
 A Truncated Majorana
 Disorder-independent hole-spin manipulation by hopping
+Adaptive thresholding for scalable measurement-based qubit reset
+Effective Study of Superconducting Quantum Circuits
+Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery
+Dynamical decoupling pulses beyond the rotating-wave approximation for quantum sensing applications
+Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
