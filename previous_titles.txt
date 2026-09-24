@@ -5300,3 +5300,14 @@ Effective Study of Superconducting Quantum Circuits
 Error Suppression in Distributed Quantum Computing with Heterogeneous-Distance Lattice Surgery
 Dynamical decoupling pulses beyond the rotating-wave approximation for quantum sensing applications
 Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
+Bosonic Error Correction with Fluxonium
+The logical set of Gaussian states under the stabilizer subsystem decomposition
+Soft decoding for quantum LDPC codes with experimental validation
+Limits for molecular spectroscopy from quantum channel discrimination
+Near-Optimal Bell Nonlocality with GKP and Entangled Cat States
+The quantum lifetime of a future-referential feedback loop: certified index, architecture floor, and thermal bonus
+Optical Schr\"odinger cat states generated using cavity Rydberg quantum photonics
+Thermodynamic Uncertainty Relations in Chaotic Andreev Billiards
+Oxide-Nitride Heteroepitaxy for Low-Loss Dielectrics in Superconducting Quantum Circuits
+Towards Entanglement-Enhanced Atom Interferometry Using Bow-Tie Cavities
+Interference-induced three-beam quantum squeezing enhancement
