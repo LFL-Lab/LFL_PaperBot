@@ -5311,3 +5311,15 @@ Thermodynamic Uncertainty Relations in Chaotic Andreev Billiards
 Oxide-Nitride Heteroepitaxy for Low-Loss Dielectrics in Superconducting Quantum Circuits
 Towards Entanglement-Enhanced Atom Interferometry Using Bow-Tie Cavities
 Interference-induced three-beam quantum squeezing enhancement
+The non-equilibrium condensate-like state in multi-mode driven dissipative superconducting quantum circuit
+Classical Capacity and Entanglement Cost of the Amplitude Damping Channel
+A low-temperature entropy source for on-chip true random number generation: universal robustness beyond device quality
+Syndrome measurements enable deterministic fault-tolerant $T$ gates
+Design Principles for Ultra-High-Rate Quantum Codes
+Trading Circuit Depth for Pulse Sparsity in Chromatic Dynamical Decoupling
+Quantum heat transport and effects of quantum thermal devices in noncommuting coupled spins
+Universal Quantum Gate Compilation in $SU(2)_k$ Anyon Models via Multiple-Braiding
+A Bogoliubov-ratio framework for quantum-information diagnostics of time-dependent two-mode Boson System
+Experimental signatures of a $\stackrel{^}{Z}\stackrel{^}{X}$ beam-splitter interaction between Kerr-cat and transmon qubits
+Quantum Gates Built on a Spin Qubit and a Kitaev Parity Qubit
+Real-axis least-squares bath discretization for real-time transport in quantum-dot Josephson junctions
