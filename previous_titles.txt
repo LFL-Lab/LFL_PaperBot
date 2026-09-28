@@ -5323,3 +5323,13 @@ A Bogoliubov-ratio framework for quantum-information diagnostics of time-depende
 Experimental signatures of a $\stackrel{^}{Z}\stackrel{^}{X}$ beam-splitter interaction between Kerr-cat and transmon qubits
 Quantum Gates Built on a Spin Qubit and a Kitaev Parity Qubit
 Real-axis least-squares bath discretization for real-time transport in quantum-dot Josephson junctions
+Quantum advantage in learning single mode bosonic channels
+Optimal noisy sequential multiparameter quantum sensing
+Generation of Photonic Graph States with minimal number of quantum emitters
+Encryptability As a Coordinate Choice: Depth-One Homomorphic Federated Learning of Quantum Neural Networks
+Quantum Approximate Optimisation Algorithm for Protein Sidechain Packing
+Quantum environment afterglow from broadband excitation spectroscopy in superconducting qubits
+Oracle Distillation
+Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device
+Plasmonic Modes in hybrid Josephson Junction Arrays
+Andreev bound-state optoelectronics: absorption spectroscopy and microwave-to-optical transduction
