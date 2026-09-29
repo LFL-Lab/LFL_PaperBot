@@ -5333,3 +5333,4 @@ Oracle Distillation
 Cooper pair charge Kondo effect in a hybrid quantum dot - superconductor device
 Plasmonic Modes in hybrid Josephson Junction Arrays
 Andreev bound-state optoelectronics: absorption spectroscopy and microwave-to-optical transduction
+High-speed ${R}_{ZZ}$ gates in Kerr-cat qubits via fast-forward scaling
