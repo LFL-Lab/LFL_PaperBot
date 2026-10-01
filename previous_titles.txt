@@ -5344,3 +5344,26 @@ Universal quantum coding
 Experimental Realization of the Markov Chain Monte Carlo Algorithm on a Quantum Computer
 Projector Quantum Variational Ansatz
 Spectral Localization in Cavity-Mediated Entanglement Harvesting
+Algebraic Characterization of Biphoton Spatial-Mode Entanglement in Higher-Order Laguerre--Gaussian-Pumped SPDC
+Entangling Atomic Quantum Memories Using High-Order Modulated Coherent States
+Classical Algorithms for Function Computation in Gaussian Boson Sampling
+A Width-Matched Comparison of Hybrid Quantum-Classical Self-Supervised Learning for Fingerprint Recognition
+Constant-Overhead Injection into Quantum Codes
+Generation of large-amplitude squeezed cat states with near-unity efficiency
+Exact Maximum Likelihood Decoding beyond Treewidth via Rank-Decomposition Dynamic Programming
+Thermodynamics of Ahn--Doherty--Landahl Continuous Quantum Error Correction
+Quantum--classical break-even in electronic dynamics of macrocyclic molecules
+All-Microwave Multiqubit Gates
+Quantum Algorithms for Computational Fluid Dynamics
+Logical information localisation in stabiliser codes via single-qubit measurements
+Oscillator-Qubit Primitives for a Molecular Quantum Dynamics Simulator
+Purification brings advantages in sequential quantum channel discrimination
+A physical and universal model of bosonic computations with Solovay-Kitaev theorem
+Quantum-Limited Optical Vector Analysis
+Resonances control when multiterminal Josephson currents reduce to two-terminal couplings
+Quantum metrology via partial quantum error correction
+Universal magic state concentration
+Full-Trajectory Learning of Open Quantum Systems: Dynamical Emulation and the Limits of Hamiltonian Identifiability
+Fisher-Information Recovery in Superconducting-Qubit Magnetometry with Squeezed-Microwave Readout
+Realization of ZnSe-based Field-Effect Transistors operating at Cryogenic Temperatures as a Platform for Future Spin-Qubit Applications
+Josephson-like interlayer transport and absence of charge-density-wave signatures in the misfit-layer superconductor (PbS) 1.16 TaS 2
