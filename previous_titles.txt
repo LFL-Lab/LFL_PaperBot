@@ -5367,3 +5367,19 @@ Full-Trajectory Learning of Open Quantum Systems: Dynamical Emulation and the Li
 Fisher-Information Recovery in Superconducting-Qubit Magnetometry with Squeezed-Microwave Readout
 Realization of ZnSe-based Field-Effect Transistors operating at Cryogenic Temperatures as a Platform for Future Spin-Qubit Applications
 Josephson-like interlayer transport and absence of charge-density-wave signatures in the misfit-layer superconductor (PbS) 1.16 TaS 2
+Nonlinear collective-spin dynamics for quantum-enhanced sensing in solid-state platforms
+Quantum Circuit Pruning: From NISQ Architectures to Fault-Tolerant Operations
+Real-Time Adaptive Filtering and the Boxcar Limit in Superconducting Qubit Readout
+Remote state preparation of a single-spin state via hybrid spin-photon entanglement
+Exact $T$-counts of Toffoli layers from an isotropy bound
+Learned Parallel Bit-Flipping Sequential Belief Propagation Decoding of Quantum LDPC Codes
+Quantum synchronization in atom-cavity coupled systems
+Optimal initial states for quantum Fisher information in linearized cavity optomechanics
+QPI-DeepONet-MAC: A Scalable and Stable Hybrid Classical-Quantum Architecture for Physics-Informed Deep Operator Networks
+Hardware-Efficient Ground-State Preparation using Variational Imaginary-Time Majorana Evolution
+Adaptivity is all you need: Optimal stabilizer learning using just single-copy measurements
+Spiking neural networks for streaming qubit readout
+Quantum squeezing cannot beat the standard quantum limit
+Hierarchical Quantum Logical Processor with Amortized Long-Range Connectivity
+Symmetry-resolved parent Hamiltonians for entangled bosonic cat resources
+Parafermions in fractional Chern insulator-superconductor heterostructures: the role of spin polarization
