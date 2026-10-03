@@ -5383,3 +5383,4 @@ Quantum squeezing cannot beat the standard quantum limit
 Hierarchical Quantum Logical Processor with Amortized Long-Range Connectivity
 Symmetry-resolved parent Hamiltonians for entangled bosonic cat resources
 Parafermions in fractional Chern insulator-superconductor heterostructures: the role of spin polarization
+Multiphoton heralding generates large-amplitude squeezed Schrödinger cat states and parity-selective Fock superpositions from squeezed vacuum via an optical parametric amplifier
