@@ -5384,3 +5384,21 @@ Hierarchical Quantum Logical Processor with Amortized Long-Range Connectivity
 Symmetry-resolved parent Hamiltonians for entangled bosonic cat resources
 Parafermions in fractional Chern insulator-superconductor heterostructures: the role of spin polarization
 Multiphoton heralding generates large-amplitude squeezed Schrödinger cat states and parity-selective Fock superpositions from squeezed vacuum via an optical parametric amplifier
+Halving the cost of QROM again via dense encoding
+Investigating entanglement dynamics with dynamical decoupling together with initial qubit-reservoir correlations
+SMP: A General Hyperedge-Based Framework for Circuit-Level Quantum Error Correction
+Quantum Error-Corrected Memories Keep Proper Time
+Quasiparticle quantum simulation of materials with the Bethe-Salpeter equation
+Direct estimation of $g^{(2)}(0)$ from click statistics of a multiplexed detector
+Pulse-resolved post-generation phase control of squeezed light at 93 MHz with a bulk lithium-niobate modulator
+Breaking the chain: geometry-native state preparation with ASPIRE
+Fault-tolerant and fully addressable unitary logical gates via round-robin sparsification
+The exact LCU sampling overhead of collective diagonal unitaries: resonances and a continued-fraction dichotomy
+Super-Exponential Advantage of Squeezed Light in Phase Estimation under Discrete Phase Randomisation
+Low-Overhead Quantum Error Correction with Boundary-Connected Planar Modules
+Efficient Block Encoding of Structured Hamiltonians by Separating Where and What
+SpiderCSS: Scalable Fault-Tolerant CSS State Preparation
+Evolving Hybrid Quantum-Classical Architectures for Image Classification
+Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins
+WISER: Systematic Design-Space Exploration of Trapped Ions with Multiplexed Control
+Enhanced Dark Matter Quantum Sensing via Phase-Space Geometric Interferometry
