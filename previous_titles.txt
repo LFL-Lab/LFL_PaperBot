@@ -5402,3 +5402,17 @@ Evolving Hybrid Quantum-Classical Architectures for Image Classification
 Beyond Pure Dephasing: Quantum Error Correction in Single Molecules Requires Multiple Spins
 WISER: Systematic Design-Space Exploration of Trapped Ions with Multiplexed Control
 Enhanced Dark Matter Quantum Sensing via Phase-Space Geometric Interferometry
+Protecting bosonic codes from ancilla-induced errors with continuous-variable flags
+Pauli Flat Quantum States Mimicking Maximal Magic
+Open-System Probe Selection and Optimal Measurements for Dispersive Coupling Metrology
+Squeezed light from a semiconductor amplifier
+Broadband Telecom Entanglement from an All-Fiber Type-0 Sagnac Source
+A 3D-Printed GHz Microwave-Resonator Paul Trap for Electron Confinement and Millisecond Spin-Qubit Coherence
+Harnessing Post-selected von Neumann Measurements to Strengthen Entanglement and Quantum Signatures in Coherent States
+Sparse qubit operation in a 6$\times$6 quantum dot array
+Gaussian optical networks for one-dimensional anyons
+Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion
+Experimental signatures of a $\hat{Z}\hat{X}$ beam-splitter interaction between Kerr-cat and transmon qubits
+A Cross-Platform Analysis of Practical Quantum Error Correction Codes
+Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings
+Quasiparticle-resolved variational theory of Andreev spin qubits
