@@ -5416,3 +5416,17 @@ Experimental signatures of a $\hat{Z}\hat{X}$ beam-splitter interaction between 
 A Cross-Platform Analysis of Practical Quantum Error Correction Codes
 Measurement-free Preparation of Surface-Code States with Digital-Analog Counterdiabatic Drivings
 Quasiparticle-resolved variational theory of Andreev spin qubits
+Non-Orthogonal Amplitude Amplification for Hybrid CV-DV Quantum Processors
+Efficient detection of spectral cluster states
+Automated reduction of fault-tolerant circuits
+Kerr-Filtered Hybrid States from Double-Squeezed Tripartite Interactions
+Beyond Spectroscopic Strong Coupling: Operational Benchmarks for Cavity-to-Magnon Quantum Transfer
+Causal confusion in quantum systems: distinguishing direct cause and common cause
+Tradeoff between Wigner negativity and decoherence time for cubic Gaussian states
+Dynamically protected erasure qubit via low-frequency charge driving
+Standard estimators cannot represent fault-tolerant workloads at measured error rates: evaluated, evidence-based uncertainty for quantum resource estimation
+Efficient Estimation of Logical Sensitivities Through Fault-Counting
+A Cognitive-Aware QML-CRL Framework for Detecting Affinity and Romance-Investment Fraud
+Sub-shot-noise mid-infrared photothermal measurements using twin beams
+Two-qubit-gate operation in a high-connectivity transmon lattice utilizing a tunable coupling to a shared mode
+Coherence limits in interference-based $\mathrm{cos}\mathbf{(}2φ\mathbf{)}$ qubits
