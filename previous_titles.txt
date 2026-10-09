@@ -5430,3 +5430,19 @@ A Cognitive-Aware QML-CRL Framework for Detecting Affinity and Romance-Investmen
 Sub-shot-noise mid-infrared photothermal measurements using twin beams
 Two-qubit-gate operation in a high-connectivity transmon lattice utilizing a tunable coupling to a shared mode
 Coherence limits in interference-based $\mathrm{cos}\mathbf{(}2φ\mathbf{)}$ qubits
+Quantum non-Markovian response spectra
+Quantum jumps of sound
+Nonlinear Feedback in Josephson Circuit Optimization: Application to a Kerr-Reversal JTWPA
+Single-shot magic state factories for quantum LDPC codes
+Geometry-optimized hyperbolic codes for modular fault-tolerant quantum architectures
+Sub-MHz SWAP spectroscopy of two-level systems in superconducting qubits
+High-Rate Concatenated Quantum Error-Correcting Codes for Qudits
+Remote nonreciprocal magnon magnon entanglement via the Barnett effect with coherent feedback
+Error-Corrected Memory and Logic on a Heavy-Hex Superconducting-Qubit Processor
+A quasiparticle-protected superconducting qubit
+Quantum Co-Design of Inhomogeneous Many-Body Neutrino Fast Flavor Transformation
+Measure Now, Mitigate Later: Virtual Error Cancellation for Logical Quantum Circuits
+Tunable Ultrastrong Magnon-Magnon Coupling and Squeezed States in a Triaxial Van der Waals Antiferromagnet
+Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling
+Magnetic-field-free parity-protected qubit based on a narrow altermagnet Josephson junction
+Passive detection of time-reversal-symmetry breaking using a qubit-cross-resonator circuit
