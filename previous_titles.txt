@@ -5446,3 +5446,4 @@ Tunable Ultrastrong Magnon-Magnon Coupling and Squeezed States in a Triaxial Van
 Parallelizing the Variational Quantum Eigensolver: From JIT Compilation to Multi-GPU Scaling
 Magnetic-field-free parity-protected qubit based on a narrow altermagnet Josephson junction
 Passive detection of time-reversal-symmetry breaking using a qubit-cross-resonator circuit
+Breakdown of the Kerr-Cat Qubit Tunneling Time Induced by Auxiliary Circuit Modes
