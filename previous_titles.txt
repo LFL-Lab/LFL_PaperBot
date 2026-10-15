@@ -5456,3 +5456,12 @@ Purcell-Engineered Hybrid Coupler for Leakage-Suppressed Robust CZ Gates
 Breaking Memory Bottlenecks in Quantum Control Systems for More Precise Experiments and Higher Throughput Computing
 Flux-tunable transmon with an Al/AlO  x  /4Hb-TaS 2  Josephson junction
 Josephson parametric amplifier with third-order resonator impedance matching
+Logical gate set tomography
+A modular quantum computer based on Cornucopia codes
+Quantum-classical algorithm interpolation for spatial search
+Retrieving Metrological Information from Noisy Squeezed Spin States via Bayesian Optimization
+Quantum-enhanced phase interrogation of a fiber-optic strain sensor
+Logical CCZ state cultivation
+Quantum-enhanced Search for Galactic Dark Photons Using Cat-State Cavities
+Nonadiabatic dynamics under slow parametric modulation in nonlinear graphene resonators
+Transport regimes in tunnel ferromagnetic Josephson junctions
