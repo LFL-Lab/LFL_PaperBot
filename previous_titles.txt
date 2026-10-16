@@ -5465,3 +5465,16 @@ Logical CCZ state cultivation
 Quantum-enhanced Search for Galactic Dark Photons Using Cat-State Cavities
 Nonadiabatic dynamics under slow parametric modulation in nonlinear graphene resonators
 Transport regimes in tunnel ferromagnetic Josephson junctions
+Mechanical trisqueezing in circuit quantum acoustodynamics with SNAIL devices
+Alternating Squeezing and Photon Subtraction for Optical Cat-State Generation
+Syndrome-Resolved Decoding of Qubit Readout Errors
+Stitched surface codes: planar concatenation through GHZ corridors
+Accurate gap control of 3D-integrated superconducting quantum circuits using asymmetric indium architecture and multi-angle flip-chip bonding
+Superconducting circuits host two-level systems with lifetimes exceeding one second
+ZZ-Free bSWAP Gates under Strong Driving in Far-Detuned Fixed-Frequency Transmons
+Patchwork: automated lattice surgery and space-time partitioning for real-time decoding
+Energetics of Fault-Tolerant Spin-Qubit Quantum Computation
+SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Programs
+Clock-transition-enabled long electron spin coherence of telecom emitters in CeO$_2$
+Coherent-State Kernels for Composite Quantum Operations
+Pumping of spin supercurrent and quasiparticle spin current in unitary triplet superconductors
