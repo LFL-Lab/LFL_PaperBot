@@ -5478,3 +5478,4 @@ SynDebug: A Framework to Debug Logic Bugs in Fault-Tolerant Quantum Computing Pr
 Clock-transition-enabled long electron spin coherence of telecom emitters in CeO$_2$
 Coherent-State Kernels for Composite Quantum Operations
 Pumping of spin supercurrent and quasiparticle spin current in unitary triplet superconductors
+Full-band reciprocal parametric amplification in coupled oscillator arrays
