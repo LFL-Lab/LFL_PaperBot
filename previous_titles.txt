@@ -5489,3 +5489,4 @@ Path-Degenerate Quantum Interferometry for Loss Resilience in Gravitational-Wave
 Photon-stimulated decay of $\chi$-matched ancillas causes unheralded bit flips in bosonic codes
 Scalable Tomography of Coherent Noise via Stabilizer-Code Polarization
 Parasitic Two-Level Systems in Merged-Element Transmon Qubits
+Superconducting-qubit decoherence correlated with detected radiation events
