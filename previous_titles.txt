@@ -5490,3 +5490,20 @@ Photon-stimulated decay of $\chi$-matched ancillas causes unheralded bit flips i
 Scalable Tomography of Coherent Noise via Stabilizer-Code Polarization
 Parasitic Two-Level Systems in Merged-Element Transmon Qubits
 Superconducting-qubit decoherence correlated with detected radiation events
+Diagonal, Switching, and Locally Optimal Unraveling for efficient quantum trajectories in metastable open quantum systems
+Suppressing microwave crosstalk in superconducting quantum processors by designing parasitic drive capacitances
+Finite-temperature Quantum Quasinormal Mode Theory for Spatiotemporally-resolved Dissipative Cavity Quantum Magnonics
+A Unified Protocol for Arbitrary Z Rotations of a Class of Bosonic cQED Qubits
+Correlation-sensitive magic-state distillation from spin-squeezed neutral atoms
+Homodyne Unravelling and Parameter Estimation in Squeezed Thermal Baths
+Adaptive Information Mining: Approaching the Quantum Limit of Super-Resolution Imaging
+On-Chip Nonreciprocal Josephson Frequency Multiplier for Multiplexed Control of Superconducting Qubits
+Emergent Quantum Synchronization Without Symmetry Breaking
+Universal Quantum Gate Set for Multi-Mode Schr\"odinger Cat States Stabilized by Non-Local Dissipation Engineering
+A Control Line Multiplexing Framework for Scalable Quantum Computing
+Quantum computation of energy level degeneracy and thermodynamical properties of spin systems
+Quantum Sensing Using Geometrical Phase in Qubit-Oscillator Systems
+Hybrid analog-digital simulation of the Abelian Higgs model with transmon qutrits
+Qubit-centric transformer for surface code decoding
+Squeezing enhancement through resonant interference in multiring resonators
+Tunable Goos-Hänchen shift assisted by parametric amplification in a cavity magnomechanical system
