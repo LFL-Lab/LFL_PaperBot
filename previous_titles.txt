@@ -5507,3 +5507,4 @@ Hybrid analog-digital simulation of the Abelian Higgs model with transmon qutrit
 Qubit-centric transformer for surface code decoding
 Squeezing enhancement through resonant interference in multiring resonators
 Tunable Goos-Hänchen shift assisted by parametric amplification in a cavity magnomechanical system
+Photon pairs, squeezed light, and the quantum wave-mixing effect in a cascaded qubit system
