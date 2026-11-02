@@ -5508,3 +5508,18 @@ Qubit-centric transformer for surface code decoding
 Squeezing enhancement through resonant interference in multiring resonators
 Tunable Goos-Hänchen shift assisted by parametric amplification in a cavity magnomechanical system
 Photon pairs, squeezed light, and the quantum wave-mixing effect in a cascaded qubit system
+Finite-Element Electromagnetic Analysis and Evaluation of Antenna Performance Metrics Using a Quantum Linear System Solver
+Vacuum amplification across a programmable bosonic Bogoliubov stability boundary in a trapped-ion chain
+Biorthogonal universal quantum control
+Quantum Advantage in Beam-Displacement Estimation for Inter-Satellite Quantum-Secure Time Transfer
+Parametric Enhancement of an Optical Spring in a Dark Signal-Recycling Cavity
+Time-Domain Multiplexing for Resource-Efficient Heralded GKP State Preparation
+FaultScope: A software package for fast error attribution in quantum error correction
+Symmetries and model reduction in a $\cos 2\varphi$ transmon qubit
+Hybrid Quantum Algorithms for Trade Surveillance Analytics
+Control-Noise Trade-offs in Industrially Integrated ${}^{28}\mathrm{Si}/\mathrm{SiGe}$ Spin-1/2 Qubits
+Topologically Protected Edge States in a Single Flux Qubit
+Noise redistribution by stabilizer codes: an organizing view of concatenated three-qubit codes
+Grow, Compress, and Perturb: A Hybrid Quantum-Classical Pathway to Scalable Quantum Chemistry on Quantum Computers
+Resource-efficient quantum noise spectroscopy with sequential weak measurements
+Resonant suppression of the $\pi$-type Josephson component in a Kitaev-ladder junction
