@@ -5523,3 +5523,7 @@ Noise redistribution by stabilizer codes: an organizing view of concatenated thr
 Grow, Compress, and Perturb: A Hybrid Quantum-Classical Pathway to Scalable Quantum Chemistry on Quantum Computers
 Resource-efficient quantum noise spectroscopy with sequential weak measurements
 Resonant suppression of the $\pi$-type Josephson component in a Kitaev-ladder junction
+Enhanced weak-field sensing using detuned motional squeezing
+Two-photon coupling via Josephson element. II. Interaction dressing, cross-Kerr coupling, and limits of the low-energy bosonic model
+Parasitic two-level systems in merged-element transmon qubits
+Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise
