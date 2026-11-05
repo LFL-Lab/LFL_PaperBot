@@ -5528,3 +5528,14 @@ Two-photon coupling via Josephson element. II. Interaction dressing, cross-Kerr 
 Parasitic two-level systems in merged-element transmon qubits
 Fault-tolerant quantum error correction for constant-excitation stabilizer codes under coherent noise
 Quantum steering and entanglement in a tritter: Hierarchy under loss
+Quantum error correcting codes from quiver moduli: Grassmannians, cyclic monodromy, and argyle collision divisors
+Quantum theory of damping: A new approach to temporal evolution of density operator without the rotating wave approximation
+Quantum resource trade-offs of mixed sparse single and double factorization for qubitization-based phase estimation
+Collectively pumped superradiant laser with coherence scaling beyond the standard quantum limit
+Resetting a Superconducting Qubit with a Compact Colder Resistive Dissipator below the Qubit Frequency
+Bridging Pulse and Circuit Levels: A Geometric Framework for Deterministic Error Suppression
+Discovering correlated error mechanisms: data-driven augmentation of detector error models improving decoding
+Near-Quantum-Limited Readout for the Princeton Axion Search using a sub-GHz Kinetic Inductance Traveling Wave Parametric Amplifier
+Superconducting Qubits as Quantum Targets for Direct Particle Scattering
+Analytic Solutions To Fully Quantized Parametric Amplification
+Tunneling spectroscopy of topological insulator Josephson junctions
