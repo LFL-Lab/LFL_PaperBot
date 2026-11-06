@@ -5539,3 +5539,16 @@ Near-Quantum-Limited Readout for the Princeton Axion Search using a sub-GHz Kine
 Superconducting Qubits as Quantum Targets for Direct Particle Scattering
 Analytic Solutions To Fully Quantized Parametric Amplification
 Tunneling spectroscopy of topological insulator Josephson junctions
+Quantum Noise Engineering in Advanced LIGO
+Weak Values in Postselected Quantum Trajectories
+Efficient preparation of spin-squeezed states with Grover's algorithm
+Autler-townes energy-level engineering for high-quality all-microwave qubit gate
+Semi-Analytical Geometric Synthesis of Robust Quantum Controls
+Machine learning quantum data to accelerate quantum Monte Carlo
+QDiff: Differential Testing of Quantum Software Stacks
+Persistent level-resolved transmon population after dispersive readout, and the limits of its open-system description
+Primitive Quantum Gates for an $SU(3)$ Discrete Subgroup: $\Sigma(216\times3)$
+Exact Gaussian Entanglement Dynamics and Initial-State Control in Coupled Parametric Oscillators
+Leakage suppression for high-fidelity exchange gates and quantum simulation in superconducting circuits
+Resolving Nonlocal State Reduction via Induced Coherence in Frequency-Comb Biphoton Sources
+Microscopic Origin and Josephson Signatures of $d$-Wave Superconductivity in Monolayer FeSe
