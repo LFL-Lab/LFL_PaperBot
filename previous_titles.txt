@@ -5552,3 +5552,10 @@ Exact Gaussian Entanglement Dynamics and Initial-State Control in Coupled Parame
 Leakage suppression for high-fidelity exchange gates and quantum simulation in superconducting circuits
 Resolving Nonlocal State Reduction via Induced Coherence in Frequency-Comb Biphoton Sources
 Microscopic Origin and Josephson Signatures of $d$-Wave Superconductivity in Monolayer FeSe
+Thermodynamics of Speed and Efficiency with Quantum Feedback
+Kinetic Cluster Embedding for Qubit Decoherence in Dissipative Spin Baths
+Parametric $\mathrm{CZ}$ Gates in a Tunable Tripod Architecture with Fixed-Frequency Superconducting Qubits
+Differentiable Digital Twins for Optimization, Calibration, and Characterization of Neutral-Atom- and Ion-based Quantum Computers
+Novikov-Magnus Master Equation for Driven Quantum Systems under Classical Correlated Noise
+Trajectory-Dependent Decoherence and Leakage During Shuttling of Multi-Spin Qubits
+Multimode squeezed light generation and characterization
