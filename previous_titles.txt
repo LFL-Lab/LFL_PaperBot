@@ -5559,3 +5559,16 @@ Differentiable Digital Twins for Optimization, Calibration, and Characterization
 Novikov-Magnus Master Equation for Driven Quantum Systems under Classical Correlated Noise
 Trajectory-Dependent Decoherence and Leakage During Shuttling of Multi-Spin Qubits
 Multimode squeezed light generation and characterization
+Field-induced phase-matching in Josephson traveling wave parametric amplifiers
+Long-range correlated quantum errors from diffuson-correlated dephasing
+How wide must an eavesdropper be? Leakage of a toric-code logical bit to a strip and the Nishimori point
+A Compiler for Fault Tolerant Quantum Computing
+Coherent Optical Readout of Neutral-Atom Qubits via Homodyne Detection of Resonant Fluorescence
+Adaptive Policy-Guided Error Mitigation (APGEM): A Unified Learning-Based Framework for Noise Resilience in Quantum Machine Learning
+High-Speed Control of a Fluxonium Qubit via Picosecond Pulses from Josephson Digital Circuits
+Implementing rapid reset of superconducting qubits with on-chip dissipation
+Simulating closed- and open-system dynamics of Tavis--Cummings lattices on fault-tolerant quantum computers
+Parametric Proof-Carrying Compilation for Quantum Error-Correction
+Asymmetric quantum error correction efficiently tackles application-specific noise effects
+QAdapt: Noise-Adaptive Neural Pre-Decoding for Surface-Code Quantum Error Correction
+Practical limits to single-mode vacuum squeezing with a SNAIL parametric amplifier
