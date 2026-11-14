@@ -5572,3 +5572,4 @@ Parametric Proof-Carrying Compilation for Quantum Error-Correction
 Asymmetric quantum error correction efficiently tackles application-specific noise effects
 QAdapt: Noise-Adaptive Neural Pre-Decoding for Surface-Code Quantum Error Correction
 Practical limits to single-mode vacuum squeezing with a SNAIL parametric amplifier
+Synthesis of fault-tolerant state preparation circuits using Steane-type error detection
