@@ -5573,3 +5573,9 @@ Asymmetric quantum error correction efficiently tackles application-specific noi
 QAdapt: Noise-Adaptive Neural Pre-Decoding for Surface-Code Quantum Error Correction
 Practical limits to single-mode vacuum squeezing with a SNAIL parametric amplifier
 Synthesis of fault-tolerant state preparation circuits using Steane-type error detection
+DRAG-Inspired Single Flux Quantum Control of Superconducting Qubits
+Max-Cut QAOA on Non-Hardware-Native Graphs via MinLA Surrogates and Configuration Recovery
+Nitride crystalline barrier epitaxial SIS Josephson junctions by MBE
+Extension of coherence time beyond breakeven point using only drives and dissipation
+Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction
+Non-ergodic Area Scaling of Andreev Transport in Al/AlO$_x$/Al Tunnel Junctions
