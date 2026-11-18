@@ -5579,3 +5579,13 @@ Nitride crystalline barrier epitaxial SIS Josephson junctions by MBE
 Extension of coherence time beyond breakeven point using only drives and dissipation
 Extending qubit lifetime beyond break-even and enhancing quantum sensing by autonomous quantum error correction
 Non-ergodic Area Scaling of Andreev Transport in Al/AlO$_x$/Al Tunnel Junctions
+Transient Synchronization and Entanglement through Shared Dissipation in Circuit QED
+Nonlinear function regression using quantum ensemble learning
+Anti-aging Squeezed Quantum Battery
+Measurement-Conditioned Bloch-Sphere State Steering with a Continuous-Variable Pointer
+MASQ: Measurement-Adaptive Sampling for Near-Clifford Quantum Error Correction Circuits
+Entanglement preservation and Clauser-Horne nonlocality in electromagnetically induced transparency quantum memories
+Coherent and dissipative energy transfer in driven open quantum systems: a driven quantum master equation approach
+Nonequilibrium energy transport and fluctuations in two-photon-driven nonlinear quantum optical systems
+Index-theoretic route to the subgap Andreev bands and topological response in Josephson junctions
+Universal quantum gate set for multimode Schrödinger cat states stabilized by nonlocal dissipation engineering
