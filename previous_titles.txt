@@ -5589,3 +5589,18 @@ Coherent and dissipative energy transfer in driven open quantum systems: a drive
 Nonequilibrium energy transport and fluctuations in two-photon-driven nonlinear quantum optical systems
 Index-theoretic route to the subgap Andreev bands and topological response in Josephson junctions
 Universal quantum gate set for multimode Schrödinger cat states stabilized by nonlocal dissipation engineering
+Qubit-qumode simulation of molecular torsion in photoisomerization
+Fault-tolerant quantum processor with minimal external control
+General Noise Channels and Mid-Circuit Measurements for Pre-Trajectory Sampling with Batched Execution
+Accelerating Quantum Error Correction Simulations under Coherent Noise with Compiled Clifford-Augmented Matrix Product States
+QuFrame: Pauli Frame Tracking for Fault-Tolerant Quantum Control
+Doppler effect on dual-downlink time-bin quantum key distribution and a proposed ephemeris-assisted witness-field correction
+Bound entanglement as a trigonometric moment problem
+Gutzwiller Quantum-Classical Embedding for Dynamics Simulations of Correlated Electron Systems
+Squeezed Cooling and Lasing with Cold Atoms in Cavity-QED
+Transversal surface-code game with reconfigurable qubits
+Analog entanglement distillation through Hamiltonian scrambling
+Efficient logical operations in quantum LDPC codes using simple resource states
+Gate tunable spin splitting for Andreev spin qubits in Ge quantum well heterostructures
+Cavity-Mediated Cross-Cross-Resonance Gate
+Detecting basis-dependent hardware errors through quantum steering
