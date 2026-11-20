@@ -5604,3 +5604,16 @@ Efficient logical operations in quantum LDPC codes using simple resource states
 Gate tunable spin splitting for Andreev spin qubits in Ge quantum well heterostructures
 Cavity-Mediated Cross-Cross-Resonance Gate
 Detecting basis-dependent hardware errors through quantum steering
+Modeling couplings and quench dynamics of hundred-qubit quantum processors
+A measurement-free quantum error correction protocol for superconducting cavities
+Tunable source of entangled microwaves by nonlinear scattering of magnons
+Generation of coherent-state Schr\"{o}dinger cat states in a two-photon Jaynes-Cummings model implemented with Josephson junctions
+Theory of Particle Scattering on Superconducting Qubits: From Single Devices to Quantum Arrays
+Enhancing Kerr-Cat Qubit Coherence with Engineered Dissipation
+RELIQ: Optimizing Parallel Execution of Commuting Pauli Product Rotations
+Active Learning for Calibrating Entangling Gates via Surrogate-Based Optimization
+QuasiStim: Scalable Accurate Non-Pauli Noise Simulation for Fault-Tolerant Quantum Circuits
+Beyond Robustness of Magic: Quantifying Quantum State Convertibility
+Efficient description of parametric amplification of quantum pulses
+High-speed control of a fluxonium qubit via picosecond pulses from Josephson digital circuits
+Hybridized-mode parametric amplifier in kinetic-inductance circuits
