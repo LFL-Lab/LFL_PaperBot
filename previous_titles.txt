@@ -5617,3 +5617,10 @@ Beyond Robustness of Magic: Quantifying Quantum State Convertibility
 Efficient description of parametric amplification of quantum pulses
 High-speed control of a fluxonium qubit via picosecond pulses from Josephson digital circuits
 Hybridized-mode parametric amplifier in kinetic-inductance circuits
+Stinespring's Dilation, Universal-NOT, and Limitations of Quantum Uncoupled Learning
+Logical qubits with geometrically enhanced energetic and parametric protection
+RF-free control of nuclear spins with color centers in silicon carbide
+Thermal Quantum Correlations in Coupled Andreev Spin Qubits with Tunable Superconducting Phase and Spin Orbit Interaction
+A State-of-the-art Squeezed-Light Source for Hybrid Quantum Photonics: Current Performance and Remaining Challenges
+Semiclassical dynamics of higher-order squeezing: self-adjoint extensions and coherent returns
+Time-Switching Energy-Harvesting Quantum Relay-Assisted FSO Communication with Displaced Squeezed Signaling
