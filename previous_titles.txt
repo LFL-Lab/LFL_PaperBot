@@ -5624,3 +5624,6 @@ Thermal Quantum Correlations in Coupled Andreev Spin Qubits with Tunable Superco
 A State-of-the-art Squeezed-Light Source for Hybrid Quantum Photonics: Current Performance and Remaining Challenges
 Semiclassical dynamics of higher-order squeezing: self-adjoint extensions and coherent returns
 Time-Switching Energy-Harvesting Quantum Relay-Assisted FSO Communication with Displaced Squeezed Signaling
+Syndrome Resampling Enhances Quantum Error Correction Thresholds
+High-fidelity conditional-squeezing gate in superconducting circuits via refocusing
+Suppressing cavity frequency noise using a Kerr nonlinearity
